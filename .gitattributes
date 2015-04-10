@@ -1,0 +1,2 @@
+pofiles/* filter=bigfile -crlf
+*.pickle filter=bigfile -crlf
