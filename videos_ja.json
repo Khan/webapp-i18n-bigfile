@@ -1,6 +1,127 @@
 [
   {
     "description": "", 
+    "title": "\u6570\u5b66\u3000\u6570\u5217\u3068\u7d1a\u6570", 
+    "videos": [
+      {
+        "description": "\u30ab\u30fc\u30f3\u30a2\u30ab\u30c7\u30df\u30fc\u306e\u82f1\u8a9e\u306e\u5143\u30d3\u30c7\u30aa\u306f\nhttps://www.khanacademy.org/math/precalculus/seq_induction/geometric-sequence-series/v/sigma-notation-sum\n\u7ffb\u8a33\u3000by\u3000Global Education for Japan", 
+        "title": "\u7dcf\u548c\u3092\u8868\u3059\u30b7\u30b0\u30de\u8a18\u53f7", 
+        "youtube_id": "WbesLSaUWVY"
+      }, 
+      {
+        "description": "\u30ab\u30fc\u30f3\u30a2\u30ab\u30c7\u30df\u30fc\u306e\u82f1\u8a9e\u306e\u5143\u30d3\u30c7\u30aa\u306f\nhttps://www.khanacademy.org/math/precalculus/seq_induction/seq_and_series/v/series-as-sum-of-sequence\n\u7ffb\u8a33\u3000by\u3000Global Education for Japan", 
+        "title": "\u6570\u5217\u306e\u7dcf\u548c\u3068\u3057\u3066\u306e\u7d1a\u6570", 
+        "youtube_id": "UfiD5DALpBg"
+      }, 
+      {
+        "description": "\u30ab\u30fc\u30f3\u30a2\u30ab\u30c7\u30df\u30fc\u306e\u82f1\u8a9e\u306e\u5143\u30d3\u30c7\u30aa\u306f\nhttps://www.khanacademy.org/math/integral-calculus/sequences_series_approx_calc/calculus-series/v/writing-series-sigma-notation\n\u7ffb\u8a33\u3000by\u3000Global Education for Japan", 
+        "title": "\u30b7\u30b0\u30de\u8a18\u53f7\u3092\u4f7f\u3063\u305f\u7d1a\u6570\u306e\u8868\u8a18", 
+        "youtube_id": "k2VtOc86Te0"
+      }, 
+      {
+        "description": "\u30ab\u30fc\u30f3\u30a2\u30ab\u30c7\u30df\u30fc\u306e\u82f1\u8a9e\u306e\u5143\u30d3\u30c7\u30aa\u306f\nhttps://www.khanacademy.org/math/integral-calculus/sequences_series_approx_calc/calculus-series/v/explicitly-defining-series\n\u7ffb\u8a33\u3000by\u3000Global Education for Japan", 
+        "title": "\u7d1a\u6570\u306e\u660e\u793a\u7684\u306a\u5b9a\u7fa9", 
+        "youtube_id": "NOoD1ozhWVU"
+      }, 
+      {
+        "description": "\u30ab\u30fc\u30f3\u30a2\u30ab\u30c7\u30df\u30fc\u306e\u82f1\u8a9e\u306e\u5143\u30d3\u30c7\u30aa\u306f\nhttps://www.khanacademy.org/math/integral-calculus/sequences_series_approx_calc/calculus-series/v/formula-for-arithmetic-series\n\u7ffb\u8a33\u3000by\u3000Global Education for Japan", 
+        "title": "\u7b49\u5dee\u7d1a\u6570\u306e\u516c\u5f0f", 
+        "youtube_id": "3StY-xiTUIU"
+      }, 
+      {
+        "description": "\u30ab\u30fc\u30f3\u30a2\u30ab\u30c7\u30df\u30fc\u306e\u82f1\u8a9e\u306e\u5143\u30d3\u30c7\u30aa\u306f\nhttps://www.khanacademy.org/math/integral-calculus/sequences_series_approx_calc/calculus-series/v/sum-of-n-squares-1\n\u7ffb\u8a33\u3000by\u3000Global Education for Japan", 
+        "title": "n\u306e2\u4e57\u306e\u7dcf\u548c\u3092\u6c42\u3081\u308b\u3000\u305d\u306e1", 
+        "youtube_id": "3EzCNfMVuhc"
+      }, 
+      {
+        "description": "\u30ab\u30fc\u30f3\u30a2\u30ab\u30c7\u30df\u30fc\u306e\u82f1\u8a9e\u306e\u5143\u30d3\u30c7\u30aa\u306f\nhttps://www.khanacademy.org/math/integral-calculus/sequences_series_approx_calc/calculus-series/v/sum-n-squares-2\n\u7ffb\u8a33\u3000by\u3000Global Education for Japan", 
+        "title": "n\u306e2\u4e57\u306e\u7dcf\u548c\u3092\u6c42\u3081\u308b\u3000\u305d\u306e2", 
+        "youtube_id": "b9o8MJfouU0"
+      }, 
+      {
+        "description": "\u30ab\u30fc\u30f3\u30a2\u30ab\u30c7\u30df\u30fc\u306e\u82f1\u8a9e\u306e\u5143\u30d3\u30c7\u30aa\u306f\nhttps://www.khanacademy.org/math/integral-calculus/sequences_series_approx_calc/calculus-series/v/alternate-sum-of-n-squares-formula\n\u7ffb\u8a33\u3000by\u3000Global Education for Japan", 
+        "title": "n\u306e2\u4e57\u306e\u7dcf\u548c\u3092\u6c42\u3081\u308b\u3082\u3046\u4e00\u3064\u306e\u516c\u5f0f", 
+        "youtube_id": "ZtzRRoy9Ewk"
+      }, 
+      {
+        "description": "\u30ab\u30fc\u30f3\u30a2\u30ab\u30c7\u30df\u30fc\u306e\u82f1\u8a9e\u306e\u5143\u30d3\u30c7\u30aa\u306f\nhttps://www.khanacademy.org/math/integral-calculus/sequences_series_approx_calc/calculus-series/v/properties-to-find-sum\n\u7ffb\u8a33\u3000by Global Education for Japan", 
+        "title": "\u7d1a\u6570\u306e\u6027\u8cea\u3092\u5229\u7528\u3057\u3066\u7dcf\u548c\u3092\u6c42\u3081\u308b", 
+        "youtube_id": "07R6V9qnQ48"
+      }, 
+      {
+        "description": "\u30ab\u30fc\u30f3\u30a2\u30ab\u30c7\u30df\u30fc\u306e\u82f1\u8a9e\u306e\u5143\u30d3\u30c7\u30aa\u306f\nhttps://www.khanacademy.org/math/integral-calculus/sequences_series_approx_calc/calculus-series/v/telescoping-series\n\u7ffb\u8a33\u3000by\u3000Global Education for Japan", 
+        "title": "\u671b\u9060\u93e1\u7d1a\u6570\u306e\u7dcf\u548c\u3092\u6c42\u3081\u308b\u305f\u3081\u306e\u90e8\u5206\u5206\u6570\u5206\u89e3", 
+        "youtube_id": "ym5rm03pXXE"
+      }, 
+      {
+        "description": "\u30ab\u30fc\u30f3\u30a2\u30ab\u30c7\u30df\u30fc\u306e\u82f1\u8a9e\u306e\u5143\u30d3\u30c7\u30aa\u306f\nhttps://www.khanacademy.org/math/integral-calculus/sequences_series_approx_calc/calculus-series/v/divergence-telescoping-series\n\u7ffb\u8a33\u3000by\u3000Global Education for Japan", 
+        "title": "\u671b\u9060\u93e1\u7d1a\u6570\u306e\u767a\u6563", 
+        "youtube_id": "IhWlBKRLGDo"
+      }, 
+      {
+        "description": "\u30ab\u30fc\u30f3\u30a2\u30ab\u30c7\u30df\u30fc\u306e\u82f1\u8a9e\u306e\u5143\u30d3\u30c7\u30aa\u306f\nhttps://www.khanacademy.org/math/integral-calculus/sequences_series_approx_calc/seq_series_review/v/geometric-series-introduction\n\u7ffb\u8a33\u3000by Global Education for Japan", 
+        "title": "\u7b49\u6bd4\u7d1a\u6570", 
+        "youtube_id": "uNP_2NB19y4"
+      }, 
+      {
+        "description": "\u30ab\u30fc\u30f3\u30a2\u30ab\u30c7\u30df\u30fc\u306e\u82f1\u8a9e\u306e\u5143\u30d3\u30c7\u30aa\u306f\nhttps://www.khanacademy.org/math/precalculus/seq_induction/infinite-geometric-series/v/infinite-geometric-series\n\u7ffb\u8a33\u3000by\u3000Global Education for Japan", 
+        "title": "\u7121\u9650\u7b49\u6bd4\u7d1a\u6570\u306e\u7dcf\u548c", 
+        "youtube_id": "f4Tb2WTONPw"
+      }, 
+      {
+        "description": "\u30ab\u30fc\u30f3\u30a2\u30ab\u30c7\u30df\u30fc\u306e\u82f1\u8a9e\u306e\u5143\u30d3\u30c7\u30aa\u306f\nhttps://www.khanacademy.org/math/precalculus/seq_induction/geometric-sequence-series/v/geometric-series\n\u7ffb\u8a33\u3000by\u3000Global Education for Japan", 
+        "title": "\u6709\u9650\u7b49\u6bd4\u6570\u5217\u306e\u516c\u5f0f", 
+        "youtube_id": "3UQNPG3toj4"
+      }, 
+      {
+        "description": "\u30ab\u30fc\u30f3\u30a2\u30ab\u30c7\u30df\u30fc\u306e\u82f1\u8a9e\u306e\u5143\u30d3\u30c7\u30aa\u306f\nhttps://www.khanacademy.org/math/precalculus/seq_induction/infinite-geometric-series/v/deriving-geometric-series-sum-formula\n\u7ffb\u8a33\u3000by\u3000Global Education for Japan", 
+        "title": "\u7121\u9650\u7b49\u6bd4\u7d1a\u6570\u306e\u7dcf\u548c\u306e\u5225\u306e\u5c0e\u51fa\u65b9\u6cd5", 
+        "youtube_id": "lL_xLLtEwDI"
+      }, 
+      {
+        "description": "\u30ab\u30fc\u30f3\u30a2\u30ab\u30c7\u30df\u30fc\u306e\u82f1\u8a9e\u306e\u5143\u30d3\u30c7\u30aa\u306f\nhttps://www.khanacademy.org/math/precalculus/seq_induction/infinite-geometric-series/v/geometric-series-convergence-divergence\n\u7ffb\u8a33\u3000by\u3000Global Education for Japan", 
+        "title": "\u7b49\u6bd4\u7d1a\u6570\u306e\u53ce\u675f\u3068\u767a\u6563\u306e\u4f8b", 
+        "youtube_id": "UFSCv2EjLL4"
+      }, 
+      {
+        "description": "\u30ab\u30fc\u30f3\u30a2\u30ab\u30c7\u30df\u30fc\u306e\u82f1\u8a9e\u306e\u5143\u30d3\u30c7\u30aa\u306f\nhttps://www.khanacademy.org/math/precalculus/seq_induction/infinite-geometric-series/v/repeating-decimal-geometric-series\n\u7ffb\u8a33\u3000by\u3000Global Education for Japan", 
+        "title": "\u7121\u9650\u7b49\u6bd4\u7d1a\u6570\u3068\u3057\u3066\u306e\u5faa\u74b0\u5c0f\u6570", 
+        "youtube_id": "WXamJz3uyuE"
+      }, 
+      {
+        "description": "\u30ab\u30fc\u30f3\u30a2\u30ab\u30c7\u30df\u30fc\u306e\u82f1\u8a9e\u306e\u5143\u30d3\u30c7\u30aa\u306f\nhttps://www.khanacademy.org/math/precalculus/seq_induction/infinite-geometric-series/v/bouncing-ball-distance\n\u7ffb\u8a33\u3000by\u3000Global Education for Japan", 
+        "title": "\u30d0\u30a6\u30f3\u30c9\u3059\u308b\u30dc\u30fc\u30eb\u306e\u5782\u76f4\u8ddd\u96e2", 
+        "youtube_id": "2SjdmvjyJCM"
+      }, 
+      {
+        "description": "\u30ab\u30fc\u30f3\u30a2\u30ab\u30c7\u30df\u30fc\u306e\u82f1\u8a9e\u306e\u5143\u30d3\u30c7\u30aa\u306f\nhttps://www.khanacademy.org/math/integral-calculus/sequences_series_approx_calc/power-series-algebra/v/power-series-radius-interval-convergence\n\u7ffb\u8a33\u3000by\u3000Global Education for Japan", 
+        "title": "\u3079\u304d\u7d1a\u6570\u306e\u53ce\u675f\u534a\u5f84\u3068\u53ce\u675f\u533a\u9593", 
+        "youtube_id": "oXIxxBcgZ3Q"
+      }, 
+      {
+        "description": "\u30ab\u30fc\u30f3\u30a2\u30ab\u30c7\u30df\u30fc\u306e\u82f1\u8a9e\u306e\u5143\u30d3\u30c7\u30aa\u306f\nhttps://www.khanacademy.org/math/integral-calculus/sequences_series_approx_calc/power-series-algebra/v/rep-function-with-geometric-series\n\u7ffb\u8a33\u3000by\u3000Global Education for Japan", 
+        "title": "\u53ce\u675f\u533a\u9593\u306e\u95a2\u6570\u3092\u8868\u3059", 
+        "youtube_id": "8eOKOuycLto"
+      }, 
+      {
+        "description": "\u30ab\u30fc\u30f3\u30a2\u30ab\u30c7\u30df\u30fc\u306e\u82f1\u8a9e\u306e\u5143\u30d3\u30c7\u30aa\u306f\nhttps://www.khanacademy.org/math/integral-calculus/sequences_series_approx_calc/power-series-algebra/v/function-as-geometric-series\n\u7ffb\u8a33\u3000by\u3000Global Education for Japan", 
+        "title": "\u7b49\u6bd4\u7d1a\u6570\u3068\u3057\u3066\u306e\u95a2\u6570", 
+        "youtube_id": "yt6t5Jpg8s0"
+      }, 
+      {
+        "description": "\u30ab\u30fc\u30f3\u30a2\u30ab\u30c7\u30df\u30fc\u306e\u82f1\u8a9e\u306e\u5143\u30d3\u30c7\u30aa\u306f\nhttps://www.khanacademy.org/math/integral-calculus/sequences_series_approx_calc/power-series-algebra/v/power-series-using-integration\n\u7ffb\u8a33\u3000by\u3000Global Education for Japan", 
+        "title": "\u7a4d\u5206\u3092\u4f7f\u3063\u305f\u3079\u304d\u7d1a\u6570\u8868\u73fe", 
+        "youtube_id": "9CYASIymh9M"
+      }
+    ]
+  }, 
+  {
+    "description": "", 
+    "title": "\u6570\u5b66\u3000\u6570\u5217\u3068", 
+    "videos": []
+  }, 
+  {
+    "description": "", 
     "title": "\u6570\u5b66\u3000\u7a4d\u5206", 
     "videos": [
       {
@@ -627,6 +748,136 @@
         "description": "\u30ab\u30fc\u30f3\u30a2\u30ab\u30c7\u30df\u30fc\u306e\u82f1\u8a9e\u306e\u5143\u30d3\u30c7\u30aa\u306f\nhttps://www.khanacademy.org/math/integral-calculus/solid_revolution_topic/solid_of_revolution/v/solid-of-revolution-part-8\n\u7ffb\u8a33\u3000by\u3000Global Education for Japan", 
         "title": "\u5ea7\u6a19\u8ef8\u3067\u306a\u3044\u76f4\u7dda\u5468\u308a\u306e\u30d0\u30fc\u30e0\u30af\u30fc\u30d8\u30f3\u6cd5\uff12", 
         "youtube_id": "Za-H8MsZCiU"
+      }, 
+      {
+        "description": "\u30ab\u30fc\u30f3\u30a2\u30ab\u30c7\u30df\u30fc\u306e\u82f1\u8a9e\u306e\u5143\u30d3\u30c7\u30aa\u306f\nhttps://www.khanacademy.org/math/integral-calculus/sequences_series_approx_calc/calculus-sequences/v/explicit-and-recursive-definitions-of-sequences\n\u7ffb\u8a33\u3000by Global Education for Japan", 
+        "title": "\u6570\u5217\u306e\u660e\u793a\u7684\u304a\u3088\u3073\u5e30\u7d0d\u7684\u306a\u5b9a\u7fa9", 
+        "youtube_id": "JQ1lOQgx-jk"
+      }, 
+      {
+        "description": "\u30ab\u30fc\u30f3\u30a2\u30ab\u30c7\u30df\u30fc\u306e\u82f1\u8a9e\u306e\u5143\u30d3\u30c7\u30aa\u306f\nhttps://www.khanacademy.org/math/integral-calculus/sequences_series_approx_calc/calculus-sequences/v/terms-explicit-sequence\n\u7ffb\u8a33\u3000by\u3000Global Education for Japan", 
+        "title": "\u660e\u793a\u7684\u306b\u5b9a\u7fa9\u3055\u308c\u305f\u6570\u5217\u306e\u9805\u3092\u6c42\u3081\u308b", 
+        "youtube_id": "9jeZBBxLli8"
+      }, 
+      {
+        "description": "\u30ab\u30fc\u30f3\u30a2\u30ab\u30c7\u30df\u30fc\u306e\u82f1\u8a9e\u306e\u5143\u30d3\u30c7\u30aa\u306f\nhttps://www.khanacademy.org/math/integral-calculus/sequences_series_approx_calc/calculus-sequences/v/term-of-recursive-sequence\n\u7ffb\u8a33\u3000by Global Education for Japan", 
+        "title": "\u7b49\u5dee\u6570\u5217\u306e\u7b2c5\u9805\u3092\u6c42\u3081\u308b", 
+        "youtube_id": "SCpjRy-DFzI"
+      }, 
+      {
+        "description": "\u30ab\u30fc\u30f3\u30a2\u30ab\u30c7\u30df\u30fc\u306e\u82f1\u8a9e\u306e\u5143\u30d3\u30c7\u30aa\u306f\nhttps://www.khanacademy.org/math/integral-calculus/sequences_series_approx_calc/calculus-sequences/v/geometric-sequence\n\u7ffb\u8a33\u3000by\u3000Global Education for Japan", 
+        "title": "\u7b49\u6bd4\u6570\u5217", 
+        "youtube_id": "LSO2nfD0G8I"
+      }, 
+      {
+        "description": "\u30ab\u30fc\u30f3\u30a2\u30ab\u30c7\u30df\u30fc\u306e\u82f1\u8a9e\u306e\u5143\u30d3\u30c7\u30aa\u306f\nhttps://www.khanacademy.org/math/integral-calculus/sequences_series_approx_calc/seq-conv-diverg/v/convergent-and-divergent-sequences\n\u7ffb\u8a33\u3000by\u3000Global Education for Japan", 
+        "title": "\u53ce\u675f\u3059\u308b\u6570\u5217\u3068\u767a\u6563\u3059\u308b\u6570\u5217", 
+        "youtube_id": "9kZKojH0to8"
+      }, 
+      {
+        "description": "\u30ab\u30fc\u30f3\u30a2\u30ab\u30c7\u30df\u30fc\u306e\u82f1\u8a9e\u306e\u5143\u30d3\u30c7\u30aa\u306f\nhttps://www.khanacademy.org/math/integral-calculus/sequences_series_approx_calc/seq-conv-diverg/v/identifying-sequence-convergence-divergence\n\u7ffb\u8a33\u3000by\u3000Global Education for Japan", 
+        "title": "\u6570\u5217\u306e\u53ce\u675f\u3068\u767a\u6563\u306e\u5224\u5b9a", 
+        "youtube_id": "IzTnQwiCI-I"
+      }, 
+      {
+        "description": "\u30ab\u30fc\u30f3\u30a2\u30ab\u30c7\u30df\u30fc\u306e\u82f1\u8a9e\u306e\u5143\u30d3\u30c7\u30aa\u306f\nhttps://www.khanacademy.org/math/integral-calculus/sequences_series_approx_calc/seq-conv-diverg/v/definition-of-limit-of-a-sequence-and-sequence-convergence\n\u7ffb\u8a33\u3000by\u3000Global Education for Japan", 
+        "title": "\u6570\u5217\u306e\u6975\u9650\u3068\u6570\u5217\u306e\u53ce\u675f\u306e\u5b9a\u7fa9", 
+        "youtube_id": "TubB_CoFBXs"
+      }, 
+      {
+        "description": "\u30ab\u30fc\u30f3\u30a2\u30ab\u30c7\u30df\u30fc\u306e\u82f1\u8a9e\u306e\u5143\u30d3\u30c7\u30aa\u306f\nhttps://www.khanacademy.org/math/integral-calculus/sequences_series_approx_calc/seq-conv-diverg/v/proving-a-sequence-converges\n\u7ffb\u8a33\u3000by\u3000Global Education for Japan", 
+        "title": "\u6570\u5217\u306e\u53ce\u675f\u306e\u8a3c\u660e", 
+        "youtube_id": "azoJoZ_IGck"
+      }, 
+      {
+        "description": "\u30ab\u30fc\u30f3\u30a2\u30ab\u30c7\u30df\u30fc\u306e\u82f1\u8a9e\u306e\u5143\u30d3\u30c7\u30aa\u306f\nhttps://www.khanacademy.org/math/integral-calculus/sequences_series_approx_calc/maclaurin_taylor/v/maclauren-and-taylor-series-intuition\n\u7ffb\u8a33\u3000by\u3000Global Education for Japan", 
+        "title": "\u30de\u30af\u30ed\u30fc\u30ea\u30f3\u7d1a\u6570\u3068\u30c6\u30a4\u30e9\u30fc\u7d1a\u6570\u306e\u6982\u8981", 
+        "youtube_id": "O2elzC5CH8Y"
+      }, 
+      {
+        "description": "\u30ab\u30fc\u30f3\u30a2\u30ab\u30c7\u30df\u30fc\u306e\u82f1\u8a9e\u306e\u5143\u30d3\u30c7\u30aa\u306f\nhttps://www.khanacademy.org/math/integral-calculus/sequences_series_approx_calc/maclaurin_taylor/v/cosine-taylor-series-at-0-maclaurin\n\u7ffb\u8a33\u3000by\u3000Global Education for Japan", 
+        "title": "\u30b3\u30b5\u30a4\u30f3\u306e\u30bc\u30ed\u3067\u306e\u30c6\u30a4\u30e9\u30fc\u7d1a\u6570\uff08\u30de\u30af\u30ed\u30fc\u30ea\u30f3\u7d1a\u6570\uff09", 
+        "youtube_id": "LpRe6XuNKVI"
+      }, 
+      {
+        "description": "\u30ab\u30fc\u30f3\u30a2\u30ab\u30c7\u30df\u30fc\u306e\u82f1\u8a9e\u306e\u5143\u30d3\u30c7\u30aa\u306f\nhttps://www.khanacademy.org/math/integral-calculus/sequences_series_approx_calc/maclaurin_taylor/v/sine-taylor-series-at-0-maclaurin\n\u7ffb\u8a33\u3000by\u3000Global Education for Japan", 
+        "title": "\u30b5\u30a4\u30f3\u306e\u30bc\u30ed\u3067\u306e\u30c6\u30a4\u30e9\u30fc\u7d1a\u6570\uff08\u30de\u30af\u30ed\u30fc\u30ea\u30f3\u7d1a\u6570\uff09", 
+        "youtube_id": "78GkCe1l7II"
+      }, 
+      {
+        "description": "\u30ab\u30fc\u30f3\u30a2\u30ab\u30c7\u30df\u30fc\u306e\u82f1\u8a9e\u306e\u5143\u30d3\u30c7\u30aa\u306f\nhttps://www.khanacademy.org/math/integral-calculus/sequences_series_approx_calc/maclaurin_taylor/v/taylor-series-at-0-maclaurin-for-e-to-the-x\n\u7ffb\u8a33\u3000by\u3000Global Education for Japan", 
+        "title": "e\u306ex\u4e57\u306e\u30bc\u30ed\u3067\u306e\u30c6\u30a4\u30e9\u30fc\u7d1a\u6570\uff08\u30de\u30af\u30ed\u30fc\u30ea\u30f3\u7d1a\u6570\uff09", 
+        "youtube_id": "87p7cRMA1x8"
+      }, 
+      {
+        "description": "\u30ab\u30fc\u30f3\u30a2\u30ab\u30c7\u30df\u30fc\u306e\u82f1\u8a9e\u306e\u5143\u30d3\u30c7\u30aa\u306f\nhttps://www.khanacademy.org/math/integral-calculus/sequences_series_approx_calc/maclaurin_taylor/v/euler-s-formula-and-euler-s-identity\n\u7ffb\u8a33\u3000by Global Education for Japan", 
+        "title": "\u30aa\u30a4\u30e9\u30fc\u306e\u516c\u5f0f\u3068\u30aa\u30a4\u30e9\u30fc\u306e\u7b49\u5f0f", 
+        "youtube_id": "-uOHCFaSnHU"
+      }, 
+      {
+        "description": "\u30ab\u30fc\u30f3\u30a2\u30ab\u30c7\u30df\u30fc\u306e\u82f1\u8a9e\u306e\u5143\u30d3\u30c7\u30aa\u306f\nhttps://www.khanacademy.org/math/integral-calculus/sequences_series_approx_calc/taylor-series/v/visualizing-taylor-series-approximations\n\u7ffb\u8a33\u3000by\u3000Global Education for Japan", 
+        "title": "\u30c6\u30a4\u30e9\u30fc\u7d1a\u6570\u306b\u3088\u308b\u8fd1\u4f3c\u306e\u8996\u899a\u7684\u306a\u7406\u89e3", 
+        "youtube_id": "vMu2ovRaXW0"
+      }, 
+      {
+        "description": "\u30ab\u30fc\u30f3\u30a2\u30ab\u30c7\u30df\u30fc\u306e\u82f1\u8a9e\u306e\u5143\u30d3\u30c7\u30aa\u306f\nhttps://www.khanacademy.org/math/integral-calculus/sequences_series_approx_calc/taylor-series/v/generalized-taylor-series-approximation\n\u7ffb\u8a33\u3000by\u3000Global Education for Japan", 
+        "title": "\u30c6\u30a4\u30e9\u30fc\u7d1a\u6570\u3092\u5229\u7528\u3057\u305f\u8fd1\u4f3c\u306e\u4e00\u822c\u5316", 
+        "youtube_id": "7tv3wW10YFU"
+      }, 
+      {
+        "description": "\u30ab\u30fc\u30f3\u30a2\u30ab\u30c7\u30df\u30fc\u306e\u82f1\u8a9e\u306e\u5143\u30d3\u30c7\u30aa\u306f\nhttps://www.khanacademy.org/math/integral-calculus/sequences_series_approx_calc/taylor-series/v/visualizing-taylor-series-for-e-x\n\u7ffb\u8a33\u3000by\u3000Global Education for Japan", 
+        "title": "e^x\u306e\u30c6\u30a4\u30e9\u30fc\u7d1a\u6570\u3092\u8996\u899a\u7684\u306b\u7406\u89e3\u3059\u308b", 
+        "youtube_id": "ypENjE546a4"
+      }, 
+      {
+        "description": "\u30ab\u30fc\u30f3\u30a2\u30ab\u30c7\u30df\u30fc\u306e\u82f1\u8a9e\u306e\u5143\u30d3\u30c7\u30aa\u306f\nhttps://www.khanacademy.org/math/integral-calculus/sequences_series_approx_calc/taylor-series/v/error-or-remainder-of-a-taylor-polynomial-approximation\n\u7ffb\u8a33\u3000by\u3000Global Education for Japan", 
+        "title": "\u30c6\u30a4\u30e9\u30fc\u591a\u9805\u5f0f\u8fd1\u4f3c\u306e\u8aa4\u5dee\uff08\u5270\u4f59\u9805\uff09", 
+        "youtube_id": "EzUzMh1gawM"
+      }, 
+      {
+        "description": "\u30ab\u30fc\u30f3\u30a2\u30ab\u30c7\u30df\u30fc\u306e\u82f1\u8a9e\u306e\u5143\u30d3\u30c7\u30aa\u306f\nhttps://www.khanacademy.org/math/integral-calculus/sequences_series_approx_calc/taylor-series/v/proof-bounding-the-error-or-remainder-of-a-taylor-polynomial-approximation\n\u7ffb\u8a33\u3000by\u3000Global Education for Japan", 
+        "title": "\u8a3c\u660e\uff1a\u30c6\u30a4\u30e9\u30fc\u591a\u9805\u5f0f\u8fd1\u4f3c\u306e\u8aa4\u5dee\uff08\u5270\u4f59\u9805\uff09\u306e\u7bc4\u56f2", 
+        "youtube_id": "ClATK-JSuDE"
+      }, 
+      {
+        "description": "\u30ab\u30fc\u30f3\u30a2\u30ab\u30c7\u30df\u30fc\u306e\u82f1\u8a9e\u306e\u5143\u30d3\u30c7\u30aa\u306f\nhttps://www.khanacademy.org/math/integral-calculus/sequences_series_approx_calc/old_maclaurin_series/v/polynomial-approximation-of-functions-part-1\n\u7ffb\u8a33\u3000by Global Education for Japan", 
+        "title": "\u95a2\u6570\u306e\u591a\u9805\u5f0f\u8fd1\u4f3c \u305d\u306e1", 
+        "youtube_id": "Wq6DOni8fl8"
+      }, 
+      {
+        "description": "\u30ab\u30fc\u30f3\u30a2\u30ab\u30c7\u30df\u30fc\u306e\u82f1\u8a9e\u306e\u5143\u30d3\u30c7\u30aa\u306f\nhttps://www.khanacademy.org/math/integral-calculus/sequences_series_approx_calc/old_maclaurin_series/v/polynomial-approximation-of-functions-part-2\n\u7ffb\u8a33\u3000by\u3000Global Education for Japan", 
+        "title": "\u95a2\u6570\u306e\u591a\u9805\u5f0f\u8fd1\u4f3c \u305d\u306e2", 
+        "youtube_id": "RV2QFVivzuA"
+      }, 
+      {
+        "description": "\u30ab\u30fc\u30f3\u30a2\u30ab\u30c7\u30df\u30fc\u306e\u82f1\u8a9e\u306e\u5143\u30d3\u30c7\u30aa\u306f\nhttps://www.khanacademy.org/math/integral-calculus/sequences_series_approx_calc/old_maclaurin_series/v/approximating-functions-with-polynomials-part-3\n\u7ffb\u8a33\u3000by Global Education for Japan", 
+        "title": "\u95a2\u6570\u306e\u591a\u9805\u5f0f\u8fd1\u4f3c \u305d\u306e3", 
+        "youtube_id": "K4b7r1iPfYY"
+      }, 
+      {
+        "description": "\u30ab\u30fc\u30f3\u30a2\u30ab\u30c7\u30df\u30fc\u306e\u82f1\u8a9e\u306e\u5143\u30d3\u30c7\u30aa\u306f\nhttps://www.khanacademy.org/math/integral-calculus/sequences_series_approx_calc/old_maclaurin_series/v/polynomial-approximation-of-functions-part-4\n\u7ffb\u8a33\u3000by\u3000Global Education for Japan", 
+        "title": "\u95a2\u6570\u306e\u591a\u9805\u5f0f\u8fd1\u4f3c \u305d\u306e4", 
+        "youtube_id": "phjPhb-nsG8"
+      }, 
+      {
+        "description": "\u30ab\u30fc\u30f3\u30a2\u30ab\u30c7\u30df\u30fc\u306e\u82f1\u8a9e\u306e\u5143\u30d3\u30c7\u30aa\u306f\nhttps://www.khanacademy.org/math/integral-calculus/sequences_series_approx_calc/old_maclaurin_series/v/polynomial-approximations-of-functions-part-5\n\u7ffb\u8a33\u3000by\u3000Global Education for Japan", 
+        "title": "\u95a2\u6570\u306e\u591a\u9805\u5f0f\u8fd1\u4f3c \u305d\u306e5", 
+        "youtube_id": "KxvPVFkmdGQ"
+      }, 
+      {
+        "description": "\u30ab\u30fc\u30f3\u30a2\u30ab\u30c7\u30df\u30fc\u306e\u82f1\u8a9e\u306e\u5143\u30d3\u30c7\u30aa\u306f\nhttps://www.khanacademy.org/math/integral-calculus/sequences_series_approx_calc/old_maclaurin_series/v/polynomial-approximation-of-functions-part-6\n\u7ffb\u8a33\u3000by\u3000Global Education for Japan", 
+        "title": "\u95a2\u6570\u306e\u591a\u9805\u5f0f\u8fd1\u4f3c \u305d\u306e6", 
+        "youtube_id": "pK2OxDdbaoI"
+      }, 
+      {
+        "description": "\u30ab\u30fc\u30f3\u30a2\u30ab\u30c7\u30df\u30fc\u306e\u82f1\u8a9e\u306e\u5143\u30d3\u30c7\u30aa\u306f\nhttps://www.khanacademy.org/math/integral-calculus/sequences_series_approx_calc/old_maclaurin_series/v/polynomial-approximation-of-functions-part-7\n\u7ffb\u8a33\u3000by Global Education for Japan", 
+        "title": "\u95a2\u6570\u306e\u591a\u9805\u5f0f\u8fd1\u4f3c \u305d\u306e7", 
+        "youtube_id": "8ufvcNT1bCM"
+      }, 
+      {
+        "description": "\u30ab\u30fc\u30f3\u30a2\u30ab\u30c7\u30df\u30fc\u306e\u82f1\u8a9e\u306e\u5143\u30d3\u30c7\u30aa\u306f\nhttps://www.khanacademy.org/math/integral-calculus/sequences_series_approx_calc/old_maclaurin_series/v/taylor-polynomials\n\u7ffb\u8a33\u3000by\u3000Global Education for Japan", 
+        "title": "\u30c6\u30a4\u30e9\u30fc\u591a\u9805\u5f0f", 
+        "youtube_id": "LlR2-RHhPTk"
       }
     ]
   }, 
@@ -678,6 +929,16 @@
         "description": "\u30ab\u30fc\u30f3\u30a2\u30ab\u30c7\u30df\u30fc\u306e\u82f1\u8a9e\u306e\u5143\u30d3\u30c7\u30aa\u306fhttps://www.khanacademy.org/economics-finance-domain/macroeconomics/gdp-topic/piketty-capital/v/price-return-relationship\n\n\u7ffb\u8a33\u3000by Hitoshi Yamauchi\n\u516c\u5f0f\u30d3\u30c7\u30aa\u30ea\u30b9\u30c8 https://ja.khanacademy.org/\n\u975e\u516c\u5f0f\u30d3\u30c7\u30aa\u30ea\u30b9\u30c8 http://sundayresearch.eu/hitoshi/sundayresearch/khanacademy_japanese/economics/macroeconomics/ja_economics_macroeconomics_index.html", 
         "title": "9. \u8cc7\u672c\u306e\u4fa1\u683c\u3068\u30ea\u30bf\u30fc\u30f3\u306e\u9593\u306e\u9006\u6bd4\u4f8b\u306e\u95a2\u4fc2", 
         "youtube_id": "_gdRPiShOBU"
+      }, 
+      {
+        "description": "\u30ab\u30fc\u30f3\u30a2\u30ab\u30c7\u30df\u30fc\u306e\u82f1\u8a9e\u306e\u5143\u30d3\u30c7\u30aa\u306fhttps://www.khanacademy.org/economics-finance-domain/macroeconomics/gdp-topic/piketty-capital/v/income-inequality\n\n\u7ffb\u8a33\u3000by Hitoshi Yamauchi\n\u516c\u5f0f\u30d3\u30c7\u30aa\u30ea\u30b9\u30c8 https://ja.khanacademy.org/\n\u975e\u516c\u5f0f\u30d3\u30c7\u30aa\u30ea\u30b9\u30c8 http://sundayresearch.eu/hitoshi/sundayresearch/khanacademy_japanese/economics/macroeconomics/ja_economics_macroeconomics_index.html", 
+        "title": "10. \u8cc7\u672c\u306e\u6210\u9577\u3068\u4e0d\u5e73\u7b49\u306e\u53ef\u80fd\u6027\u3092\u53ce\u5165\u3068\u7d50\u3073\u3064\u3051\u308b", 
+        "youtube_id": "unhlTIZK09Q"
+      }, 
+      {
+        "description": "\u30ab\u30fc\u30f3\u30a2\u30ab\u30c7\u30df\u30fc\u306e\u82f1\u8a9e\u306e\u5143\u30d3\u30c7\u30aa\u306fhttps://www.khanacademy.org/economics-finance-domain/macroeconomics/gdp-topic/piketty-capital/v/r-greater-but-less-inequality\n\n\u7ffb\u8a33\u3000by Hitoshi Yamauchi\n\u516c\u5f0f\u30d3\u30c7\u30aa\u30ea\u30b9\u30c8 https://ja.khanacademy.org/\n\u975e\u516c\u5f0f\u30d3\u30c7\u30aa\u30ea\u30b9\u30c8 http://sundayresearch.eu/hitoshi/sundayresearch/khanacademy_japanese/economics/macroeconomics/ja_economics_macroeconomics_index.html", 
+        "title": "12. \u8cc7\u672c\u304b\u3089\u306e\u30ea\u30bf\u30fc\u30f3\u3068\u7d4c\u6e08\u6210\u9577", 
+        "youtube_id": "Wlk_hRnDdwY"
       }
     ]
   }, 
