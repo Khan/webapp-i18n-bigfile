@@ -1,2 +1,2 @@
 pofiles/* filter=bigfile -crlf
-*.pickle filter=bigfile -crlf
+crowdin_stringids.pickle filter=bigfile -crlf
