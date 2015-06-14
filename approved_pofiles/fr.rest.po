@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: khanacademy\n"
 "Report-Msgid-Bugs-To: translation-team@khanacademy.org\n"
 "POT-Creation-Date: 2015-06-03 23:16+0000\n"
-"PO-Revision-Date: 2015-06-14 01:05-0400\n"
+"PO-Revision-Date: 2015-06-14 12:29-0400\n"
 "Last-Translator: csilvers <translation@khanacademy.org>\n"
 "Language-Team: French\n"
 "MIME-Version: 1.0\n"
@@ -5245,6 +5245,9 @@ msgstr "<code><var>MODE</var></code> est la note qui apparaît la plus souvent."
 
 msgid "<code><var>MULTIPLIER</var> \\cdot <var>V1</var> = <var>V2</var></code> fits this pattern, with <code>k = <var>MULTIPLIER_INVERSE</var></code>."
 msgstr "<code><var>MULTIPLIER</var> \\cdot <var>V1</var> = <var>V2</var></code> est de cette forme, avec <code>k = <var>MULTIPLIER_INVERSE</var></code>."
+
+msgid "<code><var>MULTIPLIER</var> \\cdot \\dfrac{1}{<var>V1</var>} = <var>V2</var></code> fits this pattern, with <code>k = <var>MULTIPLIER</var></code>."
+msgstr "<code><var>MULTIPLIER</var> \\cdot \\dfrac{1}{<var>V1</var>} = <var>V2</var></code> est de cette forme , avec <code>k = <var>MULTIPLIER</var></code>."
 
 msgid "<code><var>N * N</var></code> is the nearest perfect square less than <code><var>Q</var></code>."
 msgstr "<code><var>N * N</var></code> est le plus grand carré parfait plus petit que <code><var>Q</var></code>."
