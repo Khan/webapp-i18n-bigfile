@@ -1,0 +1,706 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: khanacademy\n"
+"Report-Msgid-Bugs-To: translation-team@khanacademy.org\n"
+"POT-Creation-Date: 2015-01-23 04:28+0000\n"
+"PO-Revision-Date: 2015-06-14 01:10-0400\n"
+"Last-Translator: csilvers <translation@khanacademy.org>\n"
+"Language-Team: Hebrew\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: he_IL\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-File: /4_low_priority/learn.partner-content.all-star-orchestra.pot\n"
+"X-Crowdin-Language: he\n"
+"X-Crowdin-Project: khanacademy\n"
+"X-Generator: crowdin.com\n"
+
+msgid ""
+"\n"
+"                There was a problem using your Facebook account to sign\n"
+"                in [<a class='showdetails' href='javascript:void 0'>why?</a>].\n"
+"                Try using Google or email.\n"
+"            "
+msgstr ""
+"\n"
+" הייתה בעיה בניסיון ההרשמה דרך חשבון הפייסבוק שלכם\n"
+"[<a class='showdetails' href='javascript:void 0'>מדוע?</a>].\n"
+" נסו להתחבר בעזרת חשבון גוגל או חשבון דואר אלקטרוני.\n"
+"            "
+
+msgid ""
+"\n"
+"                Your Facebook account does not have an email address\n"
+"                associated with it.\n"
+"                This can happen if you signed up for Facebook on a phone.\n"
+"\n"
+"                The easiest thing to do is log in to Khan Academy with Google\n"
+"                or an email address.\n"
+"                If you want, you can add an email address to your Facebook\n"
+"                account and try again.\n"
+"            "
+msgstr ""
+"\n"
+" בחשבון הפייסבוק שלכם לא קיימת כתובת דואר אלקטרוני\n"
+" המשויכת אליו.\n"
+" אחת הסיבות האפשריות היא שנרשמת לפייסבוק דרך מכשיר סלולרי.\n"
+"\n"
+" הדרך הקלה ביותר היא להתחבר לאקדמיית קהאן בעזרת חשבון גוגל\n"
+" או כתובת דואר אלקטרוני.\n"
+" אם אתם רוצים, אתם יכולים להוסיף לחשבון הפייסבוק שלכם כתובת דואר אלקטרוני\n"
+" ולנסות שוב.\n"
+"            "
+
+msgid "%(count)s badges"
+msgstr "%(count)s מדליות"
+
+msgid "%(points)s Energy Points earned for watching this video"
+msgstr "%(points)s נקודות אנרגיה שנצברו עבור צפייה בסרטון"
+
+msgid "0 students"
+msgstr "0 תלמידים"
+
+msgid "<a class='login-link' href='javascript:void(0);'>Log in</a> and then we'll create your child's account."
+msgstr "ראשית <a class='login-link' href='javascript:void(0);'>התחברו אתם</a>, ואז ניצור את החשבון של ילדכם."
+
+msgid "<a class='login-link' href='javascript:void(0);'>Log in</a> and then we'll create your class."
+msgstr "ראשית <a class='login-link' href='javascript:void(0);'>התחברו אתם</a>, ולאחר מכן ניצור את הכיתה שלכם."
+
+msgid "<a class='login-link' href='javascript:void(0);'>Log in</a>."
+msgstr "<a class='login-link' href='javascript:void(0);'>היכנסו</a>."
+
+msgid "<a href=\"%(login_url)s\">Log in</a> or <a href=\"%(templatetags_to_insecure_url)s?continue=%(continue)s\">Sign Up</a> right now and get started earning yours today!"
+msgstr "<a href=\"%(login_url)s\"> התחבר</a> או <a href=\"%(templatetags_to_insecure_url)s?continue=%(continue)s\"> תרשם</a> ממש עכשיו ונתחיל להרוויח את שלך היום!"
+
+msgid "<span class=\"badge-type\">%(badge_type_label)s</span> Badge"
+msgstr "תג <span class=\"badge-type\"> %(badge_type_label)s</span>"
+
+msgid "<span class=\"video-energy-points-current\">%(points)s</span> of %(possible_points)s"
+msgstr "<span class=\"video-energy-points-current\">%(points)s</span> של %(possible_points)s"
+
+msgid "<span class='bold-text'>Everyone else,</span> sign up using"
+msgstr "<span class='bold-text'>כל השאר,</span> הירשמו באמצעות"
+
+msgid ""
+"<span class='bold-text'>Welcome!</span>\n"
+"                Create your username and password."
+msgstr ""
+"<span class='bold-text'>ברוכים הבאים!</span>\n"
+" צרו את שם המשתמש והסיסמה שלכם."
+
+msgid "<strong>Challenge Patches</strong> are special awards for completing topic challenges."
+msgstr "<strong>תגי האתגר</strong> הם פרסים מיוחדים עבור השלמת אתגרים בנושא מסוים."
+
+msgid "<strong>Earth</strong> badges are rare. They require a significant amount of learning."
+msgstr "תגי <strong>כדור הארץ</strong> הינן נדירים. הם דורשים כמות משמעותית של למידה."
+
+msgid "<strong>Meteorite</strong> badges are common and easy to earn when just getting started."
+msgstr "תגי <strong>מטאוריט</strong> הינם נפוצים וקל להרוויח אותם בהתחלה."
+
+msgid "<strong>Moon</strong> badges are uncommon and represent an investment in learning."
+msgstr "תגי <strong>ירח</strong> הינם נדירים ומייצגים השקעה בלמידה."
+
+msgid "<strong>Sun</strong> badges are epic. Earning them is a true challenge, and they require impressive dedication."
+msgstr "תגי <strong>השמש</strong> הם גיבוריים. להרוויח אותם זה אתגר אמיתי, והם דורשים השקעה מרשימה."
+
+msgid "Account"
+msgstr "חשבון"
+
+msgid "Add a current student"
+msgstr "הוסף תלמיד נוכחי"
+
+msgid "Add new students"
+msgstr "הוסף תלמידים חדשים"
+
+msgid "Add to"
+msgstr "הוסף ל"
+
+msgid "All Badges"
+msgstr "כל המדליות"
+
+msgid "Already have an account?<br><a href='%(login_url)s'>Log in</a>."
+msgstr "כבר יש לכם חשבון?<br><a href='%(login_url)s'>התחברו</a>."
+
+msgid "Archives"
+msgstr "ארכיון"
+
+msgid "Average points earned per student since opening this report."
+msgstr "ממוצע נקודות שנצברו לתלמיד מאז יצירת דוח זה."
+
+msgid "Back to Top"
+msgstr "חזרה להתחלה"
+
+msgid "Badge Types"
+msgstr "סוגי מדליות"
+
+msgid "Basics"
+msgstr "יסודות"
+
+msgid "Because of recent changes to our system, an email address may now only be linked to a single account."
+msgstr "עקב השינויים האחרונים למערכת שלנו, כעת, כתובת דואר אלקטרוני יכולה להיות מקושרת רק לחשבון בודד."
+
+msgid "Browse our library"
+msgstr "עיין בספרייה שלנו"
+
+msgid "By clicking, you agree to our <a href='/about/tos' target='_blank' tabindex='1'>Terms of Service</a> and <a href='/about/privacy-policy' target='_blank' tabindex='1'>Privacy Policy</a>"
+msgstr "על ידי לחיצה כאן, אתם מסכימים <a href='/about/tos' target='_blank' tabindex='1'>לתנאי השימוש</a> שלנו <a href='/about/privacy-policy' target='_blank' tabindex='1'>ולמדיניות הפרטיות</a> שלנו"
+
+msgid "By logging in, you agree to our <a href='/about/tos' target='_blank'>Terms of Service</a>, <a href='/about/privacy-policy' target='_blank'>Privacy Policy</a>, and giving this application access to your personal Khan Academy data (videos watched, exercises done, badges earned, coaches approved, profile information, and other activity)."
+msgstr "על ידי כניסה למערכת אתם מסכימים <a href='/about/tos' target='_blank'>לתנאי השרות</a>,<a href='/about/privacy-policy' target='_blank'> מדיניות הפרטיות</a> שלנו מאפשרים גישה לפאליקציה שלנו לפרטים האישיים שלכם באקדמיית קהאן (סרטונים שצפיתם, תרגילים שביצעתם,מדליות שהרווחתם, מאמנים שאישרתם,מידע מהפרופיל ופעילויות אחרות)."
+
+msgid "Can't find what you're looking for?"
+msgstr "אינך מצליח/ה למצוא את מה שאת/ה מחפש/ת? "
+
+msgid "Cancel the invitation to coach this student."
+msgstr "בטל את ההזמנה לאמן תלמיד זה."
+
+msgid "Careers at<br>Khan Academy"
+msgstr "קריירות ב<br>אקדמיית קהאן"
+
+msgid "Change password."
+msgstr "שינוי סיסמה."
+
+msgid "Change the email address of this student."
+msgstr "שנה את כתובת המייל לתלמיד זה."
+
+msgid "Child account signup"
+msgstr "הרשמה לחשבון ילדים"
+
+msgid "Child accounts"
+msgstr "חשבונות ילדים (מתחת לגיל 13)"
+
+msgid "Choose Account"
+msgstr "בחרו חשבון"
+
+msgid "Class code:"
+msgstr "קוד הכיתה:"
+
+msgid "Competitive salaries"
+msgstr "שכר תחרותי"
+
+msgid "Connect Facebook"
+msgstr "התחבר לפייסבוק"
+
+msgid "Connect Google"
+msgstr "התחבר לגוגל"
+
+msgid "Connect another email"
+msgstr "חברו כתובת דואר אלקטרוני נוספת"
+
+msgid "Connected"
+msgstr "מחובר"
+
+msgid "Continue to parent login"
+msgstr "המשיכו להתחברות הורה"
+
+msgid "Create Child Account"
+msgstr "צור חשבון ילד"
+
+msgid "Create a new password for your account."
+msgstr "צרו סיסמה חדשה עבור החשבון שלכם."
+
+msgid "Create another student account"
+msgstr "צור חשבון סטודנט נוסף"
+
+msgid "Create child account"
+msgstr "צור חשבון ילד"
+
+msgid "Create password"
+msgstr "צור סיסמה"
+
+msgid "Create student"
+msgstr "צור תלמיד"
+
+msgid "Create your account"
+msgstr "צרו את חשבונכם"
+
+msgid "Create your student's account:"
+msgstr "צור את המשתמש של התלמיד שלך:"
+
+msgid "Creating a password allows you to log in with your Khan Academy username and password."
+msgstr "יצירת סיסמה מאפשר לך להתחבר עם שם המשתמש והסיסמה של חשבון הקאן אקדמי שלך."
+
+msgid "Current password"
+msgstr "הסיסמה הנוכחית"
+
+msgid "Delete %(nickname)s"
+msgstr "למחוק את %(nickname)s"
+
+msgid "Delete account"
+msgstr "מחיקת החשבון"
+
+msgid "Delete this list (the students will still appear in 'All students')"
+msgstr "מחק רשימה זו (התלמידים עדיין יופיעו ב\"כל התלמידים\")"
+
+msgid "Delete your account"
+msgstr "מחק את החשבון שלך"
+
+msgid "Delicious catered lunches daily"
+msgstr "ארוחות צהריים טעימות"
+
+msgid "Disconnect"
+msgstr "נתק"
+
+msgid "Don't have an account yet?"
+msgstr "אין לך חשבון עדיין?"
+
+msgid "Done adding new students"
+msgstr "סיים להוסיף תלמידים חדשים"
+
+msgid "Email resent!"
+msgstr "האימייל נשלח!"
+
+msgid "Examples: %(examples)s"
+msgstr "דוגמאות: %(examples)s"
+
+msgid "Execution Environment"
+msgstr "סביבת הרצה"
+
+msgid "Experiments"
+msgstr "ניסויים"
+
+msgid "Failed email addresses"
+msgstr "כתובות דוא\"ל כושלות"
+
+msgid "First, create or log in to <span class='bold-text'>your parent account</span>"
+msgstr "תחילה, צור או התחבר לחשבון <span class='bold-text'>ההורה שלך</span>"
+
+msgid ""
+"First, sign up\n"
+"                                        <span class='bold-text'>as a teacher</span>\n"
+"                                        using"
+msgstr ""
+"תחילה, הירשמו\n"
+" <span class='bold-text'>כמורה</span>\n"
+" באמצעות"
+
+msgid ""
+"First, sign up\n"
+"                                        <span class='bold-text'>as the parent</span>\n"
+"                                        using"
+msgstr ""
+"תחילה, התחברו\n"
+" <span class='bold-text'>כהורה</span>\n"
+" באמצעות"
+
+msgid "First, sign up <span class='bold-text'>as the parent</span> using"
+msgstr "תחילה, הירשמו <span class='bold-text'>כהורה</span> באמצעות"
+
+msgid "Flexible schedules and required time off to&nbsp;ensure you are well-rested"
+msgstr "לוחות זמנים גמישים וזמן חופשי בכדי להבטיח את מנוחתכם"
+
+msgid "Forgot password?"
+msgstr "שכחת את הסיסמה?"
+
+msgid "Get started"
+msgstr "בואו נתחיל"
+
+msgid "Great! We've sent information to your parent or guardian for completing your signup. Please have them check their e-mail."
+msgstr "נהדר! שלחנו מידע אל ההורה או האפוטרופוס שלך להשלמת ההרשמה שלך. בבקשה תדאג שיבדקו את הדואר האלקטרוני שלהם."
+
+msgid "Great! You've created an account for:"
+msgstr "נהדר! יצירת חשבון עבור:"
+
+msgid "Grow Your Brain"
+msgstr "הרחיבו את מוחכם"
+
+msgid "Homepage"
+msgstr "דף הבית"
+
+msgid "I am using Khan Academy as a:"
+msgstr "אנו משתמשים באקדמיית קהאן כ:"
+
+msgid "I don't have an account with Google or Facebook"
+msgstr "אין לי חשבון בגוגל או בפיסבוק"
+
+msgid "I understand that I will only be able to keep the account <span id=\"account-description\">that I selected above</span> and that my other account<span id=\"deleting-children\"></span> will be <strong>permanently deleted</strong>."
+msgid_plural "I understand that I will only be able to keep the account <span id=\"account-description\">that I selected above</span> and that my other %(num)s accounts<span id=\"deleting-children\"></span> will be <strong>permanently deleted</strong>."
+msgstr[0] "אני מבין שאוכל לשמור את החשבון <span id=\"account-description\"> שבחרתי למעלה</span> ושכל חשבון אחר<span id=\"deleting-children\"></span><strong> יימחק לעד</strong>."
+msgstr[1] "אני מבין שאוכל לשמור את החשבון <span id=\"account-description\"> שבחרתי למעלה</span> ושכל %(num)s החשבונות האחרים<span id=\"deleting-children\"></span><strong> יימחקו לעד</strong>."
+
+msgid "If you are an adult parent/guardian, you can create child accounts for your children."
+msgstr "אם אתה הורה/אפוטרופוס מבוגר, אתה יכול ליצור משתמשי ילדים בשביל הילדים שלך."
+
+msgid "If you encounter any problems, please <a href=\"mailto:dupeaccount@khanacademy.org?subject=Duplicate%%20accounts%%20for%%20%(email)s\">email us at dupeaccount@khanacademy.org</a>."
+msgstr "אם אתם נתקלי םבבעיות כלשהן, אנא<a href=\"mailto:dupeaccount@khanacademy.org?subject=Duplicate%%20accounts%%20for%%20%(email)s\"> צרו איתנו קשר ב- dupeaccount@khanacademy.org</a>."
+
+msgid "If you're behind a web filter, please make sure that the domains <strong>*.kastatic.org</strong> and <strong>*.kasandbox.org</strong> are unblocked."
+msgstr "אם אתה מאחורי סינון אינטרנט, ודא כי התחומים <strong>*. kastatic.org</strong> ו-<strong>*. kasandbox.org</strong> לא חסומים."
+
+msgid "If you're seeing this message, it means we're having trouble loading external resources for Khan Academy."
+msgstr "אם אתם רואים הודעה זו, זה אומר שאנחנו מתקשים לטעון משאבים חיצוניים עבור אקדמיית קהאן."
+
+msgid "If you're still having trouble, please check your computer's clock and make sure that today's date is properly set."
+msgstr "אם אתה עדיין נתקל בבעיות, אנא בדוק את שעון המחשב שלך, עליך לוודא כי התאריך של היום מכוון כראוי."
+
+msgid "Join class"
+msgstr "הצטרפות לכיתה"
+
+msgid "Join us!"
+msgstr "הצטרפו אלינו!"
+
+msgid "Keep one account and finish logging in"
+msgstr "שמרו על חשבון אחד וסיימו את ההתחברות"
+
+msgid "Learn for free about math, art, computer programming, economics, physics, chemistry, biology, medicine, finance, history, and more. Khan Academy is a nonprofit with the mission of providing a free, world-class education for anyone, anywhere."
+msgstr "למד בחינם על מתמטיקה, אמנות, תכנות מחשבים, כלכלה, פיזיקה, כימיה, ביולוגיה, רפואה, מימון, היסטוריה ועוד. אקדמיית קהאן היא ארגון ללא-רווח עם המשימה של מתן חינוך חינם, ברמה עולמית עבור כל אחד, בכל מקום."
+
+msgid "Learner"
+msgstr "למדן"
+
+msgid "Linked accounts"
+msgstr "חשבונות מקושרים"
+
+msgid "Log in to Khan Academy with"
+msgstr "התחבר לאקדמיית קהאן באמצעות: "
+
+msgid "Login"
+msgstr "כניסה"
+
+msgid "Login to Khan Academy"
+msgstr "התחברו לאקדמיית קהאן"
+
+msgid "Login with"
+msgstr "התחברו באמצעות"
+
+msgid "Manage students"
+msgstr "ניהול תלמידים"
+
+msgid "Move to"
+msgstr "עבור ל"
+
+msgid "Need to create a new account?<br><a href='%(register_url)s'>Sign up for Khan Academy</a>."
+msgstr "צריכים ליצור חשבון חדש?<br><a href='%(register_url)s'>הירשמו לאקדמיית קהאן</a>."
+
+msgid "New Research Shows the Brain Can Be Developed Like a Muscle"
+msgstr "מחקר חדש מראה שניתן לפתח את המוח כמו שריר"
+
+msgid "New class"
+msgstr "כיתה חדשה"
+
+msgid "New password"
+msgstr "סיסמה חדשה"
+
+msgid "New research shows that the brain is like a muscle. It gets stronger with practice. Scientists have been able to show just how the brain grows and gets stronger when you learn."
+msgstr "מחקר חדש מראה כי המוח הוא כמו שריר. הוא מתחזק עם אימון. מדענים הצליחו להראות בדיוק איך המוח גדל ומתחזק כאשר אתם לומדים."
+
+msgid "No progress has been lost."
+msgstr "שום התקדמות אבדה."
+
+msgid "Not in a class"
+msgstr "לא שייך לכיתה"
+
+msgid "Not specified"
+msgstr "לא מפורט"
+
+msgid "Okay, take me back home."
+msgstr "בסדר, קח אותי בחזרה הביתה."
+
+msgid "Oops, something went wrong."
+msgstr "אופס, משהו השתבש."
+
+msgid "Openings"
+msgstr "משרות פנויות"
+
+msgid "Or sign up using email"
+msgstr "או הירשמו באמצעות דואר-אלקטרוני"
+
+msgid "Our search robots were slow to respond, sorry! Please refresh the page to try again."
+msgstr "רובוטי החיפוש שלנו היו לצערנו איטיים! אנא רעננו את הדף בכדי לנסות שוב."
+
+msgid "PAGE 1 &nbsp;|&nbsp; <a href=/brainworkout_2>PAGE 2</a>"
+msgstr "עמוד 1 &nbsp;|&nbsp; <a href=/brainworkout_2>עמוד 2</a>"
+
+msgid "Page %(cur_page)s of %(num_pages)s"
+msgstr "דף %(cur_page)s מתוך %(num_pages)s"
+
+msgid "Parent"
+msgstr "הורה"
+
+msgid "Please enter your parent or guardian's email address here and we'll send them instructions for the next step in your signup."
+msgstr "אנא הכניסו כאן את כתובת דואר האלקטרוני של ההורה או המשגיח שלכם ואנחנו נשלח לו הוראות לשלב הבא בתהליך ההרשמה."
+
+msgid "Please select the account you would like to keep:"
+msgstr "בחרו את החשבון שברצונכם לשמור:"
+
+msgid "Prev"
+msgstr "קודם"
+
+msgid "Primary language"
+msgstr "שפה ראשית"
+
+msgid "Programs created by students, sorted by date."
+msgstr "תוכנות שנוצרו על-ידי הסטודנטים, ממוין לפי תאריך."
+
+msgid "Public profile information"
+msgstr "מידע הפרופיל הציבורי"
+
+msgid "Publish"
+msgstr "פרסם"
+
+msgid "Questions about creating an account?"
+msgstr "שאלות על יצירת חשבון?"
+
+msgid "Re-enter new password"
+msgstr "הכנס מחדש סיסמה מחדש"
+
+msgid "Re-type new password"
+msgstr "הקלד מחדש את הסיסמה החדשה"
+
+msgid "Real name"
+msgstr "שם אמיתי"
+
+msgid "Remove from \"<span class=\"remove-from-class\">this class</span>\""
+msgstr "הסר מ-\"<span class=\"remove-from-class\"> את הכיתב הזות</span>\""
+
+msgid "Required for students under 13"
+msgstr "נדרש עבור תלמידים מתחת לגיל 13"
+
+msgid "Resending..."
+msgstr "שולח שוב..."
+
+msgid "Roles"
+msgstr "תפקידי"
+
+msgid "Save changes"
+msgstr "שמור שינויים"
+
+msgid "Search Khan Academy"
+msgstr "חיפוש באקדמיית קהאן"
+
+msgid "Search with Google Site Search"
+msgstr ""
+"בצע חיפוש באתר חיפוש של חברת גוגל\n"
+"Search with Google Site Search"
+
+msgid "Sent %(invite_send_count)s so far, last one %(invite_last_sent_date)s."
+msgstr "נשלחו %(invite_send_count)s עד כה, האחרונה %(invite_last_sent_date)s."
+
+msgid "Settings for %(nickname)s"
+msgstr "הגדרות עבור %(nickname)s"
+
+msgid "Show all results"
+msgstr "הצג את כל התוצאות"
+
+msgid "Showing only %(kind_filter)s results."
+msgstr "מציג תוצאות עבור %(kind_filter)s בלבד."
+
+msgid "Showing results for <strong>%(corrected_query)s</strong>."
+msgstr "מציג תוצאות עבור <strong>%(corrected_query)s</strong>."
+
+msgid "Sign In"
+msgstr "הירשם"
+
+msgid "Sign Up"
+msgstr "הירשם"
+
+msgid "Sign up for Khan Academy"
+msgstr "הירשם לאקדמיית קהאן"
+
+msgid "Sign up using"
+msgstr "הירשמו באמצעות"
+
+msgid "Sign up via invitation"
+msgstr "הירשמו דרך הזמנה"
+
+msgid "Sign up with"
+msgstr "הרשמו באמצעות"
+
+msgid "Signup"
+msgstr "הרשמה"
+
+msgid "Student's birthdate"
+msgstr "תאריך הלידה של התלמיד"
+
+msgid "Student's username"
+msgstr "שם המשתמש של התלמיד"
+
+msgid "Subscribe"
+msgstr "הצטרף כמנוי"
+
+msgid "Subscribed"
+msgstr "הרשם"
+
+msgid "Subscribing..."
+msgstr "נרשם..."
+
+msgid "Supporters"
+msgstr "תומכים"
+
+msgid "Teacher/Coach"
+msgstr "מורה/מאמן"
+
+msgid "Tell us how you're using Khan Academy to help you learn!"
+msgstr "ספר לנו איך אתה משתמש באקדמיית קהאן כדי לסייע לך ללמוד!"
+
+msgid "Terms of Service | Khan Academy"
+msgstr "תנאי השירות | אקדמיית קהאן"
+
+msgid "Thanks for your interest in Khan Academy! To go on, we need your parent to complete the signup process."
+msgstr "תודה על התעניינותכם באקדיימת קהאן! כדי להמשיך, אנחנו צריכים את ההורה שלכם כדי להשלים את תהליך ההרשמה."
+
+msgid "The truth is that building a stronger brain takes time, effort, and the right kind of practice. To get better at something you have to practice the right way, and that usually means the hard way. In fact, scientists have found that the brain grows more when you use new and different strategies. It grows less when you stick to things you already know. So it's not just about how much you study but about whether you push yourself to learn something new and difficult."
+msgstr "האמת היא כי לבנות מוח חזק לוקח זמן, מאמץ והסוג הנכון של תרגול. כדי להשתפר במשהו אתה צריך להתאמן כמו שצריך, וזה בדרך כלל אומר בדרך הקשה. למעשה, מדענים מצאו כי המוח גדל יותר בעת שימוש אסטרטגיות חדשות ושונות. הוא גדל פחות כאשר אתה דבק למה שאתה כבר יודע. אז זה לא רק לגבי כמה אתה לומד אבל על אם אתה משתדל ללמוד משהו חדש וקשה."
+
+msgid "There is no email address connected to this Khan Academy account. Since your child is %(age)s years old, your two accounts can be unlinked by adding an email address by going to this settings page from your child's account."
+msgstr "חשבון זה לא קושר עם כתובת דואר אלקטרוני כלשהי. מכיוון שילדכם בן %(age)s, ניתן להסיר את הקישור בין החשבונות שלכם על ידי הוספת כתובת דואר אלקטרוני על ידי מעבר לעמוד הגדרות זה בחשבון של ילדכם."
+
+msgid "These give you an easy way to log in. We'll never post without your permission."
+msgstr "אנו מאפשרים לכם התחברות נוחה דרך גוגל או פייסבוק. לעולם לא נפרסם דבר בשמכם ברשתות אלו."
+
+msgid "These linked accounts can be used to log in to Khan Academy:"
+msgstr "ניתן להשתמש בחשבונות מקושרים אלו בכדי להתחבר לאקדמיית קהאן:"
+
+msgid "This is just one of <a title=\"really, more like a billionty\">more than a hundred</a> badges you can earn at Khan Academy."
+msgstr "זוהי רק אחת מ<a title=\"בעצם, יותר כמו מיליארד\">יותר ממאה</a> מדליות שאתה יכול לקבל באקדמיית קאהן."
+
+msgid "This student's parent needs to check their email for instructions on how to create an account, then go to https://www.khanacademy.org/coach/children and check the 'Allow other coaches' box."
+msgstr "ההורה של התלמיד הזה צריך לבדוק את הדוא\"ל שלו לקבלת הוראות כיצד ליצור חשבון, ואז ללכת ל-https://www.khanacademy.org/coach/children ולסמן את התיבה 'אפשר מאמנים אחרים'."
+
+msgid "This student's parent needs to go to https://www.khanacademy.org/coach/children and check the 'Allow other coaches' box."
+msgstr "ההורה של התלמיד הזה צריך ללכת ל-https://www.khanacademy.org/coach/children ולסמן את התיבה 'אפשר מאמנים אחרים'."
+
+msgid "This will discard:"
+msgstr "פעולה זו תבטל:"
+
+msgid "Time spent on Khan Academy per student."
+msgstr "הזמן המושקע באקדמיית קהאן לתלמיד."
+
+msgid "To connect another email address to your Khan Academy account, first add a password to your account in the \"Password\" section above."
+msgstr "כדי להוסיף כתובת דואר נוספת לחשבון אקדמיית קהאן שלכם, עליכם קודם להוסיף סיסמה לחשבון שלכם בחלק שנקרא \"סיסמה\" בחלק העליון של דף זה."
+
+msgid "To join %(coach_name)s's class, sign up using"
+msgstr "בכדי להצטרף לכיתה של %(coach_name)s, התחברו באמצעות"
+
+msgid "To log in and use all the features of Khan Academy, please enable JavaScript in your browser."
+msgstr "בכדי להכנס ולהשתמש בכל התכונות של אקדמיית קהאן, יש לאפשר JavaScript בדפדפן שלך."
+
+msgid "Unsubscribing..."
+msgstr "מבטל הרשמה..."
+
+msgid "Video Testimonials"
+msgstr "המלצות וידאו"
+
+msgid "View Khan Academy in:"
+msgstr "הצג את אקדמיית קהאן ב:"
+
+msgid "View the class statistics page for this set of students"
+msgstr "צפייה בדף הסטטיסטיקה למקבץ תלמידים אלו"
+
+msgid "Watch. Practice. Learn almost anything for free."
+msgstr "צפה. התאמן. ולמד כמעט כל דבר בחינם."
+
+msgid "We don't have support for searching in your current language, sorry! We've done the search in English instead."
+msgstr ""
+"סליחה אך אין לנו יכולת לתמוך בחיפוש בשפה שלך! במקום זאת, ביצענו את החיפוש באנגלית. \n"
+"We don't have support for searching in your current language, sorry! We've done the search in English instead."
+
+msgid "We found more than one account"
+msgstr "מצאנו יותר מחשבון אחד"
+
+msgid "We will then take you through creating your child's account."
+msgstr "ואז נעבור לתהליך יצירת חשבון של ילדיכם."
+
+msgid "We've sent information to your parent or guardian for completing your signup. Please have them check their e-mail (make sure to check their \"Spam\" or \"Junk\" folder in case it got lost there). Or, if you entered your parent's email address incorrectly, you can re-enter it now."
+msgstr "שלחנו בהצלחה מידע להורה או המשגיח שלכם אודות המשך תהליך ההרשמה. בבקשה תוודאו שהם יבדקו את תיבת הדואר האלקטרוני שלהם (אנא בדקו גם בתיקיית דואר \"ספאם\" או תיקיית דואר \"זבל\" במקרה שהאימייל הלך לאיבוד). או, אם הכנסתם כתובת דואר אלקטרוני שגויה של ההורה, אתם יכולים לכתוב אותה שוב כרגע."
+
+msgid "Whoa there, partner!"
+msgstr "היי, חבר!"
+
+msgid "Why not <a href=\"/exercisedashboard\">start an exercise</a> or <a href=\"/library\">watch a video</a> and earn one too?"
+msgstr "למה לא <a href=\"/exercisedashboard\"> להתחיל תרגיל</a> או <a href=\"/library\"> לצפות בסרטון וידאו</a> ולהרוויח אחד?"
+
+msgid "You Can Grow Your Brain"
+msgstr "אתה יכול להגדיל את המוח שלך"
+
+msgid "You are about to delete the account <strong>%(nickname)s</strong>:"
+msgstr "אתה עומד למחוק את החשבון <strong>%(nickname)s</strong>:"
+
+msgid "You are your child's permanent coach and control whether your child can add other coaches."
+msgstr "אתה המאמן הקבוע של ילדך ושולט אם ילדך יכול להוסיף מאמנים אחרים."
+
+msgid "You can also <a href=\"/students\">organize class lists</a> or <a href=\"/createchild\">create a new child account</a>."
+msgstr "באפשרותכם גם<a href=\"/students\"> לארגן רשימות כיתה</a> או <a href=\"/createchild\"> ליצור חשבון ילד חדש</a>."
+
+msgid "You can grow smarter by giving your brain a workout."
+msgstr "אתה יכול להפוך לחכם יותר על ידי אימון המוח שלך."
+
+msgid "You can use email to sign up for a new account by going to www.khanacademy.org in Safari. We'll have this working within our app soon!"
+msgstr "באפשרותכם להשתמש בכתובת דואר אלקטרוני כדי להירשם לחשבון חדש על ידי כניסה לאתר www.khanacademy.org בדפדפן ספארי. בקרוב תוכלו לעשות זאת באפליקציה שלנו!"
+
+msgid "You don't have an email address connected to this Khan Academy account. Since you're %(age)s years old, you can connect an email address to your account, which will unlink it from your parent's account."
+msgstr "אין לכם כתובת דואר אלקטרוני המחוברת לחשבון זה באקדמיית קהאן. מכיוון שאתם בני %(age)s, באפשרותכם לחבר כתובת דואר אלקטרוני לחשבונכם ובכך יוסר הקישור בין חשבונכם לחשבון ההורה שלכם."
+
+msgid "You haven't created any child accounts."
+msgstr "לא יצרת חשבונות ילדים."
+
+msgid "You may only resend every %(spam_time_limit_seconds)s."
+msgstr "אתה יכול לשלוח מחדש כל %(spam_time_limit_seconds)s."
+
+msgid "You must delete all of your child accounts before deleting your own account."
+msgstr "אתה חייב למחוק את כל חשבונות הילדים שלך לפני שאתה מוחק את החשבון שלך."
+
+msgid "You own this badge."
+msgstr "יש לך את המדלייה הזו."
+
+msgid "You will continue to be your child's coach unless your account is manually removed from the list of coaches."
+msgstr "אתה תמשיך להיות מאמן של ילדים, אלא אם כן החשבון שלך יוסר באופן ידני מרשימת המאמנים."
+
+msgid "You're a mad data scientist."
+msgstr "אתה מדען נתונים מטורף."
+
+msgid "You're earning points for watching this video. Sign in to keep them"
+msgstr "אתה מרוויח נקודות עבור צפייה בסרטון. התחבר כדי לשמור אותם"
+
+msgid "You've joined %(coach)s's class!"
+msgstr "הצטרפת לכיתה של %(coach)s!"
+
+msgid "Your Badges"
+msgstr "המדליות שלך"
+
+msgid "Your Challenge Patches"
+msgstr "תגי האתגר שלך"
+
+msgid "Your account will be deleted %(days)s days from now. If you log in with this account before then, it will not be deleted. After %(days)s days, deleting this account <strong>CANNOT</strong> be undone. <a href='#' id='learn-about-delete'>Learn more.</a>"
+msgstr "חשבונכם יימחק בעוד %(days)s ימים מרגע זה. אם תתחברו עם חשבון זה לפני תקופה זו, חשבונכם לא יימחק. לאחר %(days)s ימים<strong> לא</strong> יהיה ניתן לבטל מחיקת חשבון זה. <a href='#' id='learn-about-delete'>למדו עוד.</a>"
+
+msgid "Your child's password is managed from your account."
+msgstr "הסיסמה של ילדך מנוהלת מהחשבון שלך."
+
+msgid "Your coach id:"
+msgstr "תעודת זהות המאמן שלך:"
+
+msgid "Your parent must log in to change your password."
+msgstr "ההורה שלך חייב להתחבר כדי לשנות לך את הסיסמה."
+
+msgid "Your parent must log in to delete your account."
+msgstr "ההורה שלך חייב להיכנס כדי למחוק לך את החשבון."
+
+msgid "Your parent will continue to be your coach unless you edit your list of coaches from your profile page."
+msgstr "ההורה שלך ימשיך להיות המאמן שלך אלא אם כן אתה תערוך את רישמת המאמנים מדף הפרופיל שלך."
+
+msgid "a large illustration of a %(badge_type_label)s"
+msgstr "תרשים גדול של %(badge_type_label)s"
+
+msgid "all computer science programs"
+msgstr "כל תוכניות מדעי המחשב"
+
+msgid "all discussion posts and votes"
+msgstr "כל הודעות הדיונים והצבעות"
+
+msgid "all video and skill progress"
+msgstr "כל התקדמות בוידאו ומיומנויות"
+
+msgid "complete"
+msgstr "הושלם"
+
+msgid "for you"
+msgstr "בשבילכם"
+
+msgid "khan academy, learn, videos, lectures, practice, exercises, skills"
+msgstr "אקדמיית קהאן, למידה, קטעי וידאו, הרצאות, אימונים, תרגילים, מיומנויות"
+
+msgid "linked to the email address <strong>%(email)s</strong>"
+msgstr "מקושרים לכתובת דואר אלקטרוני <strong>%(email)s</strong>"

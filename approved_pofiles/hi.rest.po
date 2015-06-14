@@ -1,0 +1,2629 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: khanacademy\n"
+"Report-Msgid-Bugs-To: translation-team@khanacademy.org\n"
+"POT-Creation-Date: 2015-05-07 04:24+0000\n"
+"PO-Revision-Date: 2015-06-14 01:15-0400\n"
+"Last-Translator: csilvers <translation@khanacademy.org>\n"
+"Language-Team: Hindi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: hi_IN\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-File: /4_low_priority/learn.humanities.art-history.pot\n"
+"X-Crowdin-Language: hi\n"
+"X-Crowdin-Project: khanacademy\n"
+"X-Generator: crowdin.com\n"
+
+msgid "\"Product\" means that we multiply <code><var>M</var></code> and <code>x</code>."
+msgstr "\"परिणाम\" का मतलब है कि हम गुणा करेंगे <code><var>M</var></code> और <code>x</code>."
+
+msgid "\"Sum\" means that we add <code><var>B</var></code> and <code><var>expr([\"*\", M, \"x\"])</var></code>."
+msgstr "\"निष्कर्ष\" का मतलब है कि हम जोड़ते हैं <code><var>B</var></code> और<code><var>expr([\"*\", M, \"x\"])</var></code>."
+
+msgid "$(-2,2)$"
+msgstr "$(-2,2)$"
+
+msgid "$(-3,9)$"
+msgstr "$(-3,9)$"
+
+msgid "$(-4,7)$"
+msgstr "$(-4,7)$"
+
+msgid "$(-5,-7)$"
+msgstr "$(-5,-7)$"
+
+msgid "$(-5,0)$"
+msgstr "$(-5,0)$"
+
+msgid "$(-5,7)$"
+msgstr "$(-5,7)$"
+
+msgid "$(-6,6)$"
+msgstr "$(-6,6)$"
+
+msgid "$(-7,5)$"
+msgstr "$(-7,5)$"
+
+msgid "$(1,7)$"
+msgstr "$(1,7)$"
+
+msgid "$(2,-2)$"
+msgstr "$(2,-2)$"
+
+msgid "$(2,4)$"
+msgstr "$(2,4)$"
+
+msgid "$(4,4)$"
+msgstr "$(4,4)$"
+
+msgid "$(5,7)$"
+msgstr "$(5,7)$"
+
+msgid "$(6,-5)$"
+msgstr "$(6,-5)$"
+
+msgid "$(8,3)$"
+msgstr "$(8,3)$"
+
+msgid "$0$"
+msgstr "$0$"
+
+msgid "$1$"
+msgstr "$1$"
+
+msgid "$10"
+msgstr "$10"
+
+msgid "$100"
+msgstr "$100"
+
+msgid "$1\\dfrac{1}{2}$"
+msgstr "$1\\dfrac{1}{2}$"
+
+msgid "$2$"
+msgstr "$2$"
+
+msgid "$2^0 = \\text{ ?}$"
+msgstr "$2^0 = \\text{ ?}$"
+
+msgid "$2^2 = 4$"
+msgstr "$2^2 = 4$"
+
+msgid "$2^3 = 8$"
+msgstr "$2^3 = 8$"
+
+msgid "$2^{1} = 2$"
+msgstr "$2^{1} = 2$"
+
+msgid "$3$"
+msgstr "$3$"
+
+msgid "$30^\\circ$"
+msgstr "$30^\\circ$"
+
+msgid "$3^0 = \\text{ ?}$"
+msgstr "$3^0 = \\text{ ?}$"
+
+msgid "$3^2 = 9$"
+msgstr "$3^2 = 9$"
+
+msgid "$3^3 = 27$"
+msgstr "$3^3 = 27$"
+
+msgid "$3^{1} = 3$"
+msgstr "$3^{1} = 3$"
+
+msgid "$4.1$"
+msgstr "$4.1$"
+
+msgid "$4.2$"
+msgstr "$4.2$"
+
+msgid "$4.3$"
+msgstr "$4.3$"
+
+msgid "$4.4$"
+msgstr "$4.4$"
+
+msgid "$4.6$"
+msgstr "$4.6$"
+
+msgid "$4.7$"
+msgstr "$4.7$"
+
+msgid "$4.8$"
+msgstr "$4.8$"
+
+msgid "$4.9$"
+msgstr "$4.9$"
+
+msgid "$45^\\circ$"
+msgstr "$45^\\circ$"
+
+msgid "$4^0 = \\text{ ?}$"
+msgstr "$4^0 = \\text{ ?}$"
+
+msgid "$4^2 = 16$"
+msgstr "$4^2 = 16$"
+
+msgid "$4^3 = 64$"
+msgstr "$4^3 = 64$"
+
+msgid "$4^{1} = 4$"
+msgstr "$4^{1} = 4$"
+
+msgid "$5.1$"
+msgstr "$5.1$"
+
+msgid "$5.2$"
+msgstr "$5.2$"
+
+msgid "$5.3$"
+msgstr "$5.3$"
+
+msgid "$5.4$"
+msgstr "$5.4$"
+
+msgid "$5.5$"
+msgstr "$5.5$"
+
+msgid "$5^0 = \\text{ ?}$"
+msgstr "$5^0 = \\text{ ?}$"
+
+msgid "$5^2 = 25$"
+msgstr "$5^2 = 25$"
+
+msgid "$5^3 = 125$"
+msgstr "$5^3 = 125$"
+
+msgid "$5^{1} = 5$"
+msgstr "$5^{1} = 5$"
+
+msgid "$60^\\circ$"
+msgstr "$60^\\circ$"
+
+msgid "$6^0 = \\text{ ?}$"
+msgstr "$6^0 = \\text{ ?}$"
+
+msgid "$6^2 = 36$"
+msgstr "$6^2 = 36$"
+
+msgid "$6^3 = 216$"
+msgstr "$6^3 = 216$"
+
+msgid "$6^{1} = 6$"
+msgstr "$6^{1} = 6$"
+
+msgid "$72$"
+msgstr "$72$"
+
+msgid "$7^0 = \\text{ ?}$"
+msgstr "$7^0 = \\text{ ?}$"
+
+msgid "$7^2 = 49$"
+msgstr "$7^2 = 49$"
+
+msgid "$7^3 = 343$"
+msgstr "$7^3 = 343$"
+
+msgid "$7^{1} = 7$"
+msgstr "$7^{1} = 7$"
+
+msgid "$8.1$"
+msgstr "$8.1$"
+
+msgid "$8.2$"
+msgstr "$8.2$"
+
+msgid "$8.3$"
+msgstr "$8.3$"
+
+msgid "$8.4$"
+msgstr "$8.4$"
+
+msgid "$8.5$"
+msgstr "$8.5$"
+
+msgid "$8.6$"
+msgstr "$8.6$"
+
+msgid "$8.7$"
+msgstr "$8.7$"
+
+msgid "$8.8$"
+msgstr "$8.8$"
+
+msgid "$8.9$"
+msgstr "$8.9$"
+
+msgid "$9.5$"
+msgstr "$9.5$"
+
+msgid "$9.6$"
+msgstr "$9.6$"
+
+msgid "$9.7$"
+msgstr "$9.7$"
+
+msgid "$9.8$"
+msgstr "$9.8$"
+
+msgid "$9.9$"
+msgstr "$9.9$"
+
+msgid "$A$"
+msgstr "$A$"
+
+msgid "$B$"
+msgstr "$B$"
+
+msgid "$C$"
+msgstr "$C$"
+
+msgid "$D$"
+msgstr "$D$"
+
+msgid "$E$"
+msgstr "$E$"
+
+msgid "$\\blue{A}$"
+msgstr "$\\blue{A}$"
+
+msgid "$\\blue{C}$"
+msgstr "$\\blue{C}$"
+
+msgid "$\\blue{D}$"
+msgstr "$\\blue{D}$"
+
+msgid "$\\blue{E}$"
+msgstr "$\\blue{E}$"
+
+msgid "$\\dfrac15$"
+msgstr "$\\dfrac15$"
+
+msgid "$\\dfrac18$"
+msgstr "$\\dfrac18$"
+
+msgid "$\\dfrac22$"
+msgstr "$\\dfrac22$"
+
+msgid "$\\dfrac24$"
+msgstr "$\\dfrac24$"
+
+msgid "$\\dfrac25$"
+msgstr "$\\dfrac25$"
+
+msgid "$\\dfrac26$"
+msgstr "$\\dfrac26$"
+
+msgid "$\\dfrac33$"
+msgstr "$\\dfrac33$"
+
+msgid "$\\dfrac36$"
+msgstr "$\\dfrac36$"
+
+msgid "$\\dfrac42$"
+msgstr "$\\dfrac42$"
+
+msgid "$\\dfrac44$"
+msgstr "$\\dfrac44$"
+
+msgid "$\\dfrac46$"
+msgstr "$\\dfrac46$"
+
+msgid "$\\dfrac54$"
+msgstr "$\\dfrac54$"
+
+msgid "$\\dfrac56$"
+msgstr "$\\dfrac56$"
+
+msgid "$\\dfrac63$"
+msgstr "$\\dfrac63$"
+
+msgid "$\\dfrac64$"
+msgstr "$\\dfrac64$"
+
+msgid "$\\dfrac84$"
+msgstr "$\\dfrac84$"
+
+msgid "$\\dfrac86$"
+msgstr "$\\dfrac86$"
+
+msgid "$\\dfrac{8}{9}$"
+msgstr "$\\dfrac{8}{9}$"
+
+msgid "$\\div \\phantom{1} 2$"
+msgstr "$\\div \\phantom{1} 2$"
+
+msgid "$\\div \\phantom{1} 3$"
+msgstr "$\\div \\phantom{1} 3$"
+
+msgid "$\\div \\phantom{1} 4$"
+msgstr "$\\div \\phantom{1} 4$"
+
+msgid "$\\div \\phantom{1} 5$"
+msgstr "$\\div \\phantom{1} 5$"
+
+msgid "$\\div \\phantom{1} 6$"
+msgstr "$\\div \\phantom{1} 6$"
+
+msgid "$\\div \\phantom{1} 7$"
+msgstr "$\\div \\phantom{1} 7$"
+
+msgid "$\\green{4 \\dfrac12}$"
+msgstr "$\\green{4 \\dfrac12}$"
+
+msgid "$\\green{A}$"
+msgstr "$\\green{A}$"
+
+msgid "$\\llap{-}2.5$"
+msgstr "$\\llap{-}2.5$"
+
+msgid "$\\llap{-}2.6$"
+msgstr "$\\llap{-}2.6$"
+
+msgid "$\\llap{-}2.7$"
+msgstr "$\\llap{-}2.7$"
+
+msgid "$\\llap{-}2.8$"
+msgstr "$\\llap{-}2.8$"
+
+msgid "$\\llap{-}2.9$"
+msgstr "$\\llap{-}2.9$"
+
+msgid "$\\llap{-}7$"
+msgstr "$\\llap{-}7$"
+
+msgid "$\\llap{-}7.1$"
+msgstr "$\\llap{-}7.2$"
+
+msgid "$\\llap{-}7.2$"
+msgstr "$\\llap{-}7.3$"
+
+msgid "$\\llap{-}7.3$"
+msgstr "$\\llap{-}7.3$"
+
+msgid "$\\llap{-}7.4$"
+msgstr "$\\llap{-}7.4$"
+
+msgid "$\\llap{-}7.5$"
+msgstr "$\\llap{-}7.5$"
+
+msgid "$\\llap{-}8.5$"
+msgstr "$\\llap{-}8.5$"
+
+msgid "$\\llap{-}8.6$"
+msgstr "$\\llap{-}8.7$"
+
+msgid "$\\llap{-}8.7$"
+msgstr "$\\llap{-}8.8$"
+
+msgid "$\\llap{-}8.8$"
+msgstr "$\\llap{-}8.9$"
+
+msgid "$\\llap{-}8.9$"
+msgstr "$\\llap{-}9$"
+
+msgid "$\\llap{-}9$"
+msgstr "$\\llap{-}9$"
+
+msgid "$\\llap{-}9.1$"
+msgstr "$\\llap{-}9.1$"
+
+msgid "$\\llap{-}9.2$"
+msgstr "$\\llap{-}9.2$"
+
+msgid "$\\llap{-}9.3$"
+msgstr "$\\llap{-}9.3$"
+
+msgid "$\\llap{-}9.4$"
+msgstr "$\\llap{-}9.4$"
+
+msgid "$\\llap{-}9.5$"
+msgstr "$\\llap{-}9.5$"
+
+msgid "$\\longrightarrow$"
+msgstr "$\\longrightarrow$"
+
+msgid "$\\purple{B}$"
+msgstr "$\\purple{B}$"
+
+msgid "$\\times 2$"
+msgstr "$\\times 2$"
+
+msgid "$\\times 3$"
+msgstr "$\\times 3$"
+
+msgid "$b$"
+msgstr "$b$"
+
+msgid "$c$"
+msgstr "$c$"
+
+msgid "$d$"
+msgstr "$d$"
+
+msgid "${?}$"
+msgstr "${?}$"
+
+msgid "${}  $"
+msgstr "${}  $"
+
+msgid "0.001"
+msgstr "0.001"
+
+msgid "0.01"
+msgstr "0.01"
+
+msgid "0.1"
+msgstr "0.1"
+
+msgid "1"
+msgstr "1"
+
+msgid "1-digit division"
+msgstr "1-अंक का विभाजन"
+
+msgid "10"
+msgstr "10"
+
+msgid "100"
+msgstr "100"
+
+msgid "1000"
+msgstr "1000"
+
+msgid "10¢"
+msgstr "10¢"
+
+msgid "1¢"
+msgstr "1¢"
+
+msgid "3rd grade"
+msgstr "कक्षा 3"
+
+msgid "4th grade"
+msgstr "कक्षा 4"
+
+msgid "5th grade"
+msgstr "कक्षा 5"
+
+msgid "<a class=\"alert-link\" href=\"https://khanacademy.zendesk.com/hc/communities/public/topics/200136634-Feature-Requests\">Request a feature</a>"
+msgstr "<a class=\"alert-link\" href=\"https://khanacademy.zendesk.com/hc/communities/public/topics/200136634-Feature-Requests\">फीचर के लिए अनुरोध करें</a>"
+
+msgid "<code>0</code> divided by any number is <code>0</code>."
+msgstr "<code>0</code> विभाजित किसी भी संख्या से<code>0</code> हैI"
+
+msgid "<code>0</code> times any number is <code>0</code>."
+msgstr "<code>0</code> गुना किसी भी संख्या से <code>0</code> हैI"
+
+msgid "<code><var>(N + 1) * (N + 1)</var></code> is the nearest perfect square more than <code><var>Q</var></code>."
+msgstr "<code><var>(N + 1) * (N + 1)</var></code> है निकटतम पूर्ण वर्ग अधिक <code><var>Q</var></code> सेI"
+
+msgid "<code><var>N * N</var></code> is the nearest perfect square less than <code><var>Q</var></code>."
+msgstr "<code><var>N * N</var></code> है निकटतम पूर्ण वर्ग हैं कम <code><var>Q</var></code> सेI"
+
+msgid "<code><var>NUM</var></code> has no perfect-square factors, so <code>\\sqrt{<var>NUM</var>}</code> is already the simplest form."
+msgstr "<code><var>NUM</var></code> में कोई पूर्ण वर्ग गुणनखंड (Perfect-square factors) नहीं है, इसलिए  <code>\\sqrt{<var>NUM</var>}</code> पहले से ही सबसे सरल रूप है I"
+
+msgid "<code><var>NUMBER</var></code> is odd, so it is not divisible by <code>2</code>."
+msgstr "<code><var>NUMBER</var></code> विषम है, इसलिए यह  <code>2</code>विभाजित नहीं हो सकतीI"
+
+msgid "<code><var>PART_PERCENT * MULTIPLE</var></code> is what percent of <code><var>WHOLE</var></code>?"
+msgstr "<code><var>PART_PERCENT * MULTIPLE</var></code> कितना प्रतिशत है इसका <code><var>WHOLE</var></code>?"
+
+msgid "<code><var>Q</var> = <var>PRIMES.join( \"\\\\times \" )</var></code>, so <code><var>N</var>^2 = <var>Q</var></code>."
+msgstr "<code><var>Q</var> = <var>PRIMES.join( \"\\\\times \" )</var></code>, तो <code><var>N</var>^2 = <var>Q</var></code>।"
+
+msgid "<code><var>Q</var> = <var>PRIMES.join( \"\\\\times \" )</var></code>, so <code><var>N</var>^3 = <var>Q</var></code>."
+msgstr "<code><var>Q</var> = <var>PRIMES.join( \"\\\\times \" )</var></code>, so <code><var>N</var>^3 = <var>Q</var></code>।"
+
+msgid "<code><var>_.last(STEPS).sum</var></code> is divisible by <code><var>FACTOR</var></code>, therefore <code>\\blue{<var>NUMBER</var>}</code> must also be divisible by <code><var>FACTOR</var></code>."
+msgstr "<code><var>_.last(STEPS).sum</var></code> विभाजित हो सकता है  <code><var>FACTOR</var></code>, इसलिए <code>\\blue{<var>NUMBER</var>}</code> भी विभाजित हो सकता है <code><var>FACTOR</var></code> सेI"
+
+msgid "<code><var>_.last(STEPS).sum</var></code> is not divisible by <code><var>FACTOR</var></code>, therefore <code>\\blue{<var>NUMBER</var>}</code> must not be divisible by <code><var>FACTOR</var></code>."
+msgstr "<code><var>_.last(STEPS).sum</var></code> विभाजित नहीं हो सकता by <code><var>FACTOR</var></code> से, इसलिए <code>\\blue{<var>NUMBER</var>}</code>विभाजित नहीं हो सकता <code><var>FACTOR</var></code> सेI"
+
+msgid "<code><var>localeToFixed(D, 4)</var></code> can be represented as follows."
+msgstr "<code><var>localeToFixed(D, 4)</var></code> को निम्न रूप से दर्शाया जा सकता  है।"
+
+msgid "<code>\\Large{ <span data-if=\"THOUSANDS !== 0\">\\pink{<var>THOUSANDS</var>}</span> \\orange{<var>HUNDREDS</var>} \\green{<var>TENS</var>} \\blue{<var>ONES</var>}. \\purple{<var>TENTHS</var>} \\gray{<var>HUNDREDTHS</var>} <span data-if=\"THOUSANDTHS !== 0\">\\color{brown}{<var>THOUSANDTHS</var>}</span> } </code> is the same as <code>\\large{ <span data-if=\"THOUSANDS !== 0\">\\pink{<var>THOUSANDS</var>000} + </span> \\orange{<var>HUNDREDS</var>00} + \\green{<var>TENS</var>0} + \\blue{<var>ONES</var>} + \\purple{0.<var>TENTHS</var>} + \\gray{0.0<var>HUNDREDTHS</var>} + \\color{brown}{0.00<var>THOUSANDTHS</var>} }</code>."
+msgstr "<code>\\Large{ <span data-if=\"THOUSANDS !== 0\">\\pink{<var>THOUSANDS</var>}</span> \\orange{<var>HUNDREDS</var>} \\green{<var>TENS</var>} \\blue{<var>ONES</var>}. \\purple{<var>TENTHS</var>} \\gray{<var>HUNDREDTHS</var>} <span data-if=\"THOUSANDTHS !== 0\">\\color{brown}{<var>THOUSANDTHS</var>}</span> } </code> is the same as <code>\\large{ <span data-if=\"THOUSANDS !== 0\">\\pink{<var>THOUSANDS</var>000} + </span> \\orange{<var>HUNDREDS</var>00} + \\green{<var>TENS</var>0} + \\blue{<var>ONES</var>} + \\purple{0.<var>TENTHS</var>} + \\gray{0.0<var>HUNDREDTHS</var>} + \\color{brown}{0.00<var>THOUSANDTHS</var>} }</code>."
+
+msgid "<code>\\blue{\\angle{CAE}}</code> = <code>\\red{\\angle{BCA}} = <var>Tri_X</var>^\\circ</code>"
+msgstr "<code>\\blue{\\angle{CAE}}</code> = <code>\\red{\\angle{BCA}} = <var>Tri_X</var>^\\circ</code>"
+
+msgid "<code>\\blue{\\angle{DAF}}</code> = <code>\\red{\\angle{BCA}} = <var>Tri_X</var>^\\circ</code>"
+msgstr "<code>\\blue{\\angle{DAF}}</code> = <code>\\red{\\angle{BCA}} = <var>Tri_X</var>^\\circ</code>"
+
+msgid "<code>\\dfrac{<var>A</var>}{<var>B</var>} = \\dfrac{<var>C</var>}{<var>D</var>}</code> and so the answer is <code><var>C</var></code>."
+msgstr "<code>\\dfrac{<var>A</var>}{<var>B</var>} = \\dfrac{<var>C</var>}{<var>D</var>}</code> और इसलिए उत्तर है <code><var>C</var></code>."
+
+msgid "<code>\\dfrac{<var>A</var>}{<var>B</var>} = \\dfrac{<var>C</var>}{<var>D</var>}</code> and so the answer is <code><var>D</var></code>."
+msgstr "<code>\\dfrac{<var>A</var>}{<var>B</var>} = \\dfrac{<var>C</var>}{<var>D</var>}</code> और इसलिए उत्तर है <code><var>D</var></code>."
+
+msgid "<code>\\dfrac{<var>C</var>}{<var>D</var>} = \\dfrac{<var>A</var>}{<var>B</var>}</code> and so the answer is <code><var>A</var></code>."
+msgstr "<code>\\dfrac{<var>C</var>}{<var>D</var>} = \\dfrac{<var>A</var>}{<var>B</var>}</code>और इसलिए उत्तर है <code><var>A</var></code>."
+
+msgid "<code>\\dfrac{<var>C</var>}{<var>D</var>} = \\dfrac{<var>A</var>}{<var>B</var>}</code> and so the answer is <code><var>B</var></code>."
+msgstr "<code>\\dfrac{<var>C</var>}{<var>D</var>} = \\dfrac{<var>A</var>}{<var>B</var>}</code> और इसलिए उत्तर है <code><var>B</var></code>."
+
+msgid "<code>\\dfrac{<var>M</var>}{<var>M</var>} = \\dfrac{1}{1} = 1</code> so really we are dividing by 1."
+msgstr "<code>\\dfrac{<var>M</var>}{<var>M</var>} = \\dfrac{1}{1} = 1</code>इसलिए वास्तविकता में हम 1 से विभाजित कर रहे हैंI"
+
+msgid "<code>\\dfrac{<var>M</var>}{<var>M</var>} = \\dfrac{1}{1} = 1</code> so really we are multiplying by 1."
+msgstr "<code>\\dfrac{<var>M</var>}{<var>M</var>} = \\dfrac{1}{1} = 1</code>इसलिए हम वास्तव में 1 से गुणा कर रहे हैंI"
+
+msgid "<code>\\large{&gt;}</code> means \"greater than\"."
+msgstr "<code>\\large{&gt;}</code> मतलब \"से बड़ा\"।"
+
+msgid "<code>\\large{&lt;}</code> means \"less than\"."
+msgstr "<code>\\large{&lt;}</code> मतलब \"से कम\"I"
+
+msgid "<code>\\large{<var>N1</var>}</code> ____ <code>\\large{<var>N2</var>}</code>"
+msgstr "<code>\\large{<var>N1</var>}</code> ____ <code>\\large{<var>N2</var>}</code>"
+
+msgid "<code>\\large{<var>N1</var>}</code> is equal to <code>\\large{<var>N2</var>}</code>."
+msgstr "<code>\\large{<var>N1</var>}</code> बराबर है इसके <code>\\large{<var>N2</var>}</code>."
+
+msgid "<code>\\large{<var>N1</var>}</code> is greater than <code>\\large{<var>N2</var>}</code>."
+msgstr "<code>\\large{<var>N1</var>}</code>बड़ा है इससे<code>\\large{<var>N2</var>}</code>."
+
+msgid "<code>\\large{<var>N1</var>}</code> is less than <code>\\large{<var>N2</var>}</code>."
+msgstr "<code>\\large{<var>N1</var>}</code> कम है इससे <code>\\large{<var>N2</var>}</code>."
+
+msgid "<code>\\large{=}</code> means \"equal to\"."
+msgstr "<code>\\large{=}</code> मतलब \"के बराबर\"I"
+
+msgid "<code>\\large{\\blue{<var>ONES</var>}}</code> <var>plural_form(numberPlaceNames[0], ONES)</var>,"
+msgstr "<code>\\large{\\blue{<var>ONES</var>}}</code> <var>plural_form(numberPlaceNames[0], ONES)</var>,"
+
+msgid "<code>\\large{\\color{gray}{<var>HUNDREDTHS</var>}}</code> <var>plural_form(decimalPlaceNames[2], HUNDREDTHS)</var>,"
+msgstr "<code>\\large{\\color{gray}{<var>HUNDREDTHS</var>}}</code> <var>plural_form(decimalPlaceNames[2], HUNDREDTHS)</var>,"
+
+msgid "<code>\\large{\\green{<var>TENS</var>}}</code> <var>plural_form(numberPlaceNames[1], TENS)</var>,"
+msgstr "<code>\\large{\\green{<var>TENS</var>}}</code> <var>plural_form(numberPlaceNames[1], TENS)</var>,"
+
+msgid "<code>\\large{\\orange{<var>HUNDREDS</var>}}</code> <var>plural_form(numberPlaceNames[2], HUNDREDS)</var>,"
+msgstr "<code>\\large{\\orange{<var>HUNDREDS</var>}}</code> <var>plural_form(numberPlaceNames[2], HUNDREDS)</var>,"
+
+msgid "<code>\\large{\\pink{<var>THOUSANDS</var>}}</code> <var>plural_form(numberPlaceNames[3], THOUSANDS)</var>,"
+msgstr "<code>\\large{\\pink{<var>THOUSANDS</var>}}</code> <var>plural_form(numberPlaceNames[3], THOUSANDS)</var>,"
+
+msgid "<code>\\large{\\purple{<var>TENTHS</var>}}</code> <var>plural_form(decimalPlaceNames[1], TENTHS)</var>,"
+msgstr "<code>\\large{\\purple{<var>TENTHS</var>}}</code> <var>plural_form(decimalPlaceNames[1], TENTHS)</var>,"
+
+msgid "<code>\\sqrt{<var>NUM</var>} = 1\\sqrt{<var>NUM</var>}</code> or just <code>\\sqrt{<var>NUM</var>}</code>."
+msgstr "<code>\\sqrt{<var>NUM</var>} = 1\\sqrt{<var>NUM</var>}</code> या सिर्फ <code>\\sqrt{<var>NUM</var>}</code> I"
+
+msgid "<code>\\sqrt{<var>NUM</var>} = <var>SPLIT[0]</var>\\sqrt{1}</code> or just <code><var>SPLIT[0]</var></code>."
+msgstr "<code>\\sqrt{<var>NUM</var>} = <var>SPLIT[0]</var>\\sqrt{1}</code> या सिर्फ <code><var>SPLIT[0]</var></code> I"
+
+msgid "<code>\\sqrt{<var>Q</var>}</code> is the number that, when multiplied by itself, equals <code><var>Q</var></code>."
+msgstr "<code>\\sqrt{<var>Q</var>}</code> एक ऐसी संख्या है, जिसे जब स्वयं से गुणा किया जाता है तो    <code><var>Q</var></code> के बराबर हो जाता है।"
+
+msgid "<span class=\"sol short40\" data-forms=\"integer, decimal\" style=\"padding-right: 5px\"><var>ANSWER</var></span> <var>BADGE</var> badges"
+msgstr "<span class=\"sol short40\" data-forms=\"integer, decimal\" style=\"padding-right: 5px\"><var>ANSWER</var></span> <var>BADGE</var> बिल्ले"
+
+msgid "<span class=\"sol short40\"><var>VOL * CONVERSION_CUBED</var></span> cubic <var>plural_form(TO)</var>"
+msgstr "<span class=\"sol short40\"><var>VOL * CONVERSION_CUBED</var></span> cubic <var>plural_form(TO)</var>"
+
+msgid "<span class=\"sol\" data-forms=\"integer\" style=\"padding-right: 5px\"><var>DISTANCE_REAL</var></span> km"
+msgstr "<span class=\"sol\" data-forms=\"integer\" style=\"padding-right: 5px\"><var>DISTANCE_REAL</var></span>किलोमीटर ।"
+
+msgid "<span class=\"sol\" data-forms=\"integer\" style=\"padding-right: 5px\"><var>NUM_BOYS</var></span> boys"
+msgstr "<span class=\"sol\" data-forms=\"integer\" style=\"padding-right: 5px\"><var>NUM_BOYS</var></span> लड़के ।"
+
+msgid "<span class=\"sol\" data-forms=\"integer\"><var>LENGTH + 1</var></span> fence posts"
+msgstr "<span class=\"sol\" data-forms=\"integer\"><var>LENGTH + 1</var></span> खंभे "
+
+msgid "<span class=\"sol\" data-forms=\"integer\"><var>NUM -1</var></span> cuts"
+msgstr "<span class=\"sol\" data-forms=\"integer\"><var>NUM -1</var></span> कट \n"
+
+msgid "<span class=\"sol\" data-forms=\"integer\"><var>TIME_FINAL</var></span> minutes"
+msgstr "<span class=\"sol\" data-forms=\"integer\"><var>TIME_FINAL</var></span> मिनट"
+
+msgid "<span class=\"sol\" data-forms=\"integer, decimal\"><var>rain_2 - rain_1</var></span> centimeters"
+msgstr "<span class=\"sol\" data-forms=\"integer, decimal\"><var>rain_2 - rain_1</var></span> सेंटीमीटर"
+
+msgid "<span class=\"sol\" data-forms=\"integer, decimal\"><var>time_1 - time_2 </var></span> seconds"
+msgstr "<span class=\"sol\" data-forms=\"integer, decimal\"><var>time_1 - time_2 </var></span> क्षण"
+
+msgid "<span class=\"sol\" data-forms=\"integer, decimal\"><var>weight_1 + weight_2</var></span> kilograms"
+msgstr "<span class=\"sol\" data-forms=\"integer, decimal\"><var>weight_1 + weight_2</var></span> किलो"
+
+msgid "<span class=\"sol\"><var>RATE_AVG</var></span> mph"
+msgstr "<span class=\"sol\"><var>RATE_AVG</var></span> मील प्रति घंटा"
+
+msgid "<span class=\"sol\"><var>TIME_FINAL</var></span> minutes"
+msgstr "<span class=\"sol\"><var>TIME_FINAL</var></span> मिनट "
+
+msgid "<span data-if=\"isSingular(CODE_PARENT)\"> The starting block below is <code><var>CODE_PARENT</var></code> unit long. </span><span data-else=\"\"> The starting block below is <code><var>CODE_PARENT</var></code> units long. </span> Use the tools below to convert the starting block into both of the goal blocks that are <code><var>CODE_OFFSPRING_1</var></code> units long and <code><var>CODE_OFFSPRING_2</var></code> units long. The current blocks show your progress."
+msgstr "<span data-if=\"isSingular(CODE_PARENT)\"> आरंभिक ब्लाक <code><var>CODE_PARENT</var></code> मात्रक लम्बा हैI </span><span data-else=\"\"> नीचे दिया गया आरंभि ब्लाक <code><var>CODE_PARENT</var></code> मात्रक लम्बा हैI </span> नीचे दिए गए उपकरणों के प्रयोग से आरंभिक ब्लाक को दोनों गोल ब्लाक में परिवर्तित कीजिए जो <code><var>CODE_OFFSPRING_1</var></code> मात्रक लम्बे और <code><var>CODE_OFFSPRING_2</var></code> मात्रक लम्बे हैंI जारी ब्लाक आपकी प्रगति को दर्शाता हैI"
+
+msgid "<span data-if=\"isSingular(L)\"> One side of a rectangle is <code><var>L</var></code> <var>UNIT_TEXT</var>. </span><span data-else=\"\"> One side of a rectangle is <code><var>L</var></code> <var>plural_form(UNIT_TEXT, L)</var>. </span><span data-if=\"isSingular(W)\"> Another side is <code><var>W</var></code> <var>UNIT_TEXT</var>. </span><span data-else=\"\"> Another side is <code><var>W</var></code> <var>plural_form(UNIT_TEXT, W)</var>. </span> What is its perimeter?"
+msgstr "<span data-if=\"isSingular(L)\"> आयत (Rectangle) की एक भुजा <code><var>L</var></code> <var>UNIT_TEXT</var> हैI </span><span data-else=\"\"> आयत की एक भुजा <code><var>L</var></code> <var>plural_form(UNIT_TEXT, L)</var> हैI </span><span data-if=\"isSingular(W)\"> दूसरी भुजा <code><var>W</var></code> <var>UNIT_TEXT</var> है I</span><span data-else=\"\"> दूसरी भुजा <code><var>W</var></code> <var>plural_form(UNIT_TEXT, W)</var> हैI </span> इसका परिमाप (Perimeter)कितना है?"
+
+msgid "<span style=\"text-transform:capitalize\"><var>BADGE</var></span> badges earned by each student"
+msgstr "प्रत्येक छात्र द्वारा कमाए बिल्ले<span style=\"text-transform:capitalize\"><var>BADGE</var></span>"
+
+msgid "<var>BASE1</var>^<var>EXP1 * EXP3</var> * <var>BASE2</var>^<var>EXP2 * EXP3</var>"
+msgstr "<var>BASE1</var>^<var>EXP1 * EXP3</var> * <var>BASE2</var>^<var>EXP2 * EXP3</var>"
+
+msgid "<var>BASE</var>^<var>EXP1 * EXP2</var>"
+msgstr "<var>BASE</var>^<var>EXP1 * EXP2</var>"
+
+msgid "<var>BASE</var>^<var>EXP1 + EXP2</var>"
+msgstr "<var>BASE</var>^<var>EXP1 + EXP2</var>"
+
+msgid "<var>BASE</var>^<var>EXP1 - EXP2</var>"
+msgstr "<var>BASE</var>^<var>EXP1 - EXP2</var>"
+
+msgid "<var>CardinalThrough20(-B)</var> less than something means that we subtract <code><var>-B</var></code> from it."
+msgstr "<var>CardinalThrough20(-B)</var> से कम का मतलब है कि हम घटेंगे  <code><var>-B</var></code>उसमे सेI"
+
+msgid "<var>CardinalThrough20(-B)</var> less than the product of <var>cardinalThrough20(M)</var> and a number <code>x</code>."
+msgstr "<var>CardinalThrough20(-B)</var> less than the product of <var>cardinalThrough20(M)</var> and a number <code>x</code>."
+
+msgid "<var>CardinalThrough20(B)</var> minus something means that we subtract it from <code><var>B</var></code>."
+msgstr "<var>CardinalThrough20(B)</var> घटाने का मतलब कुछ ऐसा है कि हम इसमें से घटाएं <code><var>B</var></code>."
+
+msgid "<var>CardinalThrough20(B)</var> minus the product of <var>cardinalThrough20(-M)</var> and a number <code>x</code>."
+msgstr "<var>CardinalThrough20(B)</var> घटाने के बाद का परिणाम इसका <var>cardinalThrough20(-M)</var> और एक संख्या <code>x</code>."
+
+msgid "<var>CardinalThrough20(B)</var> more than something means that we add <code><var>B</var></code> to it."
+msgstr "<var>CardinalThrough20(B)</var> से कुछ अधिक का मतलब है कि हम जोड़ेंगे <code><var>B</var></code> उस मेंI"
+
+msgid "<var>CardinalThrough20(B)</var> more than the product of <var>cardinalThrough20(M)</var> and a number <code>x</code>."
+msgstr "<var>CardinalThrough20(B)</var>परिणाम से अधिक <var>cardinalThrough20(M)</var> और एक संख्या <code>x</code>."
+
+msgid "<var>person( 1 )</var> is building a straight fence, with posts one meter apart."
+msgstr "<var>person( 1 )</var> एक मीटर की दूरी के खम्भों से, एक सीधा बाड़ा बना रहा हैI"
+
+msgid "<var>person(1)</var> decided to buy a basket of <var>plural_form(fruit(1))</var> and a basket of <var>plural_form(fruit(2))</var> {before heading home|because those were his favorite kinds of fruit|}."
+msgstr "<var>person(1)</var> व्यक्ति ने एक <var>plural_form(fruit(1))</var> की टोकरी और एक टोकरी <var>plural_form(fruit(2))</var> की टोकरी को {before heading home|because those were his favorite kinds of fruit|} खरीदने का सोचाI"
+
+msgid "<var>person(1)</var> had to do <var>PROBLEMS</var> <code><var>START</var></code> through <code><var>END</var></code> for homework last week."
+msgstr "<var>person(1)</var> को <var>PROBLEMS</var> <code><var>START</var></code> से <code><var>END</var></code> तक करने थे पिछले सप्ताह के गृहकार्य के लिए।"
+
+msgid "<var>person(1)</var> had to do <var>PROBLEMS</var> <code><var>START</var></code> through <code><var>END</var></code> for homework tonight."
+msgstr "<var>person(1)</var> को <var>PROBLEMS</var> <code><var>START</var></code> से <code><var>END</var></code> तक करने थे पिछले सप्ताह के गृहकार्य के लिए।"
+
+msgid "<var>person(1)</var> had to read <var>PROBLEMS</var> <code><var>START</var></code> through <code><var>END</var></code> for homework last week."
+msgstr "<var>person(1)</var> को <var>PROBLEMS</var> पढना है <code><var>START</var></code> से <code><var>END</var></code> तक पिछले सप्ताह के गृहकार्य के लिए।"
+
+msgid "<var>person(1)</var> had to read <var>PROBLEMS</var> <code><var>START</var></code> through <code><var>END</var></code> for homework tonight."
+msgstr "<var>person(1)</var> को <var>PROBLEMS</var> पढना है <code><var>START</var></code> से <code><var>END</var></code> तक पिछले सप्ताह के गृहकार्य के लिए।"
+
+msgid "<var>person(1)</var> needs to pay <code>$<var>solution</var></code>."
+msgstr "<var>person(1)</var> को  <code>$<var>solution</var></code> वेतन देना हैI"
+
+msgid "<var>person(1)</var> received <code>$<var>solution</var></code> in change."
+msgstr "<var>person(1)</var> को <code>$<var>solution</var></code> छुट्टे पैसे मिलेI"
+
+msgid "<var>person(1)</var> travels <code><var>solution</var></code> <var>plural_form(distance(1), solution)</var> in total."
+msgstr "<var>person(1)</var> कुल <code><var>solution</var></code> <var>plural_form(distance(1), solution)</var> में सफ़र करता हैI"
+
+msgid "<var>person(1)</var> was assigned <var>PROBLEMS</var> <code><var>START</var></code> through <code><var>END</var></code> for homework last week."
+msgstr "पिछले सप्ताह के गृहकार्ये के लिए<var>person(1)</var> को <var>PROBLEMS</var> निर्धारित किये गए थे<code><var>START</var></code>से <code><var>END</var></code>।"
+
+msgid "<var>person(1)</var> was assigned <var>PROBLEMS</var> <code><var>START</var></code> through <code><var>END</var></code> for homework tonight."
+msgstr "पिछले सप्ताह के गृहकार्ये के लिए<var>person(1)</var> को <var>PROBLEMS</var> निर्धारित किये गए थे<code><var>START</var></code>से <code><var>END</var></code>।"
+
+msgid "<var>person(1)</var>'s time - <var>person(2)</var>'s time = difference in times."
+msgstr "<var>person(1)</var>'s time - <var>person(2)</var>'s समय= गुना का अंतरI"
+
+msgid "<var>person(2)</var> was <code><var>solution</var></code> seconds faster than <var>person(1)</var>."
+msgstr "<var>person(2)</var> <code><var>solution</var></code> क्षण तेज़ था <var>person(1)</var> सेI"
+
+msgid "<var>person(2)</var>'s town received <code><var>solution</var></code> centimeters more rain than <var>person(1)</var>'s town."
+msgstr "<var>person(2)</var> के शहर में <code><var>solution</var></code> सेंटीमीटर अधिक बारिश हुई <var>person(1)</var> के शहर सेI"
+
+msgid "<var>person(2)</var>'s weight + <var>person(3)</var>'s weight = total weight."
+msgstr "<var>person(2)</var>'s weight + <var>person(3)</var>'s weight =कुल वज़नI"
+
+msgid "???"
+msgstr "???"
+
+msgid "A baker has a whole {baguette|loaf of bread}."
+msgstr "एक रोटी बनाने वाले के पास {baguette|loaf of bread} है। "
+
+msgid "A distance of <var>DISTANCE_MAP</var>cm on the map is the same as <var>FACTOR</var> <code>\\cdot</code> <var>SCALE_MAP</var>cm."
+msgstr "नक़्शे पर <var>DISTANCE_MAP</var> दुरी  <var>FACTOR</var> <code>\\cdot</code> <var>SCALE_MAP</var>cm के समान  है ।"
+
+msgid "A negative divided by a negative is a positive."
+msgstr "एक ऋणात्मक एक ऋणात्मक से विभाजित करने पर एक घनात्मक होता हैI"
+
+msgid "A negative divided by a positive is a negative."
+msgstr "एक ऋणात्मक एक घनात्मक से विभाजित करने पर एक ऋणात्मक होता हैI"
+
+msgid "A number is divisible by <code>10</code> if the last digit is a <code>0</code>."
+msgstr "एक संख्या विभाजित हो सकती है <code>10</code>से अगर अंतिम अंक एक <code>0</code> हैI"
+
+msgid "A number is divisible by <code>4</code> if the last two digits are divisible by <code>4</code>. [<a href=\"#\" class=\"show-subhint\" data-subhint=\"explain-four\">Why?</a>]"
+msgstr "एक संख्या विभाजित हो सकती है <code>4</code> से अगर अंतिम के दो अंक विभाजित हो सकते हैं <code>4</code>. [<a href=\"#\" class=\"show-subhint\" data-subhint=\"explain-four\">Why?</a>] सेI"
+
+msgid "A number is divisible by <code>5</code> if the last digit is a <code>0</code> or a <code>5</code>."
+msgstr "एक संख्या विभाजित हो सकती है <code>5</code> इससे  अंतिम अंक है <code>0</code> या इससे<code>5</code>."
+
+msgid "A number is divisible by <code><var>FACTOR</var></code> if the sum of its digits is divisible by <code><var>FACTOR</var></code>. [<a href=\"#\" class=\"show-subhint\" data-subhint=\"explain-three\">Why?</a>]"
+msgstr "एक संख्या <code><var>FACTOR</var></code> विभाजित हो सकती है अगर उसके अंको का योग  <code><var>FACTOR</var></code>. [<a href=\"#\" class=\"show-subhint\" data-subhint=\"explain-three\">Why?</a>] से विभाजित हो सकता हैI"
+
+msgid "A number is divisible by another number (a divisor) if its prime factorization contains the prime factorization of the divisor."
+msgstr "एक संख्या दूसरी संख्या से भाज्य की जा सकती है (एक भाजक) अगर उसके अभाज्य गुणक के पास भाजक के अभाज्य गुणक हैंI"
+
+msgid "A positive divided by a negative is a negative."
+msgstr "एक घनात्मक एक ऋणात्मक से विभाजित करने पर एक ऋणात्मक होता हैI"
+
+msgid "A ratio of <code><var>RATIO_GIRLS</var></code> girls to <code><var>RATIO_BOYS</var></code> boys means that a set of <code><var>RATIO_GIRLS + RATIO_BOYS</var></code> students will have <code><var>RATIO_GIRLS</var></code> girls and <code><var>RATIO_BOYS</var></code> boys."
+msgstr "लड़कियों और लड़कों का अनुपात <code><var>RATIO_GIRLS</var></code> girls to <code><var>RATIO_BOYS</var></code> का मतलब है की  छात्रों के एक समूह <code><var>RATIO_GIRLS + RATIO_BOYS</var></code> <code><var>RATIO_GIRLS</var></code> girls and <code><var>RATIO_BOYS</var></code> में लड़के होंगे।"
+
+msgid "A ratio of <code><var>RATIO_GIRLS</var></code> girls to <code><var>RATIO_BOYS</var></code> boys means that there is a group of <code><var>RATIO_GIRLS</var></code> girls for every group of <code><var>RATIO_BOYS</var></code> boys."
+msgstr "<code><var>RATIO_GIRLS</var></code> <code><var>RATIO_BOYS</var></code> लड़कों को लड़कियों का अनुपात का मतलब है कि वहाँ <code><var>RATIO_GIRLS</var></code> के हर समूह <code><var>RATIO_BOYS</var></code> लड़कों के लिए लड़कियों का एक समूह है।"
+
+msgid "A water tank is a rectangular prism that is <code><var>H1</var></code> <var>plural_form(METERS, H1)</var> high, <code><var>L1</var></code> <var>plural_form(METERS, L1)</var> long, and <code><var>W1</var></code> <var>plural_form(METERS, W1)</var> wide. A solid metal box which is <code><var>H2</var></code> <var>plural_form(METERS, H2)</var> high, <code><var>L2</var></code> <var>plural_form(METERS, L2)</var> long, and <code><var>W2</var></code> <var>plural_form(METERS, W2)</var> wide is sitting inside the tank. The tank is filled with water."
+msgstr "पानी की टंकी एक आयताकार प्रिज्म है जोकि <code><var>H1</var></code> <var>plural_form(METERS, H1)</var> ऊँची, <code><var>L1</var></code> <var>plural_form(METERS, L1)</var> लम्बी, और <code><var>W1</var></code> <var>plural_form(METERS, W1)</var> चौड़ी है। एक ठोस धातु का डिब्बा टंकी के अन्दर है जोकि <code><var>H2</var></code> <var>plural_form(METERS, H2)</var> ऊँचा, <code><var>L2</var></code> <var>plural_form(METERS, L2)</var> लम्बा, और <code><var>W2</var></code> <var>plural_form(METERS, W2)</var> चौड़ा है। टंकी पानी से भरी हुई है।"
+
+msgid "Add <code>\\pink{<var>abs(B + D)</var>^\\circ}</code> to both sides."
+msgstr "<code>\\pink{<var>abs(B + D)</var>^\\circ}</code> को दोनों पक्षों में जोड़ें।"
+
+msgid "Add <code>\\pink{<var>abs(B)</var>^\\circ}</code> to both sides."
+msgstr "दोनों पक्षों में <code>\\pink{<var>abs(B)</var>^\\circ}</code> जोड़ें।"
+
+msgid "Add <code>\\pink{<var>abs(D)</var>}</code> to both sides."
+msgstr "दोनों पक्षों में <code>\\pink{<var>abs(D)</var>}</code> जोड़ें।"
+
+msgid "Add the digits of <code><var>STEP.num</var></code>:"
+msgstr "<code><var>STEP.num</var></code> के अंकों को जोडें:"
+
+msgid "Add up the lengths of the sides:"
+msgstr "भुजाओं की लंबाई को जोड़ें:"
+
+msgid "Add within 100"
+msgstr "100 के भीतर जोड़ें"
+
+msgid "Add within 20"
+msgstr "20 के अंदर का जुड़ाव"
+
+msgid "Add within 5"
+msgstr "5 के अन्दर जोड़ें"
+
+msgid "Adding and subtracting decimals word problems"
+msgstr "दशमलवों का जोड़ और घटाव शब्द समस्या "
+
+msgid "Adding and subtracting radicals"
+msgstr "मुलकों का हुदाव और घटाव"
+
+msgid "Adding decimals 0.5"
+msgstr "0.5 दशमलवों का जोड़ "
+
+msgid "Adding decimals 1"
+msgstr "1 दशमलवों का जोड़ "
+
+msgid "Adding decimals 2"
+msgstr "2  दशमलवों का जोड़ "
+
+msgid "Adding fractions with common denominators"
+msgstr "अंश को सामान्य भाजक के साथ जोड़ना "
+
+msgid "Adding negative numbers"
+msgstr "ऋणात्मक संख्याओं को जोड़ना"
+
+msgid "Algebra II"
+msgstr "बीजगणित II"
+
+msgid "All numbers which divide such a number will have a factorization which is part of <code><var>LCM_FACTORIZATION.join( \"\\\\times\" )</var></code>."
+msgstr "सभी संख्याएँ जो एक ऐसी संख्या को विभाजित करेगी उनके पास गुणखंडन होगा जो कि हिस्सा होगा  <code><var>LCM_FACTORIZATION.join( \"\\\\times\" )</var></code> काI"
+
+msgid "Angles 2"
+msgstr "कोण 2"
+
+msgid "Another way to get the answer is to divide by <code>\\dfrac{<var>M</var>}{<var>M</var>}</code>."
+msgstr "उत्तर ढूंढने का दूसरा तरीका है कि विभाजित करें <code>\\dfrac{<var>M</var>}{<var>M</var>}</code> सेI"
+
+msgid "Another way to get the answer is to multiply by <code>\\dfrac{<var>M</var>}{<var>M</var>}</code>."
+msgstr "उत्तर पाने के लिए दूसरा तरीका होगा के गुणा करें <code>\\dfrac{<var>M</var>}{<var>M</var>}</code> सेI"
+
+msgid "Another way to say this is:"
+msgstr "एक और तरीका यह कहना का :"
+
+msgid "Answer"
+msgstr "उत्तर"
+
+msgid "Answer more questions"
+msgstr "और सवालो का जवाब दें"
+
+msgid "Answer this question"
+msgstr "इस सवाल का जवाब दें"
+
+msgid "Answer this question..."
+msgstr "इस सवाल का जवाब दें..."
+
+msgid "Answers"
+msgstr "जवाब"
+
+msgid "Any even number is divisible by <code>2</code>."
+msgstr "कोई भी सम संख्या विभाजित हो सकती है <code>2</code> सेI"
+
+msgid "Area problems"
+msgstr "क्षेत्रफल सम्बंदित समस्याओं"
+
+msgid "Arithmetic"
+msgstr "अंकगणित "
+
+msgid "Ask a question"
+msgstr "एक सवाल पूछें"
+
+msgid "Ask a question..."
+msgstr "एक सवाल पूछें..."
+
+msgid "At 2:33, Sal said \"single bonds\" but meant \"covalent bonds.\""
+msgstr "2:33 बजे, सुनील कहता है \"सिंगल बांड\" मगर उसका अर्थ है \"कोवलेन्ट बांड.\""
+
+msgid "At 5:31, how is the moon large enough to block the sun? Isn't the sun way larger?"
+msgstr "शाम 5:31 पर, सूर्य को छिपाने के लिए चन्द्रमा पर्याप्त बड़ा कैसे हो सकता है? क्या सूर्य उससे अधिक बड़ा नहीं है?"
+
+msgid "At Hogwarts, there are four houses: <var>toSentence(HOUSES)</var>. The bar chart below shows the number of house points that each house received today."
+msgstr "होग्वार्ट्स पर चार घर  हैं : <var>toSentence(HOUSES)</var>.निचे दी हुई बार तालिका वो अंक दिखा रही है जो आज हर घर को मिले हैं ."
+
+msgid "At most 3 school creations is allowed per user"
+msgstr "प्रति उपयोगकर्ता,अधिक से अधिक ३ विद्यालय निर्माण की अनुमति दी गयी है।"
+
+msgid "Back to Top"
+msgstr "वापस ऊपर की ओर"
+
+msgid "Basic division"
+msgstr "मूल विभाजन"
+
+msgid "Be specific, and indicate a time in the video:"
+msgstr "विशिष्ट हो, और वीडियो में एक समय का दर्शान करें:"
+
+msgid "Because <code><var>NUMBER.toString().slice(0, -2) </var>00</code> is a multiple of <code>100</code>, it is also a multiple of <code>4</code>."
+msgstr "क्यूंकि <code><var>NUMBER.toString().slice(0, -2) </var>00</code> बहुल है <code>100</code>का , यह बहुल है <code>4</code> भीI"
+
+msgid "Because <code><var>NUMBER</var></code> is prime, its prime factorization is simply <code><var>NUMBER</var></code>."
+msgstr "क्यूंकि <code><var>NUMBER</var></code> अभाज्य है, इसका अभाज्य गुणनखंडन मात्र <code><var>NUMBER</var></code> हैI"
+
+msgid "Because the blue dot is above <code>0</code>, the number will be positive."
+msgstr "क्योंकि नीला बिंदु <code>0</code>के ऊपर है,  संख्या घनात्मक होगीI"
+
+msgid "Because the blue dot is below <code>0</code>, the number will be negative."
+msgstr "क्योंकि नीला बिंदु  <code>0</code>के नीचे है, संख्या ऋणात्मक होगीI"
+
+msgid "Because the blue dot is to the right of <code>0</code>, the number will be positive."
+msgstr "क्योंकि नीला बिंदु <code>0</code> के दाईं ओर है, संख्या घनात्मक होगीI"
+
+msgid "Because we know that there are <code><var>RATIO_BOYS</var></code> boys in each set of <code><var>RATIO_GIRLS + RATIO_BOYS</var></code> students, the class must have <code><var>FACTOR</var></code> groups of <code><var>RATIO_BOYS</var></code> boys each."
+msgstr "क्यूंकि हम जानते हैं की छात्रों के प्रत्येक समूह <code><var>RATIO_GIRLS + RATIO_BOYS</var></code> में  <code><var>RATIO_BOYS</var></code> लड़के हैं,तो कक्षा के प्रत्येक समूह में  <code><var>FACTOR</var></code> groups of <code><var>RATIO_BOYS</var></code> में लड़के होने चाहियें ।"
+
+msgid "Because we know that there are <code><var>RATIO_GIRLS</var></code> girls in each set of <code><var>RATIO_GIRLS + RATIO_BOYS</var></code> students, the class must have <code><var>FACTOR</var></code> groups of <code><var>RATIO_GIRLS</var></code> girls each."
+msgstr "क्यूंकि हम जानते हैं की छात्रों के प्रत्येक समूह  <code><var>RATIO_GIRLS + RATIO_BOYS</var></code> में <code><var>RATIO_GIRLS</var></code> लड़कियां हैं,तो कक्षा में प्रत्येक् समूह  में  <code><var>FACTOR</var></code> groups of <code><var>RATIO_GIRLS</var></code> लड़कियां होनी चाहियें ।"
+
+msgid "Because we know the ratio is <code><var>RATIO_GIRLS</var>:<var>RATIO_BOYS</var></code>, there must be <code><var>FACTOR</var></code> groups of <code><var>RATIO_BOYS</var></code> boys each."
+msgstr "क्यूंकि हम अनुपात जानते  हैं <code><var>RATIO_GIRLS</var>:<var>RATIO_BOYS</var></code>,तो वहां  <code><var>FACTOR</var></code> groups of <code><var>RATIO_BOYS</var></code> प्रतेक समूह लड़कों का होना चाहिए।"
+
+msgid "Both"
+msgstr "दोनों"
+
+msgid "Brian"
+msgstr "बशीर"
+
+msgid "Browse our library"
+msgstr "हमारे पुस्तकालय में खोजें"
+
+msgid "Can't find what you're looking for?"
+msgstr "क्षमा करें!जो आप ढूंढ रहे हैं,हम उसे खोज नहीं पा रहे है।"
+
+msgid "Carefully count the cubes. Some of the cubes might be hidden behind other cubes. Try to visualize all of the cubes."
+msgstr "ध्यानपूर्वक घनों को गिनें। कुछ घन अन्य घनों के पीछे छिपे हो सकते हैं. सभी घनों को देखने का प्रयास करें।"
+
+msgid "Circle"
+msgstr "वृत्त"
+
+msgid "Clarifications"
+msgstr "स्पष्टीकरण"
+
+msgid "Comment"
+msgstr "टिप्पणी"
+
+msgid "Comment on this answer..."
+msgstr "इस जवाब पर टिप्पणी दें..."
+
+msgid "Comment on your answer..."
+msgstr "अपने जवाब पर टिप्पणी दें..."
+
+msgid "Comment on your question..."
+msgstr "अपने सवाल पर टिप्पणी दें..."
+
+msgid "Compare."
+msgstr "तुलना करेंI"
+
+msgid "Comparing absolute values"
+msgstr "निरपेक्ष मानों की तुलना "
+
+msgid "Comparing decimals 1"
+msgstr "दशम्लावों का तुलनात्मक 1"
+
+msgid "Comparing fractions 1"
+msgstr "भिन्नों की तुलना 1"
+
+msgid "Comparing whole numbers"
+msgstr "पूर्ण संख्यों की तुलना"
+
+msgid "Composite numbers"
+msgstr "भाज्य संख्या"
+
+msgid "Congruent angles"
+msgstr "संगामी कोण"
+
+msgid "Consider the perfect squares near <code><var>Q</var></code>. [<a href=\"#\" class=\"show-subhint\" data-subhint=\"explain-perfect-square\">What are perfect squares?</a>]"
+msgstr "पूर्ण वर्गों को देखें <code><var>Q</var></code>के निकटI [<a href=\"#\" class=\"show-subhint\" data-subhint=\"explain-perfect-square\">पूर्ण वर्ग क्या हैं?</a>]"
+
+msgid "Converting decimals to percents"
+msgstr "दशमलव को प्रतिशत में बदलना "
+
+msgid "Converting mixed numbers and improper fractions"
+msgstr "मिश्रित संख्याओं और विषम भिन्नो का परिवर्तन"
+
+msgid "Converting percents to decimals"
+msgstr "प्रतिशत को दशमलव में बदलना"
+
+msgid "Copy Current Block 1: <span id=\"current_block_1_times\">1 time</span>"
+msgstr "जारी ब्लाक को अनुकरण करें: <span id=\"current_block_1_times\">1 time</span>"
+
+msgid "Copy Current Block 2: <span id=\"current_block_2_times\">1 time</span>"
+msgstr "जारी ब्लाक 2 का अनुकरण करें: <span id=\"current_block_2_times\">1 time</span>"
+
+msgid "Copy: <span id=\"current_block_times\">1 time</span>"
+msgstr "प्रतिलिपि: <span id=\"current_block_times\">1 time</span>"
+
+msgid "Counting 1"
+msgstr "गणना 1"
+
+msgid "Counting all the significant digits gives us <var>SOLUTION</var>."
+msgstr "सारे महत्वपूर्ण अंकों को गिनने पर हमे ये मिलता है <var>SOLUTION</var>."
+
+msgid "Create a new account."
+msgstr "एक नया खाता बनाएँ"
+
+msgid "Creating bar charts 1"
+msgstr "बार तालिकओं की सृष्टि 1"
+
+msgid "Cube roots"
+msgstr "घन मूल "
+
+msgid "Cube roots 2"
+msgstr "घन मूल 2"
+
+msgid "Current Block 1:"
+msgstr "जारी ब्लाक 1:"
+
+msgid "Current Block 2:"
+msgstr "जारी ब्लाक 2:"
+
+msgid "Current Block:"
+msgstr "जारी ब्लाक:"
+
+msgid "Cut Starting Block into: <span id=\"pieces\">1 piece</span>"
+msgstr "जारी ब्लाक को काटें : <span id=\"pieces\">1 piece</span>"
+
+msgid "Cut into: <span id=\"pieces\">1 piece</span>"
+msgstr "काटें: <span id=\"pieces\">1 piece</span>"
+
+msgid "Cutting a pizza into more slices means that each slice will be smaller."
+msgstr "एक पिज़्ज़ा को अधिक भागों में काटने का मतलब है कि प्रत्येक भाग छोटा होगाI"
+
+msgid "Decimals on the number line 1"
+msgstr "संख्या रेखा 1 पर दशमलव लगाएं"
+
+msgid "Decimals on the number line 2"
+msgstr "संख्या रेखा 2 पर दशमलव लगाएं"
+
+msgid "Decimals on the number line 3"
+msgstr "संख्या रेखा 3 पर दशमलव लगाएं"
+
+msgid "Determine the inequality represented by this graph on the number line:"
+msgstr "संख्या रेखा पर दिए आलेख की असमानता को दर्शाइए ।"
+
+msgid "Discuss the site"
+msgstr "साईट पर विमर्श करें "
+
+msgid "Divide <code>\\red{\\dfrac{1}{<var>DENOMINATOR</var>}}</code> into <code>\\blue{<var>INTEGER</var>}</code> pieces."
+msgstr "<code>\\red{\\dfrac{1}{<var>DENOMINATOR</var>}}</code> को <code>\\blue{<var>INTEGER</var>}</code> टुकड़ों में बाटें|"
+
+msgid "Divide both sides by <code><var>A - C</var></code>."
+msgstr "दोनों पक्षों को <code><var>A - C</var></code> से विभाजित करें।"
+
+msgid "Divide both sides by <code><var>C - A</var></code>."
+msgstr "दोनों पक्षों को <code><var>C - A</var></code> से विभाजित करें।"
+
+msgid "Divide both sides by <code>\\pink{<var>A - C</var>}</code>."
+msgstr "दोनों पक्षों को <code>\\pink{<var>A - C</var>}</code> से विभाजित करें।"
+
+msgid "Divide both sides by <code>\\pink{<var>C - A</var>}</code>."
+msgstr "दोनों पक्षों को <code>\\pink{<var>C - A</var>}</code> से विभाजित करें।"
+
+msgid "Divide by <code>\\pink{<var>A + C</var>}</code>."
+msgstr "<code>\\pink{<var>A + C</var>}</code> से विभाजित करें।"
+
+msgid "Dividing any number by 1 equals itself."
+msgstr "किसी संख्या को 1 से भाग देना उसी के समान होता हैI"
+
+msgid "Dividing completely"
+msgstr "पूरी तरह से विभाजन करना "
+
+msgid "Dividing decimals 1"
+msgstr "दशमलव विभाजन 1"
+
+msgid "Dividing decimals 2"
+msgstr "दशमलव  विभाजन २ "
+
+msgid "Dividing decimals 3"
+msgstr "दशमलव विभाजन ३ "
+
+msgid "Dividing positive fractions"
+msgstr "घनात्मक भिन्नों का विभाजन"
+
+msgid "Dividing whole numbers by fractions"
+msgstr "पूर्णांकों को भिन्नों से भाजन करना"
+
+msgid "Divisibility"
+msgstr "भाजकत्व"
+
+msgid "Division by 2 digits"
+msgstr "2 अंकों से विभाजन"
+
+msgid "Division with remainders"
+msgstr "विभाजन अवशेष के साथ"
+
+msgid "During a recent rainstorm, <code><var>rain_1</var></code> centimeters of rain fell in <var>person(1)</var>'s hometown, and <code><var>rain_2</var></code> centimeters of rain fell in <var>person(2)</var>'s hometown. {During the same storm, <code><var>snow_1</var></code> centimeters of snow fell in <var>person(3)</var>'s hometown.|}"
+msgstr "हाल ही में आए एक तूफ़ान में, <code><var>rain_1</var></code> सेंटीमीटर बारिश <var>person(1)</var>'s के गृह नगर में हुई, और <code><var>rain_2</var></code> सेंटीमीटर बारिश <var>person(2)</var>'s के गृह नगर में हुईI {तूफ़ान के दौरान, <code><var>snow_1</var></code> सेंटीमीटर बारिश <var>person(3)</var>'s के गृह नगर में हुईI|}"
+
+msgid "Each cube has side lengths of one <var>UNIT</var>. You can click and drag to rotate the shape."
+msgstr "प्रत्येक घन की भुजा लम्बाई एक <var>UNIT</var> है। आकार को घुमाने के लिए आप क्लिक और खींचें।"
+
+msgid "Each of the original <var>A</var> slices must be divided into <var>M</var> slices to get <var>C</var> slices in total."
+msgstr "प्रत्येक वास्तव <var>A</var> हिस्से विभाजित करने होंगे <var>M</var> हिस्सों में कुल <var>C</var> हिस्सों मेंI"
+
+msgid "Each piece is <code>\\green{\\dfrac{1}{<var>DENOMINATOR * INTEGER</var>}}</code> of the whole."
+msgstr "प्रत्येक टुकड़ा है <code>\\green{\\dfrac{1}{<var>DENOMINATOR * INTEGER</var>}}</code> पूरे काI"
+
+msgid "Email or username"
+msgstr "ईमेल या उपयोगकर्ता-नाम"
+
+msgid "Equations with variables on both sides"
+msgstr "चरों (variables) के दोनों तरफ समीकरण (equations) बनाएं।"
+
+msgid "Equilateral"
+msgstr "समबाहु"
+
+msgid "Equivalent fractions 2"
+msgstr "समतुल्य भिन्न 2"
+
+msgid "Estimating square roots"
+msgstr "वर्ग मूलों का आंकलन"
+
+msgid "Everyone will take <code><var>TIME_FINAL</var></code> minutes to paint their assigned wall."
+msgstr "प्रत्येक व्यक्ति को अपनी दी गयी दीवार रंगने में  <code><var>TIME_FINAL</var></code> मिनट लगेंगे ।"
+
+msgid "Example:"
+msgstr "उदाहरण:"
+
+msgid "Examples: %(examples)s"
+msgstr "उदाहरण: %(examples)s"
+
+msgid "Exponent rules"
+msgstr "घातांक के प्रमाण"
+
+msgid "Express <code><var>localeToFixed(D, 4)</var></code> as a fraction."
+msgstr "व्यक्त करें <code><var>localeToFixed(D, 4)</var></code> एक भिन्न कि तरहI"
+
+msgid "Express the decimal as a percent."
+msgstr "दशमलव को प्रतिशत में व्यक्त करना |"
+
+msgid "Expressing ratios as fractions"
+msgstr "अनुपात को भिन्न के रूप में व्यक्त करें ।"
+
+msgid "Favorite %(subject)s"
+msgstr "पसंदीदा  %(subject)s।"
+
+msgid "Fill in the blank to make the equation true."
+msgstr "समीकरणों को सही करने के लिए रिक्त स्थान की पूर्ती कीजिएI"
+
+msgid "Fill in the blank with the correct number."
+msgstr "सही संख्याओं के साथ रिक्त स्थान की पूर्ती कीजिए"
+
+msgid "Fill in the blank."
+msgstr "रिक्त स्थान की पूर्ती करें।"
+
+msgid "Finally, simplify by combining the terms."
+msgstr "अंततः, पदों को योग कर के सरलीकरण करेंI"
+
+msgid "Find <code><var>SEG_2</var></code>."
+msgstr "<code><var>SEG_2</var></code> पता करें।"
+
+msgid "Find the prime factorization of <code><var>NUMBER</var></code>."
+msgstr " <code><var>NUMBER</var></code> इसका   मूल गुणखण्ड निकालो "
+
+msgid "Finding absolute values"
+msgstr "निरपेक्ष मानों की प्राप्ति "
+
+msgid "Finding percents"
+msgstr "प्रतिशत निकालना "
+
+msgid "Finding perimeter"
+msgstr "परिमाप ज्ञात करें।"
+
+msgid "First, try to factor any perfect squares out of the radicals."
+msgstr "पहले, किस भी पूर्ण वर्गों को गुणनखंडित करें मुलकों सेI"
+
+msgid "First, we can break the number up by place value:"
+msgstr "पहले, हम संख्या को स्थान मूल्य से तोड़ सकते हैं:"
+
+msgid "Football"
+msgstr "फुटबॉल"
+
+msgid "For each number that the minute hand passes, add <code>\\dfrac{60}{12} = 5</code> minutes."
+msgstr "प्रत्येक संख्या जिस से मिनट की सूई बढ़ती हैं, जोडें <code>\\dfrac{60}{12} = 5</code> मिनटI"
+
+msgid "For each quarter of the circle that the minute hand passes, add <code>15</code> minutes."
+msgstr "प्रतयेक चक्र का चतुर्थश जो मिनट की सूई घुमाती है, जोड़ें <code>15</code> मिनटI"
+
+msgid "For example:"
+msgstr "उदाहरण के लिए:"
+
+msgid "Fractions cut and copy 1"
+msgstr "भिन्नों का कटाव और प्रतिरूप 1"
+
+msgid "Fractions cut and copy 2"
+msgstr "भिन्नों का कटाव और प्रतिरूप 2"
+
+msgid "Friend"
+msgstr "दोस्त "
+
+msgid "From the author:"
+msgstr "लेखक की ओर से:"
+
+msgid "Geometry"
+msgstr "ज्यामिति"
+
+msgid "Goal Block 1:"
+msgstr "गोल ब्लाक 1:"
+
+msgid "Goal Block 2:"
+msgstr "गोल ब्लाक 2:"
+
+msgid "Goal Block:"
+msgstr "गोल ब्लाक:"
+
+msgid "Goal block 1 has a length of <code><var>CODE_OFFSPRING_1</var></code> units, which can be rewritten as:"
+msgstr "गोल ब्लाक 1 की लम्बाई है <code><var>CODE_OFFSPRING_1</var></code> इकाईयों जितनी, जिसका पुनर्लेखन ऐसे हो सकता है :"
+
+msgid "Graph <var>LINE_SOLUTION</var>"
+msgstr "आलेख <var>LINE_SOLUTION</var>"
+
+msgid "Graph <var>label</var>"
+msgstr "आलेख <var>label</var>"
+
+msgid "Gryffindor"
+msgstr "गाँधी भवन "
+
+msgid "Have something that's not a question about this content?"
+msgstr "क्या कुछ ऐसा है जो इस विषय से सम्बंधित प्रश्न नहीं है? "
+
+msgid "Have something that's not a tip or thanks about this content?"
+msgstr "क्या कुछ ऐसा है जो इस विषय के बारे में कोई  टिप या धन्यवाद हेतु नहीं है? "
+
+msgid "Having <code><var>PART_PERCENT</var>\\%</code> of something means that you get <code><var>PART_PERCENT</var></code> out of every <code>100</code>."
+msgstr "होना<code><var>PART_PERCENT</var>\\%</code> किसी चीज़ का मतलब है कि आपको मिलता है <code><var>PART_PERCENT</var></code>प्रतेक <code>100</code> में सेI"
+
+msgid "Having a percent of something means that you get that percent out of every <code>100</code>."
+msgstr "किसी चीज़ का प्रतिशत पाने का मतलब है की आप उस प्रतिशत को प्राप्त करते हैं प्रत्येक <code>100</code> सेI"
+
+msgid "He did <code><var>NUM2</var> + <var>NUM1</var> = <var>TOTAL</var></code> <var>plural_form(exercise(1), TOTAL)</var>."
+msgstr "उसने किया  <code><var>NUM2</var> + <var>NUM1</var> = <var>TOTAL</var></code> <var>plural_form(exercise(1), TOTAL)</var>."
+
+msgid "Hi %(nickname)s"
+msgstr "नमस्ते %(nickname)s"
+
+msgid "Hour of Databases"
+msgstr "डेटाबेसेज़ के घंटे"
+
+msgid "Hour of Drawing with Code"
+msgstr "संकेतशब्द के साथ चित्रांकन का घंटा"
+
+msgid "Hour of Webpages"
+msgstr "वेबपृष्ठों का घंटा"
+
+msgid "Hours"
+msgstr "घंटे"
+
+msgid "House"
+msgstr "भवन "
+
+msgid "How does this violate our guidelines?"
+msgstr "यह कैसे हमारी दिशा निर्देशों का उल्लंघन करता है?"
+
+msgid "How many <var>BADGE</var> badges did <var>person( PERSON + 1 )</var> earn?"
+msgstr "कितने बिल्ले <var>BADGE</var> बिल्ले  <var>person( PERSON + 1 )</var>कमाए ?"
+
+msgid "How many <var>plural_form(distance(1))</var> is <var>person(1)</var>'s journey in total?"
+msgstr "कितने <var>plural_form(distance(1))</var>  <var>person(1)</var>'s की कुल यात्रा के होंगे?"
+
+msgid "How many cars are in the parking lot now?"
+msgstr "पार्किंग स्थल में अब कितनी गाड़ियां हैं?"
+
+msgid "How many circles are there?"
+msgstr "यहाँ कितने वृत्त हैं?"
+
+msgid "How many house points did <var>HOUSES[INDEX]</var> receive?"
+msgstr "कितने घर अंक <var>HOUSES[INDEX]</var> ने प्राप्त किये?"
+
+msgid "How many minutes does it take <code><var>PEOPLE_FINAL</var></code> people to paint <code><var>WALL_FINAL</var></code> walls?"
+msgstr "<code><var>PEOPLE_FINAL</var></code> व्यक्तियों को <code><var>WALL_FINAL</var></code> दीवार रंगने में कितना मिनट लगेगा ?"
+
+msgid "How many parallel cuts must {he|she} make to have exactly <code><var>NUM</var></code> even slices?"
+msgstr "<code><var>NUM</var></code> समान टुकड़े बनाने के लिए उसे कितनी बार समानांतर रूप से काटना होगा ?"
+
+msgid "How many people are riding the train now?"
+msgstr "कितने व्यक्ति अभी रेल में चल रहे हैं?"
+
+msgid "How many people got off the train at the stop?"
+msgstr "स्टॉप पर कितने व्यक्ति रेल से उतरे?"
+
+msgid "How many people were riding the train before the stop?"
+msgstr "स्टॉप से पहले कितने व्यक्ति रेल को चला रहे थे?"
+
+msgid "How many rows are there?"
+msgstr "यहाँ कितने खाने हैं?"
+
+msgid "How many significant figures does <code><var>TOTAL</var></code> have?"
+msgstr "कितने महत्वपूर्ण आंकड़े <code><var>TOTAL</var></code> के पास हैं?"
+
+msgid "How many slices would we need to cut each <var>pizza(1)</var> into so that <var>C</var> slices would give us the same amount of <var>pizza(1)</var>?"
+msgstr "हमे प्रत्येक कितने हिस्से काटने होंगे <var>pizza(1)</var> ताकि  <var>C</var> हिस्से हमे समान मात्रा में <var>pizza(1)</var> दें?"
+
+msgid "How many trees are on the banks of the river?"
+msgstr "नदी के तट पर कितने पेड़ हैं?"
+
+msgid "How much change did <var>person(1)</var> receive?"
+msgstr "<var>person(1)</var> व्यक्ति ने कितना पाया?"
+
+msgid "How much did <var>person(1)</var> need to pay for her produce?"
+msgstr "प्रत्येक <var>person(1)</var>  को अपनी उपज के लिए कितना देना पड़ा?"
+
+msgid "How much did <var>person(1)</var> need to pay for his produce?"
+msgstr "प्रत्येक  <var>person(1)</var> को अपनी उपज के लिए कितना देना पड़ा?"
+
+msgid "How much did the babies weigh in total?"
+msgstr "बच्चों का कुल वज़न कितना है?"
+
+msgid "How much faster was <var>person(2)</var> than <var>person(1)</var> in seconds?"
+msgstr "कितना तेज़ था <var>person(2)</var> <var>person(1)</var> से क्षणों में?"
+
+msgid "How much more rain fell in <var>person(2)</var>'s town than in <var>person(1)</var>'s town?"
+msgstr "कितनी बारिश हुई  <var>person(2)</var>'s के नगर के मुकाबले <var>person(1)</var>'s के नगर मेंI"
+
+msgid "Hufflepuff"
+msgstr "हुमायूँ भवन "
+
+msgid "Hundreds"
+msgstr "सैकड़ा"
+
+msgid "Hundredths"
+msgstr "सौवां भाग"
+
+msgid "I'd like a hint"
+msgstr "मैं एक संकेत चाहता हूँ"
+
+msgid "Identify the non-zero digits and any zeros between them. These are all significant."
+msgstr "गैर-शून्य अंकों और उनके बीच के किसी भी शून्य को पहचानेI ये सभी महत्वपूर्ण हैंI"
+
+msgid "If <code><var>STEP.sum</var></code> is divisible by <code><var>FACTOR</var></code>, then <code><var>STEP.num</var></code> must also be divisible by <code><var>FACTOR</var></code>."
+msgstr "अगर  <code><var>STEP.sum</var></code> विभाजित हो सकता है <code><var>FACTOR</var></code> से, तो <code><var>STEP.num</var></code>भी विभाजित हो सकता है divisible by <code><var>FACTOR</var></code> सेI"
+
+msgid "If <var>person(1)</var> ate <code>\\dfrac{<var>A</var>}{<var>TOTAL</var>}</code> of the <var>pizza(1)</var> and all the slices are the same size, what fraction of the <var>pizza(1)</var> was eaten in total?"
+msgstr "अगर <var>person(1)</var> ate <code>\\dfrac{<var>A</var>}{<var>TOTAL</var>}</code> of the <var>pizza(1)</var> और सारे भाग समान आकार के हैं, कौन सा अंश <var>pizza(1)</var> का कुल खाया गया?"
+
+msgid "If the fence is <code><var>LENGTH</var></code> meters long, how many fence posts does he need?"
+msgstr "अगर बाड़ा <code><var>LENGTH</var></code> मीटर लंबा है, तो उसे कितने खम्भों की ज़रुरत है?"
+
+msgid "If the fence is <code><var>LENGTH</var></code> meters long, how many fence posts does she need?"
+msgstr "अगर बाड़ा <code><var>LENGTH</var></code> मीटर लंबा है, तो उसे कितने खम्भों की ज़रुरत है?"
+
+msgid "If the fence is one meter long, he needs two posts (one for each end)."
+msgstr "अगर बाड़ा एक मीटर लम्बा है, उसे दो खम्बों की आवश्यकता  होगी (प्रतेक अंतिम छोर के लिए)।"
+
+msgid "If the fence is one meter long, she needs two posts (one for each end)."
+msgstr "अगर बाड़ा एक मीटर लम्बा है, उसे दो खम्भों की आवशयकता होगी (प्रत्येक अंतिम छोर के लिए एक)।"
+
+msgid "If the fence is two meters long, then he needs three posts, and so on."
+msgstr "अगर बाड़ा दो मीटर लम्बा है, तो उसे तीन खम्बों की आवशयकता होगी, और इत्यादिI"
+
+msgid "If the fence is two meters long, then she needs three posts, and so on."
+msgstr "अगर बाड़ा दो मीटर लम्बा है, तो उसे तीन खम्बों की आवशयकता होगी, और इत्यादिI"
+
+msgid "If there are <code><var>NUM_BOYS</var></code> boys, how many girls are there?"
+msgstr "अगर वहां  <code><var>NUM_BOYS</var></code> लड़के हैं,तो लड़कियां कितनी हैं ?"
+
+msgid "If there are <code><var>NUM_BOYS</var></code> boys, then there are <code><var>FACTOR</var></code> groups of <code><var>RATIO_BOYS</var></code> boys each."
+msgstr "अगर वहां <code><var>NUM_BOYS</var></code> लड़के हैं,तो वहां  <code><var>FACTOR</var></code> प्रत्येक समूह  <code><var>RATIO_BOYS</var></code> लड़कों का होना चाहिए ।"
+
+msgid "If there are <code><var>NUM_GIRLS</var></code> girls, how many boys are there?"
+msgstr "यदि यहाँ  <code><var>NUM_GIRLS</var></code> हैं,तो यहाँ  कितने लड़के  हैं ?"
+
+msgid "If there were initially <code><var>TOTAL</var></code> slices and all the slices are the same size, what fraction of the <var>pizza(1)</var> is remaining?"
+msgstr "अगर शुरू में <code><var>TOTAL</var></code> भाग थे और सारे भाग एक आकार के थे, कौन सा अंश <var>pizza(1)</var> का बचा है?"
+
+msgid "If there were initially <code><var>TOTAL</var></code> slices of equal size, what fraction of the <var>pizza(1)</var> was eaten?"
+msgstr "अगर शुरू में <code><var>TOTAL</var></code>  भाग थे समान आकार के, कौनसा अंश खाया गया था <var>pizza(1)</var> का?"
+
+msgid "If we add <code><var>B</var></code> and <code><var>expr([\"*\", M, \"x\"])</var></code>, we have <code><var>expr([\"+\", B, [\"*\", M, \"x\"]])</var></code>."
+msgstr "अगर हम जोड़ते हैं <code><var>B</var></code> और<code><var>expr([\"*\", M, \"x\"])</var></code>, हमारे पास होगा <code><var>expr([\"+\", B, [\"*\", M, \"x\"]])</var></code>."
+
+msgid "If we add <code><var>B</var></code> to <code><var>expr([\"*\", M, \"x\"])</var></code>, we have <code><var>expr([\"+\", B, [\"*\", M, \"x\"]])</var></code>."
+msgstr "अगर हम जोड़ें <code><var>B</var></code> इसमें <code><var>expr([\"*\", M, \"x\"])</var></code>, हमारे पास होगा<code><var>expr([\"+\", B, [\"*\", M, \"x\"]])</var></code>."
+
+msgid "If we copy a piece <code><var>N_OFFSPRING_EXPANDED</var></code> times, we will get a length of <code><var>N_OFFSPRING_EXPANDED</var> \\times <var>fraction(1, D)</var> = <var>fraction(N_OFFSPRING_EXPANDED, D)</var></code> units."
+msgstr "अगर हम एक हिस्से की अनुकृति करें <code><var>N_OFFSPRING_EXPANDED</var></code> बार, हमे लम्बाई मिलेगी <code><var>N_OFFSPRING_EXPANDED</var> \\times <var>fraction(1, D)</var> = <var>fraction(N_OFFSPRING_EXPANDED, D)</var></code> इकाईओं कीI"
+
+msgid "If we copy a piece of length <code>\\dfrac{1}{<var>LCM</var>}</code> units <code><var>OFFSPRING_1_MULTI * N_OFFSPRING_1</var></code> times we get <code><var>fraction(OFFSPRING_1_MULTI * N_OFFSPRING_1, LCM)</var></code> units, which is the length of goal block 1."
+msgstr "अगर हम लम्बाई के एक हिस्से को अनुकृत कर सकते हैं <code>\\dfrac{1}{<var>LCM</var>}</code> units <code><var>OFFSPRING_1_MULTI * N_OFFSPRING_1</var></code>बार हमे मिलता है <code><var>fraction(OFFSPRING_1_MULTI * N_OFFSPRING_1, LCM)</var></code>इकाइयां, जो कि गोल ब्लाक 1 की लम्बाई हैI"
+
+msgid "If we copy a piece of length <code>\\dfrac{1}{<var>LCM</var>}</code> units <code><var>OFFSPRING_2_MULTI * N_OFFSPRING_2</var></code> times we get <code><var>fraction(OFFSPRING_2_MULTI * N_OFFSPRING_2, LCM)</var></code> units, which is the length of goal block 2."
+msgstr "अगर हम एक लम्बाई के हिस्से को अनुकृत करते हैं  <code>\\dfrac{1}{<var>LCM</var>}</code> units <code><var>OFFSPRING_2_MULTI * N_OFFSPRING_2</var></code>गुना हम पाते हैं <code><var>fraction(OFFSPRING_2_MULTI * N_OFFSPRING_2, LCM)</var></code>इकाइयां, जो कि गोल ब्लाक 2 की लम्बाई हैI"
+
+msgid "If we cut the starting block into <code><var>SLICES</var></code> equal pieces, each piece will have a length of <code><var>fraction(1, LCM)</var></code> units."
+msgstr "अगर हम आरंभिक ब्लाक को <code><var>SLICES</var></code>  बराबर हिस्सों में काटें, प्रत्येक हिस्से की लम्बाई <code><var>fraction(1, LCM)</var></code> इकाईओं जितनी होगीI"
+
+msgid "If we divide all the original slices into <var>M</var> slices, then one <var>pizza(1)</var> will have a total of <var>D</var> slices."
+msgstr "अगर हम वास्तविक सारे हिस्सों को <var>M</var> हिस्सों में विभाजित कर देते हैं, तो एक <var>pizza(1)</var> के पास कुल <var>D</var>  हिस्से होंगेI"
+
+msgid "If we divide the denominator of the fraction on the left by <code><var>FACTOR</var></code>, it will be the same denominator of the fraction on the right. To keep things equal, let's also divide the numerator on the left by <code><var>FACTOR</var></code>:"
+msgstr "अगर हम भिन्न के हर को गुणा करें बाईं ओर के <code><var>FACTOR</var></code> से, वह भिन्न का समान हर होगा दाईं ओरI चीज़ों को बराबर रखने के लिए, चलिए हम अंश को भी गुणा करें बाईं ओर <code><var>FACTOR</var></code> से:"
+
+msgid "If we give each person <var>M</var> slices, how many people can we feed with one <var>pizza(1)</var>?"
+msgstr "अगर हम प्रत्येक व्यक्ति को <var>M</var> हिस्से दें, कितने व्यक्ति खिला सकेंगे एक <var>pizza(1)</var> से?"
+
+msgid "If we have <code><var>PEOPLE_FINAL</var></code> people and <code><var>WALL_FINAL</var></code> walls, we can again assign one wall to each person."
+msgstr "अगर हमारे पास <code><var>PEOPLE_FINAL</var></code> लोग हैं और <code><var>WALL_FINAL</var></code>  दीवार है, तो हम प्रत्येक व्यक्ति को एक दीवार दे सकते हैं।  "
+
+msgid "If we have <code>\\blue{<var>A</var>}</code> zeros, how much do we have in total?"
+msgstr "अगर हमारे पास  <code>\\blue{<var>A</var>}</code> शुन्य हैं, तो हमारे पास कुल कितने शुन्य हैं?"
+
+msgid "If we have <code>\\green{<var>B</var>}</code> zeros, how much do we have in total?"
+msgstr "अगर हमारे पास <code>\\green{<var>B</var>}</code> शुन्य हैं, हमारे पास कुल कितने शुन्य हैं?"
+
+msgid "If we have one <code>\\blue{<var>A</var>}</code>, how much do we have in total?"
+msgstr "अगर हमारे पास एक <code>\\blue{<var>A</var>}</code> है, तो हमारे पास कुल कितने हैं?"
+
+msgid "If we have one <code>\\green{<var>B</var>}</code>, how much do we have in total?"
+msgstr "अगर हमारे पास एक  <code>\\green{<var>B</var>}</code> है, तो हमारे पास यह कुल कितना है ?"
+
+msgid "If we multiply <code><var>M</var></code> and <code>x</code>, we have <code><var>expr([\"*\", M, \"x\"])</var></code>."
+msgstr "अगर हम गुणा करते हैं <code><var>M</var></code>और<code>x</code>, हमारे पास होगा <code><var>expr([\"*\", M, \"x\"])</var></code>."
+
+msgid "If we multiply the denominator of the fraction on the left by <code><var>MULTIPLE</var></code>, it will be the same denominator of the fraction on the right. To keep things equal, let's also multiply the numerator on the left by <code><var>MULTIPLE</var></code>:"
+msgstr "अगर हम भिन्न के भाजक को गुणा करें बाईं ओर के <code><var>MULTIPLE</var></code> से, वह भिन्न का समान भाजक होगा दाईं ओरI चीज़ों को बराबर रखने के लिए, चलिए हम गणक को भी गुणा करें बाईं ओर <code><var>MULTIPLE</var></code> से:"
+
+msgid "If we multiply the denominator of the fraction on the right by <code><var>FACTOR</var></code>, it will be the same denominator of the fraction on the left. To keep things equal, let's also multiply the numerator on the right by <code><var>FACTOR</var></code>:"
+msgstr "अगर हम भिन्न के हर को गुणा करें दाईं ओर के <code><var>FACTOR</var></code> से, वह भिन्न का समान हर होगा बाईं ओरI चीज़ों को बराबर रखने के लिए, चलिए हम अंश को भी गुणा करें दाईं ओर <code><var>FACTOR</var></code> से:"
+
+msgid "If we subtract <code><var>-B</var></code> from <code><var>expr([\"*\", M, \"x\"])</var></code>, we have <code><var>expr([\"+\", [\"*\", M, \"x\"], B])</var></code>."
+msgstr "अगर हम घटाते हैं <code><var>-B</var></code>इसमें से<code><var>expr([\"*\", M, \"x\"])</var></code>, हमारे पास होगा <code><var>expr([\"+\", [\"*\", M, \"x\"], B])</var></code>."
+
+msgid "If we subtract <code><var>expr([\"*\", -M, \"x\"])</var></code> from <code><var>B</var></code>, we have <code><var>expr([\"+\", B, [\"*\", M, \"x\"]])</var></code>."
+msgstr "अगर हम घटाते हैं <code><var>expr([\"*\", -M, \"x\"])</var></code> इसमें से <code><var>B</var></code>, हमारे पास होगा<code><var>expr([\"+\", B, [\"*\", M, \"x\"]])</var></code>."
+
+msgid "If we swap the order of the dots, the number of dots doesn't change."
+msgstr "अगर हम बिन्दुओं के क्रम को बदल दें, बिन्दुओं की संख्या बदलेगी नहींI"
+
+msgid "If you can't think of that number, you can break down <code><var>Q</var></code> into its prime factorization and look for equal groups of numbers."
+msgstr "यदि आप उस संख्या के बारे में नहीं सोच सकते, आप <code><var>Q</var></code> को इसके अभाज्य गुणनखंडन के रूप में तोड़ सकते है और सामान समूह की संख्याओं की तरफ देख सकते हैI "
+
+msgid "If:<br> <span id=\"given0\"><code>\\qquad <var>GIVEN[ 0 ][ 1 ]</var></code></span>,<br> <span id=\"given1\"><code>\\qquad <var>GIVEN[ 1 ][ 1 ]</var></code></span>, and<br> <span id=\"given2\"><code>\\qquad <var>GIVEN[ 2 ][ 1 ]</var></code></span>,"
+msgstr "अगर:<br> <span id=\"given0\"><code>\\qquad <var>GIVEN[ 0 ][ 1 ]</var></code></span>,<br> <span id=\"given1\"><code>\\qquad <var>GIVEN[ 1 ][ 1 ]</var></code></span>, और <br> <span id=\"given2\"><code>\\qquad <var>GIVEN[ 2 ][ 1 ]</var></code></span>,"
+
+msgid "Imagine that each person is assigned one wall, and all <code><var>PEOPLE_INIT</var></code> people begin painting at the same time."
+msgstr "मान लीजिए कि प्रत्येक व्यक्ति को रंगने के लिए एक दीवार दी गयी है, और सभी <code><var>PEOPLE_INIT</var></code> एक ही समय पर रंगना शुरू करते हैं ।"
+
+msgid "In order to take the same amount of <var>pizza(1)</var> as before, we now need to take <var>C</var> slices."
+msgstr "समान मात्रा का <var>pizza(1)</var> पहले जैसे ले जाने के लिए, हमे अब <var>C</var> हिस्से ले जाने होंगेI"
+
+msgid "In order to take the same amount of <var>pizza(1)</var> as before, we now need to take only <var>A</var> slices."
+msgstr "समान मात्रा में <var>pizza(1)</var> जैसे पहले लिया था लेने के लिए, अब हमे केवल <var>A</var> हिस्से लेने होंगेI"
+
+msgid "In other words, it takes <code><var>TIME_FINAL</var></code> minutes for <code><var>PEOPLE_FINAL</var></code> people to paint <code><var>WALL_FINAL</var></code> walls."
+msgstr "दूसरे शब्दों में, <code><var>PEOPLE_FINAL</var></code> लोगों को <code><var>WALL_FINAL</var></code> दीवार रंगने में <code><var>TIME_FINAL</var></code>  मिनट लगते हैं ।"
+
+msgid "Inequalities on a number line"
+msgstr "संख्या रेखा पर असमानताएं"
+
+msgid "Instead of counting <var>PROBLEMS</var> <code><var>START</var></code> through <code><var>END</var></code>, we can subtract <code><var>START - 1</var></code> from each number."
+msgstr "<code><var>START</var></code> से <code><var>END</var></code> तक <var>PROBLEMS</var> को गिनने की बजाए ,प्रत्येक संख्या को हम <code><var>START - 1</var></code> से घटा सकते है।"
+
+msgid "Integers that appear in order when counting, for example 2 and 3."
+msgstr "पूर्णांक जो क्रम में दिखते हैं गिनने पर, उदाहरण 2 और 3."
+
+msgid "Is <code>\\large{<var>NUMBER</var>}</code> divisible by <code><var>FACTOR</var></code>?"
+msgstr "है  <code>\\large{<var>NUMBER</var>}</code> divisible by <code><var>FACTOR</var></code>?"
+
+msgid "Is the value of the last two digits, <code><var>NUMBER % 100</var></code>, divisible by <code>4</code>?"
+msgstr "क्या अंतिम के दो अंको का मूल्य <code><var>NUMBER % 100</var></code>, विभाजित हो सकता है <code>4</code> से?"
+
+msgid "Isaac"
+msgstr "इमरान"
+
+msgid "Isosceles"
+msgstr "समद्विबाहु"
+
+msgid "It takes <code><var>TIME_INIT</var></code> minutes for <code><var>PEOPLE_INIT</var></code> people to paint <code><var>WALL_INIT</var></code> walls."
+msgstr "<code><var>PEOPLE_INIT</var></code> व्यक्तियों को <code><var>WALL_INIT</var></code> दीवार रंगने में <code><var>TIME_INIT</var></code> मिनट लगते है । "
+
+msgid "Join our help discussions"
+msgstr "हमारे सहायता सम्बंधी विचारविमर्श में शामिल हों"
+
+msgid "Kate"
+msgstr "केट"
+
+msgid "Kilometers"
+msgstr "किलोमीटर"
+
+msgid "Label the other tick marks on the number line."
+msgstr "दुसरे चिन्ह्हों को संख्या रेखा पर चिन्ह्हित करेंI"
+
+msgid "Label the rest of the number line."
+msgstr "शेष सांख्य रेखा को निम्नांकित कीजियेI"
+
+msgid "Lauren"
+msgstr "ललित"
+
+msgid "Leading zeros are not significant."
+msgstr "बढ़ते हुए शून्य महत्वपूर्ण हैंI"
+
+msgid "Length (cm)"
+msgstr "लम्बाई (सेंटीमीटर)"
+
+msgid "Let us draw a factor tree."
+msgstr "चलिए एक गुणन पेड़ बनाते हैंI"
+
+msgid "Let's draw a factor tree."
+msgstr "चलिए एक गुणन पेड़ बनाते हैंI"
+
+msgid "Log in first"
+msgstr "पहले लॉगिन करे "
+
+msgid "Miles"
+msgstr "मयंक"
+
+msgid "Minutes"
+msgstr "मिनट"
+
+msgid "Money and decimal place value intuition"
+msgstr "पैसे और दशमलव स्थान मान अंतर्ज्ञान"
+
+msgid "More"
+msgstr "अधिक"
+
+msgid "Most Voted"
+msgstr "अधिकतम मत"
+
+msgid "Move the orange dot to select your answer."
+msgstr "अपने उत्तर का चुनाव करने के लिए नांरगी बिंदु को सरकायें।"
+
+msgid "Mr. Pink"
+msgstr "श्री पुनीत"
+
+msgid "Multi-digit division"
+msgstr "बहु-अंक विभाजन"
+
+msgid "Multi-digit division without remainders"
+msgstr "बहु-अंक विभाजन शेषफल के बिना"
+
+msgid "Multiplication with regrouping"
+msgstr "पुनःवर्गीकरण के साथ बहुलीकरण"
+
+msgid "Multiply, simplify to lowest terms, and write as a mixed number:"
+msgstr "गुना करें, सरल करें न्यूनतम संबंधों तक, और एक मिश्रित संख्या जैसे लिखे:"
+
+msgid "Multiplying 2 digits by 2 digits"
+msgstr "2 अंकों को 2 अंकों से गुणा करना"
+
+msgid "Multiplying and dividing scientific notation"
+msgstr "वैज्ञानिक संकेतन का गुणन और विभाजन"
+
+msgid "Must specify name, phone and location"
+msgstr "नाम, फोन और स्थान निर्दिष्ट करना होगा"
+
+msgid "Negative numbers on the number line"
+msgstr "सांख्य पंक्ति पर ऋणात्मक संख्याएं"
+
+msgid "Nick"
+msgstr "निकेतन"
+
+msgid "No solutions"
+msgstr "कोई हल नहीं"
+
+msgid "No, <code><var>NUMBER % 100</var></code> is not divisible by <code>4</code>, so <code><var>NUMBER</var></code> is also not divisible by <code>4</code>."
+msgstr "नहीं, <code><var>NUMBER % 100</var></code> विभाजित नहीं हो सकता <code>4</code>से , इसलिए <code><var>NUMBER</var></code>भी विभाजित नहीं हो सकता <code>4</code> सेI"
+
+msgid "None of the above"
+msgstr "उपर्युक्त में से कोई नहीं "
+
+msgid "Not added due to spam detection"
+msgstr "स्पैम का पता लगाने के कारण जोड़ा नहीं"
+
+msgid "Notice that he did <code><var>ANSWER</var></code> and not <code><var>ANSWER - 1</var></code> <var>PROBLEMS</var>."
+msgstr "ध्यान दीजिए कि उसने <code><var>ANSWER</var></code> दिया, और <code><var>ANSWER - 1</var></code> <var>PROBLEMS</var> नहीं।"
+
+msgid "Notice that he read <code><var>ANSWER</var></code> and not <code><var>ANSWER - 1</var></code> <var>PROBLEMS</var>."
+msgstr "ध्यान दीजिए कि उसने <code><var>ANSWER</var></code> दिया, और <code><var>ANSWER - 1</var></code> <var>PROBLEMS</var> का नहीं।"
+
+msgid "Notice that she did <code><var>ANSWER</var></code> and not <code><var>ANSWER - 1</var></code> <var>PROBLEMS</var>."
+msgstr "ध्यान दीजिए कि उसने <code><var>ANSWER</var></code> दिया, और <code><var>ANSWER - 1</var></code> <var>PROBLEMS</var> का नहीं।"
+
+msgid "Notice that she read <code><var>ANSWER</var></code> and not <code><var>ANSWER - 1</var></code> <var>PROBLEMS</var>."
+msgstr "ध्यान दीजिए कि वह <code><var>ANSWER</var></code> पढ़ती है, और <code><var>ANSWER - 1</var></code> <var>PROBLEMS</var>  नहीं।"
+
+msgid "Notice that we can rearrange the factors like so:"
+msgstr "ध्यान दे कि हम गुणनखंडों को फिर से लगा सकते है जैसे कि: "
+
+msgid "Now draw an arrow to the left of the circle to include all numbers less than <code><var>SIGN + ( INT + FRAC )</var></code>."
+msgstr "अब वृत्त की  ओर एक तीर खेंचे जिसमे <code><var>SIGN + ( INT + FRAC )</var></code>कम से  कम सारे अंक आएं ।"
+
+msgid "Now draw an arrow to the right of the circle to include all numbers greater than <code><var>SIGN + ( INT + FRAC )</var></code>."
+msgstr "अब वृत्त की दाहिनी ओर एक तीर खींचे जिसमे  <code><var>SIGN + ( INT + FRAC )</var></code> से सारे बड़े अंक आयें।"
+
+msgid "Now if we distribute and rearrange, we get this:"
+msgstr "अब, अगर हम बांटे और पुनः विवस्थित करें, तो हम ये पाएँगे:"
+
+msgid "Now the <var>PROBLEMS</var> are <code>1</code> through <code><var>ANSWER</var></code>."
+msgstr "अब <var>PROBLEMS</var> <code><var>ANSWER</var></code> से <code>1</code> है।"
+
+msgid "Now we know the number of <var>plural_form(ITEM)</var> at the different <var>plural_form(LOCATION_DISPLAY)</var>:"
+msgstr "अब हम <var>plural_form(ITEM)</var> की संख्या को जानते हैं अलग ओर <var>plural_form(LOCATION_DISPLAY)</var>:"
+
+msgid "Number line 3"
+msgstr "संख्या रेखा 3"
+
+msgid "OR"
+msgstr "अथवा"
+
+msgid "One <var>pizza(1)</var> has <var>D</var> slices, so if we give each person <var>M</var> slices, we could feed <var>B</var> people."
+msgstr "एक <var>pizza(1)</var> has <var>D</var> हिस्से, इसलिए अगर हम प्रत्येक व्यक्ति को <var>M</var>जिससे देते हैं, हम खिला सकते हैं  <var>B</var> व्यक्ति कोI"
+
+msgid "One cut will make two slices, two cuts will make three slices, and so on."
+msgstr "एक काट से दो टुकड़े बनेंगे , 2 काट से तीन टुकड़े बनेंगे इत्यादि।"
+
+msgid "One side of a square is <code><var>S</var></code> <var>plural_form(UNIT_TEXT, S)</var> long. What is its area?"
+msgstr "वर्ग की एक भुजा <code><var>S</var></code> <var>plural_form(UNIT_TEXT, S)</var> लम्बा है . इसका क्षेत्रफल क्या होगा?"
+
+msgid "One solution"
+msgstr "एक हल"
+
+msgid "One solution would be: <code>(<var>getPrimeFactorization(WIDTH).join(\"\\\\space\\\\color{black}{\\\\times}\\\\space\")</var>)</code>, <code>(<var>getPrimeFactorization(LENGTH).join(\"\\\\space\\\\color{black}{\\\\times}\\\\space\")</var>)</code> and <code>(<var>getPrimeFactorization(HEIGHT).join(\"\\\\space\\\\color{black}{\\\\times}\\\\space\")</var>)</code>"
+msgstr "एक हल होगा: <code>(<var>getPrimeFactorization(WIDTH).join(\"\\\\space\\\\color{black}{\\\\times}\\\\space\")</var>)</code>, <code>(<var>getPrimeFactorization(LENGTH).join(\"\\\\space\\\\color{black}{\\\\times}\\\\space\")</var>)</code> and <code>(<var>getPrimeFactorization(HEIGHT).join(\"\\\\space\\\\color{black}{\\\\times}\\\\space\")</var>)</code>"
+
+msgid "One step equation intuition"
+msgstr "एक कदम समीकरण अंतर्ज्ञान।"
+
+msgid "One step equations"
+msgstr "एक कदम समीकरण"
+
+msgid "One-step equations with multiplication"
+msgstr "गुणा के साथ एक कदम समीकरण"
+
+msgid "Ones"
+msgstr "इकाई"
+
+msgid "Only a single school name per zip code is allowed"
+msgstr "एक ज़िप कोड पर केवल एक विद्यालय के नाम की अनुमति दी गयी है"
+
+msgid "Orange Juice Squid"
+msgstr "संतरे का रस"
+
+msgid "Order the following integers from least to greatest:"
+msgstr "निम्न्लिखिं पूर्णांको को कम से अधिक की ओर क्रम दें:"
+
+msgid "Ordering decimals"
+msgstr "दशमलव को सजाएँ"
+
+msgid "Ordering fractions"
+msgstr "भिन्नो को सजाएं"
+
+msgid "Ordering negative numbers"
+msgstr "ऋणात्मक संख्याओं का क्रम "
+
+msgid "Our search robots were slow to respond, sorry! Please refresh the page to try again."
+msgstr ""
+"क्षमा करें!हमारे खोज-यन्त्र की मंद गति के कारण जवाब देने में समय लग रहा हैं।\n"
+"कृपया दोबारा प्रयास के लिए पेज रिफ्रेश करें।"
+
+msgid "Page %(cur_page)s of %(num_pages)s"
+msgstr "%(num_pages)s का पृष्ठ %(cur_page)s"
+
+msgid "Pants"
+msgstr "पैंट"
+
+msgid "Parallel lines 1"
+msgstr "समानांतर रेखाएँ 1"
+
+msgid "Parallel lines 2"
+msgstr "समानांतर रेखाएँ 2"
+
+msgid "Password"
+msgstr "संकेत-शब्द"
+
+msgid "Perfect squares are integers which can be obtained by squaring an integer."
+msgstr "पूर्ण वर्ग हैं पूर्णाक जो कि एक पूर्णांक को वर्गाकार करके प्राप्त किये जा सकते हैंI"
+
+msgid "Perimeter 1"
+msgstr "परिमाप 1"
+
+msgid "Peter"
+msgstr "पुनीत"
+
+msgid "Post a tip or thanks"
+msgstr "टिप या धन्यवाद पोस्ट करें"
+
+msgid "Post a tip or thanks..."
+msgstr "टिप या धन्यवाद को पोस्ट करें..."
+
+msgid "Prev"
+msgstr "पिछला"
+
+msgid "Price of <var>plural_form(fruit(1))</var> + price of <var>plural_form(fruit(2))</var> = total price."
+msgstr "इसकी कीमत <var>plural_form(fruit(1))</var> +इसकी कीमत <var>plural_form(fruit(2))</var> = कुल कीमतI"
+
+msgid "Properties of addition and subtraction 1"
+msgstr "जुड़ाव और घटाव 1 के गुण"
+
+msgid "Purple Pi"
+msgstr "बैंगनी पाई"
+
+msgid "Rain in <var>person(2)</var>'s town - rain in <var>person(1)</var>'s town = the difference in rain between the two towns."
+msgstr "बारिश <var>person(2)</var>'s  के नगर में  - बारिश <var>person(1)</var>'s के नगर में =  बारिश का दोनों नगर के बीच का अंतरI"
+
+msgid "Ravenclaw"
+msgstr "रबिन्द्रनाथ भवन "
+
+msgid "Reading bar charts 1"
+msgstr "बार तालिकाओं का पठन १"
+
+msgid "Reading bar charts 2"
+msgstr "बार तालिकाओं का पठन करना  २"
+
+msgid "Reading bar charts 3"
+msgstr "बार तालिकाओ का पठन ३"
+
+msgid "Reading pictographs 1"
+msgstr "चित्रलिपि पढना 1"
+
+msgid "Reading pictographs 2"
+msgstr "चित्रलिपि पढना 2"
+
+msgid "Reading stem and leaf plots"
+msgstr "डंठल और पत्ती के गुट को पढ़ना"
+
+msgid "Recreational math"
+msgstr "मनोरंजनात्मक गणित"
+
+msgid "Remember the hour hand is the short hand and the minute hand is the long hand"
+msgstr "याद रखें कि घंटा सुई है छोटी सुई और मिनट सुई है लम्बी सुईI"
+
+msgid "Remember the hour hand needs to move over the course of the hour"
+msgstr "याद रखें कि घंटे की सुई घंटे की दिशा में मुड़ेगी"
+
+msgid "Report a mistake in the video"
+msgstr "वीडियो की त्रुटि को रिपोर्ट करें"
+
+msgid "Report a technical problem with the site"
+msgstr "साईट की तकनीकी समयसा के बारे में रिपोर्ट करें"
+
+msgid "Request a feature"
+msgstr "फीचर के बारे में अनुरोध करें"
+
+msgid "Rewrite <code>\\large{<var>expr([\"*\", [\"^\", BASE, EXP1], [\"^\", BASE, EXP2]])</var>}</code> in the form <code>\\large{<var>BASE</var>^n}</code>."
+msgstr "<code>\\large{<var>expr([\"*\", [\"^\", BASE, EXP1], [\"^\", BASE, EXP2]])</var>}</code> को  <code>\\large{<var>BASE</var>^n}</code> के रूप में पुनः लिखें।"
+
+msgid "Rewrite <code>\\large{<var>expr([\"^\", [\"*\", [\"^\", BASE1, EXP1], [\"^\", BASE2, EXP2]], EXP3])</var>}</code> in the form <code>\\large{<var>BASE1</var>^n \\times <var>BASE2</var>^m}</code>."
+msgstr "<code>\\large{<var>expr([\"^\", [\"*\", [\"^\", BASE1, EXP1], [\"^\", BASE2, EXP2]], EXP3])</var>}</code> को पुनः  <code>\\large{<var>BASE1</var>^n \\times <var>BASE2</var>^m}</code> के रूप में लिखें।"
+
+msgid "Rewrite <code>\\large{<var>expr([\"^\", [\"^\", BASE, EXP1], EXP2])</var>}</code> in the form <code>\\large{<var>BASE</var>^n}</code>."
+msgstr "<code>\\large{<var>expr([\"^\", [\"^\", BASE, EXP1], EXP2])</var>}</code> को  पुनः<code>\\large{<var>BASE</var>^n}</code> के रूप में लिखें।"
+
+msgid "Rewrite <code>\\large{<var>expr([\"frac\", [\"^\", BASE, EXP1], [\"^\", BASE, EXP2]])</var>}</code> in the form <code>\\large{<var>BASE</var>^n}</code>."
+msgstr "<code>\\large{<var>expr([\"frac\", [\"^\", BASE, EXP1], [\"^\", BASE, EXP2]])</var>}</code> को पुनः <code>\\large{<var>BASE</var>^n}</code> के रूप में लिखें।"
+
+msgid "Scalene"
+msgstr "विषमबाहु"
+
+msgid "Schools"
+msgstr "विद्यालय"
+
+msgid "Scientific notation intuition"
+msgstr "वैज्ञानिक संकेतन अंतर्ज्ञान"
+
+msgid "Scratchpad not available"
+msgstr "स्क्रैचपैड उपलब्ध नहीं है"
+
+msgid "Sea level"
+msgstr "समुद्र तल"
+
+msgid "Search Khan Academy"
+msgstr "खान अकैडमी को खोजे"
+
+msgid "Search with Google Site Search"
+msgstr "\"गूगल साइट खोज\" के साथ खोजें।"
+
+msgid "Select all that apply."
+msgstr "जो लागू होते हों उन्हें चुने ।"
+
+msgid "Separate the radicals and simplify."
+msgstr "मुलकों को अलग करें और उनका सरलीकरण करेंI"
+
+msgid "Share a tip"
+msgstr "टिप शेयर करें"
+
+msgid "She did <code><var>NUM2</var> + <var>NUM1</var> = <var>TOTAL</var></code> <var>plural_form(exercise(1), TOTAL)</var>."
+msgstr "उसने किया <code><var>NUM2</var> + <var>NUM1</var> = <var>TOTAL</var></code> <var>plural_form(exercise(1), TOTAL)</var>."
+
+msgid "Show all results"
+msgstr "सभी परिणाम दिखाएँ"
+
+msgid "Show me"
+msgstr "मुझे दिखाएँ"
+
+msgid "Show results for <a href=\"%(no_correction_link)s\">%(original_query)s</a> instead?"
+msgstr "%(original_query)s</a> के बजाय <a href=\"%(no_correction_link)s\"> के लिए परिणाम दिखाए?"
+
+msgid "Simplify <code>\\sqrt{<var>NUM</var>}</code>."
+msgstr "सरलीकरण करें <code>\\sqrt{<var>NUM</var>}</code>."
+
+msgid "Simplify to lowest terms."
+msgstr "न्यूनतम पदों में सरलीकरण करेंI"
+
+msgid "Simplifying fractions"
+msgstr "भिन्नों का सरलीकरण"
+
+msgid "Since <code><var>VARIABLE_NAME</var> <var>REL</var> <var>SIGN + ( INT + FRAC )</var></code>, draw a full circle at <code><var>SIGN + ( INT + FRAC )</var></code> to show that the inequality includes <code><var>SIGN + ( INT + FRAC )</var></code>."
+msgstr "चूँकि <code><var>VARIABLE_NAME</var> <var>REL</var> <var>SIGN + ( INT + FRAC )</var></code>,  <code><var>SIGN + ( INT + FRAC )</var></code> पर एक वृत्त बनाइए यह दिखाने  के लिये की असमानता  में  <code><var>SIGN + ( INT + FRAC )</var></code> आता है ।"
+
+msgid "Since <code><var>VARIABLE_NAME</var> <var>REL</var> <var>SIGN + ( INT + FRAC )</var></code>, draw an empty circle at <code><var>SIGN + ( INT + FRAC )</var></code> to show that the inequality does not include <code><var>SIGN + ( INT + FRAC )</var></code>."
+msgstr "चूँकि  <code><var>VARIABLE_NAME</var> <var>REL</var> <var>SIGN + ( INT + FRAC )</var></code>,इस पर एक खली वृत्त बनाइए   <code><var>SIGN + ( INT + FRAC )</var></code> यह दिखाने के लिये की असमानता में  <code><var>SIGN + ( INT + FRAC )</var></code> नही आता ।"
+
+msgid "Since both pizzas have the same number of slices, all the slices are the same size."
+msgstr "चूंकि दोनों पिज़्ज़ा के बराबर भाग हैं, सारे भाग बराबर आकार के हैंI"
+
+msgid "Since everyone will finish painting their assigned wall after <code><var>TIME_INIT</var></code> minutes, it takes one person <code><var>TIME_INIT</var></code> minutes to paint one wall."
+msgstr "चूँकि प्रत्येक व्यक्ति अपनी दी गयी दीवार को  <code><var>TIME_INIT</var></code> मिनट में रंग लेंगे, इसलिए एक व्यक्ति को एक दीवार रंगने में <code><var>TIME_INIT</var></code>  मिनट लगते हैं। "
+
+msgid "Since there is a decimal, trailing zeros are significant."
+msgstr "चूंकि यहाँ एक दशमलव है, खिंचते शून्य महत्वपूर्ण हैI"
+
+msgid "Since there is no decimal, trailing zeros are not significant."
+msgstr "चूंकि दशमलव नहीं है, खिंचते शून्य महत्वपूर्ण नहीं हैंI"
+
+msgid "Slytherin"
+msgstr "सरोजिनी भवन "
+
+msgid "So <code><var>N</var>^2 = <var>Q</var></code>."
+msgstr "तो <code><var>N</var>^2 = <var>Q</var></code>।"
+
+msgid "So <code><var>N</var>^3 = <var>Q</var></code>."
+msgstr "तो <code><var>N</var>^3 = <var>Q</var></code>।"
+
+msgid "So <code><var>PART_PERCENT * MULTIPLE</var></code> is <code><var>PART_PERCENT</var>\\%</code> of <code><var>WHOLE</var></code>."
+msgstr "इसलिए <code><var>PART_PERCENT * MULTIPLE</var></code> is <code><var>PART_PERCENT</var>\\%</code> of <code><var>WHOLE</var></code>."
+
+msgid "So <code><var>PART_PERCENT / FACTOR</var></code> is <code><var>PART_PERCENT</var>\\%</code> of <code><var>WHOLE</var></code>."
+msgstr "इसलिए <code><var>PART_PERCENT / FACTOR</var></code> is <code><var>PART_PERCENT</var>\\%</code> of <code><var>WHOLE</var></code>."
+
+msgid "So <code>\\large{<var>N1</var> &gt; <var>N2</var>}</code>."
+msgstr "तो <code>\\large{<var>N1</var> &gt; <var>N2</var>}</code>।"
+
+msgid "So <code>\\large{<var>N1</var> &lt; <var>N2</var>}</code>."
+msgstr "तो <code>\\large{<var>N1</var> &lt; <var>N2</var>}</code>।"
+
+msgid "So <code>\\large{<var>N1</var> = <var>N2</var>}</code>."
+msgstr "तो <code>\\large{<var>N1</var> = <var>N2</var>}</code>।"
+
+msgid "So <code>\\left(<var>F_N.join( \"\\\\times \" )</var>\\right)^2 = <var>N</var>^2 = <var>Q</var></code>."
+msgstr "तो <code>\\left(<var>F_N.join( \"\\\\times \" )</var>\\right)^2 = <var>N</var>^2 = <var>Q</var></code>।"
+
+msgid "So <code>\\left(<var>F_N.join( \"\\\\times \" )</var>\\right)^3 = <var>N</var>^3 = <var>Q</var></code>."
+msgstr "तो <code>\\left(<var>F_N.join( \"\\\\times \" )</var>\\right)^3 = <var>N</var>^3 = <var>Q</var></code>।"
+
+msgid "So <code>\\sqrt[3]{<var>Q</var>}</code> is <code><var>N</var></code>."
+msgstr "तो <code>\\sqrt[3]{<var>Q</var>}</code> is <code><var>N</var></code>।"
+
+msgid "So <code>\\sqrt{<var>Q</var>}</code> is <code><var>N</var></code>."
+msgstr "तो <code>\\sqrt{<var>Q</var>}</code> यह है <code><var>N</var></code>।"
+
+msgid "So <var>person(1)</var> did <code><var>ANSWER</var></code> <var>PROBLEMS</var>."
+msgstr "तो <var>person(1)</var> यह उत्तर दिया <code><var>ANSWER</var></code> <var>PROBLEMS</var>."
+
+msgid "So as long as the value of the last two digits, <code>\\blue{<var>NUMBER % 100</var>}</code>, is divisible by <code>4</code>, the original number must also be divisible by <code>4</code>!"
+msgstr "इसलिए जब तक कि अंतिम दो अंको का मूल्य है,  <code>\\blue{<var>NUMBER % 100</var>}</code>,विभाजित हो सकता है <code>4</code> से, वास्तविक संख्या भी विभाजित हो सकती है <code>4</code>! सेI"
+
+msgid "So the denominator is <code><var>DENOMINATOR</var></code>."
+msgstr "तो हर (Denominator) <code><var>DENOMINATOR</var></code> है।"
+
+msgid "So the dimensions of the box could be <code><var>WIDTH</var></code>, <code><var>LENGTH</var></code> and <code><var>HEIGHT</var></code>."
+msgstr "ओ बॉक्स का आयाम होगा <code><var>WIDTH</var></code>, <code><var>LENGTH</var></code> और  <code><var>HEIGHT</var></code>।"
+
+msgid "So the greatest common factor is <code><var>GCD_FACTORS.join(\"\\\\cdot\")</var> = <var>GCD</var></code>"
+msgstr "इसलिए महत्तम समापवर्तक है <code><var>GCD_FACTORS.join(\"\\\\cdot\")</var> = <var>GCD</var></code>"
+
+msgid "So the numerator is <code><var>NUMERATOR</var></code>."
+msgstr "तो हर <code><var>NUMERATOR</var></code> है।"
+
+msgid "So the prime factorization of <code><var>Q</var></code> is <code><var>PRIMES.join( \"\\\\times \" )</var></code>."
+msgstr "तो <code><var>Q</var></code> का अभाज्य गुणनखंडन <code><var>PRIMES.join( \"\\\\times \" )</var></code> है।"
+
+msgid "So, <code><var>N * N</var> &lt; <var>Q</var> &lt; <var>(N + 1) * (N + 1)</var></code>."
+msgstr "तो, <code><var>N * N</var> &lt; <var>Q</var> &lt; <var>(N + 1) * (N + 1)</var></code> I"
+
+msgid "So, <code>\\sqrt{<var>NUM</var>} = \\sqrt{<var>SPLIT[0]</var>^2} = <var>SPLIT[0]</var></code>"
+msgstr "तो, <code>\\sqrt{<var>NUM</var>} = \\sqrt{<var>SPLIT[0]</var>^2} = <var>SPLIT[0]</var></code>"
+
+msgid "So, any number divisible by both must have <code><var>LCM_FACTORIZATION.join( \"\\\\times\" )</var></code> as part of its prime factorization."
+msgstr "इसलिए, कोई भी संख्या जो दोनों से भाज्य हो उसके पास <code><var>LCM_FACTORIZATION.join( \"\\\\times\" )</var></code> होना चाहिए अभाज्य गुनको के अनुसारI"
+
+msgid "So: <code><var>PRETTY_DECIMAL</var> = \\leadingColor{<var>LEADING</var>}<var>TRAIL</var> \\times 10^{\\exponentColor{<var>E</var>}}</code>"
+msgstr "तो: <code><var>PRETTY_DECIMAL</var> = \\leadingColor{<var>LEADING</var>}<var>TRAIL</var> \\times 10^{\\exponentColor{<var>E</var>}}</code>"
+
+msgid "Solve for <code class=\"hint_pink\">x</code>:"
+msgstr "<code class=\"hint_pink\">x</code> के लिए हल करें:"
+
+msgid "Spin-Offs"
+msgstr "अनपेक्षित लाभ "
+
+msgid "Spunky Sam"
+msgstr "बहादुर समीर"
+
+msgid "Square roots of perfect squares"
+msgstr "पूर्ण वर्गों के वर्ग मूल "
+
+msgid "Starting Block:"
+msgstr "आरंभिक  ब्लाक:"
+
+msgid "Student"
+msgstr "विद्यार्थी"
+
+msgid "Subtract <code><var>C</var>x</code> from both sides:"
+msgstr "<code><var>C</var>x</code> को दोनों पक्षों से घटाएं:"
+
+msgid "Subtract <code>\\pink{<var>A</var>x}</code> from both sides."
+msgstr "दोनों पक्षों से <code>\\pink{<var>A</var>x}</code> घटाएं।"
+
+msgid "Subtract <code>\\pink{<var>C</var>x}</code> from both sides."
+msgstr "दोनों पक्षों से <code>\\pink{<var>C</var>x}</code> घटाएं।"
+
+msgid "Subtract <code>\\pink{<var>abs(B + D)</var>^\\circ}</code> from both sides."
+msgstr "दोनों पक्षों से<code>\\pink{<var>abs(B + D)</var>^\\circ}</code> को घटाएं।"
+
+msgid "Subtract <code>\\pink{<var>abs(B)</var>^\\circ}</code> from both sides."
+msgstr "दोनों पक्षों से <code>\\pink{<var>abs(B)</var>^\\circ}</code> घटाएं।"
+
+msgid "Subtract <code>\\pink{<var>abs(D)</var>}</code> from both sides."
+msgstr "दोनों पक्षों से <code>\\pink{<var>abs(D)</var>}</code> घटाएं।"
+
+msgid "Subtract the numerators."
+msgstr "अंशों को घटाएंI"
+
+msgid "Subtract within 100"
+msgstr "100 के अंदर तक का घटाव"
+
+msgid "Subtract within 1000"
+msgstr "1000 के अंदर तक का घटाव"
+
+msgid "Subtract within 20"
+msgstr "20 के अंदर तक घटाव"
+
+msgid "Subtract within 5"
+msgstr "5 के अंदर तक का घटाव"
+
+msgid "Subtracting decimals 0.5"
+msgstr "0.5 दशमलवों का घटाव "
+
+msgid "Subtracting fractions with common denominators"
+msgstr "भिन्न के साथ सामान्य भाजकों को घटाना"
+
+msgid "Support"
+msgstr "समर्थन"
+
+msgid "Supporters"
+msgstr "समर्थक"
+
+msgid "Telling time 0.5"
+msgstr "समय बताता है 0.5"
+
+msgid "Tens"
+msgstr "दहाई"
+
+msgid "Thank the author"
+msgstr "लेखक को धन्यवाद दें "
+
+msgid "Thanks for your interest in Khan Academy! To go on, we need your parent to complete the signup process."
+msgstr "खान अकादमी में आपकी रुचि के लिए धन्यवाद! पर जाने के लिए, आपकी पंजीकरण प्रक्रिया को पूरा करने के लिए हमें आपके माता पिता की जरूरत है।"
+
+msgid "That means that to figure out whether the original number is divisible by <code><var>FACTOR</var> </code>, all we need to do is add up the digits and see if the sum is divisible by <code><var>FACTOR</var></code>. In other words, <code>\\blue{<var>NUMBER</var>}</code> is divisible by <code><var>FACTOR</var></code> if <code>\\blue{ <var>integerToDigits(NUMBER).join(\"}+\\\\blue{\") </var>}</code> is divisible by <code><var>FACTOR</var></code>!"
+msgstr "इसका मतलब है यह जानने के लिए कि अगर वास्तविक संख्या <code><var>FACTOR</var> </code> विभाजित हो सकती है, हमे बस यह करना होगा कि सारे अंकों को जोड़ दें और देखें कि अगर योग <code><var>FACTOR</var></code> विभाजित हो सकता हैI दूसरे शब्दों में,  <code>\\blue{<var>NUMBER</var>}</code> विभाजित हो सकता है <code><var>FACTOR</var></code> if <code>\\blue{ <var>integerToDigits(NUMBER).join(\"}+\\\\blue{\") </var>}</code> is divisible by <code><var>FACTOR</var></code>! सेI"
+
+msgid "The <code><var>WHOLE</var></code> is the <code>\\green{\\text{<var>WHOLE_TEXT</var>}}</code>. This means the <code>\\pink{\\text{<var>PART</var>}}</code> is <code><var>PART_PERCENT * MULTIPLE</var></code>:"
+msgstr "<code><var>WHOLE</var></code>, <code>\\green{\\text{<var>WHOLE_TEXT</var>}}</code> हैI इसका मतलब है कि <code>\\pink{\\text{<var>PART</var>}}</code> <code><var>PART_PERCENT * MULTIPLE</var></code> है:"
+
+msgid "The <code><var>WHOLE</var></code> is the <code>\\green{\\text{<var>WHOLE_TEXT</var>}}</code>. This means the <code>\\pink{\\text{<var>PART</var>}}</code> is <code><var>PART_PERCENT / FACTOR</var></code>:"
+msgstr "<code><var>WHOLE</var></code>, <code>\\green{\\text{<var>WHOLE_TEXT</var>}}</code> है I  इसका मतलब है कि  <code>\\pink{\\text{<var>PART</var>}}</code>, <code><var>PART_PERCENT / FACTOR</var></code> है:"
+
+msgid "The <code><var>WHOLE</var></code> is the <code>\\green{\\text{<var>WHOLE_TEXT</var>}}</code>. We are trying to find the <code>\\pink{\\text{<var>PART</var>}}</code> that makes up <code><var>PART_PERCENT</var>\\%</code> of it:"
+msgstr "<code><var>WHOLE</var></code>, <code>\\green{\\text{<var>WHOLE_TEXT</var>}}</code> है I  हम  <code>\\pink{\\text{<var>PART</var>}}</code> पता लगाने की कोशिश कर रहे जो इसका  <code><var>PART_PERCENT</var>\\%</code> बनाता है:"
+
+msgid "The actual distance between the two cities is <var>FACTOR</var> <code>\\cdot</code> <var>SCALE_REAL</var>km, or <var>DISTANCE_REAL</var>km."
+msgstr "दोनों शहरों के बिच की असल दूरी है <var>FACTOR</var> <code>\\cdot</code> <var>SCALE_REAL</var>km, या <var>DISTANCE_REAL</var>km."
+
+msgid "The amount <var>person(1)</var> paid - the price of the <var>storeItem(1,1)</var> = the amount of change <var>person(1)</var> received."
+msgstr "जो मात्रा <var>person(1)</var> ने दी थी - <var>storeItem(1,1)</var> की कीमत  = बची हुई मात्रा<var>person(1)</var> जो मिलीI"
+
+msgid "The area of a square is <code><var>S * S</var></code> square <var>plural_form(UNIT_TEXT, S * S)</var>. How long is each side?"
+msgstr "वर्ग का क्षेत्रफल है <code><var>S * S</var></code> वर्ग <var>plural_form(UNIT_TEXT, S * S)</var>. प्रत्येक भुजा कितनी लम्बी होगी?"
+
+msgid "The arrow is pointing to the left of <code><var>SIGN + INT</var></code>, so everything less than <code><var>SIGN + INT</var></code> is included."
+msgstr "तीर <code><var>SIGN + INT</var></code> की बाई ओर इशारा कर रहा है,ताकि <code><var>SIGN + INT</var></code> से कम साडी चीजें इसमें आयें ।"
+
+msgid "The arrow is pointing to the right of <code><var>SIGN + INT</var></code>, so everything greater than <code><var>SIGN + INT</var></code> is included."
+msgstr "तीर  <code><var>SIGN + INT</var></code> की बाईं ओर इशारा कर रहा है,ताकि  <code><var>SIGN + INT</var></code> से बड़ी चीजें इसमें आयें ।"
+
+msgid "The blue dot represents the number <code><var>NUMBER</var></code>."
+msgstr "नीला बिंदु संख्या <code><var>NUMBER</var></code>दर्शाता हैI"
+
+msgid "The circle is filled in, so <code><var>SIGN + INT</var></code> itself is also included."
+msgstr "वृत्त भरा हुआ है, इसलिए यह <code><var>SIGN + INT</var></code> शामिल है।"
+
+msgid "The circle is not filled in, so <code><var>SIGN + INT</var></code> itself is not included."
+msgstr "वृत्त भरा हुआ नहीं है, इसलिए यह <code><var>SIGN + INT</var></code> शामिल नहीं है।"
+
+msgid "The common factors of <code><var>NUM</var></code> and <code><var>DENOM</var></code> are <var>toSentenceTex(GCD_FACTORS)</var>."
+msgstr "सार्व भाजक <code><var>NUM</var></code> और <code><var>DENOM</var></code> हैं <var>toSentenceTex(GCD_FACTORS)</var>."
+
+msgid "The difference is <code><var>TOTAL</var> - <var>NUM2</var></code> people on the train."
+msgstr "अंतर है  <code><var>TOTAL</var> - <var>NUM2</var></code> व्यक्ति रेल मेंI"
+
+msgid "The difference is <code><var>TOTAL</var> - <var>NUM2</var></code> people."
+msgstr "अंतर है <code><var>TOTAL</var> - <var>NUM2</var></code> व्यक्तिI"
+
+msgid "The final equation is: <code>\\dfrac{<var>A</var>}{<var>B</var>} \\times \\dfrac{<var>M</var>}{<var>M</var>} = \\dfrac{<var>C</var>}{<var>D</var>} </code> so our answer is <code><var>C</var></code>."
+msgstr "अंतिम समीकरण है: <code>\\dfrac{<var>A</var>}{<var>B</var>} \\times \\dfrac{<var>M</var>}{<var>M</var>} = \\dfrac{<var>C</var>}{<var>D</var>} </code> इसलिए हमारा उत्तर है <code><var>C</var></code>."
+
+msgid "The final equation is: <code>\\dfrac{<var>A</var>}{<var>B</var>} \\times \\dfrac{<var>M</var>}{<var>M</var>} = \\dfrac{<var>C</var>}{<var>D</var>} </code> so our answer is <code><var>D</var></code>."
+msgstr "अंतिम समीकरण है:<code>\\dfrac{<var>A</var>}{<var>B</var>} \\times \\dfrac{<var>M</var>}{<var>M</var>} = \\dfrac{<var>C</var>}{<var>D</var>} </code> इसलिए हमारा उत्तर है <code><var>D</var></code>."
+
+msgid "The final equation is: <code>\\dfrac{<var>C</var>}{<var>D</var>} \\div \\dfrac{<var>M</var>}{<var>M</var>} = \\dfrac{<var>A</var>}{<var>B</var>}</code> so our answer is <code><var>A</var></code>."
+msgstr "अंतिम समीकरण है: <code>\\dfrac{<var>C</var>}{<var>D</var>} \\div \\dfrac{<var>M</var>}{<var>M</var>} = \\dfrac{<var>A</var>}{<var>B</var>}</code> इसलिए हमारा उत्तर है  <code><var>A</var></code>."
+
+msgid "The final equation is: <code>\\dfrac{<var>C</var>}{<var>D</var>} \\div \\dfrac{<var>M</var>}{<var>M</var>} = \\dfrac{<var>A</var>}{<var>B</var>}</code> so our answer is <code><var>B</var></code>."
+msgstr "अंतिम समीकरण है: <code>\\dfrac{<var>C</var>}{<var>D</var>} \\div \\dfrac{<var>M</var>}{<var>M</var>} = \\dfrac{<var>A</var>}{<var>B</var>}</code> so हमारा उत्तर है<code><var>B</var></code>."
+
+msgid "The first 13 perfect squares are:"
+msgstr "पहले 13 पूर्ण वर्ग हैं:"
+
+msgid "The fraction <code>\\dfrac{<var>NUMERATOR</var>}{<var>DENOMINATOR</var>}</code> could represent cutting pies into <code><var>DENOMINATOR</var></code> slices and taking <code><var>NUMERATOR</var></code> of those slices."
+msgstr "भिन्न <code>\\dfrac{<var>NUMERATOR</var>}{<var>DENOMINATOR</var>}</code> केके को <code><var>DENOMINATOR</var></code> हिस्सों में काटने और उनमे से  <code><var>NUMERATOR</var></code> हिस्सों को लिए जाने को दर्शा सकता हैI"
+
+msgid "The fraction on the left represents dividing some rectangular <var>pizza(1).plural(2)</var> into <var>B</var> slices, then taking <var>A</var> slices."
+msgstr "बाईं ओर का भिन्न किसी आयात्कार को विभाजित होते दर्शाता है <var>pizza(1).plural(2)</var> into <var>B</var> हिस्से, और फिर लेते हैं <var>A</var> हिस्सेI"
+
+msgid "The fraction on the left represents dividing some rectangular <var>pizza(1).plural(2)</var> into <var>D</var> slices, then taking <var>C</var> slices."
+msgstr "बाईं ओर का भिन्न किसी आयात्कार के <var>pizza(1).plural(2)</var> into <var>D</var> हिस्सों को दर्शाता है, फिर लेते हैं <var>C</var> हिस्सेI"
+
+msgid "The goal block has a length of <code><var>CODE_OFFSPRING</var></code>, which can be rewritten as:"
+msgstr "गोल ब्लाक की लम्बाई है <code><var>CODE_OFFSPRING</var></code>, जिसका पुनर्लेखन किया जा सकता है ऐसे:"
+
+msgid "The graph represents <code><var>VARIABLE_NAME</var> <var>REL</var><var>SIGN + INT</var></code>"
+msgstr "आलेख इसका प्रतिनिधित्व करता है <code><var>VARIABLE_NAME</var> <var>REL</var><var>SIGN + INT</var></code>"
+
+msgid "The highlighted number shows where <code>\\pink{<var>SOLUTION</var>}</code> is on the number line."
+msgstr "चिन्हांकित संख्या दिखाती है कि <code>\\pink{<var>SOLUTION</var>}</code> सांख्य रेखा पर कहाँ हैI"
+
+msgid "The hour hand is pointing at <code><var>HOUR</var></code>, so the hour is <code><var>HOUR</var></code>."
+msgstr "घंटे की सूई संकेत करती है  <code><var>HOUR</var></code> की ओर, इसलिए घंटा है <code><var>HOUR</var></code>."
+
+msgid "The largest perfect square that divides <code><var>NUM</var></code> is <code><var>COEFFICIENT * COEFFICIENT</var></code>."
+msgstr "सबसे बड़ा पूर्ण वर्ग जो विभाजित करता है <code><var>NUM</var></code> is <code><var>COEFFICIENT * COEFFICIENT</var></code>."
+
+msgid "The last digit of <code><var>NUMBER</var></code> is <code><var>NUMBER % 10</var></code>, so no <code><var>NUMBER</var></code> is not divisible by <code>10</code>."
+msgstr "अंतिम अंक <code><var>NUMBER</var></code> is <code><var>NUMBER % 10</var></code> है, इसलिए नहीं <code><var>NUMBER</var></code> विभाजित नहीं हो सकता <code>10</code> सेI"
+
+msgid "The last digit of <code><var>NUMBER</var></code> is <code><var>NUMBER % 10</var></code>, so no <code><var>NUMBER</var></code> is not divisible by <code>5</code>."
+msgstr "अंतिम अंक <code><var>NUMBER</var></code> is <code><var>NUMBER % 10</var></code> का , इसलिए नहीं <code><var>NUMBER</var></code>विभाजित नहीं हो सकता  <code>5</code> सेI"
+
+msgid "The last digit of <code><var>NUMBER</var></code> is <code><var>NUMBER % 10</var></code>, so yes <code><var>NUMBER</var></code> is divisible by <code>10</code>."
+msgstr "अंतिम अंक <code><var>NUMBER</var></code> is <code><var>NUMBER % 10</var></code> है, इसलिए हाँ  <code><var>NUMBER</var></code> विभाजित हो सकता है <code>10</code> सेI"
+
+msgid "The last digit of <code><var>NUMBER</var></code> is <code><var>NUMBER % 10</var></code>, so yes <code><var>NUMBER</var></code> is divisible by <code>5</code>."
+msgstr "अंतिम अंक <code><var>NUMBER</var></code> is <code><var>NUMBER % 10</var></code> का, इसलिए हाँ  <code><var>NUMBER</var></code> विभाजित हो सकता है <code>5</code> सेI"
+
+msgid "The least common denominator of <code><var>D_OFFSPRING_1</var></code> and <code><var>D_OFFSPRING_2</var></code> (the denominators of the goal blocks) is <code><var>LCM</var></code>. Therefore you can copy a block <code>\\dfrac{1}{<var>LCM</var>}</code> units long to make both goal blocks."
+msgstr "न्यूनतम सामन्य हर <code><var>D_OFFSPRING_1</var></code> and <code><var>D_OFFSPRING_2</var></code> का (गोल ब्लाक का हर) is <code><var>LCM</var></code>. इसलिए आप एक ब्लाक को अनुकृत कर सकते हैं <code>\\dfrac{1}{<var>LCM</var>}</code> इकाईओं जितना दोनों गोल ब्लाक बनाने के लिएI"
+
+msgid "The left column of the stem and leaf plot represents the tens place; each number on the right side represents the ones place for the number of <var>plural_form(ITEM)</var> at a <var>LOCATION_DISPLAY</var>."
+msgstr "तना और पत्ती के गुट का बयाँ खंड दर्शाता है दस्वों के स्थान को; दाईं ओर की प्रत्येक संख्या एक का स्थान <var>plural_form(ITEM)</var> at a <var>LOCATION_DISPLAY</var>के लिए दर्शाती हैI"
+
+msgid "The left fraction represents a pizza with fewer slices, and so each slice is bigger."
+msgstr "बाँयां भाग एक पिज़्ज़ा के कम भाग दर्शाता है, और इसलिए प्रत्येक  भाग बड़ा होगाI"
+
+msgid "The left fraction represents a pizza with more slices, and so each slice is smaller."
+msgstr "बाँयां भिन्न एक पिज़्ज़ा को अधिक भागों के साथ दर्शाता है, और इसलिए प्रत्येक भाग छोटा हैI"
+
+msgid "The leftmost numbers are least, and the rightmost numbers are greatest."
+msgstr "सबसे बाईं ओर की संख्याएँ न्यूनतम हैं, और सबसे दाईं ओर की संख्याएँ अधिकतम हैंI"
+
+msgid "The length is <code><var>L</var></code> <var>plural_form(UNIT_TEXT, L)</var>. The width is <code><var>W</var></code> <var>plural_form(UNIT_TEXT, W)</var>. So the area is <code><var>L</var>\\times<var>W</var></code> square <var>plural_form(UNIT_TEXT, L * W)</var>."
+msgstr "लम्बाई है <code><var>L</var></code> <var>plural_form(UNIT_TEXT, L)</var>. चौड़ाई है <code><var>W</var></code> <var>plural_form(UNIT_TEXT, W)</var>. इसलिए क्षेत्रफल होगा<code><var>L</var>\\times<var>W</var></code> square <var>plural_form(UNIT_TEXT, L * W)</var>."
+
+msgid "The length is <code><var>S</var></code> <var>plural_form(UNIT_TEXT, S)</var> and the width is <code><var>S</var></code> <var>plural_form(UNIT_TEXT, S)</var>, so the area is <code><var>S</var>\\times<var>S</var></code> square <var>plural_form(UNIT_TEXT, S * S)</var>."
+msgstr "इसकी लंबाई है <code><var>S</var></code> <var>plural_form(UNIT_TEXT, S)</var> और इसकी चौड़ाई है <code><var>S</var></code> <var>plural_form(UNIT_TEXT, S)</var>,तो क्षेत्रफल है <code><var>S</var>\\times<var>S</var></code> square <var>plural_form(UNIT_TEXT, S * S)</var>."
+
+msgid "The minute hand starts pointing straight up for <code>0</code> minutes, and it makes a complete circle in one hour (passing by all <code>12</code> numbers in <code>60</code> minutes)."
+msgstr "मिनट की सूई सीधा ऊपर संकेत करती है <code>0</code> मिनट के लिए, और ये एक पूरा चक्कर पूरा करती है एक घंटे में (पूरी ओर बढ़ते हुए <code>12</code> संख्याओं में <code>60</code> मिनट)."
+
+msgid "The minute hand starts pointing straight up for <code>0</code> minutes, and makes a complete circle in <code>1</code> hour."
+msgstr "घड़ी के मिनट की सूई सीधा ऊपर <code>0</code>  मिनट की ओर संकेत करती है, और पूरा एक चक्कर  <code>1</code> घंटे में बनाती हैI"
+
+msgid "The number of people who got off is the difference between the number who were riding before and the number who are riding now."
+msgstr "जो व्यक्ति उतर गए, यह उनके बीच की संख्या है जो व्यक्ति पहले चल रहे थे और जो अभी चल रहे हैंI"
+
+msgid "The number riding the train before the stop is the sum of the number who are riding now and the number who got off at the previous stop."
+msgstr "रेल को स्टॉप से पहले चला रहे लोगों की संख्या है योग उन लोगों की संख्या जो अभी चला रहे हैं और उनकी संख्या जो पिछले स्टॉप पर उतर चुके हैI"
+
+msgid "The number riding the train now is the difference between the number who were riding and the number who got off at the previous stop."
+msgstr "अभी रेल चला रहे लोगों की संख्या अंतर है जो लोग चला रहे थे की संख्या और उन लोगों की संख्या जो पिछले स्टॉप पर उतर चुके हैंI"
+
+msgid "The numerator is the number of slices we take, and it is written above the fraction line. The denominator is the number of slices per pie, and it is written below the line."
+msgstr "अंश हमारे द्वारा लिए गए केक के हिस्से है, और यह भिन्न रेखा के ऊपर लिखा हुआ हैI हर प्रत्येक केक के हिस्से की संख्या है, और यह रेखा के नीचे लिखा हुआ हैI"
+
+msgid "The only common factor of <code><var>NUM</var></code> and <code><var>DENOM</var></code> is <code><var>GCD</var></code>."
+msgstr "इसका सार्व भाजक <code><var>NUM</var></code> और <code><var>DENOM</var></code> है <code><var>GCD</var></code>."
+
+msgid "The orange number shows where <code><var>NUMBER</var></code> is on the number line."
+msgstr "नारंगी संख्या दिखाती है की  <code><var>NUMBER</var></code> सांख्य रेखा पर कहाँ हैI"
+
+msgid "The perimeter is the total length of all the sides of the shape added together."
+msgstr "परिमाप, आकृति के सभी भुजाओं की लंबाई का कुल योग है।"
+
+msgid "The prime factorization of <code><var>A</var></code> is <code><var>getPrimeFactorization( A ).join( \"\\\\times\" )</var></code>."
+msgstr "अभाज्य गुणक <code><var>A</var></code> है <code><var>getPrimeFactorization( A ).join( \"\\\\times\" )</var></code>."
+
+msgid "The prime factorization of <code><var>ANSWER</var></code> is <code><var>getPrimeFactorization( ANSWER ).join( \"\\\\times\" )</var></code>."
+msgstr "अभाज्य गुणक <code><var>ANSWER</var></code> is <code><var>getPrimeFactorization( ANSWER ).join( \"\\\\times\" )</var></code> काI"
+
+msgid "The prime factorization of <code><var>B</var></code> is <code><var>getPrimeFactorization( B ).join( \"\\\\times\" )</var></code>."
+msgstr "अभाज्य गुणक <code><var>B</var></code> is <code><var>getPrimeFactorization( B ).join( \"\\\\times\" )</var></code>."
+
+msgid "The product of <var>cardinalThrough20(-M)</var> and a number <code>x</code> can be written as <span data-if=\"-M !== 1\"><code><var>-M</var></code></span><code>x</code>."
+msgstr "परिणाम इसका <var>cardinalThrough20(-M)</var> और एक संख्या <code>x</code> को लिखा जा सकता है ऐसे <span data-if=\"-M !== 1\"><code><var>-M</var></code></span><code>x</code>."
+
+msgid "The product of <var>cardinalThrough20(M)</var> and a number <code>x</code> can be written as <span data-if=\"M !== 1\"><code><var>M</var></code></span><code>x</code>."
+msgstr "परिणाम <var>cardinalThrough20(M)</var> का और एक संख्या  <code>x</code> को ऐसे लिखा जा सकता है <span data-if=\"M !== 1\"><code><var>M</var></code></span><code>x</code>."
+
+msgid "The product of <var>cardinalThrough20(M)</var> and a number <code>x</code>."
+msgstr "इसका परिणाम <var>cardinalThrough20(M)</var> और एक संख्या <code>x</code>."
+
+msgid "The sides of a square are all the same length, so each side must be <code><var>S</var></code> <var>plural_form(UNIT_TEXT, S)</var> long."
+msgstr "वर्ग की सभी भुजाओ की लम्बाई एक ही है,तो प्रत्येक भुजा  <code><var>S</var></code> <var>plural_form(UNIT_TEXT, S)</var>लंबी होनी चाहिए"
+
+msgid "The small hand is for the hour, and the big hand is for the minutes."
+msgstr "छोटी सूई है घंटे के लिए, और बड़ी सूई है मिनट के लिएI"
+
+msgid "The starting block has a length of <code><var>CODE_PARENT</var></code>, which can be rewritten as:"
+msgstr "आरंभिक ब्लाक की लम्बाई है <code><var>CODE_PARENT</var></code>, जिसका पुनर्लेखन इस तरह किया जा सकता है:"
+
+msgid "The sum is <code><var>NUM1</var> + <var>NUM2</var></code> cars."
+msgstr "योग है <code><var>NUM1</var> + <var>NUM2</var></code>  गाड़ियों काI"
+
+msgid "The sum is <code><var>NUM1</var> + <var>NUM2</var></code> people on the train."
+msgstr "योग है <code><var>NUM1</var> + <var>NUM2</var></code> व्यक्ति रेल मेंI"
+
+msgid "The sum is <code><var>NUM1</var> + <var>NUM2</var></code> trees."
+msgstr "योग है <code><var>NUM1</var> + <var>NUM2</var></code> पेड़ोंI"
+
+msgid "The sum of <var>cardinalThrough20(B)</var> and the product of <var>cardinalThrough20(M)</var> and a number <code>x</code>."
+msgstr "<var>cardinalThrough20(B)</var> का निष्कर्ष और<var>cardinalThrough20(M)</var> का परिणाम और एक संख्या <code>x</code>."
+
+msgid "The tank has a volume of <code><var>H1</var> \\times <var>L1</var> \\times <var>W1</var> = <var>H1 * L1 * W1</var></code> cubic <var>plural_form(METERS, H1 * L1 * W1)</var>, and the metal box has a volume of <code><var>H2</var> \\times <var>L2</var> \\times <var>W2</var> = <var>H2 * W2 * L2</var></code> cubic <var>plural_form(METERS, H2 * L2 * W2)</var>."
+msgstr "टंकी का आयतन (Volume) <code><var>H1</var> \\times <var>L1</var> \\times <var>W1</var> = <var>H1 * L1 * W1</var></code> cubic <var>plural_form(METERS, H1 * L1 * W1)</var> है, और धातु के डिब्बे का आयतन <code><var>H2</var> \\times <var>L2</var> \\times <var>W2</var> = <var>H2 * W2 * L2</var></code> cubic <var>plural_form(METERS, H2 * L2 * W2)</var> है।"
+
+msgid "The time is <code><var>HOUR</var></code>:<code><var>NICE_MINUTE</var></code>."
+msgstr "समय हुआ है <code><var>HOUR</var></code>:<code><var>NICE_MINUTE</var></code>."
+
+msgid "The time is:<br><span class=\"sol short30\" data-forms=\"integer\"><var>HOUR</var></span> : <span class=\"sol short30\" data-forms=\"integer\"><var>NICE_MINUTE</var></span> <var>AM_PM</var>"
+msgstr "समय है:<br><span class=\"sol short30\" data-forms=\"integer\"><var>HOUR</var></span> : <span class=\"sol short30\" data-forms=\"integer\"><var>NICE_MINUTE</var></span> <var>AM_PM</var>"
+
+msgid "The total number of trees on the two banks of the river is the sum of the number of trees on the left bank and the number of trees on the right bank."
+msgstr "नदी के दो तट पर पेड़ों की संख्या बाएँ तट पर और दाएं तट पर मौजूद पेड़ों की संख्या का योग हैI"
+
+msgid "The value of <code>\\sqrt{<var>Q</var>}</code> lies between which two <a href=\"#\" class=\"show-definition\" data-definition=\"consecutive-integers\">consecutive integers</a>?"
+msgstr "इसका मूल्य <code>\\sqrt{<var>Q</var>}</code>किन दो<a href=\"#\" class=\"show-definition\" data-definition=\"consecutive-integers\">निरंतर पूर्णांको के बीच में है</a>?"
+
+msgid "The volume is <code><var>VOL</var></code> <var>UNIT_TEXT</var>."
+msgstr "आयतन <code><var>VOL</var></code> <var>UNIT_TEXT</var> है।"
+
+msgid "There are <code><var>VOL</var></code> cubes."
+msgstr "<code><var>VOL</var></code> घन है|"
+
+msgid "There are a total of <var>A + B</var> dots."
+msgstr "यहाँ कुल <var>A + B</var> बिंदु हैंI"
+
+msgid "There are several ways to tackle this problem."
+msgstr "काफी तरीके हैं इस समस्या का स्पष्टीकरण करने के लिएI"
+
+msgid "There is a total of <code><var>NUM_GIRLS</var></code> girls in <var>course( 1 )</var> class."
+msgstr "कक्षा में कुल <code><var>NUM_GIRLS</var></code> girls in <var>course( 1 )</var> लड़कियां हैं ।"
+
+msgid "Therefore <code> <span data-if=\"RAND_SWITCH3 === 1\">\\blue{\\angle{CHG}}</span> <span data-else=\"\">\\blue{\\angle{DHE}}</span> = 180 ^\\circ - \\purple{<var>ANGLE_3</var>^\\circ}</code>."
+msgstr "इसलिए <code> <span data-if=\"RAND_SWITCH3 === 1\">\\blue{\\angle{CHG}}</span> <span data-else=\"\">\\blue{\\angle{DHE}}</span> = 180 ^\\circ - \\purple{<var>ANGLE_3</var>^\\circ}</code>।"
+
+msgid "Therefore <code>\\blue{\\angle{CHE}} = \\purple{\\angle{BHD}} = <var>ANGLE_3</var>^\\circ</code>."
+msgstr "इसलि <code>\\blue{\\angle{CHE}} = \\purple{\\angle{BHD}} = <var>ANGLE_3</var>^\\circ</code>।"
+
+msgid "Therefore <code>\\blue{\\angle{CHF}} = \\purple{\\angle{AGH}}</code>."
+msgstr "इसलिए <code>\\blue{\\angle{CHF}} = \\purple{\\angle{AGH}}</code>।"
+
+msgid "Therefore <code>\\blue{\\angle{GHD}} = \\green{\\angle{EGB}}</code>."
+msgstr "इसलिए <code>\\blue{\\angle{GHD}} = \\green{\\angle{EGB}}</code>।"
+
+msgid "Therefore <code>\\blue{\\angle{GHD}} = \\green{\\purple{AGH}}</code>."
+msgstr "इसलिए <code>\\blue{\\angle{GHD}} = \\green{\\purple{AGH}}</code>।"
+
+msgid "Therefore <code>\\blue{\\angle{GHD}} = \\purple{\\angle{AGH}}</code>."
+msgstr "इसलिए <code>\\blue{\\angle{GHD}} = \\purple{\\angle{AGH}}</code>।"
+
+msgid "Therefore <code>\\purple{\\angle{AGH}} = 180^\\circ - \\green{<var>Y</var>^\\circ} = <var>X</var>^\\circ</code>."
+msgstr "इसलिए <code>\\purple{\\angle{AGH}} = 180^\\circ - \\green{<var>Y</var>^\\circ} = <var>X</var>^\\circ</code>।"
+
+msgid "Therefore <code>\\purple{\\angle{AGH}} = \\green{\\angle{EGB}} = <var>X</var>^\\circ</code>."
+msgstr "इसलिए <code>\\purple{\\angle{AGH}} = \\green{\\angle{EGB}} = <var>X</var>^\\circ</code>।"
+
+msgid "Therefore the solution is to cut the starting block into <code><var>N_PARENT_EXPANDED</var></code> pieces and copy the resulting block <code><var>N_OFFSPRING_EXPANDED</var></code> times."
+msgstr "इसलिए हल होगा कि आरंभिक ब्लाक को काटें <code><var>N_PARENT_EXPANDED</var></code> हिस्सों में और परिणामी ब्लाक की अनुकृति होगी <code><var>N_OFFSPRING_EXPANDED</var></code> गुनाI"
+
+msgid "Therefore the solution is to cut the starting block into <code><var>SLICES</var></code> pieces, copy current block 1 <code><var>OFFSPRING_1_MULTI * N_OFFSPRING_1</var></code> times and current block 2 <code><var>OFFSPRING_2_MULTI * N_OFFSPRING_2</var></code> times."
+msgstr "इसलिए हल होगा कि आरंभिक ब्लाक को काटें <code><var>SLICES</var></code>हिस्सों में, जारी ब्लाक 1 को अनुकृत करें<code><var>OFFSPRING_1_MULTI * N_OFFSPRING_1</var></code>गुना और जारी ब्लाक 2 <code><var>OFFSPRING_2_MULTI * N_OFFSPRING_2</var></code>गुनाI"
+
+msgid "Therefore you need:"
+msgstr "अतः आपको चाहिए:"
+
+msgid "Therefore, <code><var>fractionReduce( NUM, DENOM )</var></code> is the ratio of <var>fruit( 0 )</var>s to <var>fruit( 1 )</var>s written as a simplified fraction."
+msgstr "इसलिए, <code><var>fractionReduce( NUM, DENOM )</var></code> <var>fruit( 0 )</var>s to <var>fruit( 1 )</var>s का अनुपात है जिसे सरल भिन्न के रूप में लिखा जा सकता है ।"
+
+msgid "Therefore, <code>\\angle{AJF} = \\angle{DJI} = <var>ANGLE_3</var>^\\circ</code>."
+msgstr "इसलिए, <code>\\angle{AJF} = \\angle{DJI} = <var>ANGLE_3</var>^\\circ</code>।"
+
+msgid "Therefore, <code>\\angle{IHE} = \\pink{\\angle{CHG}} = <var>ANGLE_3</var>^\\circ</code>."
+msgstr "इसलिए, <code>\\angle{IHE} = \\pink{\\angle{CHG}} = <var>ANGLE_3</var>^\\circ</code>।"
+
+msgid "Therefore, <code>\\pink{\\angle{CHG}} = 180^\\circ - \\green{\\angle{ACD}} - \\purple{\\angle{HGC}}</code>."
+msgstr "इसलि, <code>\\pink{\\angle{CHG}} = 180^\\circ - \\green{\\angle{ACD}} - \\purple{\\angle{HGC}}</code>।"
+
+msgid "Therefore, <code>\\pink{\\angle{DJI}} = 180^\\circ - \\green{\\angle{BDC}} - \\purple{\\angle{DIJ}}</code>."
+msgstr "इसलिए, <code>\\pink{\\angle{DJI}} = 180^\\circ - \\green{\\angle{BDC}} - \\purple{\\angle{DIJ}}</code>।"
+
+msgid "Therefore, <code>\\purple{\\angle{DIJ}} = 180^\\circ - \\red{<var>180 - ANGLE_2</var>^\\circ}</code>."
+msgstr "इसलिए, <code>\\purple{\\angle{DIJ}} = 180^\\circ - \\red{<var>180 - ANGLE_2</var>^\\circ}</code>।"
+
+msgid "Therefore, <code>\\purple{\\angle{HGC}} = 180^\\circ - \\red{<var>180 - ANGLE_2</var>^\\circ}</code>."
+msgstr "इसलिए, <code>\\purple{\\angle{HGC}} = 180^\\circ - \\red{<var>180 - ANGLE_2</var>^\\circ}</code>।"
+
+msgid "Therefore, he needs <code><var>LENGTH + 1</var></code> posts for a <code><var>LENGTH</var></code> meter fence."
+msgstr "इसलिए, उसे <code><var>LENGTH + 1</var></code> खम्भे की ज़रूरत है एक <code><var>LENGTH</var></code> मीटर बाड़े के लिए।"
+
+msgid "Therefore, if we cut the starting block into <code><var>N_PARENT_EXPANDED</var></code> equal pieces, each piece will have a length of <code><var>fraction(1, D)</var></code> units."
+msgstr "इसलिए, अगर हम आरंभि ब्लाक को काटें <code><var>N_PARENT_EXPANDED</var></code> बराबर हिस्सों में, प्रत्येक हिस्से की लम्बाई होगी<code><var>fraction(1, D)</var></code> इकायों कीI"
+
+msgid "Therefore, she needs <code><var>LENGTH + 1</var></code> posts for a <code><var>LENGTH</var></code> meter fence."
+msgstr "इसलिए, उसे <code><var>LENGTH + 1</var></code> खम्भे की ज़रूरत है एक <code><var>LENGTH</var></code> मीटर बाड़े के लिए ।"
+
+msgid "Therefore, we need <code><var>NUM - 1</var></code> cuts to make <code><var>NUM</var></code> slices."
+msgstr "अतःहमें <code><var>NUM</var></code> टुकड़े बनाने के लिए <code><var>NUM - 1</var></code> काट लगाने होंगे। "
+
+msgid "They ate <code>\\blue{<var>EATEN</var>}</code> out of <code><var>TOTAL</var></code> slices."
+msgstr "उन्होंने ने खाया <code>\\blue{<var>EATEN</var>}</code> इसमें से <code><var>TOTAL</var></code> भागों कोI"
+
+msgid "They ate <code>\\dfrac{<var>EATEN</var>}{<var>TOTAL</var>}</code> of the <var>pizza( 1 )</var>."
+msgstr "उन्होंने खाया <code>\\dfrac{<var>EATEN</var>}{<var>TOTAL</var>}</code> इतना अंश <var>pizza( 1 )</var>."
+
+msgid "They ate <code>\\dfrac{<var>EATEN</var>}{<var>TOTAL</var>}</code> of the <var>pizza(1)</var>."
+msgstr "उन्होंने खाया <code>\\dfrac{<var>EATEN</var>}{<var>TOTAL</var>}</code> of the <var>pizza(1)</var>."
+
+msgid "This discussion area is not meant for answering homework questions."
+msgstr "विचारविमर्श का यह क्षेत्र गृह कार्य के प्प्रश्नों के उत्तर हेतु नहीं है. "
+
+msgid "This is great, I finally understand quadratic functions!"
+msgstr "यह श्रेष्ट है, मई आखिरकार द्वतिघातिक प्रक्रियाओं को समझ गया हूँ!"
+
+msgid "This is instance of:"
+msgstr "इस का उदाहरण है:"
+
+msgid "This is like considering two equally sized pizzas that have been cut into <code><var>DEN_1</var></code> equal slices."
+msgstr "यह दो समान पिज़्ज़ा को ध्यान में रखने के जैसा है जो कि काटे गए है <code><var>DEN_1</var></code> बराबर भागों मेंI"
+
+msgid "This looks like it matches the arrow and circle from Graph <var>LINE_SOLUTION</var> above."
+msgstr "यह लगता है की ऊपर दिए आलेख  <var>LINE_SOLUTION</var> में तीर और वृत्त एक मेल खाते  हैं ।"
+
+msgid "This week"
+msgstr "इस सप्ताह"
+
+msgid "Thousandths"
+msgstr "हजारवां भाग"
+
+msgid "Thus, <code>\\sqrt{<var>NUM</var>} = <var>COEFFICIENT</var>\\sqrt{<var>RADICAL</var>}</code>."
+msgstr "इसलिए, <code>\\sqrt{<var>NUM</var>} = <var>COEFFICIENT</var>\\sqrt{<var>RADICAL</var>}</code>."
+
+msgid "Time (hours)"
+msgstr "समय (घंटे)"
+
+msgid "Tips &amp; Thanks"
+msgstr "युक्तियाँ &amp; धन्यवाद"
+
+msgid "To find how much faster <var>person(2)</var> was than <var>person(1)</var>, we need to find the difference between their times in seconds."
+msgstr "यह ढूँढने के लिए कि <var>person(2)</var> कितना तेज़ था <var>person(1)</var> से, हमे दोनों के क्षणों का अंतर पता करना होगाI"
+
+msgid "To find out how much change <var>person(1)</var> received, we can subtract the price of the <var>storeItem(1,1)</var> from the amount of money he paid."
+msgstr "यह जानने के लिए कि <var>person(1)</var>ने कितना पाया, हम <var>storeItem(1,1)</var> की कीमत को उस पैसे की मात्रा से घटा सकते हैं जो उसने दी थीI"
+
+msgid "To find out how much change <var>person(1)</var> received, we can subtract the price of the <var>storeItem(1,1)</var> from the amount of money she paid."
+msgstr "यह जानने के लिए कि <var>person(1)</var> व्यक्ति ने कितना पाया, हम <var>storeItem(1,1)</var> को घटा सकते हैं उस पैसे की मात्र से जो उसने दिए थेI"
+
+msgid "To find the denominator, count the total blocks in a rectangle."
+msgstr "हर निकालने के लिए, एक आयत के कुल ब्लॉक को गिनें।"
+
+msgid "To find the denominator, count the total number of slices in a circle."
+msgstr "हर को निकालने के लिए, एक वृत्त में हिस्सों की कुल संख्या को गिनिए।"
+
+msgid "To find the denominator, count the total number of slices in the circle."
+msgstr "हर को निकालने के लिए, वृत्त में हिस्सों की कुल संख्या को गिनिए।"
+
+msgid "To find the difference in rainfall, we can subtract the amount of rain in <var>person(1)</var>'s town from the amount of rain in <var>person(2)</var>'s town."
+msgstr "बारिश में अंतर जानने के लिए, हम बारिश की मात्रा को घटाएंगे <var>person(1)</var>'s के नगर से <var>person(2)</var>'s  के नगर तकI"
+
+msgid "To find the total distance <var>person(1)</var> travels, we need to add the two distances together."
+msgstr "कुल दूरी को ढूँढने के लिए <var>person(1)</var> यात्रा करता है, हमे दोनों दूरियों को जोड़ना होगाI"
+
+msgid "To find the weights of the two babies, we need to add their weights together."
+msgstr "दोनों बच्चों के वज़न को ढूँढने के लिए, हमे दोनों के वज़न को साथ में जोड़ना होगाI"
+
+msgid "To make an equivalent equation with a whole number divisor, we can multiply both numbers by <code><var>MULTIPLE</var></code>."
+msgstr "सम्पूर्ण गुणक अंक के साथ एक समकक्ष समीकरण बनाने के लिये ,हम दोनों अंको को  <code><var>MULTIPLE</var></code> से गुणा कर सकते हैं।"
+
+msgid "Together they ate <code><var>EATEN</var></code> slices, which leaves <code><var>LEFT</var></code> out of <code><var>TOTAL</var></code> slices remaining."
+msgstr "साथ में उन्होंने ने खाया <code><var>EATEN</var></code> भागों को, जो कि छोड़ता है <code><var>LEFT</var></code> में से <code><var>TOTAL</var></code>बचे हुए भागों कोI"
+
+msgid "Together, the babies weigh <code><var>solution</var></code> kilograms."
+msgstr "साथ में, दोनों का वज़न <code><var>solution</var></code> किलो हैI"
+
+msgid "Understanding moving the decimal"
+msgstr "दशम्लवों के विचलन को समझना"
+
+msgid "Use Khan Academy to practice your math skills."
+msgstr "अपनी गणित सम्बंधित कुशलता का अभ्यास करने के लिए खान अकादमी का उपयोग करें।"
+
+msgid "Use the pictograph to answer the question below:"
+msgstr "निचे दिए हुए प्रश्नों के उत्तर देने के लिये चित्रलिपि का प्रयोग करें :"
+
+msgid "Views of a function"
+msgstr "कार्य पर नज़र"
+
+msgid "Volume 1"
+msgstr "आयतन 1"
+
+msgid "Volume with unit cubes"
+msgstr "आयतन के साथ इकाई घन"
+
+msgid "We are trying to find the <code>\\blue{\\text{<var>PERCENT</var>}}</code>. Is <code><var>WHOLE</var></code> the <code>\\pink{\\text{<var>PART</var>}}</code> or the <code>\\green{\\text{<var>WHOLE_TEXT</var>}}</code>?"
+msgstr "हम <code>\\blue{\\text{<var>PERCENT</var>}}</code> पता करने की कोशिश कर रहे हैI क्या <code><var>WHOLE</var></code>  <code>\\pink{\\text{<var>PART</var>}}</code> या  <code>\\green{\\text{<var>WHOLE_TEXT</var>}}</code>?"
+
+msgid "We can also count <code><var>L * W</var></code> square <var>plural_form(UNIT_TEXT, L * W)</var>."
+msgstr "हम गिन सकते हैं इनको भी  <code><var>L * W</var></code> square <var>plural_form(UNIT_TEXT, L * W)</var>."
+
+msgid "We can combine the tens and ones places and write out the number of <var>plural_form(ITEM)</var> at each <var>LOCATION_DISPLAY</var> on the right:"
+msgstr "हम दस्वों और एक के स्थानों को मिला सकते हैं और <var>plural_form(ITEM)</var> at each <var>LOCATION_DISPLAY</var> की संख्या को लिख सकते हैं दाईं ओर पर:"
+
+msgid "We can rewrite the goal block 1 length in terms of <code>\\dfrac{1}{<var>LCM</var>}</code> units:"
+msgstr "हम गोल ब्लाक 1 की लम्बाई का पुनर्लेखन  <code>\\dfrac{1}{<var>LCM</var>}</code> इकाइयों के अनुसार कर सकते हैं:"
+
+msgid "We can rewrite the goal block 2 length in terms of <code>\\dfrac{1}{<var>LCM</var>}</code> units:"
+msgstr "हम गोल ब्लाक 2 की लम्बाई का पुनर्लेखन कर सकते हैं  <code>\\dfrac{1}{<var>LCM</var>}</code>  इकाईओं के अनुसार:"
+
+msgid "We can rewrite the number as a multiple of <code>100</code> plus the last two digits:"
+msgstr "हम संख्या का पुनर्लेखन कर सकते हैं <code>100</code>  का एक बहुल जोड़कर अंतिम के दो अंक:"
+
+msgid "We can rewrite the starting block length in terms of <code>\\dfrac{1}{<var>LCM</var>}</code> units:"
+msgstr "हम आरंभिक ब्लाक की लम्बाई का पुनर्लेखन कर सकते हैं <code>\\dfrac{1}{<var>LCM</var>}</code> इकाईओं में:"
+
+msgid "We can set up a proportion to find out what number is <code><var>PART_PERCENT</var>\\%</code> of <code><var>WHOLE</var></code>:"
+msgstr "हम एक समानुपात व्यवस्थित कर सकते हैं यह पता करने के लिए कि कौनसी संख्या है <code><var>PART_PERCENT</var>\\%</code> of <code><var>WHOLE</var></code>:"
+
+msgid "We can set up a proportion to find out what percent of <code><var>WHOLE</var></code> we need to take to get <code><var>PART_PERCENT * MULTIPLE</var></code>:"
+msgstr "हम एक समानुपात को निश्चित करेंगे यह जानने के लिए कि हमे कितना प्रतिशत <code><var>WHOLE</var></code> इसका चाहिए होगा इतना पाने के लिए <code><var>PART_PERCENT * MULTIPLE</var></code>:"
+
+msgid "We can set up a proportion to find out what percent of <code><var>WHOLE</var></code> we need to take to get <code><var>PART_PERCENT / FACTOR</var></code>:"
+msgstr "हम एक समानुपात को निश्चित कर सकते हैं यह जानने के लिए कि हमे कितना प्रतिशत <code><var>WHOLE</var></code> चाहिए होगा इसका इतना पाने के लिए <code><var>PART_PERCENT / FACTOR</var></code>:"
+
+msgid "We don't have support for searching in your current language, sorry! We've done the search in English instead."
+msgstr ""
+"क्षमा करें! हमारे पास आपकी चालू भाषा में खोजने के लिए समर्थन नहीं हैंI\n"
+"इसके बदले हमने अंग्रेजी में खोजा हैI"
+
+msgid "We know the <code>\\blue{\\text{<var>PERCENT</var>}}</code> is <code><var>PART_PERCENT</var></code>. Is <code><var>WHOLE</var></code> the <code>\\pink{\\text{<var>PART</var>}}</code> or the <code>\\green{\\text{<var>WHOLE_TEXT</var>}} </code>?"
+msgstr "हम जानते हैं  <code>\\blue{\\text{<var>PERCENT</var>}}</code>,  <code><var>PART_PERCENT</var></code> है I क्या <code><var>WHOLE</var></code>, <code>\\pink{\\text{<var>PART</var>}}</code> है या  <code>\\green{\\text{<var>WHOLE_TEXT</var>}} </code> है ?"
+
+msgid "We know the <code>\\blue{\\text{<var>PERCENT</var>}}</code> is <code><var>PART_PERCENT</var></code>. Is <code><var>WHOLE</var></code> the <code>\\pink{\\text{<var>PART</var>}}</code> or the <code>\\green{\\text{<var>WHOLE_TEXT</var>}}</code>?"
+msgstr "हम जानते हैं कि  <code>\\blue{\\text{<var>PERCENT</var>}}</code> <code><var>PART_PERCENT</var></code> हैI क्या <code><var>WHOLE</var></code> <code>\\pink{\\text{<var>PART</var>}}</code> या <code>\\green{\\text{<var>WHOLE_TEXT</var>}}</code>?"
+
+msgid "We only have two prime factors, and we want to split them into two groups, so this is easy."
+msgstr " हमारे पास केवल अभाज्य गुणनखंड है, और हम इन्हें दो भागों में विभाजित करना चाहते है, इसलिए यह आसान हैI"
+
+msgid "We prefer to divide by a whole number."
+msgstr "हम सम्पूर्ण अंक से  विभाजन  करना पसंद करते हैं।"
+
+msgid "We want to cut the starting block into a piece that can be copied into both goal block 1 and goal block 2."
+msgstr "हमे आरंभिक ब्लाक को काटना है एक भाग में जो कि अनुकृत हो सकते दोनों गोल ब्लाक 1 अथवा गोल ब्लाक 2 मेंI"
+
+msgid "We would need <var>C</var> slices."
+msgstr "हमे <var>C</var> भागों की आवशयकता होगीI"
+
+msgid "What if we cut each <var>pizza(1)</var> into <var>B</var> slices instead?"
+msgstr "क्या होगा अगर हम प्रत्येक <var>pizza(1)</var> को <var>B</var> हिस्सों में काट ले बजाएI"
+
+msgid "What if we cut each <var>pizza(1)</var> into <var>D</var> slices instead?"
+msgstr "क्या होगा अगर हम प्रत्येक <var>pizza(1)</var> को <var>D</var>बजाये  हिस्सों में काटे?"
+
+msgid "What is <code><var>PART_PERCENT</var>\\%</code> of <code><var>WHOLE</var></code>?"
+msgstr "क्या है<code><var>PART_PERCENT</var>\\%</code> of <code><var>WHOLE</var></code>?"
+
+msgid "What is <code>AB</code>?"
+msgstr "<code>AB</code> क्या है?"
+
+msgid "What is <code>\\blue{\\angle{CAE}}{?}</code>"
+msgstr "<code>\\blue{\\angle{CAE}}{?}</code> क्या है?"
+
+msgid "What is <code>\\blue{\\angle{DAF}}{?}</code>"
+msgstr "<code>\\blue{\\angle{DAF}}{?}</code> क्या है?"
+
+msgid "What is <code>\\blue{\\angle{GHD}}{?}</code>"
+msgstr "<code>\\blue{\\angle{GHD}}{?}</code> क्या है?"
+
+msgid "What is <span data-if=\"RAND2 === 0\"><code>\\blue{\\angle{IAK}} = {?}</code></span> <span data-else=\"\"><code>\\blue{\\angle{GCJ}} = {?}</code></span>"
+msgstr "<span data-if=\"RAND2 === 0\"><code>\\blue{\\angle{IAK}} = {?}</code></span> <span data-else=\"\"><code>\\blue{\\angle{GCJ}} = {?}</code></span> क्या है?"
+
+msgid "What is the greatest common factor (GCF) of <code><var>NUM</var></code> and <code><var>DENOM</var></code>?"
+msgstr "इसका महत्तम समापवर्तक (GCF) क्या है  <code><var>NUM</var></code> and <code><var>DENOM</var></code>?"
+
+msgid "What is the least common multiple of <code><var>A</var></code> and <code><var>B</var></code>?"
+msgstr "<code><var>A</var></code> और <code><var>B</var></code> का लघुतम सामान्य गुणाकर क्या है ?"
+
+msgid "What is the perimeter of the rectangle?"
+msgstr "आयत का परिमाप क्या है ?"
+
+msgid "What is the perimeter of the square?"
+msgstr "वर्ग का परिमाप क्या है?"
+
+msgid "What is the perimeter of the triangle?"
+msgstr "त्रिभुज का परिमाप क्या है ?"
+
+msgid "What is the prime factorization of <code><var>NUMBER</var></code>?"
+msgstr " इस संख्या <code><var>NUMBER</var></code> का मुख्य गुणांक कौनसा है?"
+
+msgid "What is the volume of this rectangular prism? Drag on the rectangular prism to rotate it."
+msgstr "इस आयताकार प्रिज्म का परिमाप क्या है? इसे घूमाने के लिए आयताकार प्रिज्म को खींचे "
+
+msgid "What is the volume of this shape?"
+msgstr "इस आकार का आयतन क्या है?"
+
+msgid "What number could replace <code><var>SYMBOL</var></code> below?"
+msgstr "कौनसी संख्या बदल सकती है <code><var>SYMBOL</var></code> नीचे?"
+
+msgid "What time is it?"
+msgstr "क्या समय हुआ है?"
+
+msgid "What was the fewest number of <var>plural_form(ITEM)</var> at any one <var>LOCATION_DISPLAY</var>?"
+msgstr "सबसे कम संख्या <var>plural_form(ITEM)</var> की क्या है इनमे से किसी एक पर <var>LOCATION_DISPLAY</var>?"
+
+msgid "What was the largest number of <var>plural_form(ITEM)</var> at any one <var>LOCATION_DISPLAY</var>?"
+msgstr "सबसे बड़ी संख्या <var>plural_form(ITEM)</var>की  क्या है इनमे से एक पर  <var>LOCATION_DISPLAY</var>?"
+
+msgid "What was the smallest number of <var>plural_form(ITEM)</var> at any one <var>LOCATION_DISPLAY</var>?"
+msgstr "सबसे कम संख्या <var>plural_form(ITEM)</var> की क्या है इनमे से किसी एक पर है <var>LOCATION_DISPLAY</var>?"
+
+msgid "When naming a variable, it is okay to use most letters, but some are reserved, like 'e', which represents the value 2.7831..."
+msgstr "जब एक परिवर्तीय को नामांकित किया जाता है, तो अधिकतम अक्षरों का प्रयोग करना उचित होगा, किन्तु कुछ आरक्षित है, जैसे 'e', जोकि 2.7831... के मान को दर्शाता है "
+
+msgid "When we multiply a whole number by <code>1000</code>, we add three zeros to the end of the number."
+msgstr "जब हम एक पूर्ण संख्या को गुणा करते हैं  <code>1000</code> से, हम संख्या के अंत में तीन शून्य जोड़ेंगेI"
+
+msgid "When we multiply a whole number by <code>100</code>, we add two zeros to the end of the number."
+msgstr "जब हम एक पूर्ण संख्या को <code>100</code> से गुणा करते हैं, हम संख्या के अंत में दो शून्य जोड़ते हैंI"
+
+msgid "Where is <code><var>NUMBER</var></code> on the number line?"
+msgstr "संख्या रेखा पर  <code><var>NUMBER</var></code>कहाँ है?"
+
+msgid "Where is the blue dot on the number line?"
+msgstr "संक्या पंक्ति पर नीला बिंदु कहाँ है?"
+
+msgid "Which things do we know, and what are we trying to find?"
+msgstr "कौनसी चीज़े हम जानते हैं, और हम क्या ढूँढने की कोशिश कर रहे हैं?"
+
+msgid "Wings"
+msgstr "पंख"
+
+msgid "Write an expression to represent:"
+msgstr "प्रतिनिधित्व करने के लिए व्यंजक लिखें:"
+
+msgid "Write your answer as a whole number and remainder."
+msgstr "अपना उत्तर एक पूर्ण संख्या और शेष के जितना लिखेंI"
+
+msgid "Yes, <code>\\blue{<var>NUMBER % 100</var> \\div 4 = <var>NUMBER % 100 / 4</var>}</code>, so <code><var>NUMBER</var></code> must also be divisible by <code>4</code>."
+msgstr "हाँ, <code>\\blue{<var>NUMBER % 100</var> \\div 4 = <var>NUMBER % 100 / 4</var>}</code>, तो <code><var>NUMBER</var></code> भी विभाजित हो सकता है <code>4</code> इससेI"
+
+msgid "You can also solve this problem by repeatedly breaking the numerator and denominator into common factors."
+msgstr "आप इस सवाल को हल करने के लिए गणक और भाजक को कई बार सार्व भजकों में तोड़ सकते हैंI"
+
+msgid "You can learn anything"
+msgstr "आप कुछ भी सीख सकते है"
+
+msgid "You must specify a valid nickname."
+msgstr "आपको एक मान्य उपनाम निर्दिष्ट करना होगा।"
+
+msgid "You need to divide by ten <code><var>POW_DIFF</var></code> time."
+msgstr "आपको दस से गुणा करना होगा  <code><var>POW_DIFF</var></code> समयI"
+
+msgid "You need to divide by ten <code><var>POW_DIFF</var></code> times."
+msgstr "आपको दस से विभाजन करना होगा  <code><var>POW_DIFF</var></code> बारI"
+
+msgid "You need to multiply by ten <code><var>POW_DIFF</var></code> time."
+msgstr "आपको दस से गुणा करना होगा  <code><var>POW_DIFF</var></code> समयI"
+
+msgid "You need to multiply by ten <code><var>POW_DIFF</var></code> times."
+msgstr "आपको दस से गुणा करना होगा  <code><var>POW_DIFF</var></code> बारI"
+
+msgid "Your Spin-Offs"
+msgstr "आपके स्पिन-ऑफस "
+
+msgid "a question"
+msgstr "सवाल"
+
+msgid "a question about Khan Academy (e.g. \"What software does Sal use?\")"
+msgstr "खान अकादमी के बारे में एक सवाल (उदाहरण के लिए \"साल किस सॉफ्टवेयर का उपयोग करता है?\")"
+
+msgid "a question in Tips & Thanks"
+msgstr "प्रश्न में टिप और धन्यवाद "
+
+msgid "abuse"
+msgstr "अपशब्द"
+
+msgid "an integer, like <code>6</code>"
+msgstr "एक पूर्णांक  , जैसे  <code>6</code>"
+
+msgid "and <code>\\large{\\color{brown}{<var>THOUSANDTHS</var>}}</code> <var>plural_form(decimalPlaceNames[3], THOUSANDTHS)</var>."
+msgstr "और  <code>\\large{\\color{brown}{<var>THOUSANDTHS</var>}}</code> <var>plural_form(decimalPlaceNames[3], THOUSANDTHS)</var>."
+
+msgid "and <code>\\large{\\color{gray}{<var>HUNDREDTHS</var>}}</code> <var>plural_form(decimalPlaceNames[2], HUNDREDTHS)</var>."
+msgstr "और  <code>\\large{\\color{gray}{<var>HUNDREDTHS</var>}}</code> <var>plural_form(decimalPlaceNames[2], HUNDREDTHS)</var>."
+
+msgid "answer"
+msgstr "जवाब"
+
+msgid "articles"
+msgstr "निबंध"
+
+msgid "by"
+msgstr "द्वारा"
+
+msgid "cm"
+msgstr "सेमी"
+
+msgid "comments"
+msgstr "टिप्पणियाँ"
+
+msgid "divide"
+msgstr "विभाजित करें"
+
+msgid "hexagon"
+msgstr "षटभुज"
+
+msgid "low quality"
+msgstr "कम गुणवत्ता"
+
+msgid "m"
+msgstr "m"
+
+msgid "multiply"
+msgstr "गुणा करें"
+
+msgid "octagon"
+msgstr "अष्टभुज"
+
+msgid "on"
+msgstr "पर"
+
+msgid "orange dot"
+msgstr "नारंगी बिंदु"
+
+msgid "pages"
+msgstr "पन्ने"
+
+msgid "papers"
+msgstr "पन्ने"
+
+msgid "part"
+msgstr "भाग"
+
+msgid "pentagon"
+msgstr "पंचभुज"
+
+msgid "percent"
+msgstr "प्रतिशत"
+
+msgid "perimeter"
+msgstr "परिमाप"
+
+msgid "problems"
+msgstr "समस्याएं"
+
+msgid "purple"
+msgstr "बैंगनी"
+
+msgid "red"
+msgstr "लाल"
+
+msgid "right"
+msgstr "दाईं"
+
+msgid "to"
+msgstr "करने के लिए।"
+
+msgid "whole"
+msgstr "पूरा"
+
+msgid "{After <code><var>time_3</var></code> minutes, <var>person(3)</var> agreed to time the runners.|} <var>person(1)</var> sprinted first and ran <code><var>meters</var></code> meters in <code><var>time_1</var></code> seconds. When it was <var>person(2)</var>'s turn, he sped off and completed the run in <code><var>time_2</var></code> seconds."
+msgstr "{After <code><var>time_3</var></code> मिनट, <var>person(3)</var> ने दौड़ने वालों को निश्चित करने के लिए सहमती दे दीI|} <var>person(1)</var> ने पहले शुरू किया और <code><var>meters</var></code> मीटर में <code><var>time_1</var></code>क्षण तक दौड़ाI जब <var>person(2)</var>व्यक्ति की बारी आई, वह तेज़ दौड़ पड़ा और <code><var>time_2</var></code> क्षणों में अपनी दौड़ समाप्त करीI"
+
+msgid "{After <code><var>time_3</var></code> minutes, <var>person(3)</var> agreed to time the runners.|} <var>person(1)</var> sprinted first and ran <code><var>meters</var></code> meters in <code><var>time_1</var></code> seconds. When it was <var>person(2)</var>'s turn, she sped off and completed the run in <code><var>time_2</var></code> seconds."
+msgstr "{After <code><var>time_3</var></code> मिनट, <var>person(3)</var> ने दौड़ने वालों को निश्चित करने के लिए सहमती दे दीI|} <var>person(1)</var> ने पहले शुरू किया और <code><var>meters</var></code> मीटर में <code><var>time_1</var></code>क्षण तक दौड़ाI जब <var>person(2)</var>व्यक्ति की बारी आई, वह तेज़ दौड़ पड़ी और <code><var>time_2</var></code> क्षणों में अपनी दौड़ समाप्त करीI"
+
+msgid "{Last Monday|On Saturday}, <var>person(1)</var>'s mother gave birth to twins and named them <var>person(2)</var> and <var>person(3)</var>. When they were first born, <var>person(2)</var> weighed <code><var>weight_1</var></code> kilograms {and was <code><var>height_1</var></code> centimeters tall|}, and <var>person(3)</var> weighed <code><var>weight_2</var></code> kilograms {and was <code><var>height_2</var></code> centimeters tall|}."
+msgstr "{Last Monday|On Saturday}, <var>person(1)</var> की माँ ने जुड़वाँ बच्चों को जन्म दिया और उन्हें <var>person(2)</var> और <var>person(3)</var> नाम दियाI जब वह पहले पैदा हुए थे, <var>person(2)</var> का <code><var>weight_1</var></code> किलोग्राम था {and was <code><var>height_1</var></code> centimeters tall|}, और <var>person(3)</var> का <code><var>weight_2</var></code> किलोग्राम था {and was <code><var>height_2</var></code> centimeters tall|}."
+
+msgid "{On Monday|Last week}, <var>person(1)</var> and <var>person(2)</var> decided to see how fast they could sprint <code><var>meters</var></code> meters. They asked their friend <var>person(3)</var> to time them with a stopwatch."
+msgstr "{On Monday|Last week}, <var>person(1)</var> और <var>person(2)</var> ने यह देखने का सोचा कि वह <code><var>meters</var></code> मीटर तक कितना तेज़ भाग सकते हैंI उन्होंने अपने दोस्त <var>person(3)</var> को उनकी दौड़ को एक विराम घड़ी में निश्चित करने को कहाI"
+
+msgid "{On Tuesday,|Last Thursday,|} <var>person(1)</var> walked to a <var>store(1)</var> store {<var>timeofday(1)</var>|} and {, after browsing for <code><var>time_1</var></code> minutes,|} decided to buy a <var>storeItem(1, 1)</var> for <code>$<var>price_1</var></code>. <var>person(1)</var> handed the salesperson <code>$<var>amount_paid</var></code> for her purchase."
+msgstr "{On Tuesday,|Last Thursday,|} <var>person(1)</var> एक <var>store(1)</var> दुकान तक चल कर गई {<var>timeofday(1)</var>|} और {, after browsing for <code><var>time_1</var></code> minutes,|} उसने एक <var>storeItem(1, 1)</var> खरीदने का सोचा जो <code>$<var>price_1</var></code> का थाI <var>person(1)</var> ने दुकानदार को अपनी खरीदारी के लिए <code>$<var>amount_paid</var></code> दिएI"
+
+msgid "{On Tuesday,|Last Thursday,|} <var>person(1)</var> walked to a <var>store(1)</var> store {<var>timeofday(1)</var>|} and {, after browsing for <code><var>time_1</var></code> minutes,|} decided to buy a <var>storeItem(1, 1)</var> for <code>$<var>price_1</var></code>. <var>person(1)</var> handed the salesperson <code>$<var>amount_paid</var></code> for his purchase."
+msgstr "{On Tuesday,|Last Thursday,|} <var>person(1)</var> एक <var>store(1)</var> दुकान तक चल कर गया {<var>timeofday(1)</var>|} और {, after browsing for <code><var>time_1</var></code> minutes,|} उसने एक <var>storeItem(1, 1)</var> खरीदने का सोचा जो <code>$<var>price_1</var></code> का थाI <var>person(1)</var> ने दुकानदार को अपनी खरीदारी के लिए <code>$<var>amount_paid</var></code> दिएI"
+
+msgid "{On a sunny morning|On a beautiful afternoon}, <var>person(1)</var> rode her bicycle to a farm that sold baskets of <var>plural_form(fruit(1))</var> for <code>$<var>fruit_1</var></code> each and baskets of <var>plural_form(fruit(2))</var> for <code>$<var>fruit_2</var></code> each."
+msgstr "{On a sunny morning|On a beautiful afternoon}, <var>person(1)</var> अपनी साइकिल से एक खेत में गई जहाँ <var>plural_form(fruit(1))</var> की टोकरियाँ प्रत्येक <code>$<var>fruit_1</var></code> के लिए और <var>plural_form(fruit(2))</var> की प्रत्येक टोकरी <code>$<var>fruit_2</var></code> के लिए बेचीं जा रहीं थींI"
+
+msgid "{On a sunny morning|On a beautiful afternoon}, <var>person(1)</var> rode his bicycle to a farm that sold baskets of <var>plural_form(fruit(1))</var> for <code>$<var>fruit_1</var></code> each and baskets of <var>plural_form(fruit(2))</var> for <code>$<var>fruit_2</var></code> each."
+msgstr "{On a sunny morning|On a beautiful afternoon}, <var>person(1)</var> अपनी साइकिल से एक खेत में गया जहाँ <var>plural_form(fruit(1))</var> की टोकरियाँ प्रत्येक <code>$<var>fruit_1</var></code> के लिए और <var>plural_form(fruit(2))</var> की प्रत्येक टोकरी <code>$<var>fruit_2</var></code> के लिए बेचीं जा रहीं थींI"
+
+msgid "{The buyer for|A statistician for|An executive of} a chain of supermarkets created the following stem-and-leaf plot showing the number of <var>plural_form(ITEM)</var> at each of the stores:"
+msgstr "{The buyer for|A statistician for|An executive of} एक सुपर बाज़ार का गुट निम्लिखित तना और पत्ती के क्षेत्र को बनाता है दिखाते हुए <var>plural_form(ITEM)</var> की संख्या प्रत्येक दुकान पर:"
+
+msgid "{The buyer for|A statistician for|The regional manager of} a chain of department stores created the following stem-and-leaf plot showing the number of <var>plural_form(ITEM)</var> at each of the stores:"
+msgstr "{The buyer for|A statistician for|The regional manager of} एक सुपर बाज़ार का गुट निम्लिखित तना और पत्ती के क्षेत्र को बनाता है दिखाते हुए <var>plural_form(ITEM)</var> की संख्या प्रत्येक दुकान पर:"
+
+msgid "{The government|A conservation group|A zookeeper} {created|published} the following stem-and-leaf plot showing the number of <var>plural_form(ITEM)</var> at each major zoo in the country:"
+msgstr "{The government|A conservation group|A zookeeper} {created|published} निम्नलिखित तना और पत्ती का गुट दिखता है <var>plural_form(ITEM)</var> की संख्या प्रत्येक देश के बड़े चिड़ियाघर में:"
+
+msgid "{To get to school each morning|To get to work each morning|To visit her grandmother}, <var>person(1)</var> takes a <var>vehicle(1)</var> <code><var>distance_1</var></code> <var>plural_form(distance(1), distance_1)</var> and a <var>vehicle(2)</var> <code><var>distance_2</var></code> <var>plural_form(distance(1), distance_2)</var>. {In total, the journey takes <code><var>time_1</var></code> minutes.|}"
+msgstr "{To get to school each morning|To get to work each morning|To visit her grandmother}, <var>person(1)</var> ने <var>vehicle(1)</var> <code><var>distance_1</var></code> <var>plural_form(distance(1), distance_1)</var> और एक <var>vehicle(2)</var> <code><var>distance_2</var></code> <var>plural_form(distance(1), distance_2)</var>. {कुल मिलाकर, सफ़र में <code><var>time_1</var></code> मिनट लगेंगेI|}"
+
+msgid "{To get to school each morning|To get to work each morning|To visit his grandmother}, <var>person(1)</var> takes a <var>vehicle(1)</var> <code><var>distance_1</var></code> <var>plural_form(distance(1), distance_1)</var> and a <var>vehicle(2)</var> <code><var>distance_2</var></code> <var>plural_form(distance(1), distance_2)</var>. {In total, the journey takes <code><var>time_1</var></code> minutes.|}"
+msgstr "{To get to school each morning|To get to work each morning|To visit his grandmother}, <var>person(1)</var> ने <var>vehicle(1)</var> <code><var>distance_1</var></code> <var>plural_form(distance(1), distance_1)</var> और एक <var>vehicle(2)</var> <code><var>distance_2</var></code> <var>plural_form(distance(1), distance_2)</var>. {कुल मिलाकर, सफ़र में <code><var>time_1</var></code> मिनट लगेंगेI|}"
