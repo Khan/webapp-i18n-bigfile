@@ -1,2 +1,3 @@
 pofiles/* filter=bigfile -crlf
+approved_pofiles/* filter=bigfile -crlf
 crowdin_stringids.pickle filter=bigfile -crlf
