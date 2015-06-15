@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: khanacademy\n"
 "Report-Msgid-Bugs-To: translation-team@khanacademy.org\n"
 "POT-Creation-Date: 2015-05-29 05:05+0000\n"
-"PO-Revision-Date: 2015-06-14 11:51-0400\n"
+"PO-Revision-Date: 2015-06-14 20:17-0400\n"
 "Last-Translator: csilvers <translation@khanacademy.org>\n"
 "Language-Team: Danish\n"
 "MIME-Version: 1.0\n"
@@ -197,6 +197,37 @@ msgstr ""
 
 msgid ""
 "\n"
+"              Khan Academy is a nonprofit on a mission to provide\n"
+"              a free, world-class education for anyone, anywhere.\n"
+"              It is a personalized learning resource for all\n"
+"              ages. Khan Academy offers practice exercises,\n"
+"              instructional videos, and a personalized learning\n"
+"              dashboard that empower learners to study at their\n"
+"              own pace in and outside of the classroom. Khan\n"
+"              Academy tackles math, science, computer programming,\n"
+"              history, art history, economics, and more. Our math\n"
+"              missions guide learners from kindergarten to calculus\n"
+"              using state-of-the-art, adaptive technology that\n"
+"              identifies strengths and learning gaps.\n"
+"              "
+msgstr ""
+"\n"
+" Khan Academy er en non-profit organisation med en mission om at levere\n"
+" en gratis, verdensklasse uddannelse for alle, hvor som helst. \n"
+" Det er en personlig læringsressource for alle\n"
+" aldre. Khan Academy tilbyder øvelser,\n"
+" instruktionsvideoer og en personlige oversigt med din\n"
+" læring, som giver eleverne mulighed for at studere i deres\n"
+" eget tempo udenfor klasseværelset. Khan\n"
+" Academy dækker matematik, naturvidenskab, datalogi, \n"
+" historie, kunsthistorie, økonomi og meget mere. Vores matematik-\n"
+"missioner guider elever fra børnehaveklassen til og med universitet\n"
+" ved hjælp af den bedste adaptive teknologi, der\n"
+" identificerer styrker og videnshuller. \n"
+"              "
+
+msgid ""
+"\n"
 "            Feedback on your experience helps us make it better for others! If you have any thoughts for us about your experience\n"
 "            <a class=\"feedback-link\" href=\"/reportissue?type=Comment&issue_labels=assessment target=_blank\">we welcome your feedback</a>.\n"
 "            "
@@ -277,6 +308,9 @@ msgstr "\"Sand andel\" markering"
 
 msgid "\"Viruses\" -- programs that encourage others to copy and spread them."
 msgstr "\"Virus\" - programmer, der opfordrer andre til at kopiere og sprede dem."
+
+msgid "\"Vote riding\": creating an unrelated program as the spin-off of a popular program, to get more viewers and votes"
+msgstr "\"Stemme ridning\": at skabe et urelateret program som spin-off af et populært program for at få flere seere og stemmer"
 
 msgid "\"{a}\" is not defined. Make sure you're spelling it correctly and that you declared it."
 msgstr "\"{a}\" er ikke defineret. Sørg for du staver det korrekt, og at du har erklæret det."
@@ -927,6 +961,9 @@ msgstr "**Acceptable formater**"
 msgid "+%(numMinutes)s %(minutesText)s"
 msgstr "+%(numMinutes)s %(minutesText)s"
 
+msgid ", or "
+msgstr ", eller "
+
 msgid "."
 msgstr "."
 
@@ -1155,6 +1192,11 @@ msgid_plural "%(num)s days"
 msgstr[0] "1 dag"
 msgstr[1] "%(num)s dage"
 
+msgid "1 day streak!"
+msgid_plural "%(num)s day streak!"
+msgstr[0] "1 dag i stræk!"
+msgstr[1] "%(num)s dag(e) i stræk!"
+
 msgid "1 hour"
 msgid_plural "%(num)s hours"
 msgstr[0] "1 time"
@@ -1267,6 +1309,9 @@ msgstr "\"401(k) + matching\" (pensionsordning)"
 
 msgid "4th"
 msgstr "4."
+
+msgid "5 digit zip code"
+msgstr "Postnummer (4 cifre)"
 
 msgid "5 in a row"
 msgstr "5 i træk"
@@ -2123,6 +2168,9 @@ msgstr "En <var>color(1)</var> <var>clothing(1)</var> koster <code>$<var>TOTAL</
 msgid "A baker has a whole {baguette|loaf of bread}."
 msgstr "En bager har et helt {baguette|brød}."
 
+msgid "A challenge for the entire Bay Area"
+msgstr "En udfordring til hele Bay Area"
+
 msgid "A closing \"&lt;/%(closeTag_name)s&gt;\" tag cannot contain any attributes."
 msgstr "En afsluttende \"&lt;/%(closeTag_name)s&gt;\" tegn må ikke indeholde nogen attributter."
 
@@ -2150,6 +2198,31 @@ msgstr ""
 
 msgid "A free learning resource tailored for your child."
 msgstr "En gratis undervisningsressource skræddersyet til dit barn."
+
+msgid ""
+"A free, 3-month learning challenge designed to build a\n"
+"              student’s ability to learn anything through mastery of\n"
+"              math skills on Khan Academy. Points are earned by\n"
+"              mastering math skills and also for taking on challenging\n"
+"              new concepts and persevering. It is team-based--school\n"
+"              vs. school and city vs. city!  Top individual scorers and\n"
+"              schools will get special recognition on weekly\n"
+"              leaderboards and will be eligible for awards. Anyone can\n"
+"              sign up and help their school or city take the top spot\n"
+"              on the leaderboards.  Everyone has a chance to be invited\n"
+"              to the in-person finals event and celebration.\n"
+"            "
+msgstr ""
+"En gratis, 3-månedenlig lærrings udfordring, som er designet til at udvikle en\n"
+" elevs evne til at lære alt gennem at\n"
+" mestre matematikfærdigheder på Khan Academy, Point tjener man ved at mestre matematikfærdigheder og også ved at give sig i kast med udfordrende\n"
+" nye koncepter og være ihærdig. Det er team-baseret - skole\n"
+" mod skole og by mod by! De individuelle topscorere\n"
+" og skoler vil få en speciel belønning på de ugentlige\n"
+" ranglister og vil være berettigede til præmier. Alle\n"
+" kan tilmelde sig og hjælpe deres skole med at nå til top-pladsen\n"
+" på ranglisterne. Alle har muligheden for at blive inviteret\n"
+" til finale begivenheden og fejring.\n"
 
 msgid "A free, world-class resource for homeschool families."
 msgstr "En gratis, verdensklasse ressource for familier, der underviser i hjemmet."
@@ -2577,6 +2650,9 @@ msgstr "Læg <code>\\red{<var>abs(B)</var>}</code> til på begge sider:"
 msgid "Add <code>\\red{<var>abs(E)</var>}</code> to both sides:"
 msgstr "Læg <code>\\red{<var>abs(E)</var>}</code> til på begge sider:"
 
+msgid "Add a Bay area school"
+msgstr "Tilføj en Bay area skole"
+
 msgid "Add a class"
 msgstr "Tilføj en klasse"
 
@@ -2633,6 +2709,9 @@ msgstr "Læg den øverste og den nederste ligning sammen."
 
 msgid "Add the top and bottom equations."
 msgstr "Læg den øverste og og nederste ligning sammen."
+
+msgid "Add this class to the challenge"
+msgstr "Tilføj denne klasse til udfordringen"
 
 msgid "Add to"
 msgstr "Føj til"
@@ -2765,6 +2844,15 @@ msgstr "Efter registrering vil du modtage en brugernøgle og kodeord til anvende
 msgid "After simplifying, we end up with:"
 msgstr "Efter forenklingen har vi:"
 
+msgid ""
+"After you have logged in, click the button ‘join the\n"
+"                  challenge’\n"
+"                "
+msgstr ""
+"Når du har logget ind, skal du klikke på knappen 'tilmeld\n"
+" udfordringen' \n"
+"                "
+
 msgid "Age"
 msgstr "Alder"
 
@@ -2782,6 +2870,9 @@ msgstr "Sammenlagt funktioner<br>"
 
 msgid "Aggregating data"
 msgstr "Sammenlagt data"
+
+msgid "Alberta"
+msgstr "Alberta"
 
 msgid "Alexey's internship guide, covering everything from housing to transportation to walking around the Santa Cruz boardwalk."
 msgstr "Alexeys praktikant-guide, der dækker alt fra bolig til transport til gå rundt på Santa Cruzs boardwalk."
@@ -2867,11 +2958,17 @@ msgstr "Tillad dit barn at tilføje andre lærere"
 msgid "Almond"
 msgstr "Mandel"
 
+msgid "Almost there..."
+msgstr "Næsten der..."
+
 msgid "Already have an account?"
 msgstr "Har du allerede en konto?"
 
 msgid "Already have an account?<br><a href='%(login_url)s'>Log in</a>."
 msgstr "Har du allerede en konto?<br><a href='%(login_url)s'>Log ind</a>."
+
+msgid "Although LearnStorm has officially ended, keep working"
+msgstr "Selv om LærStorm officielt er slut så bliv ved at arbejde"
 
 msgid "Always do your best and you'll get something out of the experience!"
 msgstr "Gør altid dit bedste, så du får mere ud af oplevelsen! "
@@ -3048,6 +3145,12 @@ msgstr "Lærling Trigonometriker"
 msgid "Apprentice Trigonometrician (old)"
 msgstr "Lærling Trigonometri (gammel)"
 
+msgid "Approve School"
+msgstr "Godkend skole"
+
+msgid "Approved schools"
+msgstr "Godkendte skoler"
+
 msgid "April"
 msgstr "April"
 
@@ -3092,6 +3195,9 @@ msgstr ""
 "Er du sikker på du vil hellban %(username)s? \n"
 "\n"
 "Hvis du trykker på OK, vil alle %(username)s seneste indlæg blive slettet samt alle fremtidige dem. %(username)s får dog ikke at vide, at de er blevet hellbanned."
+
+msgid "Are you sure you want to quit the challenge?"
+msgstr "Er du sikker på at du vil afslutte udfordringen?"
 
 msgid "Are you sure you want to remove %(email)s from your account?"
 msgstr "Er du sikker på at du vil fjerne %(email)s fra din konto?"
@@ -3159,8 +3265,54 @@ msgstr "Faglært Trigonometriker"
 msgid "Artisan Trigonometrician (old)"
 msgstr "Faglært Trigonometriker (Faglært Trigonometriker)"
 
+msgid ""
+"As a homeschooler, how do I register/sign-up my children\n"
+"            for LearnStorm?"
+msgstr ""
+"Som underviser i hjemmet, hvordan kan jeg registrere/tilmelde mine børn\n"
+" til LearnStorm?"
+
+msgid ""
+"As a learner, how do I register/sign-up for\n"
+"              LearnStorm?\n"
+"            "
+msgstr ""
+"Som elev, hvordan registrer jeg mig til\n"
+" LearnStorm?\n"
+"            "
+
+msgid ""
+"As a learner, how do I register/sign-up for\n"
+"            LearnStorm?"
+msgstr ""
+"Som en elev, hvordan kan jeg registrere/tilmelde mig\n"
+" LearnStorm?"
+
 msgid "As a nonprofit organization with a mission of providing access to a free, world-class education for anyone, anywhere, this support will help us reach even more learners around the world. We rely on the support of our community to help us expand our content, develop our platform, and continue to provide access to free learning. Since we began just a few years ago, we have delivered over 440 million free lessons and 3 billion exercises."
 msgstr "Som en non-profit organisation med en mission om at give adgang til en gratis, verdensklasse uddannelse for alle, overalt, vil denne støtte hjælpe os med at nå ud til endnu flere elever over hele verden. Vi er afhængige af støtte fra vores netværk for at hjælpe os med at udvide vores indhold, videreudvikle vores platform, og fortsætte med at give adgang til gratis læring. Siden vi begyndte for bare et par år siden, har vi leveret over 440 millioner gratis lektioner og 3 milliarder øvelser."
+
+msgid ""
+"As a parent, how do I register/sign-up my children for\n"
+"            LearnStorm?"
+msgstr ""
+"Som en forælder, hvordan kan jeg registrere/tilmelde mine børn\n"
+" LearnStorm?"
+
+msgid ""
+"As a teacher,  how do I register/sign-up my students\n"
+"              for LearnStorm?\n"
+"            "
+msgstr ""
+"Som lærer, hvordan kan jeg registrere/tilmelde mine elever\n"
+" til LearnStorm?\n"
+"            "
+
+msgid ""
+"As a teacher,  how do I register/sign-up my students\n"
+"            for LearnStorm?"
+msgstr ""
+"Som lærer, hvordan kan jeg registrere/tilmelde mine elever\n"
+" til LearnStorm?"
 
 msgid "As soon as you accept, join our official internship Facebook group and post whether or not you're looking for a roommate and your estimated start/end dates."
 msgstr "Så snart du accepterer, tilmeld dig vores officielle Facebookgruppe for praktikanter og skriv om du leder efter en roommate og din anslåede start/slutdatoer."
@@ -3170,6 +3322,21 @@ msgstr "Som sædvanlig vil vi gøre vores bedste for at fremskynde vejen gennem 
 
 msgid "As you're leveling up your skills, you can keep track of progress right on the dashboard. Points, badges, and skill levels are all visible and updated in realtime."
 msgstr "Mens du løser opgaverne, kan du holde øje med din fremgang øverst til højre. Point, badges og færdighedsniveauer er hele tiden synlige og opdateres efterhånden som du løser opgaverne."
+
+msgid ""
+"As your students log in (which they can\n"
+"                      easily do through their Clever Instant\n"
+"                      Login Portal by clicking on the Khan\n"
+"                      Academy app), they will be automatically\n"
+"                      added to your classes on Khan Academy\n"
+"                    "
+msgstr ""
+"I takt med at dine elever logger ind (som de let kan\n"
+" med deres Clever Instant\n"
+" Login Portal ved at klikke på Khan\n"
+" Academy app'en), de vil automatisk blive\n"
+" tilføjet til dine klasser på Khan Academy\n"
+"                    "
 
 msgid "Ashley"
 msgstr "Ashley"
@@ -3225,6 +3392,12 @@ msgstr "Hvordan kan månen være stor nok til at dække for solen ved 5:31? Er s
 msgid "At <code>x = <var>PRETTY_X1</var></code>, then <code>y - <var>PRETTY_Y1</var> = 0</code>."
 msgstr "Når <code>x = <var>PRETTY_X1</var></code>, så er <code>y - <var>PRETTY_Y1</var> = 0</code>."
 
+msgid "At most 3 school creations is allowed per user"
+msgstr "Højst 3 skoler må oprettes pr. bruger"
+
+msgid "At the beginning of each week, you’ll receive an email from LearnStorm inviting you to participate in a new Weekly Challenge. Follow the instructions and submit your response before Thursday at 11:59 p.m. using the form provided."
+msgstr "I begyndelsen af hver uge, vil du modtage en email fra LearnStorm, som inviterer dig til at deltage i en ny Ugentlig Udfordring. Følg instrukserne og indsend dit svar før torsdag klokken 23:59 PST ved at udfylde formularen."
+
 msgid "At this rate..."
 msgstr "Med denne hastighed..."
 
@@ -3279,6 +3452,9 @@ msgstr "Fantastisk!"
 msgid "Awesome! Show points..."
 msgstr "Fantastisk! Vis point..."
 
+msgid "B.C."
+msgstr "B.C."
+
 msgid "Baby Winston"
 msgstr "Baby Winston"
 
@@ -3296,6 +3472,9 @@ msgstr "Tilbage til kontoindstillinger"
 
 msgid "Back to previous step"
 msgstr "Tilbage til forrige trin"
+
+msgid "Back to start"
+msgstr "Tilbage til start"
 
 msgid "Back to your children"
 msgstr "Tilbage til dine børn"
@@ -3462,6 +3641,12 @@ msgstr "Start med at fratrække <code><var>expr([\"*\", A2, \"x\"])</var></code>
 msgid "Begin by subtracting <code><var>expr([\"*\", B2, \"y\"])</var></code> from both sides of the second equation."
 msgstr "Start med at fratrække <code><var>expr([\"*\", B2, \"y\"])</var></code> fra begge sider af den anden ligning."
 
+msgid "Begin learning math on Khan Academy!"
+msgstr "Start med at lære matematik på Khan Academy!"
+
+msgid "Begin learning on Khan Academy!"
+msgstr "Begynd at lære på Khan Academy!"
+
 msgid "Behold! The magic of math, that both equations could represent the same line!"
 msgstr "Se! Magisk Matematik, begge ligninger kunne repræsentere den samme linje!"
 
@@ -3569,6 +3754,9 @@ msgstr "Brian"
 
 msgid "Brilliant!"
 msgstr "Genialt!"
+
+msgid "Bring LearnStorm to your community! Check out our %(method3ResourcesLink)s for ideas."
+msgstr "Bring LearnStorm til dit område! Tjek vores %(method3ResourcesLink)s for ideer."
 
 msgid "Bringing math exercises to the iPad platform"
 msgstr "At bringe matematik-øvelser til iPad platformen"
@@ -3765,6 +3953,12 @@ msgstr "Udfordring Emblemer"
 msgid "Challenge Patches are special awards for completing topic challenges."
 msgstr "Emblemer for Udfordringer er specielle priser for at opfylde udfordringer i et emne."
 
+msgid "Challenge yourself anytime, anywhere"
+msgstr "Udfordr dig selv når som helst, hvor som helst"
+
+msgid "Challenge/Project Minutes"
+msgstr "Udfordring/Projektminutter"
+
 msgid "Challenge: Parting Clouds"
 msgstr "Udfordring: Skillende skyer"
 
@@ -3773,6 +3967,9 @@ msgstr "Datalogiker"
 
 msgid "Challenger: Complete a Computer Science Challenge badge"
 msgstr "Udfordring: Fuldfør en udfordring i Computer Science og få badget"
+
+msgid "Challenges/Projects"
+msgstr "Udfordringer/Projekter"
 
 msgid "Change address"
 msgstr "Skift adresse"
@@ -3882,14 +4079,40 @@ msgstr "Opfyldning af energipoint..."
 msgid "Check"
 msgstr "Tjek"
 
+msgid "Check back every Wednesday to see your progress on your personal leaderboard."
+msgstr "Kom tilbage hver onsdag og se dit fremskridt på din personlige pointtavle."
+
 msgid "Check it out at %(url)s."
 msgstr "Se det på %(url)s."
+
+msgid ""
+"Check out our\n"
+"        "
+msgstr ""
+"Tjek vores\n"
+"        "
+
+msgid ""
+"Check out our\n"
+"                "
+msgstr ""
+"Tjek vores\n"
+"                "
+
+msgid "Check out our FAQ for more info!"
+msgstr "Tjek vores FAQ for mere info!"
 
 msgid "Check out your badges and visualize your stats. This is only visible to you and your coach."
 msgstr "Tjek dine badges og visualiser din statistik. Disse er kun synlige for dig og din lærer."
 
+msgid "Check the leaderboards"
+msgstr "Check ranglisterne"
+
 msgid "Check this box to publish all changes to domains, for example after updating a domain's title or creating, deleting, or moving subjects below it."
 msgstr "Klik i denne boks for at publicere alle ændringer til domæner, for eksempel efter at have opdateret et domænes titel eller hvis du har oprettet, sletter eller flytter underemner."
+
+msgid "Check your Khan Academy account to find a special certificate."
+msgstr "Tjek din Khan Academy-konto for at finde et særligt certifikat."
 
 msgid "Check your spam folder if the message doesn't arrive in your inbox soon."
 msgstr "Tjek din spam-mappe, hvis meddelelsen ikke ankommer i din indbakke snarest."
@@ -3939,6 +4162,24 @@ msgstr "Vælg konto"
 msgid "Choose a subject..."
 msgstr "Vælg et emne..."
 
+msgid ""
+"Choose a subject/mission and begin learning\n"
+"                  math on Khan Academy!\n"
+"                "
+msgstr ""
+"Vælg et emne/mission og begynd at lære\n"
+" matematik på Khan Academy! \n"
+"                "
+
+msgid ""
+"Choose a subject/mission and begin learning math on Khan\n"
+"                  Academy!\n"
+"                "
+msgstr ""
+"Vælg et emne/mission og begynd at lære matematik på Khan\n"
+" Academy! \n"
+"                "
+
 msgid "Choose a username and password for you, the parent:"
 msgstr "Vælg dit brugernavn og en adgangskode, som forælderen:"
 
@@ -3965,6 +4206,9 @@ msgstr "Vælg dit niveau nedenfor for at komme i gang."
 
 msgid "Christopher"
 msgstr "Christopher"
+
+msgid "Cities"
+msgstr "Byer"
 
 msgid "Claim your profile"
 msgstr "Gør krav på din profil"
@@ -4037,6 +4281,35 @@ msgstr "Klik her for at tilmelde:"
 msgid "Click on an item to see its details."
 msgstr "Klik på et element for at se dets detaljer."
 
+msgid ""
+"Click on the Khan Academy application to create\n"
+"                  your Khan Academy teacher account\n"
+"                "
+msgstr ""
+"Klik på Khan Academy app'en for oprette\n"
+" din Khan Academy lærerkonto\n"
+"                "
+
+msgid ""
+"Click on the banner at the top of the page to ‘add your\n"
+"                  email address’ to receive important notices about the\n"
+"                  challenge\n"
+"                "
+msgstr ""
+"Klik på banneret øverst på siden for at tilføje din\n"
+" e-mail adresse for at modtage vigtige meddelelser om \n"
+"udfordringen\n"
+"                "
+
+msgid ""
+"Click on the button above your class to ‘add this\n"
+"                  class to the challenge’\n"
+"                "
+msgstr ""
+"Klik på knappen over din klasse ' tilføj denne\n"
+" klasse til udfordringen ' \n"
+"                "
+
 msgid "Click on the following link to finish linking your email address."
 msgstr "Klik på det følgende link for at forbinde din e-mailadresse."
 
@@ -4052,6 +4325,15 @@ msgstr "Klik på det følgende link for at færdiggøre tilmeldingen."
 msgid "Click on the image to choose your avatar!"
 msgstr "Klik på billedet for at vælge din avatar!"
 
+msgid ""
+"Click on the link in the email to create a Khan Academy\n"
+"                  username and password\n"
+"                "
+msgstr ""
+"Klik på linket i e-mailen for at oprette et Khan Academy\n"
+", brugernavn og adgangskode\n"
+"                "
+
 msgid "Click on the tiles to change the lights."
 msgstr "Klik på felterne for ændre lysene."
 
@@ -4060,6 +4342,26 @@ msgstr "Klik på dette emne for begynde at lære i dit eget tempo!"
 
 msgid "Click table headers to sort"
 msgstr "Klik på tabeloverskrifterne for at vælge sortering"
+
+msgid ""
+"Click the green ‘add a class’ button\n"
+"                      at the bottom of your teacher\n"
+"                      homepage\n"
+"                    "
+msgstr ""
+"Klik på den grønne knap 'Tilføj en klasse' \n"
+" i bunden af din lærer-\n"
+"hjemmeside\n"
+"                    "
+
+msgid ""
+"Click the ‘login’ button on the upper righthand side of\n"
+"                  your screen\n"
+"                "
+msgstr ""
+"Klik på knappen 'Log ind' i den øverste højre side af\n"
+" din skærm\n"
+"                "
 
 msgid "Click this link to create your parent account, choosing a username and password for you, the parent:"
 msgstr "Klik på dette link for at oprette din forældrekonto, vælge et brugernavn og en adgangskode for dig, forælderen:"
@@ -4094,6 +4396,18 @@ msgstr "Klik for at kun at vise disse elever."
 msgid "Click your name in the upper right corner to get to your profile, then click \"programs\"."
 msgstr "Klik på dit navn i øverste højre hjørne for at komme til din profil, klik derefter på \"programmer\"."
 
+msgid "Click ‘students start here’"
+msgstr "Klik på «elever start her»"
+
+msgid ""
+"Click ‘teachers start here’ on the LearnStorm\n"
+"                  Landing Page\n"
+"                "
+msgstr ""
+"Klik på 'lærere start her\"på startsiden for LearnStorm\n"
+" \n"
+"                "
+
 msgid "Close"
 msgstr "luk"
 
@@ -4102,6 +4416,9 @@ msgstr "Luk tjekliste"
 
 msgid "Close task summary"
 msgstr "Luk opgaveoversigt"
+
+msgid "Close this modal and return to the site"
+msgstr "Luk dette vindue og gå tilbage til siden"
 
 msgid "Coach"
 msgstr "Lærer"
@@ -4195,6 +4512,9 @@ msgstr "Kom tilbage til denne side for at se dit barns fremskridt på Khan Acade
 
 msgid "Come back to this page at any time to view your students' progress on Khan Academy."
 msgstr "Kom tilbage til denne side for at se dine elevers fremskridt på Khan Academy."
+
+msgid "Coming Soon!"
+msgstr "Kommer snart!"
 
 msgid "Coming soon!"
 msgstr "Kommer snart!"
@@ -4364,6 +4684,9 @@ msgstr "Komplekse tal kan lægges sammen ved separat at lægge deres reelle og i
 msgid "Complex numbers can be visualized as points on a plane. The coordinates on the real and imaginary axes correspond to the real and imaginary parts of the complex number."
 msgstr "Komplekse tal kan visualiseres som punkter i et plan. Koordinater på de reelle og imaginære akser svarer til de reelle og imaginære dele af det komplekse tal."
 
+msgid "Components of the Challenge"
+msgstr "Delelementer i udfordringen"
+
 msgid "Compound inequalities"
 msgstr "Sammensatte uligheder"
 
@@ -4414,6 +4737,9 @@ msgstr "Tillykke med dit første program! Tilmeld dig og eksperimenter videre!"
 
 msgid "Congratulations on your first student! View \"Student Progress\" to follow their activity."
 msgstr "Tillykke med din første elev! Se \"Elevfremskridt\" for at følge deres aktivitet."
+
+msgid "Congratulations to all LearnStorm participants!"
+msgstr "Tillykke til alle LærStorm deltagere!"
 
 msgid "Congratulations!"
 msgstr "Tillykke!"
@@ -4472,6 +4798,9 @@ msgstr "Kontakt os"
 msgid "Contentious programs about subjects like politics, religion/atheism, or personal issues."
 msgstr "Kontroversielle programmer om emner som politik, religion/ateisme eller personlige problemer."
 
+msgid "Contests"
+msgstr "Konkurrencer"
+
 msgid "Continue"
 msgstr "Fortsæt"
 
@@ -4480,6 +4809,9 @@ msgstr "Fortsæt med at lære nu"
 
 msgid "Continue learning now at"
 msgstr "Fortsæt med at lære nu på"
+
+msgid "Continue learning on Khan Academy!"
+msgstr "Fortsæt med at lære på Khan Academy!"
 
 msgid "Continue on with what you were doing"
 msgstr "Fortsæt med hvad du lavede"
@@ -4643,6 +4975,9 @@ msgstr "Kunne ikke invitere:"
 msgid "Could not load coach recommendations. Try again, or "
 msgstr "Kunne ikke indlæse lærer anbefalinger. Prøv igen, eller "
 
+msgid "Could not load weekly challenges. Please try again later."
+msgstr "Kunne ikke indlæse ugentlige udfordringer. Prøv igen senere."
+
 msgid "Could not remove this recommendation. Try again in a few minutes, and if this continues, click the 'Report a Problem' link."
 msgstr "Kunne ikke fjerne denne anbefaling. Prøv igen om et par minutter, og hvis dette fortsætter, skal du klikke på linket 'Rapporter et problem'."
 
@@ -4690,6 +5025,23 @@ msgstr "Lav en tabel med <code class=\"hint_green\">x</code>- og <code class=\"h
 
 msgid "Create a username and password for your child"
 msgstr "Opret et brugernavn og en adgangskode til dit barn"
+
+msgid ""
+"Create an account by clicking ‘Sign in with\n"
+"                  Google’\n"
+"                "
+msgstr ""
+"Opret en konto ved at klikke på 'Log ind med Google'\n"
+"                "
+
+msgid "Create an account by clicking ‘Sign in with Facebook’"
+msgstr "Opret en konto ved at klikke 'Log ind med Facebook'"
+
+msgid "Create an account by clicking ‘Sign in with Google’"
+msgstr "Opret en konto ved at klikke på 'Log ind med Google'"
+
+msgid "Create an account by clicking ‘sign up with email’"
+msgstr "Opret en konto ved at klikke på 'Tilmeld dig med email'"
 
 msgid "Create another student account"
 msgstr "Tilmeld endnu en elev"
@@ -4857,6 +5209,9 @@ msgstr "Daniel"
 msgid "Dashboard"
 msgstr "Læringsoversigt"
 
+msgid "Dashboard progress bar"
+msgstr "Læringsoversigt fremskridt"
+
 msgid "Date"
 msgstr "Dato"
 
@@ -4977,6 +5332,9 @@ msgstr "Få din hjerne til at vokse!"
 msgid "Did you accidentally request an evaluation? Cancel your evaluation request"
 msgstr "Anmodede du ved et uheld om en evaluering? Annuller anmodningen om evaluering"
 
+msgid "Did you find what you came here for today?"
+msgstr "Har du fundet hvad du kom efter i dag?"
+
 msgid "Did you forget a 'break' statement before '{a}'?"
 msgstr "Har du glemt en 'break' erklæring før '{a}'?"
 
@@ -5034,6 +5392,9 @@ msgstr "Ligefrem og omvendt proportionalitet"
 msgid "Disables outlines for all shapes drawn after the function call."
 msgstr "Deaktiverer konturer for alle figurer tegnet efter funktionskaldet."
 
+msgid "Disapproved schools"
+msgstr "Afviste skoler"
+
 msgid "Discard Recorded Chunk"
 msgstr "Slet lydbidden"
 
@@ -5063,6 +5424,9 @@ msgstr "Afvis alle"
 
 msgid "Displaces the drawn shapes by a given amount in the x/y directions. If called multiple times, the offsets will be added to each other (accumulative effect). To stop translating shapes, use pushMatrix()/popMatrix()."
 msgstr "Forskyder de tegnede figurer med en given mængde i x/y retningerne. Hvis den kaldes flere gange, tilføjes forskydningerne hinanden (akkumulerende effekt). For at stoppe forskydning af figurer, skal du bruge pushMatrix()/popMatrix()."
+
+msgid "Display my name on public leaderboards"
+msgstr "Vis mit navn på offentlige ranglister"
 
 msgid "Displays this:"
 msgstr "Viser dette:"
@@ -5523,6 +5887,9 @@ msgstr[1] "Optjen %(point)s point mere!"
 msgid "Earn points and badges; Conquer the world of math!"
 msgstr "Optjen point og badges; Erobr en verden af matematik!"
 
+msgid "Earn points for mastering math and showing hustle."
+msgstr "Optjen point for at mestre matematik og udvise entusiasme."
+
 msgid "Earn these avatars by getting <a href='/computer-programming'>Computer Programming</a> badges!"
 msgstr "Få adgang til disse avatarer ved at opnå badges i <a href='/computer-programming'>Computer Programming</a>!"
 
@@ -5569,6 +5936,9 @@ msgstr "Rediger navneliste"
 
 msgid "Edit your %(parentType)s"
 msgstr "Rediger din %(parentType)s"
+
+msgid "Edit your challenge settings"
+msgstr "Rediger indstillingerne for udfordringerne"
 
 msgid "Either <code>(y - \\blue{<var>Y1</var>}) = \\pink{<var>SLOPE_FRACTION</var>}(x - \\blue{<var>X1</var>})</code>,<br> or <code>(y - \\green{<var>Y2</var>}) = \\pink{<var>SLOPE_FRACTION</var>}(x - \\green{<var>X2</var>})</code>."
 msgstr "Enten <code>(y - \\blue{<var>Y1</var>}) = \\pink{<var>SLOPE_FRACTION</var>}(x - \\blue{<var>X1</var>})</code>,<br> eller <code>(y - \\green{<var>Y2</var>}) = \\pink{<var>SLOPE_FRACTION</var>}(x - \\green{<var>X2</var>})</code>."
@@ -5690,6 +6060,36 @@ msgstr "Deltag for at have en chance for at deltage i et Khan Academy Eksperimen
 
 msgid "Enter name here"
 msgstr "Indtast navn her"
+
+msgid ""
+"Enter school information (zip code and school\n"
+"                  name) and your grade-level\n"
+"                "
+msgstr ""
+"Indtast skoleoplysninger (postnummer og skolens\n"
+" navn) og dit klassetrin\n"
+"                "
+
+msgid ""
+"Enter school information (zip code and school name)\n"
+"                  and your students’ grade-level\n"
+"                "
+msgstr ""
+"Indtast skole oplysninger (postnummer og skolens navn)\n"
+" og dine elevers klassetrin\n"
+"                "
+
+msgid ""
+"Enter school information (zip code and school name) and\n"
+"                  your grade-level\n"
+"                "
+msgstr ""
+"Indtast skoleoplysninger (postnummer og skolens navn) og\n"
+" dit klassetrin\n"
+"                "
+
+msgid "Enter your 5-digit ZIP code"
+msgstr "Indtast dit postnummer (4 cifre)"
 
 msgid "Enter your email to reset your password:"
 msgstr "Indtast din e-mail adresse for at nulstille din adgangskode:"
@@ -5837,6 +6237,12 @@ msgstr "Alle kan se dine programmer."
 
 msgid "Everyone can see your username, avatar, background, and bio."
 msgstr "Alle kan se dit brugernavn, avatar, baggrund og bio."
+
+msgid "Everyone has a chance to join the in-person finals event and celebrate with their team."
+msgstr "Alle har muligheden for at deltage i den fysiske finale og fejre holdets resultater."
+
+msgid "Everyone who participates wins the most valuable prize possible: a stronger learning mindset and greater learning potential.  Each week, a selection of outstanding Weekly Challenge responses will be featured on the LearnStorm website."
+msgstr "Alle, som deltager, vinder den mest dyrebare præmie: en stærkere evne til indlæring og et større potentiale for læring. Hver uge vil et udvalg af enestående svar på Ugentlige Udfordringer blive fremvist på LearnStorms hjemmeside."
 
 msgid "Everything you know and how smart you are is determined by the number of connections between neurons -- tiny cells in your brain. Whenever you learn new things, these connections in your brain multiply and get stronger, and you get smarter. The more you push your brain and help it use good strategies to learn challenging things – like a foreign language, math, or writing– the more your brain cells grow and the smarter you get. Then things that you once found very hard or even impossible become easier."
 msgstr "Alt hvad du ved og hvor klog du er bestemmes af antallet af forbindelser mellem neuroner, som er bittesmå celler i din hjerne. Når du lærer nye ting, formerer disse forbindelser sig i din hjerne og bliver stærkere, og du bliver klogere. Jo mere du presser din hjerne og hjælper den ved at bruge gode læringsstrategier til at lære udfordrende ting, som f.eks. et fremmedsprog, matematik eller at skrive, jo mere dine hjerneceller vokser, jo klogere bliver du. De ting, som du engang fandt meget vanskeligt eller endog umuligt, bliver lettere."
@@ -5991,6 +6397,9 @@ msgstr "Irrelevante løsninger til rationelle ligninger"
 msgid "Extremely likely"
 msgstr "Meget sandsynligt"
 
+msgid "FAQ"
+msgstr "FAQ"
+
 msgid "Fabergé egg"
 msgid_plural "Fabergé eggs"
 msgstr[0] "Fabergé æg"
@@ -6073,6 +6482,9 @@ msgstr "Find ud af hvad der skal stå i det i tomme felt:<br><code>\\Big(\\color
 
 msgid "Fill in the blank."
 msgstr "Udfyld det tomme felt."
+
+msgid "Fill out the ambassador survey!"
+msgstr "Udfyld spørgeskema for ambassadører!"
 
 msgid "Fill out the rest:"
 msgstr "Udfyld resten:"
@@ -6356,11 +6768,25 @@ msgstr "Fokus"
 msgid "Focus:"
 msgstr "Brændpunkt:"
 
+msgid "Follow LearnStorm on %(facebookLink)s and %(twitterLink)s"
+msgstr "Følg LearnStorm på %(facebookLink)s og %(twitterLink)s"
+
 msgid "Follow the link in that message to create your Khan Academy account."
 msgstr "Følg linket i denne meddelelse for at oprette din Khan Academy konto."
 
 msgid "Follow the link in that message to reset your password."
 msgstr "Følg linket i denne meddelelse for at nulstille din adgangskode."
+
+msgid ""
+"Follow the prompts to name your class\n"
+"                      and choose a mission, or area of\n"
+"                      focus\n"
+"                    "
+msgstr ""
+"Følg anvisningerne for at navngive din klasse\n"
+" og vælg en mission eller emnet, der skal\n"
+" fokuseres på\n"
+"                    "
 
 msgid "Follow us on Twitter"
 msgstr "Følg os på Twitter"
@@ -6476,6 +6902,9 @@ msgstr "For hvert skridt vi tager, skal vi også rykke <code><var>abs( SLOPE_FRA
 msgid "For every step we take we must move <code><var>abs( SLOPE_FRAC[0] )</var></code> positions <span data-if=\"SLOPE_FRAC[0] < 0\"><em>down</em> (because it's negative)</span><span data-else=\"\">up</span>."
 msgstr "For hvert skridt vi tager, skal vi også rykke <code><var>abs( SLOPE_FRAC[0] )</var></code> skridt <span data-if=\"SLOPE_FRAC[0] < 0\"><em>ned</em> (fordi det er negativt)</span><span data-else=\"\">op</span>."
 
+msgid "For every student in grades 3-12"
+msgstr "For alle elever i 3.-12. klasse (USA)"
+
 msgid "For example, consider <code><var>Y_VAR</var> = <var>WRONG_ANSWERS[0].coef</var><var>X_VAR</var> + <var>WRONG_ANSWERS[0].cons</var></code>. Substituting in <code>\\pink{<var>X_VAR</var> = <var>XVALS[0]</var>}</code> and <code>\\blue{<var>Y_VAR</var> = <var>XVALS[0] * COEF + CONS</var>}</code> shows that the equality holds for the first row of the table:"
 msgstr "For eksempel kan vi overveje <code><var>Y_VAR</var> = <var>WRONG_ANSWERS[0].coef</var><var>X_VAR</var> + <var>WRONG_ANSWERS[0].cons</var></code>. Indsættelse i <code>\\pink{<var>X_VAR</var> = <var>XVALS[0]</var>}</code> og <code>\\blue{<var>Y_VAR</var> = <var>XVALS[0] * COEF + CONS</var>}</code> viser os, at ligheden er opfyldt i den første række i tabellen:"
 
@@ -6586,6 +7015,9 @@ msgstr "Brøker på tallinjen 1"
 
 msgid "Frolicking and other such fun"
 msgstr "Boltrer sig og andet sjov"
+
+msgid "From School"
+msgstr "Fra skole"
 
 msgid ""
 "From kindergarten to calculus,\n"
@@ -6724,14 +7156,30 @@ msgstr "Gå tilbage"
 msgid "Go beyond the hour"
 msgstr "Fortsæt udover en time"
 
+msgid ""
+"Go to\n"
+"                  "
+msgstr ""
+"Gå til\n"
+"                  "
+
+msgid "Go to "
+msgstr "Gå til "
+
 msgid "Go to <a href='/'>our Smarthistory homepage</a> to find more art history content."
 msgstr "Gå til <a href='/'>vores Smarthistory-hjemmeside</a> for at finde mere indhold om kunsthistorie."
+
+msgid "Go to leaderboards"
+msgstr "Gå til ranglister"
 
 msgid "Go to next lesson"
 msgstr "Gå til næste lektion"
 
 msgid "Go to parent homepage"
 msgstr "Gå til forælderhjemmesiden"
+
+msgid "Go to your teacher homepage: "
+msgstr "Gå til din lærer-hjemmeside: "
 
 msgid "Goal"
 msgstr "Mål"
@@ -6783,6 +7231,9 @@ msgstr "Forstået! Vi fjerner det."
 
 msgid "Grace"
 msgstr "Grace"
+
+msgid "Grade level"
+msgstr "Klassetrin"
 
 msgid "Graph the blue line so it passes through <code>(0, <var>YINT_1</var>)</code> and <code>(<var>SLOPE_1_FRAC[1]</var>, <var>YINT_1 + SLOPE_1_FRAC[0]</var>)</code>. <br><input onclick=\"javascript: KhanUtil.currentGraph.graph.showCorrect1(); \" type=\"button\" value=\"Show me\">"
 msgstr "Tegn grafen for den blå linje, så den går gennem <code>(0, <var>YINT_1</var>)</code> og <code>(<var>SLOPE_1_FRAC[1]</var>, <var>YINT_1 + SLOPE_1_FRAC[0]</var>)</code>. <br><input onclick=\"javascript: KhanUtil.currentGraph.graph.showCorrect1(); \" type=\"button\" value=\"Show me\">"
@@ -6931,8 +7382,14 @@ msgstr "Sværere end de fleste øvelser"
 msgid "Harder than most videos"
 msgstr "Sværere end de fleste videoer"
 
+msgid "Has enrollments?"
+msgstr "Har du tilmeldinger?"
+
 msgid "Has errors that must be resolved before publishing"
 msgstr "Har fejl, der skal løses før udgivelse"
+
+msgid "Has student count"
+msgstr "Har optalt elever"
 
 msgid "Has warnings that should be reviewed before publishing"
 msgstr "Har advarsler, der skal gennemgås før udgivelse"
@@ -7053,6 +7510,9 @@ msgstr "Her er højdepunkterne fra dine elever i denne uge på Khan Academy."
 msgid "Here comes a new mastery challenge!"
 msgstr "Her kommer der en ny udfordring for at mestre flere færdigheder!"
 
+msgid "Here you'll find videos, handouts, flyers, and emails to help you share LearnStorm with students, teachers, administrators, after school programs, neighbors, you name it!"
+msgstr "Her finder du videoer, uddelingskopier, flyers og e-mails til at hjælpe dig med at dele LearnStorm med elever, lærere, administratorer, efter-skoleprogrammer, naboer og andre... du bestemmer!"
+
 msgid "Here's a look at what you achieved this week. Check it out, and keep learning!"
 msgstr "Her er et kig på, hvad du opnåede i denne uge. Tjek det ud, og fortsæt med at lære mere!"
 
@@ -7098,6 +7558,9 @@ msgstr "Skjul knapper"
 msgid "Hide Editor"
 msgstr "Skjul editor"
 
+msgid "Hide School"
+msgstr "Skjul skole"
+
 msgid "Hide everywhere"
 msgstr "Skjul overalt"
 
@@ -7109,6 +7572,9 @@ msgstr "Skjul kladde"
 
 msgid "Hide skill breakdown"
 msgstr "Skjul oversigt over færdigheder"
+
+msgid "Hide tutorial navigation"
+msgstr "Skjul introduktion til navigation"
 
 msgid "High Five"
 msgstr "\"Giv mig fem\""
@@ -7203,11 +7669,17 @@ msgstr "Hvor vanskelig er denne øvelse i forhold til andre øvelser på Khan Ac
 msgid "How difficult is this video compared to other videos on Khan Academy?"
 msgstr "Hvor vanskelig er denne video i forhold til andre videoer på Khan Academy?"
 
+msgid "How do I participate?"
+msgstr "Hvordan deltager jeg?"
+
 msgid "How do these numbers affect the shape and position of a parabola?"
 msgstr "Hvordan påvirker disse tal formen og placeringen af parablen?"
 
 msgid "How does <code>Y</code> change as <code>X</code> increases?"
 msgstr "Hvordan ændres <code>Y</code> når <code>X</code> stiger?"
+
+msgid "How does LearnStorm engage remedial students?"
+msgstr "Hvordan LearnStorm engagerer elever der tager suppleringskurser?"
 
 msgid "How does the cost of producing <var>plural_form(UNIT)</var> change as the number of <var>plural_form(UNIT)</var> increases?"
 msgstr "Hvordan ændres omkostningen ved at producere <var>plural_form(UNIT)</var> når antallet af <var>plural_form(UNIT)</var> stiger?"
@@ -7223,6 +7695,9 @@ msgstr "Hvordan overtræder dette program retningslinjerne?"
 
 msgid "How does this video compare to other videos on Khan Academy?"
 msgstr "Hvordan er denne video sammenlignet med andre videoer på Khan Academy?"
+
+msgid "How does this violate our guidelines?"
+msgstr "Hvordan er dette i modstrid med vores retningslinjer?"
 
 msgid "How has Khan Academy changed your life?"
 msgstr "Hvordan har Khan Academy ændret dit liv?"
@@ -7326,6 +7801,9 @@ msgstr "Hvor gammel er hun lige nu?"
 msgid "How useful is this video compared to other videos on Khan Academy?"
 msgstr "Hvor nyttig er denne video i forhold til andre videoer på Khan Academy?"
 
+msgid "How will LearnStorm promote the Growth Mindset?"
+msgstr "Hvordan vil LearnStorm fremme en tankegang om vækst?"
+
 msgid "However, plugging in <code>\\pink{<var>X_VAR</var> = <var>XVALS[1]</var>}</code> and <code>\\blue{<var>Y_VAR</var> = <var>XVALS[1] * COEF + CONS</var>}</code> from the second row of the table gives us:"
 msgstr "Men indsættelse af <code>\\pink{<var>X_VAR</var> = <var>XVALS[1]</var>}</code> og <code>\\blue{<var>Y_VAR</var> = <var>XVALS[1] * COEF + CONS</var>}</code> fra anden række i tabellen giver os:"
 
@@ -7343,6 +7821,12 @@ msgstr "Humaniora"
 
 msgid "Hundreds"
 msgstr "Hundreder"
+
+msgid "Hustle Points"
+msgstr "Knokle-points"
+
+msgid "Hustle points are designed to reward students that push themselves to keep learning and building their brains no matter what their level. Students gain hustle points for taking on challenging skills and persevering."
+msgstr "Knokle-points er til at belønne elever der skubber sig selv, fastholder indlæring og træner deres hjerner, uanset deres niveau. Eleverne får knokle-points for at tage udfordrende opgaver og for at være udholdende."
 
 msgid "Hypatia"
 msgstr "Hypatia"
@@ -7365,6 +7849,9 @@ msgstr "Jeg accepterer <a href='/about/tos' target='_blank' tabindex='1'>Service
 msgid "I agree to the <a target=\"_blank\" href=\"/about/api-tos\">Khan Academy API Terms of Service</a>."
 msgstr "Jeg accepterer <a target=\"_blank\" href=\"/about/api-tos\">Khan Academy API Servicevilkår</a>."
 
+msgid "I agree to the pledge."
+msgstr "Jeg accepterer at love."
+
 msgid "I agree."
 msgstr "Jeg er enig."
 
@@ -7373,6 +7860,9 @@ msgstr "Jeg er Satoshi Nakamoto"
 
 msgid "I am using Khan Academy as a:"
 msgstr "Jeg bruger Khan Academy som en:"
+
+msgid "I certify that this is all my original work. If I took any parts from elsewhere, then they were non-essential parts of the project, and they are clearly attributed at the top. I will show I agree to this honor code by typing "
+msgstr "Jeg bekræfter, at dette udelukkende er mit eget originale arbejde. Hvis jeg tog nogle dele fra andre steder, så var de uvæsentlige dele af projektet, og de er tydeligt angivet øverst. Jeg vil vise, at jeg accepterer denne aftale om ærlighed ved at skrive "
 
 msgid "I did the step correctly, but it won't let me continue."
 msgstr "Jeg gjorde dette trin korrekt, men den vil ikke lade mig fortsætte."
@@ -7398,6 +7888,9 @@ msgstr "Jeg forstår ikke hvad beskeden vil have mig til at gøre."
 msgid "I don’t have an account"
 msgstr "Jeg har ikke en konto"
 
+msgid "I don’t know their email"
+msgstr "Jeg kender ikke deres email"
+
 msgid "I have a specific question / I need help."
 msgstr "Jeg har et specifikt spørgsmål / jeg har brug for hjælp."
 
@@ -7406,6 +7899,9 @@ msgstr "Jeg har andet feedback."
 
 msgid "I haven't learned this yet."
 msgstr "Jeg har ikke lært det endnu."
+
+msgid "I hereby acknowledge that nobody is born smart, that we’re all born to learn. That each wrong answer will make my brain a little bit stronger. And that the most beautiful, complex concepts in the universe are built on ideas I can understand, even if I don’t know them yet."
+msgstr "Jeg anerkender hermed, at ingen er født kloge, at vi alle er født til at lære. At hvert forkert svar gør min hjerne lidt stærkere. Og at de mest smukke, komplekse begreber i universet er bygget på ideer jeg kan forstå, selvom jeg ikke kender dem endnu."
 
 msgid "I just created \"%(translatedTitle)s\" on %(khanAcademy)s!"
 msgstr "Jeg har lige oprettet \"%(translatedTitle)s\" på %(khanAcademy)s!"
@@ -7427,6 +7923,9 @@ msgstr "Jeg lavede en fejl, som jeg ville have fanget, hvis jeg havde dobbelt-tj
 
 msgid "I mistyped the answer"
 msgstr "Jeg tastede svaret forkert"
+
+msgid "I pledge to be honest and respectful of others participating in LearnStorm, and to have fun."
+msgstr "I lover at være ærlig og respektfuld over for andre deltager i LearnStorm, og at have det sjovt."
 
 msgid "I think you either have an extra comma or a missing argument?"
 msgstr "Jeg tror, du enten har et ekstra komma eller mangler et funktionsargument?"
@@ -7517,6 +8016,9 @@ msgstr "Jeg ønsker at lære"
 msgid "I want to see the site in %(local_language_name)s"
 msgstr "Jeg ønsker at se hjemmesiden på i %(local_language_name)s"
 
+msgid "I wasn't looking for anything in particular"
+msgstr "Jeg var ikke på udkig efter noget bestemt"
+
 msgid "I'd like a hint"
 msgstr "Jeg ville gerne have et hint"
 
@@ -7527,6 +8029,9 @@ msgstr[1] "Giv mig et hint mere (%(num)s hints tilbage)"
 
 msgid "I'd prefer to create a username and password for my child."
 msgstr "Jeg foretrækker at oprette et brugernavn og en adgangskode til mit barn."
+
+msgid "I'm a learner"
+msgstr "Jeg er elev"
 
 msgid "I'm a parent"
 msgstr "Jeg er forælder"
@@ -7548,6 +8053,9 @@ msgstr "Jeg er færdig med min evaluering!"
 
 msgid "I'm done!"
 msgstr "Jeg er færdig!"
+
+msgid "I'm homeschooled"
+msgstr "Jeg bliver undervist derhjemme"
 
 msgid "I'm not a parent"
 msgstr "Jeg er ikke en forælder"
@@ -7640,6 +8148,25 @@ msgstr "Hvis <var>person(1)</var> spiste <code>\\dfrac{<var>A</var>}{<var>TOTAL<
 
 msgid "If <var>person(1)</var> can master <code><var>P</var></code> songs per month, what is the minimum number of months it will take <var>him(1)</var> to move to the maestro level?"
 msgstr "Hvis <var>person(1)</var> kan lære <code><var>P</var></code> sange udenad per måned, hvad er så det mindste antal måneder det tager <var>him(1)</var> at blive en sand kunstner?"
+
+msgid ""
+"If Khan Academy is not available, encourage\n"
+"                      your district manager to sign in to Clever\n"
+"                      and under ‘Free Apps on Clever,’ select\n"
+"                      “Khan Academy” and add the application for\n"
+"                      your district.  Authorize Clever to share\n"
+"                      information with the application by reading\n"
+"                      the terms and selecting the checkbox.\n"
+"                    "
+msgstr ""
+"Hvis Khan Academy ikke er tilgængelig, tilskynd\n"
+" din distrikt manager til at logge på Clever\n"
+" og under \"Gratis Apps på Clever,\" vælge \n"
+" \"Khan Academy\" og tilføj app'en til\n"
+" dit distrikt.  Tillad Clever at dele\n"
+" oplysninger ved at læse brugerbetingelserne\n"
+" og sætte kryds i tjekboksen.\n"
+"                    "
 
 msgid "If at first you don't succeed, try again!"
 msgstr "Hvis først det ikke lykkes første gang, så prøv igen!"
@@ -7861,6 +8388,9 @@ msgstr "Hvis du gemmer et spin-off af dette program, vil du se det her (samt på
 msgid "If you see <strong>colored blanks</strong>, the values you put in two blanks of the same color must be <strong>exactly the same.</strong>"
 msgstr "Hvis du ser <strong>farvede tomme felter</strong>, må de værdier, som du indsætter i de to tomme felter have <strong>eksakt samme farve .</strong>"
 
+msgid "If you suspect that this project was plagarized, because you've seen it before or others have flagged it, please link to the original in this comment."
+msgstr "Hvis du mener dette projet er blevet forfalsket, fordi du har set det før eller fordi andre har givet udtryk for at det er kopieret, link da meget gerne til det originale projekt i din kommentar."
+
 msgid "If you tried to fix it, what did you do? If you didn't, you can leave this blank."
 msgstr "Hvis du har forsøgt at løse det, hvad har du gjort? Hvis du ikke har forsøgt, kan du lade feltet være tomt."
 
@@ -7921,12 +8451,31 @@ msgstr ""
 " udforsk vores komplette bibliotek med indhold\n"
 "</a>"
 
+msgid "If you've got more feedback, please %(feedbackLink)s."
+msgstr "Hvis du har mere feedback, se venligst %(feedbackLink)s."
+
 msgid ""
 "If your language is not on that list, \n"
 "                    <a target=\"_blank\" href=\"https://code.google.com/p/khanacademy/issues/entry?template=Programming%20Translation%20Request\">request it here</a>."
 msgstr ""
 "Hvis dit sprog ikke er på listen, \n"
 " <a target=\"_blank\" href=\"https://code.google.com/p/khanacademy/issues/entry?template=Programming%20Translation%20Request\">kan du anmode om det her</a>."
+
+msgid ""
+"If your students do not have email\n"
+"                      addresses\n"
+"                      "
+msgstr ""
+"Hvis dine elever ikke har email\n"
+"adresser\n"
+"                      "
+
+msgid ""
+"If your students have email addresses\n"
+"                      "
+msgstr ""
+"Hvis dine elever har email-addresser\n"
+"                      "
 
 msgid "Ignore"
 msgstr "Ignorer"
@@ -8026,6 +8575,15 @@ msgstr "I dette tilfælde har vi"
 
 msgid "In this case:"
 msgstr "I dette tilfælde:"
+
+msgid ""
+"In your settings, click ‘enable email’ and add in your\n"
+"                  email address\n"
+"                "
+msgstr ""
+"I dine indstillinger, klik på \"Aktiver e-mail\" og tilføj din\n"
+" e-mailadresse\n"
+"                "
 
 msgid "In-depth videos to watch at your own pace"
 msgstr "Dybdegående videoer som du kan se i dit eget tempo"
@@ -8216,6 +8774,9 @@ msgstr "Er <code><var>PRETTY_MAT_1_ID + OPERATION + PRETTY_MAT_2_ID</var></code>
 msgid "Is the value of the last two digits, <code><var>NUMBER % 100</var></code>, divisible by <code>4</code>?"
 msgstr "Er værdien af de to sidste cifre <code><var>NUMBER % 100</var></code>, deleligt med <code>4</code>?"
 
+msgid "Is verified?"
+msgstr "Er bekræftet?"
+
 msgid "Isaac"
 msgstr "Isaac"
 
@@ -8299,6 +8860,9 @@ msgstr "Det ligner at din startende  \"&lt;%(openTag_name)s&gt;\" tag ikke afslu
 
 msgid "It makes a little sense."
 msgstr "Det giver lidt mening."
+
+msgid "It's also school vs. school and city vs. city! Get everyone you know to help defend your team's pride."
+msgstr "Det er også skole mod skole og by mod by! Få alle du kenders hjælp til at forsvare dit holds stolthed."
 
 msgid "It's mastery time!"
 msgstr "Det tid til at mestre færdigheder!"
@@ -8526,6 +9090,9 @@ msgstr "Khan Academy har en mission om at give gratis, verdens-klasse undervisni
 msgid "Khan Academy logo"
 msgstr "Khan Academy logo"
 
+msgid "Khan Academy now offers an <a href=\"http://itunes.apple.com/us/app/khan-academy/id469863705?mt=8\">official iPad app</a>.  Download it directly from the <a href=\"http://itunes.apple.com/us/app/khan-academy/id469863705?mt=8\">iTunes store</a> or read more details from our <a href=\"/about/blog/post/108661951125/khan-academy-now-on-your-ipad-more-interactive\"> announcement</a>"
+msgstr "Khan Academy tilbyder nu en <a href=\"http://itunes.apple.com/us/app/khan-academy/id469863705?mt=8\"> officiel iPad app</a>.  Download den direkte fra <a href=\"http://itunes.apple.com/us/app/khan-academy/id469863705?mt=8\"> iTunes store</a> eller få mere information gennem vores <a href=\"/about/blog/post/108661951125/khan-academy-now-on-your-ipad-more-interactive\"> meddelelse</a>"
+
 msgid "Khan Academy uses Typeform to power this form. View Typeform’s %(tosLinkEl)s, which govern your use of this form."
 msgstr "Khan Academy bruger typeform til denne formular. Tjek typeforms %(tosLinkEl)s, da det er dem der regulerer din brug af disse formater."
 
@@ -8554,6 +9121,9 @@ msgstr "Videnskort"
 
 msgid "K–2nd"
 msgstr "Klasse: 2."
+
+msgid "LOG IN"
+msgstr "Log ind"
 
 msgid "Label '{a}' on {b} statement."
 msgstr "Marker '{a}' i {b} udtrykket."
@@ -8615,6 +9185,9 @@ msgstr "Lauren"
 msgid "Lay down the ban hammer"
 msgstr "Læg udelukkelseshammeren"
 
+msgid "Leaderboards"
+msgstr "Ranglister"
+
 msgid "Leading zeros are not significant."
 msgstr "Nuller, der står forrest, er ikke betydende."
 
@@ -8673,6 +9246,9 @@ msgstr ""
 msgid "Learn for free about math, art, computer programming, economics, physics, chemistry, biology, medicine, finance, history, and more. Khan Academy is a nonprofit with the mission of providing a free, world-class education for anyone, anywhere."
 msgstr "Lær gratis om matematik, kunst, computerprogrammering, økonomi, fysik, kemi, biologi, medicin, finanser, historie, og meget mere. Khan Academy er en nonprofit organisation med missionen at give en gratis, verdensklasse uddannelse for alle, hvor som helst."
 
+msgid "Learn how points work"
+msgstr "Lær hvordan point fungerer"
+
 msgid "Learn how to help."
 msgstr "Find ud af hvordan du kan hjælpe."
 
@@ -8704,11 +9280,23 @@ msgstr "Lær mere om"
 msgid "Learn more about Khan Academy"
 msgstr "Lær mere om Khan Academy"
 
+msgid "Learn more about coaching"
+msgstr "Lær mere om vejledning (coaching)"
+
+msgid "Learn more about our team"
+msgstr "Lær mere om vores hold"
+
 msgid "Learn more about the dashboard"
 msgstr "Lær mere om læringsoversigten"
 
+msgid "Learn more about their stories"
+msgstr "Lær mere om deres historier"
+
 msgid "Learn more at https://%(hostname)s/about"
 msgstr "Lær mere på https://%(hostname)s/about"
+
+msgid "Learn more in our FAQ"
+msgstr "Læs mere i vores FAQ"
 
 msgid "Learn more tags like links and tables, then learn more powerful css selectors and properties to completely re-style your page."
 msgstr "Lær flere tags såsom links og tabeller, og lær derefter mere kraftfulde css selektorer og egenskaber for at give din side en helt ny stil."
@@ -8744,11 +9332,27 @@ msgstr ""
 msgid "Learn with Khan Academy"
 msgstr "Lær med Khan Academy"
 
+msgid "LearnStorm is on now! Add your points and defend your school’s pride!"
+msgstr "Learnstorm er over os! Tilføj dine point og kæmp for din skoles ære og stolthed!"
+
+msgid "LearnStorm resources page"
+msgstr "Ressourcesiden for LearnStorm"
+
+msgid ""
+"LearnStorm resources page\n"
+"                "
+msgstr ""
+"LearnStorm forsyner side\n"
+"                "
+
 msgid "Learner"
 msgstr "Elev"
 
 msgid "Learner mode is enabled for all users!"
 msgstr "Elevtilstand er aktiveret for alle brugere!"
+
+msgid "Learners"
+msgstr "Elever og studerende"
 
 msgid "Learning Home"
 msgstr "Startside for læring"
@@ -8937,6 +9541,9 @@ msgstr "Indlæser dine klasser..."
 msgid "Loading&hellip;"
 msgstr "Indlæser&hellip;"
 
+msgid "Loading, please wait..."
+msgstr "Indlæser, vent venligst..."
+
 msgid "Loading..."
 msgstr "Indlæser..."
 
@@ -8960,6 +9567,9 @@ msgstr "Placering"
 
 msgid "Log in"
 msgstr "Login"
+
+msgid "Log in / Sign up"
+msgstr "Log ind / Tilmeld"
 
 msgid "Log in first"
 msgstr "Log ind først"
@@ -9030,6 +9640,9 @@ msgstr "På grafen kan vi se, at når  <code>x</code> stiger  (<code>\\text{<var
 
 msgid "Looking at the graph, we see that as <code>x</code> increases, there is no change in <code>y</code>."
 msgstr "På grafen kan vi se, at når <code>x</code> stiger, er der ingen ændring i <code>y</code>."
+
+msgid "Looking for a skill not suggested here?"
+msgstr "Leder du efter en færdighed, der ikke er foreslået her?"
 
 msgid "Looking for your students or children?"
 msgstr "Leder du efter dine elever eller børn?"
@@ -9230,6 +9843,9 @@ msgstr "Mestre dit første emne"
 msgid "Mastered"
 msgstr "Mestret"
 
+msgid "Mastered Concepts"
+msgstr "Mestrede begreber"
+
 msgid "Mastered exercises"
 msgstr "Mestrede øvelser"
 
@@ -9241,6 +9857,9 @@ msgstr "Udfordring i forskellige emner"
 
 msgid "Mastery Mechanics"
 msgstr "Mester i mekanik"
+
+msgid "Mastery Points"
+msgstr "Færdighedspoint"
 
 msgid "Mastery Status"
 msgstr "Opnåede færdigheder"
@@ -9390,6 +10009,9 @@ msgstr "Mobilnummer"
 msgid "Mobile phone number updated"
 msgstr "Mobiltelefonnummer opdateret"
 
+msgid "Moderate a Bay area school"
+msgstr "Bliv moderator for en Bay area skole"
+
 msgid "Moderation"
 msgstr "Moderation"
 
@@ -9450,6 +10072,16 @@ msgstr "Mere gratis indhold tilgængeligt på %(url)s!"
 msgid "More helpful than most videos"
 msgstr "Mere nyttig end de fleste andre videoer"
 
+msgid ""
+"More information\n"
+"              here"
+msgstr ""
+"Mere information\n"
+" her"
+
+msgid "More information coming soon"
+msgstr "Der kommer snart flere oplysninger"
+
 msgid "More useful than most videos"
 msgstr "Mere nyttig end de fleste andre videoer"
 
@@ -9467,6 +10099,15 @@ msgstr "De fleste mennesker holdes tilbage, ikke af deres medfødte evner, men a
 
 msgid "Mouse"
 msgstr "Mus"
+
+msgid "Move LearnStorm sign ups"
+msgstr "Flyt LearnStorm tilmeldinger"
+
+msgid "Move LearnStorm signups between schools"
+msgstr "Flyt LearnStorm tilmeldinger mellem skoler"
+
+msgid "Move sign ups!"
+msgstr "Flyt tilmeldinger!"
 
 msgid "Move the <code><var>Y</var></code> term to the right."
 msgstr "Flyt <code><var>Y</var></code>-leddet over på den højre side."
@@ -9726,6 +10367,9 @@ msgstr "En forælder skal oprette din konto."
 msgid "Must provide a new email."
 msgstr "Du skal angive en ny email."
 
+msgid "Must specify name, phone and location"
+msgstr "Navn, telefon og sted skal angives"
+
 msgid "My Creations"
 msgstr "Mine kreationer"
 
@@ -9741,6 +10385,9 @@ msgstr "Mit barn har ikke e-mail"
 msgid "My coaches and I can see this widget"
 msgstr "Mine vejledere og jeg kan se denne widget"
 
+msgid "My school isn't listed"
+msgstr "Min skole ikke er nævnt"
+
 msgid "Nadia"
 msgstr "Nadia"
 
@@ -9749,6 +10396,17 @@ msgstr "Navn"
 
 msgid "Napoleon"
 msgstr "Napoleon"
+
+msgid ""
+"Navigate to your Instant Login Portal on Clever.\n"
+"                  Here you will be able to see applications that have\n"
+"                  been enabled by your district manager\n"
+"                  "
+msgstr ""
+"Naviger til din Instant Login Portal på Clever. \n"
+" Her vil du kunne se programmer, der\n"
+" er aktiveret af din distrikt manager\n"
+"                  "
 
 msgid "Navigation and information architecture"
 msgstr "Navigation og arkitektur"
@@ -9764,6 +10422,9 @@ msgstr "Kræver øvelse"
 
 msgid "Needs practice"
 msgstr "Kræver mere øvelse"
+
+msgid "Needs student count"
+msgstr "Behøver optælling af elever"
 
 msgid "Negative numbers on the number line"
 msgstr "Negative tal på tallinjen"
@@ -9816,6 +10477,12 @@ msgstr "Ny klasse"
 msgid "New features for your almost-teenager, %(child)s!"
 msgstr "Nye funktioner til din næsten-teenager, %(child)s!"
 
+msgid "New leaderboards go live every Wednesday! Start earning points by learning math now."
+msgstr "Nye ranglister opdateres hver onsdag! Begynd at tjene point ved at lære matematik nu."
+
+msgid "New leaderboards go live every Wednesday."
+msgstr "Nye ranglister opdateres hver onsdag."
+
 msgid "New operator definitions 1"
 msgstr "Nye operatørdefinitioner 1"
 
@@ -9860,6 +10527,9 @@ msgstr "Næste Trin!"
 
 msgid "Next factor the numerator and denominator."
 msgstr "Faktoriser dernæst tælleren og nævneren."
+
+msgid "Next posts"
+msgstr "Næste indlæg"
 
 msgid "Next section:"
 msgstr "Næste afsnit:"
@@ -10093,6 +10763,9 @@ msgstr "Understøttes Ikke"
 msgid "Not a valid email"
 msgstr "Ikke en gyldig e-mail"
 
+msgid "Not added due to spam detection"
+msgstr "Ikke tilføjet pga. spam detektering"
+
 msgid "Not at all likely"
 msgstr "Overhovedet ikke sandsynligt"
 
@@ -10110,6 +10783,9 @@ msgstr "Ikke specificeret"
 
 msgid "Not started"
 msgstr "Ikke startet"
+
+msgid "Not yet approved schools"
+msgstr "Endnu ikke godkendte skoler"
 
 msgid "Note that since the sign is greater-than (and not equal to), any point on the line is <strong>not</strong> part of the solution, so the line should be dashed to indicate this."
 msgstr "Bemærk at tegnet er et større end (og ikke lig med), alle punkter på linjen er derfor <strong>ikke</strong> en del af løsningen, så linjen skal være stiplet."
@@ -10131,6 +10807,31 @@ msgstr "Bemærk, at du kan stadig modtage kritiske e-mails såsom nulstilling af
 
 msgid "Note: all information that you provide here will be public."
 msgstr "Bemærk: alle oplysninger du afgiver her vil kunne ses af andre."
+
+msgid ""
+"Note: as a teacher, if you want to follow your students’\n"
+"              progress, you can log-in to Khan Academy by clicking\n"
+"              ‘teachers start here’ on \n"
+"              "
+msgstr ""
+"Bemærk: som lærer, hvis du ønsker at følge din elevers' \n"
+" fremskridt, kan du logge ind på Khan Academy ved at klikke\n"
+" 'lærere start her\" på \n"
+"              "
+
+msgid ""
+"Note: if you are already logged in and working on khanacademy.org,\n"
+"              you can also click on the banner about LearnStorm at the top of\n"
+"              the page to join the challenge.\n"
+"              "
+msgstr ""
+"Bemærk: Hvis du allerede er logget ind og arbejder på khanacademy.org,\n"
+" kan du også klikke på banneret om LearnStorm øverste på\n"
+" siden for at deltage i udfordringen. \n"
+"              "
+
+msgid "Note: only challenges must be completed to earn the topic mastery badge. Video and project completion isn't required."
+msgstr "Bemærk: kun udfordringer skal udfyldes for at opnå badget for beherskelse af emnet. Video og projektets færdiggørelse er ikke påkrævet."
 
 msgid "Nothing, yet. Keep going!"
 msgstr "Intet, endnu. Fortsæt!"
@@ -10372,6 +11073,25 @@ msgstr "Old Spice mand (blå)"
 msgid "Old Spice Man (Green)"
 msgstr "Old Spice mand (grøn)"
 
+msgid ""
+"On Khan Academy--all you need is a Khan Academy account\n"
+"              and internet connection to start participating! After you\n"
+"              sign-up for LearnStorm, you can log-in at any time from\n"
+"              any computer to Khan Academy and start working on your\n"
+"              math skills.  All of your work will count towards your\n"
+"              progress on Khan Academy and your LearnStorm\n"
+"              leaderboards.\n"
+"            "
+msgstr ""
+"På Khan Academy er alt du har brug for en Khan Academy konto\n"
+" og en internet forbindelse for at kunne deltage! Efter du\n"
+" har meldt dig til LearnStorm, kan du logge in på alle tidspunkter fra\n"
+" hvilken som helst computer på Khan Academy og begynde at arbejde med dine\n"
+" matematik færdigheder. Al dit arbejde vil tælle med i dit\n"
+" fremskridt på Khan Academy og på dine LearnStorm\n"
+" ranglister.\n"
+"            "
+
 msgid "Once they <a href=\"/\">try a skill</a> or <a href=\"/library\">watch a video</a>, real data will show up here."
 msgstr "Når de <a href=\"/\">arbejder med en færdighed</a> eller <a href=\"/library\">ser en video</a>, vises data i realtid her."
 
@@ -10442,6 +11162,9 @@ msgstr "Enere"
 msgid "Only Me"
 msgstr "Kun mig"
 
+msgid "Only a single school name per zip code is allowed"
+msgstr "Kun ét skolenavn pr. postnummer er tilladt"
+
 msgid "Only coaches can see your programs."
 msgstr "Kun vejledere kan se dine programmer."
 
@@ -10457,8 +11180,14 @@ msgstr " Vis kun forsøgte færdigheder"
 msgid "Only show completed content"
 msgstr "Viser kun færdigt indhold"
 
+msgid "Only students from specific Bay Area ZIP codes are eligible to participate"
+msgstr "Kun elever fra specifikke Bay area postdistrikter er berettiget til at deltage"
+
 msgid "Only those people you share the link with can see your video. If we want to list your video publicly, we'll contact you to ask permission."
 msgstr "Kun de personer, du dele linket med kan se din video. Hvis vi ønsker at liste din video offentligt, vil vi kontakte dig for at bede dig om tilladelse."
+
+msgid "Ontario"
+msgstr "Ontario"
 
 msgid "Onto the next step!"
 msgstr "Videre til det næste trin!"
@@ -10533,6 +11262,24 @@ msgstr "Åbn hele resuméet"
 msgid "Open skill in a new tab"
 msgstr "Åben færdighed i en ny fane"
 
+msgid "Open to 3rd Grade through 12th Grade, LearnStorm is coming to 10 Bay Area counties in 2015. You can participate as an individual, and also as a member of your school and city. LearnStorm will culminate with a celebratory in-person finals event."
+msgstr "LearnStorm kommer til 10 Bay Area kommuner i 2015 og er åben for grundskolen fra 3. kl og til og med gymnasieniveau. Du kan deltage som enkeltperson, eller som medlem af din skole eller by. LearnStorm vil kulminere i et festligt IRL-event."
+
+msgid ""
+"Open to learners in 3rd Grade through 12th Grade, who\n"
+"              live or attend school in one of the following ten Bay\n"
+"              Area counties: Alameda, Contra Costa, Marin, Napa, San\n"
+"              Francisco, San Mateo, Santa Clara, Santa Cruz, Solano,\n"
+"              and Sonoma.\n"
+"            "
+msgstr ""
+"Åbner for elever i 3. klasse (USA) til 12. klasse (USA), som\n"
+" bor eller går i skole i en af de 10 følgende skoler fra Bay\n"
+" Area counties: Alameda, Contra Costa, Marin, Napa, San\n"
+" Francisco, San Mateo, Santa Clara, Santa Cruz, Solano,\n"
+" og Sonomia.\n"
+"            "
+
 msgid "Open your {{mailServerName}}"
 msgstr "Åbn din {{mailServerName}}"
 
@@ -10547,6 +11294,44 @@ msgstr "Regning med logaritmer"
 
 msgid "Option 'validthis' can't be used in a global scope."
 msgstr "Indstilling 'godkenddette' kan ikke bruges med en global rækkevidde."
+
+msgid ""
+"Option 1: If your school has Google Apps for Education\n"
+"                (ask your school’s IT person if you do not know!).\n"
+"                Encourage your students to:\n"
+"              "
+msgstr ""
+"Valgmulighed 1: Hvis din skole har Google Apps for Education\n"
+" (spørg din skoles IT-medarbejder, hvis du ikke ved det!).\n"
+" Tilskynd eleverne til: \n"
+"              "
+
+msgid "Option 1: With a gmail account:"
+msgstr "Valgmulighed 1: Med en gmail-konto:"
+
+msgid ""
+"Option 2: If your school has Clever (ask your school’s\n"
+"                IT person if you do not know!)\n"
+"              "
+msgstr ""
+"Valgmulighed 2: Hvis din skole har Clever (spørg din skoles\n"
+" IT-medarbejder, hvis du ikke ved det!)\n"
+"              "
+
+msgid "Option 2: With a facebook account:"
+msgstr "Valgmulighed 2: Med en facebook-konto:"
+
+msgid ""
+"Option 3: If your school does not have Google Apps for\n"
+"                Education or Clever\n"
+"              "
+msgstr ""
+"Valgmulighed 3: Hvis din skole ikke har Google Apps for\n"
+" Education eller Clever\n"
+"              "
+
+msgid "Option 3: With a general email account:"
+msgstr "Mulighed 3: med en almindelig email-konto:"
 
 msgid "Optional"
 msgstr "Valgfrit"
@@ -10697,6 +11482,9 @@ msgstr "Over en bestemt periode på 3 dage, skal du optjene 7000 energipoint ved
 msgid "Over a specific 3-day challenge period, earn a total of 35,000 energy points as a team doing math problems"
 msgstr "Over en bestemt periode på 3 dage, skal I optjene i alt 35.000 energipoint som et hold ved at lave matematikopgaver"
 
+msgid "Overview of LearnStorm 2015"
+msgstr "Oversigt over LearnStorm 2015"
+
 msgid "P.O. Box 1630, Mountain View, CA 94042"
 msgstr "P.O. Box 1630, Mountain View, CA 94042"
 
@@ -10782,6 +11570,9 @@ msgstr "Forælder"
 msgid "Parent (\"Your children\")"
 msgstr "Forælder (\"Dine børn\")"
 
+msgid "Parent email"
+msgstr "Forældres e-mail"
+
 msgid "Parent resources"
 msgstr "Ressourcer for forældre"
 
@@ -10853,6 +11644,17 @@ msgstr "Adgangskoderne er ikke ens"
 msgid "Past coordinates of the mouse"
 msgstr "Tidligere koordinater for musen"
 
+msgid ""
+"Paste your  your students’\n"
+"                          email addresses into the\n"
+"                          box.\n"
+"                          "
+msgstr ""
+"Indsæt din dine elevers \n"
+" e-mail-adresser i\n"
+"felterne. \n"
+"                          "
+
 msgid "Pause a tutorial and tinker with the code"
 msgstr "Sæt en tutorial på pause og pil ved koden"
 
@@ -10895,6 +11697,9 @@ msgid ""
 msgstr ""
 "Afstemninger om ændringer af hjemmesiden. I stedet for at lave afstemning, så anmod om ændringer til hjemmesiden på vores r\n"
 " {{#unless isChildAccount}}<a target=\"_blank\" href=\"https://khanacademy.zendesk.com/hc/communities/public/topics/200136634-Feature-Requests\">{{/unless}}feedback forum{{#unless isChildAccount}}</a>{{/unless}}."
+
+msgid "Phone"
+msgstr "Telefonnummer"
 
 msgid "Phone:"
 msgstr "Telefonnummer:"
@@ -11028,6 +11833,9 @@ msgstr "Indtast venligst en e-mailadresse."
 msgid "Please put a 0 in front of the decimal point: \"{a}\"!"
 msgstr "Sæt venligst et 0 foran decimaltegnet: \".{a}\"!"
 
+msgid "Please re-request an evaluation when you are ready!"
+msgstr "Anmod venligt om en evaluering igen, når du er klar!"
+
 msgid ""
 "Please see the current translation requests \n"
 "                    <a target=\"_blank\" href=\"https://code.google.com/p/khanacademy/issues/list?can=2&q=ChallengeTranslationRequest&colspec=ID+Stars+Summary&cells=tiles\">here</a>.\n"
@@ -11148,6 +11956,12 @@ msgstr ""
 msgid "Points last week: 0"
 msgstr "Point sidste uge: 0"
 
+msgid "Points per eligible student"
+msgstr "Points pr. berettiget elev"
+
+msgid "Points per eligible student is the total points accumulated by that school or city’s participants divided by the number of students in school/city who could participate."
+msgstr "Point pr. elev er det samlede antal point akkumuleret af skolens eller byens deltagere divideret med antallet af deltagende elever i skolen/byen."
+
 msgid "Points two weeks ago"
 msgstr "Point for to uger siden"
 
@@ -11224,6 +12038,9 @@ msgstr "Øv dig i noget nyt!"
 msgid "Practice task"
 msgstr "Øvelsesopgave"
 
+msgid "Practice this concept"
+msgstr "Øv dette begreb"
+
 msgid "Practiced"
 msgstr "Øvet"
 
@@ -11271,6 +12088,9 @@ msgstr "Forrige opgave"
 
 msgid "Previous Step"
 msgstr "Forrige trin"
+
+msgid "Previous posts"
+msgstr "Forrige indlæg"
 
 msgid "Price of <var>plural_form(fruit(1))</var> + price of <var>plural_form(fruit(2))</var> = total price."
 msgstr "Prisen på <var>plural_form(fruit(1))</var> + prisen på <var>plural_form(fruit(2))</var> = samlet pris."
@@ -11425,6 +12245,9 @@ msgstr "Anmodet om hjælp med projekt"
 msgid "Project evaluation request for \"{0}\"."
 msgstr "Anmodning om projektevaluering af \"{0}\"."
 
+msgid "Promote"
+msgstr "Promovér"
+
 msgid "Properties"
 msgstr "Egenskaber"
 
@@ -11436,6 +12259,35 @@ msgstr "Forhold 1"
 
 msgid "Proportions 2"
 msgstr "Proportioner 2"
+
+msgid ""
+"Provide general information about yourself\n"
+"                  (first name, last name, email, and\n"
+"                  birthdate)\n"
+"                "
+msgstr ""
+"Angive generelle oplysninger om dig selv\n"
+" (fornavn, efternavn, e-mail, og\n"
+" fødselsdato) \n"
+"                "
+
+msgid ""
+"Provide general information about yourself (first name,\n"
+"                  last name, email, and birthdate)\n"
+"                "
+msgstr ""
+"Angiv generelle oplysninger om dig selv (fornavn, \n"
+" efternavn, email og fødselsdato) \n"
+"                "
+
+msgid ""
+"Provide information on your school (zip code, school name)\n"
+"                  and your grade level\n"
+"                "
+msgstr ""
+"Angiv information om din skole (by, skolens navn)\n"
+"                  og dit klassetrin\n"
+"                "
 
 msgid "Public profile information"
 msgstr "Offentlige profiloplysninger"
@@ -11527,6 +12379,9 @@ msgstr "Indtast ny adgangskode igen"
 msgid "Re-maps a number from one range to another. Numbers outside the range are not clamped to 0 and 1, because out-of-range values are often intentional and useful."
 msgstr "Flytter et tal fra ét interval til et andet. Tal uden for intervallet er ikke låst til til 0 og 1, fordi disse værdier er ofte valgt bevidst og er nyttige."
 
+msgid "Re-run"
+msgstr "Gentag"
+
 msgid "Re-type new password"
 msgstr "Skriv ny adgangskode igen"
 
@@ -11535,6 +12390,9 @@ msgstr "Rækkevidde"
 
 msgid "Reach every student at any level."
 msgstr "Nå ud til alle elever på alle niveauer."
+
+msgid "Read and agree to the LearnStorm pledge"
+msgstr "Læs og accepter LearnStorm løftet"
 
 msgid "Read only."
 msgstr "Skrivebeskyttet."
@@ -11633,6 +12491,9 @@ msgstr "Nylige Fuldførte Aktiviteter"
 
 msgid "Recently finished"
 msgstr "Færdiggjorte for nylig"
+
+msgid "Recognition and prizes!"
+msgstr "Anerkendelse og præmier!"
 
 msgid "Recognizing conic sections"
 msgstr "Genkend keglesnit"
@@ -11744,6 +12605,17 @@ msgstr "Registrer en App"
 msgid "Register an app to use with the <a href=\"https://github.com/khan/khan-api/wiki/Khan-Academy-API\">Khan Academy API</a>. The more contact information you provide, the more likely we'll be able to contact you in the event of any technical issues or problems with your usage of the API."
 msgstr "Registrer en app til brug med <a href=\"https://github.com/khan/khan-api/wiki/Khan-Academy-API\"> Khan Academy API</a>. Jo flere kontaktoplysninger, du giver, jo mere sandsynligt er det at vil vi være i stand til at kontakte dig i tilfælde af eventuelle tekniske problemer eller problemer med din brug af API'EN."
 
+msgid ""
+"Registration opens on January 15th, 2015 and LearnStorm\n"
+"              will run from mid-February through the end of April, with\n"
+"              a final, in-person celebratory event in May.\n"
+"            "
+msgstr ""
+"Mulighed for registrering åbner den 15. januar 2015 og Learnstorm\n"
+" vil køre fra midten af februar til slutning af april med\n"
+" en afsluttende, personlig, festlig begivenhed i maj.\n"
+"            "
+
 msgid "Regression Tests"
 msgstr "Regressionstest"
 
@@ -11794,6 +12666,9 @@ msgstr "Fjern fra \"<span class=\"remove-from-class\">denne klasse</span>\""
 
 msgid "Remove from \"Your children\""
 msgstr "Fjern fra \"Dine børn\""
+
+msgid "Remove me from the challenge"
+msgstr "Fjern mig fra udfordringen"
 
 msgid "Remove this task. (Your coach, %(coach)s, will see that you have removed this task.)"
 msgstr "Fjern denne opgave. (Din vejleder, %(coach)s, vil kunne se, at du har fjernet denne opgave.)"
@@ -12049,6 +12924,9 @@ msgstr "Uhøflig eller ophidset adfærd"
 msgid "Run simulation"
 msgstr "Kør simuleringen"
 
+msgid "SAT Practice"
+msgstr "øv dig på SAT testen "
+
 msgid "SAT Trailblazer"
 msgstr "SAT pioner"
 
@@ -12115,6 +12993,9 @@ msgstr "Gem officiel kladde?"
 msgid "Save progress"
 msgstr "Gem arbejdet"
 
+msgid "Save settings"
+msgstr "Gem indstillinger"
+
 msgid "Saved!"
 msgstr "Gemt!"
 
@@ -12136,6 +13017,45 @@ msgstr "Multiplikation af matrix med skalar"
 msgid "Scale shapes in both dimensions"
 msgstr "Skaler figurer i begge dimensioner"
 
+msgid ""
+"Scenario 1: If you have\n"
+"              a teacher account and an\n"
+"              existing Khan Academy\n"
+"              Class"
+msgstr ""
+"Scenario 1: Hvis du har\n"
+" en lærerkonto og en\n"
+" eksisterende Khan Academy\n"
+" Klasse"
+
+msgid ""
+"Scenario 1: If you have an existing\n"
+"              Khan Academy account"
+msgstr ""
+"Scenario 1: Hvis du allerede har en\n"
+" Khan Academy konto"
+
+msgid ""
+"Scenario 2: If you and your\n"
+"                students do not yet have\n"
+"                existing Khan Academy\n"
+"                accounts"
+msgstr ""
+"Scenarie 2: Hvis du og dine\n"
+" elever endnu ikke har\n"
+" eksisterende Khan Academy\n"
+" konti"
+
+msgid ""
+"Scenario 2: If you are a new Khan\n"
+"                Academy user"
+msgstr ""
+"Scenarie 2: Hvis du er en ny bruger af Khan\n"
+" Academy"
+
+msgid "School"
+msgstr "Skole"
+
 msgid "School ZIP"
 msgstr "Skolens postnummer (Husk 0 foran postnummeret)"
 
@@ -12144,6 +13064,12 @@ msgstr "Klassetrin"
 
 msgid "School name"
 msgstr "Skolens navn"
+
+msgid "School phone number"
+msgstr "Skolens telefonnummer"
+
+msgid "School zip code"
+msgstr "Skolens postnummer"
 
 msgid "Scientific notation"
 msgstr "Videnskabelige notation"
@@ -12162,6 +13088,9 @@ msgstr "Skriv URL."
 
 msgid "Sea level"
 msgstr "Havets overflade"
+
+msgid "Seach"
+msgstr "Søg"
 
 msgid "Search"
 msgstr "Søg"
@@ -12238,6 +13167,9 @@ msgstr "Vælg en elev for at se detaljer."
 msgid "Select everything<br>"
 msgstr "Vælg alt<br>"
 
+msgid "Select grade level"
+msgstr "Vælg klassetrin"
+
 msgid "Select one of the points to substitute for <code>x_{1}</code> and <code>y_{1}</code> in the point slope formula."
 msgstr "Vælg 1 af punkterne til at erstatte <code>x_{1}</code> og <code>y_{1}</code> i punkt-hældningformlen."
 
@@ -12252,6 +13184,9 @@ msgstr "Vælg elever"
 
 msgid "Select tasks from the list on the left."
 msgstr "Vælg opgaver fra listen til venstre."
+
+msgid "Select what you'd like to filter on:"
+msgstr "Vælg hvad du vil filtrere:"
 
 msgid "Select your avatar"
 msgstr "Vælg din avatar"
@@ -12419,6 +13354,9 @@ msgstr "Del"
 msgid "Share Khan Academy and watch your impact grow."
 msgstr "Del Khan Academy med andre og se din rækkevidde vokse."
 
+msgid "Share LearnStorm with your %(method2FacebookLink)s and %(method2TwitterLink)s"
+msgstr "Del LearnStorm med din %(method2FacebookLink)s og %(method2TwitterLink)s"
+
 msgid "Share a program you've created via Facebook, Twitter, or email"
 msgstr "Del et program som du har lavet, via Facebook, Twitter eller email"
 
@@ -12570,14 +13508,29 @@ msgstr "Log på med Facebook"
 msgid "Sign in with Gmail"
 msgstr "Log på med Gmail"
 
+msgid "Sign them up!"
+msgstr "Tilmeld dem!"
+
 msgid "Sign up"
 msgstr "Tilmeld dig"
 
 msgid "Sign up at khanacademy.org (or log in with their existing accounts)"
 msgstr "Tilmelde sig på khanacademy.org (eller log ind med deres eksisterende konti)"
 
+msgid "Sign up for @LearnStorm2015, the Bay Area math challenge powered by @KhanAcademy! Check it out and sign up:  http://bit.ly/LearnStorm"
+msgstr "Deltag i @LearnStorm2015, Bay Area matematik-udfordring, drevet af @KhanAcademy! Tjek det ud og tilmeld dig på: http://bit.ly/LearnStorm"
+
 msgid "Sign up for Khan Academy"
 msgstr "Tilmeld dig Khan Academy"
+
+msgid "Sign up for challenge"
+msgstr "Tilmeld dig udfordringen"
+
+msgid "Sign up now"
+msgstr "Tilmeld dig nu"
+
+msgid "Sign up the class!"
+msgstr "Tilmeld dig klassen!"
 
 msgid "Sign up to claim your points"
 msgstr "Tilmeld dig for at gemme dine point"
@@ -12602,6 +13555,9 @@ msgstr "Tilmeld dig med"
 
 msgid "Sign up with email"
 msgstr "Tilmeld dig med email"
+
+msgid "Sign-up for LearnStorm 2015"
+msgstr "Tilmelding til LearnStorm 2015"
 
 msgid "Significant figures"
 msgstr "Betydende cifre"
@@ -13161,6 +14117,21 @@ msgstr "Lydeffekter"
 msgid "Sound/video/iframes: We may support <code>&lt;audio&gt;</code>, <code>&lt;video&gt;</code>, and <code>&lt;iframe&gt;</code> in the future, but not now."
 msgstr "Lyd/video/iframes: Vi vil måske understøtte  <code>&lt;lyd&gt;</code>, <code>&lt;video&gt;</code>, og <code>&lt;iframe&gt;</code>  i fremtiden, men ikke endnu."
 
+msgid ""
+"Sound: \n"
+"                    Programs should only create sounds using the <code>playSound/getSound</code> functions,\n"
+"                    with the sounds listed in the soundpicker.\n"
+"                    Programs should only play sounds in response to user interaction - i.e.,\n"
+"                    inside one of the <code>mouse*</code> or <code>key*</code> event handling functions.\n"
+"                    Programs should <strong>not</strong> play sounds immediately upon load, and should not loop sounds or play sounds everytime <code>draw()</code> is called."
+msgstr ""
+"Lyd: \n"
+" Programmer bør kun oprette lyde ved hjælp af funktionerne <code>playSound/getSound</code>, \n"
+" med de lyde, der er anført i soundpicker.\n"
+" Programmerne bør kun afspille lyde som svar på brugerens interaktion - dvs.,\n"
+" inde i en funktioner der involverer <code>mus *</code> eller <code>tast*</code>. \n"
+" Programmer bør <strong>ikke</strong> afspille lyde straks ved indlæsning, og bør have løkker med lyde eller afspille lyde hver gang <code>draw()</code> kaldes."
+
 msgid "Sounds good!"
 msgstr "Det lyder godt!"
 
@@ -13254,6 +14225,9 @@ msgstr "Start med at lave hjemmesider"
 msgid "Start drawing with code"
 msgstr "Start tegning med kode"
 
+msgid "Start earning points by learning math now."
+msgstr "Begynde at optjene point ved at lære matematik nu."
+
 msgid "Start learning"
 msgstr "Begynd at lære"
 
@@ -13269,6 +14243,9 @@ msgstr ""
 
 msgid "Start learning on Khan Academy"
 msgstr "Start med at lære om Khan Academy"
+
+msgid "Start learning on Khan Academy now"
+msgstr "Begynd at lære hos Khan Academy nu"
 
 msgid "Start practicing now!"
 msgstr "Start med at øve nu!"
@@ -13369,6 +14346,9 @@ msgstr "Elevens Navn"
 msgid "Student Progress"
 msgstr "Elevfremskridt"
 
+msgid "Student count (eligible)"
+msgstr "Elev-tæller (berettigede)"
+
 msgid "Student level:"
 msgstr "Elev niveau:"
 
@@ -13393,8 +14373,50 @@ msgstr "Elever"
 msgid "Students can see their progress and where they need help. Parents can access the same information to better support their children."
 msgstr "Studerende kan se deres fremskridt, og hvor de har brug for hjælp. Forældre kan få adgang til de samme oplysninger for bedre at kunne støtte deres børn."
 
+msgid "Students gain a mastery point for each level of mastery gained in a math skill. So taking any skill from \"needs practice\" to \"mastery level 3\" will earn a student 4 mastery points."
+msgstr "Eleverne får et færdighedspoint for hvert niveau af en matematisk færdighed. Derfor vil en elev, der udvikler en færdighed fra \"kræver øvelse\" til \"mestret niveau 3\" få 4 færdighedspoint."
+
+msgid ""
+"Students who already have a\n"
+"                              Khan Academy account will be\n"
+"                              invited to join your\n"
+"                              class.\n"
+"                            "
+msgstr ""
+"Elever, der allerede har en\n"
+" Khan Academy konto vil ikke blive\n"
+" inviteret til at deltage din\n"
+" klasse \n"
+"                            "
+
+msgid ""
+"Students who don’t have a\n"
+"                              Khan Academy account will\n"
+"                              receive an email inviting them\n"
+"                              to create one.\n"
+"                            "
+msgstr ""
+"Elever, der ikke har\n"
+" Khan Academy konto vil\n"
+" modtage en e-mail, som inviterer dem\n"
+" til at oprette en. \n"
+"                            "
+
 msgid "Students who haven't accepted your coach request yet"
 msgstr "Elever, der ikke har accepteret din anmodning om vejleder endnu"
+
+msgid ""
+"Students will get an email confirming their\n"
+"                  participation and see a banner at the top of their\n"
+"                  Khan Academy page alerting them that they have\n"
+"                  joined LearnStorm\n"
+"                "
+msgstr ""
+"Eleverne vil få en e-mail, der bekræfter deres\n"
+" deltagelse og se et banner øverst på deres\n"
+" Khan Academy side, som giver besked om, at de har tilmeldt sig\n"
+" LearnStorm\n"
+"                "
 
 msgid "Students you're coaching"
 msgstr "Elever du vejleder"
@@ -13431,6 +14453,9 @@ msgstr "Indsend evaluering!"
 
 msgid "Submit issue."
 msgstr "Indsend spørgsmål."
+
+msgid "Submit school for approval"
+msgstr "Indstil skolen til godkendelse"
 
 msgid "Submitting issue..."
 msgstr "Indsender spørgsmål..."
@@ -13615,6 +14640,9 @@ msgstr "Støt Khan Academy med en donation uanset størrelse"
 msgid "Supporters"
 msgstr "Støtter"
 
+msgid "Supporting Learners on LearnStorm"
+msgstr "Støt elever der deltager i LearnStorm"
+
 msgid "Swearing/insulting language"
 msgstr "Banden/fornærmende sprog"
 
@@ -13644,6 +14672,9 @@ msgstr "T"
 
 msgid "TALKTHROUGH"
 msgstr "GENNEMGANG"
+
+msgid "Table of contents"
+msgstr "Indholdsfortegnelse"
 
 msgid "Tables"
 msgstr "Tabeller"
@@ -13748,6 +14779,15 @@ msgstr "Fortæl mig mere!"
 msgid "Tell the Khan Academy community about yourself in %(val)s characters or less.  Who are you? How are you using Khan Academy?"
 msgstr "Fortæl Khan Academy fællesskabet om dig selv med %(val)s tegn eller mindre.  Hvem er du? Hvordan bruger du Khan Academy?"
 
+msgid "Tell us about your child!"
+msgstr "Fortæl os om dit barn!"
+
+msgid "Tell us about your class!"
+msgstr "Fortæl os om din klasse!"
+
+msgid "Tell us about yourself!"
+msgstr "Fortæl os om dig selv!"
+
 msgid "Tell us exactly how you tried to input the answer from the hints. Did a different answer work instead?"
 msgstr "Fortæl os præcist hvordan du har forsøgt at indtaste svaret fra vores hints. Virkede et andet svar i stedet?"
 
@@ -13829,6 +14869,9 @@ msgstr "Tak for dit bidrag til Khan Academy!"
 msgid "Thank you for making our community awesome!"
 msgstr "Tak for at du bidrager til at vores fællesskab er fantastisk!"
 
+msgid "Thank you for signing up!"
+msgstr "Tak for din tilmelding!"
+
 msgid "Thank you for the report.  We are always working on improving these challenges.  In the meantime, we encourage you to keep learning!"
 msgstr "Tak for at du rapporterer problemer.  Vi arbejder altid på at forbedre disse udfordringer.  I mellemtiden opfordrer vi dig til at fortsætte med at lære!"
 
@@ -13862,11 +14905,17 @@ msgstr ""
 "<br>\n"
 " Renlige hilsener fra Khan Academy-vogterne."
 
+msgid "Thank you!"
+msgstr "Tak!"
+
 msgid "Thank you, your evaluation has been submitted! "
 msgstr "Tak, din evaluering er blevet indsendt! "
 
 msgid "Thanks for answering! "
 msgstr "Tak for besvarelsen! "
+
+msgid "Thanks for helping test a new dashboard layout!"
+msgstr "Tak for din hjælp med at teste et nyt layout af læringsoversigten!"
 
 msgid "Thanks for helping us create the %(languageLocalName)s version of Khan Academy!"
 msgstr "Tak for hjælpen med at skabe den %(languageLocalName)s version af Khan Academy!"
@@ -14372,6 +15421,12 @@ msgstr "Det sidste ciffer i <code><var>NUMBER</var></code> er <code><var>NUMBER 
 msgid "The last digit of <code><var>NUMBER</var></code> is <code><var>NUMBER % 10</var></code>, so yes <code><var>NUMBER</var></code> is divisible by <code>5</code>."
 msgstr "Det sidste ciffer i <code><var>NUMBER</var></code> er <code><var>NUMBER % 10</var></code>, så ja,<code><var>NUMBER</var></code> er deleligt med <code>5</code>."
 
+msgid "The leaderboards update every Wednesday, so be sure to check back next week to see your city leaderboard here."
+msgstr "Highscoren opdateres hver onsdag, sørg derfor for at tjekke næste uge hvordan din skole er placeret."
+
+msgid "The leaderboards update every Wednesday, so be sure to check back next week to see your personal leaderboard and progress report here."
+msgstr "Ranglisterne opdateres hver onsdag, så husk at tjekke igen i næste uge for at se din personlige rangliste og fremskridtsrapport her."
+
 msgid "The learning myth"
 msgstr "Myten om læring"
 
@@ -14437,6 +15492,9 @@ msgstr "De(n) manglede <span data-if=\"I === 1\"> værdi er</span><span data-els
 
 msgid "The more exercise you get the better you can concentrate!"
 msgstr "Jo mere øvelse du får, jo bedre kan du koncentrere dig!"
+
+msgid "The more participants from your city and school,"
+msgstr "Jo flere deltagere fra din by og skole,"
 
 msgid "The more you learn today, the smarter you'll be tomorrow!"
 msgstr "Jo mere du lærer i dag, jo klogere er du i morgen!"
@@ -14587,6 +15645,9 @@ msgstr "Rapporten for denne elev kunne ikke indlæses. Vælg et kortere datointe
 
 msgid "The result is simplified: <code> (<var>A_REAL * B_REAL</var> - <var>A_IMAG * B_IMAG</var>) + (<var>ANSWER_IMAG</var>i) = <var>complexNumber( ANSWER_REAL, ANSWER_IMAG)</var> </code>"
 msgstr "Resultatet forsimples til: <code> (<var>A_REAL * B_REAL</var> - <var>A_IMAG * B_IMAG</var>) + (<var>ANSWER_IMAG</var>i) = <var>complexNumber( ANSWER_REAL, ANSWER_IMAG)</var> </code>"
+
+msgid "The school isn't listed"
+msgstr "Skolen er ikke angivet"
 
 msgid "The science and the stories"
 msgstr "Videnskaben og historierne"
@@ -14970,6 +16031,18 @@ msgstr "Dette badge vises nu på din tidslinje!"
 msgid "This character may get silently deleted by one or more browsers."
 msgstr "Dette tegn kan blive slettet lydløst af en eller flere browsere."
 
+msgid "This child is participating in the Challenge!"
+msgstr "Dette barn deltager i udfordringen!"
+
+msgid "This child may be eligible for LearnStorm: Bay Area 2015!"
+msgstr "Dette barn er måske berettiget til at deltage i LearnStorm: Bay Area 2015!"
+
+msgid "This class is eligible to join LearnStorm: Bay Area 2015!"
+msgstr "Denne klasse er berettiget til at deltage i LearnStorm: Bay Area 2015!"
+
+msgid "This class is participating in the challenge!"
+msgstr "Denne klasse deltager i udfordringen!"
+
 msgid "This conic section is therefore a <em>hyperbola</em>."
 msgstr "Dette keglesnit er derfor en <em>hyperbel</em>."
 
@@ -15070,6 +16143,9 @@ msgstr "Her er hvordan du klarede dig i %(test_name)s sidste måned!"
 msgid "This is how your name will appear around Khan Academy, and how your friends and coaches will recognize you."
 msgstr "Sådan her vises dit navn på Khan Academy, og er måden dine venner og lærere kan genkende dig."
 
+msgid "This is instance of:"
+msgstr "Dette er tilfælde af:"
+
 msgid "This is just one of <a title=\"really, more like a billionty\">more than a hundred</a> badges you can earn at Khan Academy."
 msgstr "Dette er blot et af <a title=\"faktisk, rettere en fantazillion\"> flere hundrede</a> badges kan du opnå på Khan Academy."
 
@@ -15081,6 +16157,9 @@ msgstr "Det er ligesom at tænke på to lige store pizzaer, der er blevet skåre
 
 msgid "This is not a math or programming class"
 msgstr "Dette er ikke et kursus i matematik eller programmering"
+
+msgid "This is not just a challenge for math geniuses. LearnStorm rewards hard work and mastery, no matter if you’re learning addition or calculus. Everyone can use math to build their brain."
+msgstr "Dette er ikke kun en udfordring for matematiske genier. LearnStorm belønner hårdt arbejde og beherskelse, ligegyldigt om du er ved at lære at lægge tal sammen eller infinitesimalregning. Alle kan bruge matematik til at styrke deres hjerne."
 
 msgid "This is too easy"
 msgstr "Dette er for nemt"
@@ -15137,11 +16216,17 @@ msgstr "Dette projekt er allerede evalueret. "
 msgid "This project has an open evaluation request. You can help the author of this project by submitting an evaluation."
 msgstr "Dette projekt har en åben anmodning om evaluering. Du kan hjælpe forfatteren til dette projekt ved at indsende en evaluering."
 
+msgid "This project has been re-submitted for evaluation, and its most recent evaluation is shown below. Keep in mind that the code was likely different when that evaluation was made, so line numbers and other references may be outdated."
+msgstr "Dette projekt er blevet genindsendt til evaluering, og den seneste evaluering er vist nedenfor. Husk at koden sandsynligvis var anderledes, da den seneste evaluering blev foretaget, så linjetal og andre referencer kan være forældede."
+
 msgid "This project has passed evaluation."
 msgstr "Dette projekt har bestået evalueringen."
 
 msgid "This project needs more work."
 msgstr "Dette projekt kræver mere arbejde."
+
+msgid "This project seems to be the original work of the author."
+msgstr "Dette projekt ser ud til at være lavet af den oprindelige forfatter."
 
 msgid "This reference is based on <a href=\"http://processingjs.org/reference/\" target=\"_blank\">ProcessingJS reference</a> and is licensed under the <a href=\"http://creativecommons.org/licenses/by-nc-sa/2.0/\" target=\"_blank\">CC BY-NC-SA 2.0 license."
 msgstr "Denne reference er baseret på <a href=\"http://processingjs.org/reference/\" target=\"_blank\">ProcessingJS reference</a> og er licenseret under <a href=\"http://creativecommons.org/licenses/by-nc-sa/2.0/\" target=\"_blank\">CC BY-NC-SA 2.0 licens."
@@ -15345,6 +16430,9 @@ msgstr ""
 " på denne ugentlige oversigts-email, \n"
 " <a href=\"%(roster_url)s\"> skal du gå til din klasseliste</a>."
 
+msgid "To School"
+msgstr "Til skole"
+
 msgid "To connect another email address to your Khan Academy account, first add a password to your account in the \"Password\" section above."
 msgstr "Hvis du vil knytte en anden e-mail-adresse til din konto hos Khan Academy, tilføj da en adgangskode først i menuen \"Adgangskode\" ovenfor."
 
@@ -15401,6 +16489,15 @@ msgstr "For at finde den transponerede, skift rundt på rækker og kolonner."
 
 msgid "To find your programs later, you can:"
 msgstr "For at finde dine programmer senere, kan du:"
+
+msgid ""
+"To get a preview of the experience learning math on\n"
+"                Khan Academy, check out\n"
+"                "
+msgstr ""
+"For at få et smugkig på hvordan det er ar lære matematik på\n"
+" Khan Academy, så tjek\n"
+"                "
 
 msgid "To give everyone a fair chance at getting evaluated, "
 msgstr "For at give alle en rimelig mulighed for at blive evalueret, "
@@ -15694,6 +16791,9 @@ msgstr "Skriv dit barns email her"
 msgid "Typing this:"
 msgstr "Skriver dette:"
 
+msgid "U.S."
+msgstr "U.S."
+
 msgid "UNDO"
 msgstr "FORTRYD"
 
@@ -15823,6 +16923,9 @@ msgstr "Uspecificeret"
 msgid "Unsubscribing..."
 msgstr "Afmelder..."
 
+msgid "Until April 30th, earn points and unlock prizes"
+msgstr "Indtil 30. April, tjen point og lås præmier op"
+
 msgid "Up next in your mission"
 msgstr "Emnet for din næste mission"
 
@@ -15897,6 +17000,9 @@ msgstr "Brug de værdier, vi fandt for <code>\\pink{a}</code> og <code>\\blue{b}
 
 msgid "Use this handout to record and distribute student usernames and passwords."
 msgstr "Brug dette papir ark til at registrere og fordel elevernes brugernavne og adgangskoder."
+
+msgid "Use your Khan Academy account to login"
+msgstr "Brug din Khan Academy konto til at logge ind"
 
 msgid "Used in conjunction with beginShape() and endShape() to draw shapes with bezier curves for sides. Each call to bezierVertex() defines the position of two control points and one anchor point of a Bezier curve, adding a new segment to a line or shape. The first time bezierVertex() is used within a beginShape() call, it must be prefaced with a call to vertex() to set the first anchor point. When using this function, do *not* specify a mode in beginShape()."
 msgstr "Bruges sammen med beginShape() og endShape() til at tegne figurer med bezier-kurver som sider. Hvert kald af bezierVertex() definerer placeringen af to kontrolpunkter og et ankerpunkt på en Bezier-kurve, og tilføjer et nyt linjestykke til en linje eller figur. Den første gang bezierVertex() bruges inden for et kald af beginShape(), skal det indledes med et kald af vertex() for at angive det første ankerpunkt. Når du bruger denne funktion, skal der *ikke* angives en tilstand (mode) i beginShape()."
@@ -16036,6 +17142,9 @@ msgstr "Se i Tutorial"
 msgid "View on Khan Academy"
 msgstr "Se på Khan Academy"
 
+msgid "View our promotion resources"
+msgstr "Se vores promoveringsressourcer"
+
 msgid "View patterns: <span class=\"pattern-tabs\"> <a href=\"javascript:void(0);\" class=\"selected\" id=\"show-flips\" data-offset=\"0\">Coin flips</a> | <a href=\"javascript:void(0);\" id=\"show-chart-1\" data-offset=\"1\">H vs T</a> | <a href=\"javascript:void(0);\" id=\"show-chart-2\" data-offset=\"2\">Two-flip streaks</a> | <a href=\"javascript:void(0);\" id=\"show-chart-3\" data-offset=\"3\">Three-flip streaks</a> </span>"
 msgstr "Se mønstre: <span class=\"pattern-tabs\"> <a href=\"javascript:void(0);\" class=\"selected\" id=\"show-flips\" data-offset=\"0\">Møntkast</a> | <a href=\"javascript:void(0);\" id=\"show-chart-1\" data-offset=\"1\"> K vs P</a> | <a href=\"javascript:void(0);\" id=\"show-chart-2\" data-offset=\"2\">To-kasts-sekvenser</a> | <a href=\"javascript:void(0);\" id=\"show-chart-3\" data-offset=\"3\">Tre-kasts-sekvenser</a></span>"
 
@@ -16045,8 +17154,14 @@ msgstr "Se profil"
 msgid "View settings"
 msgstr "Se indstillinger"
 
+msgid "View suggestion"
+msgstr "Se forslag"
+
 msgid "View summary"
 msgstr "Se oversigt"
+
+msgid "View teaching guide"
+msgstr "Se undervisningsvejledning"
 
 msgid "View the class statistics page for this set of students"
 msgstr "Se statistiksiden for denne gruppe elever"
@@ -16108,6 +17223,9 @@ msgstr "Rumfang"
 msgid "Volunteer"
 msgstr "Meld dig som frivillig"
 
+msgid "Volunteer to become a star promoter! Email %(mailto)s"
+msgstr "Meld dig som frivillige og bliv en fantastisk promotor! E-mail %(mailto)s"
+
 msgid "Vote Up"
 msgstr "Stem op"
 
@@ -16147,11 +17265,17 @@ msgstr "Ønsker du flere detaljer?"
 msgid "Want to coach students or your children?"
 msgstr "Vil du vejlede elever eller dine børn?"
 
+msgid "Want to help your fellow students learn? One way is by helping them with their creations! "
+msgstr "Vil du hjælpe dine medstuderende med at lære? En måde er ved at hjælpe dem med deres kreationer! "
+
 msgid "Want to track your progress over time?"
 msgstr "Vil du følge din fremgang over tid?"
 
 msgid "Warning: there are un-saved changes in this program."
 msgstr "Advarsel: der er ikke-gemte ændringer i dette program."
+
+msgid "Was Khan Academy helpful to you today?"
+msgstr "Har Khan Academy hjulpet dig i dag?"
 
 msgid "Watch"
 msgstr "Se"
@@ -16209,6 +17333,9 @@ msgstr "Så <span class=\"video-minutes\">{{secondsToTime secondsWatched}}</span
 
 msgid "Way to go!"
 msgstr "Sådan skal det gøres!"
+
+msgid "Ways to spread LearnStorm:"
+msgstr "Måder at sprede LearnStorm:"
 
 msgid "We also expect our designers to have solid technical skills. You should have a set of tools that you love to use when designing, and you can show us how you've used them in the past to make great products. Oh, also, you're not afraid of code, and you've probably written some Javascript."
 msgstr "Vi forventer også, at vores designere har solide tekniske færdigheder. Du skal have et sæt af værktøjer, som du elsker at bruge når du designer, og du kan vise os hvordan du har brugt dem i fortiden til at lave fantastiske produkter. Åh og så er du ikke bange for at kode, og du har sikkert skrevet noget Javascript."
@@ -16443,6 +17570,9 @@ msgstr "Vi har dog talt håndtrykkene to gange, da <var>person( 1 )</var>s hånd
 msgid "We haven't seen %(child_name)s in two weeks. We're ready to get back to learning!"
 msgstr "Vi ikke har set %(child_name)s i to uger. Vi er klar til at komme tilbage til læringen!"
 
+msgid "We homeschool"
+msgstr "Vi underviser hjemme"
+
 msgid "We know each tick mark is <code><var>SCALE</var></code> because <code>0</code> and <code><var>SCALE</var></code> are labeled."
 msgstr "Vi ved, at hver mærke svarer til <code><var>SCALE</var></code>, fordi <code>0</code> og <code><var>SCALE</var></code> er markeret."
 
@@ -16485,6 +17615,9 @@ msgstr "Vi har brug at gemme dine fremskridt før du anmoder om feedback, angiv 
 
 msgid "We need you to complete the process for creating your child's account."
 msgstr "Vi har brug for at du færdiggør oprettelsen af dit barns konto."
+
+msgid "We need your parent’s permission to finalize your account."
+msgstr "Vi har brug for dine forældres tilladelse til at lave din konto færdig."
 
 msgid "We notice that all the terms in the numerator have a common factor of <code><var>C</var></code>, so we can rewrite the expression:"
 msgstr "Vi kan se, at alle leddene i nævneren har den fælles faktor <code><var>C</var></code>, så vi kan omskrive udtrykket til:"
@@ -16649,6 +17782,9 @@ msgstr "Vi er meget glade for at Khan Academy har gjort en forskel i dit liv. De
 msgid "We're sorry. Your device is not supported for Khan Academy's practice exercises."
 msgstr "Vi beklager. Enheden understøttes ikke af Khan Academys øvelser."
 
+msgid "We're taking your feedback and going back to our labs to think of ways to make things better for you. In the meantime, you'll go back to the classic dashboard experience."
+msgstr "Vi tager din feedback og går tilbage til vores laboratorier for at tænke over måder hvorpå vi kan gøre tingene bedre for dig. I mellemtiden kan du gå tilbage til den klassiske læringsoversigt."
+
 msgid "We're teaching each other &ndash; so don't just answer \"Yes\" or \"No\", share your answer the way your favorite teacher would."
 msgstr "Vi underviser hinanden &ndash; så svar ikke bare \"Ja\" eller \"Nej\", formuler svaret som din yndlingslærer ville."
 
@@ -16709,8 +17845,14 @@ msgstr "Hjemmesider vil blive markeret for:"
 msgid "Website:"
 msgstr "Hjemmeside:"
 
+msgid "Weekly Activities"
+msgstr "Ugentlige aktiviteter"
+
 msgid "Weekly activity reports"
 msgstr "Ugentlige aktivitetsrapporter"
+
+msgid "Weekly challenges are a way to supercharge your brain growth during LearnStorm 2015. By completing the challenge each week, you’ll learn strategies to help unlock your learning potential and grow your brain."
+msgstr "Ugentlige udfordringer er en måde at \"overoplade\" din hjerne under LearnStorm 2015. Ved at gennemføre den ugentlige udfordring, vil du lære strategier der hjælper med at åbne for din potentielle læring og udvikle din hjerne."
 
 msgid "Weird construction. Is 'new' necessary?"
 msgstr "Underlig konstruktion. Er 'new' nødvendigt?"
@@ -16802,11 +17944,24 @@ msgstr "Vi er glade for at have dig i vores klasse med mere end 10 millioner ele
 msgid "We’ve been really excited as we’ve seen Khan Academy help fuel our girls’ motivation. Now they can really take off in math."
 msgstr "Vi er meget begejstrede fordi vi har set at Khan Academy hjælper motiverer piger. Nu kan de virkelig rykke i matematik."
 
+msgid ""
+"What are easy ways to support my students’ learning\n"
+"            on LearnStorm?"
+msgstr ""
+"Hvad er nemme måder at støtte mine elever i deres læring\n"
+" med LearnStorm?"
+
 msgid "What are its center <code>(h, k)</code> and its major and minor radius?"
 msgstr "Hvad er dens centrum <code>(h, k)</code> og største og mindste radius?"
 
 msgid "What are its center <code>(h, k)</code> and its radius <code>r</code>?"
 msgstr "Hvad er dens centrum <code>(h, k)</code> og dens radius <code>r</code>?"
+
+msgid "What are leaderboards and what are they based on?"
+msgstr "Hvad er ranglister og hvad er de baseret på?"
+
+msgid "What are monthly cups?"
+msgstr "Hvad er månedlige cups?"
 
 msgid "What are the asymptotes?"
 msgstr "Hvad er asymptoterne?"
@@ -16820,14 +17975,38 @@ msgstr "Hvad er de to vinkler målt i grader?"
 msgid "What are the values of <code>\\pink{a}</code> and <code>\\blue{b}</code>?"
 msgstr "Hvad er værdierne af <code>\\pink{a}</code> og <code>\\blue{b}</code>?"
 
+msgid "What are the weekly challenges?"
+msgstr "Hvad er de ugentlige udfordringer?"
+
+msgid "What are weekly challenges?"
+msgstr "Hvad er ugentlige udfordringer?"
+
 msgid "What best describes your problem?"
 msgstr "Hvad beskriver bedst dit problem?"
+
+msgid ""
+"What can I do to help champion LearnStorm at my\n"
+"            school?"
+msgstr ""
+"Hvad kan jeg gøre for at hjælpe med at mestre LearnStorm på min\n"
+" skole?"
 
 msgid "What can you do with a career in computing?"
 msgstr "Hvad kan du med en karriere som programmør eller datalog?"
 
+msgid "What devices can I use to access Khan Academy content?"
+msgstr "Hvilke enheder kan jeg bruge til at få adgang til Khan Academys indhold?"
+
 msgid "What do the following two equations represent?"
 msgstr "Hvad repræsenterer de følgende to ligninger?"
+
+msgid "What does it mean that LearnStorm 2015 is a pilot?"
+msgstr "Hvad betyder det at LearnStorm 2015 er et pilotprojekt?"
+
+msgid ""
+"What happens if my school is not listed in the school\n"
+"            list dropdown?"
+msgstr "Hvad sker der, hvis min skole ikke er listet under skoler?"
 
 msgid "What if we cut each <var>pizza(1)</var> into <var>B</var> slices instead?"
 msgstr "Hvad hvis vi skærer hver <var>pizza(1)</var> i <var>B</var> skiver i stedet?"
@@ -16864,6 +18043,12 @@ msgstr "Hvad er <code>\\red{g(x)}</code> udtrykt ved <code>\\blue{f(x)}</code>?"
 
 msgid "What is <code>\\sec(\\angle <var>ANGLE</var>)?</code>"
 msgstr "Hvad er <code>\\sec(\\angle <var>ANGLE</var>)?</code>"
+
+msgid "What is Khan Academy?"
+msgstr "Hvad er Khan Academy?"
+
+msgid "What is LearnStorm 2015?"
+msgstr "Hvad er LearnStorm 2015?"
 
 msgid "What is confusing about the hint code?"
 msgstr "Hvad er forvirrende ved hint-koden?"
@@ -16925,11 +18110,24 @@ msgstr "Hvad ser forkert ud? (Det kan være nyttigt også at indsende et link ti
 msgid "What makes Beethoven's 5th Symphony so amazing?"
 msgstr "Hvad gør Beethovens 5. symfoni så fantastisk?"
 
+msgid ""
+"What materials can I use to share LearnStorm with other\n"
+"            teachers, parents, and students?"
+msgstr ""
+"Hvilke materialer kan jeg bruge til at dele LearnStorm med andre\n"
+" lærere, forældre og elever?"
+
 msgid "What number could replace <code><var>SYMBOL</var></code> below?"
 msgstr "Hvilket tal kan indsættes i stedet for <code><var>SYMBOL</var></code> nedenfor?"
 
+msgid "What organizations have helped to support LearnStorm 2015?"
+msgstr "Hvilke organisationer har støttet LearnStorm 2015?"
+
 msgid "What other feedback do you have for us?"
 msgstr "Hvad har du ellers af feedback til os?"
+
+msgid "What rewards could I or my school unlock?"
+msgstr "Hvad belønninger kan jeg eller min skole opnå?"
 
 msgid "What text looks wrong on this page?"
 msgstr "Hvilken tekst ser forkert ud på denne side?"
@@ -16952,6 +18150,12 @@ msgstr "Hvad var det største antal <var>plural_form(ITEM)</var> på én <var>LO
 msgid "What was the smallest number of <var>plural_form(ITEM)</var> at any one <var>LOCATION_DISPLAY</var>?"
 msgstr "Hvad var det mindste antal <var>plural_form(ITEM)</var> på én <var>LOCATION_DISPLAY</var>?"
 
+msgid "What will Khan Academy do to protect student privacy?"
+msgstr "Hvad vil Khan Academy gøre for at beskytte elevers privatliv?"
+
+msgid "What will the final, in-person event be?"
+msgstr "Hvad bliver den endelige fysiske begivenhed?"
+
 msgid "What would this sentence look like as an equation?"
 msgstr "Hvordan ville denne sætning se ud som en ligning?"
 
@@ -16964,6 +18168,9 @@ msgstr "Hvad er der galt?"
 msgid "When <code>\\purple{a}</code> is <code>\\purple{<var>E</var>}</code> and <code>\\purple{b}</code> is <code>\\purple{<var>A * F</var>}</code>:"
 msgstr "Når <code>\\purple{a}</code> er <code>\\purple{<var>E</var>}</code> og <code>\\purple{b}</code> er <code>\\purple{<var>A * F</var>}</code>:"
 
+msgid "When is LearnStorm 2015?"
+msgstr "Hvornår er LearnStorm 2015?"
+
 msgid "When multiplying fractions, we multiply the numerators and the denominators."
 msgstr "Når vi ganger brøker, ganger vi nævner med nævner og tæller med tæller."
 
@@ -16972,6 +18179,22 @@ msgstr "Når man ganger eller dividerer på begge sider af en ulighed med et neg
 
 msgid "When naming a variable, it is okay to use most letters, but some are reserved, like 'e', which represents the value 2.7831..."
 msgstr "Når du navngiver en variabel, er det okay at bruge de fleste bogstaver, men visse bogstaver er forbeholdte, fx \"e\", der repræsenterer værdien 2,7831..."
+
+msgid ""
+"When prompted, add a class on Khan Academy\n"
+"                  "
+msgstr ""
+"Når du bliver bedt om det, så tilføj en klasse på Khan Academy\n"
+"                  "
+
+msgid ""
+"When prompted, go to your email and open the confirmation\n"
+"                  email from Khan Academy\n"
+"                "
+msgstr ""
+"Når du bliver bedt om det, gå til din email og åbn email med\n"
+" bekræftelsen fra Khan Academy\n"
+"                "
 
 msgid "When the equation is rewritten in vertex form like this, the vertex is the point <code>(\\green{h}, \\blue{k})</code>:"
 msgstr "Når ligningen er omskrevet til toppunktsform som dette, er toppunktet <code>(\\green{h}, \\blue{k})</code>:"
@@ -17026,6 +18249,12 @@ msgstr ""
 " har en mulighed for at gennemse den, før du indsender den. \n"
 " Du er velkommen til at lave et par stykker for at fortælle flere forskellige historier."
 
+msgid "Where did the topic breakdown go?"
+msgstr "Hvor er emnefordelingen blevet af?"
+
+msgid "Where does LearnStorm take place?"
+msgstr "Hvor foregår LearnStorm?"
+
 msgid "Where is <code><var>NUMBER</var></code> on the number line?"
 msgstr "Hvor er <code><var>NUMBER</var></code> på tallinjen?"
 
@@ -17071,11 +18300,17 @@ msgstr "Hvilken side vil du bruge som din s hjemmeside?"
 msgid "Which part is not translated?"
 msgstr "Hvilken del er ikke oversat?"
 
+msgid "Which subject should I work on?"
+msgstr "Hvilket emne bør jeg arbejde med?"
+
 msgid "Which text has an incorrect translation on this page?"
 msgstr "Hvilken tekst har forkert oversættelse på denne side?"
 
 msgid "Which things do we know, and what are we trying to find?"
 msgstr "Hvad ved vi, og hvad prøver vi at finde ud af?"
+
+msgid "Who can participate in LearnStorm?"
+msgstr "Hvem kan deltage i LearnStorm?"
 
 msgid "Whoa there, partner!"
 msgstr "Hov, pas på, makker!"
@@ -17240,6 +18475,12 @@ msgstr "Ja, men ingen svarede."
 msgid "Yes, but the answer didn't help."
 msgstr "Ja, men svaret hjalp ikke."
 
+msgid "Yes, easily"
+msgstr "Ja, let"
+
+msgid "Yes, eventually"
+msgstr "Ja, til sidst"
+
 msgid "Yes, it makes sense."
 msgstr "Ja, det giver mening."
 
@@ -17251,6 +18492,9 @@ msgstr "Ja, tak. Tilmeld mig!"
 
 msgid "Yes, take me to the next evaluation!"
 msgstr "Ja, fortsæt til den næste evaluering!"
+
+msgid "Yes. Remove me from the challenge"
+msgstr "Ja. Fjern mig fra udfordringen"
 
 msgid "Yesterday"
 msgstr "I går"
@@ -17418,6 +18662,9 @@ msgstr "Du kan kun markere 10 gange hver time."
 msgid "You can only vote 10 times every hour."
 msgstr "Du kan kun stemme 10 gange hver time."
 
+msgid "You can participate in LearnStorm anywhere you have an internet connection, like your home, school or local library. The only thing you need is a Khan Academy account. Sign up today, and start learning."
+msgstr "Du kan deltage i LearnStorm hvor som helst, bare du har en internetforbindelse: derhjemme, i skolen eller på dit lokale bibliotek. Det eneste, du behøver, er en Khan Academy konto. Tilmeld dig i dag og begynd at lære."
+
 msgid "You can see that the graph resembles a squished circle."
 msgstr "Du kan se, at grafen ligner en fladtrykt cirkel."
 
@@ -17432,6 +18679,17 @@ msgstr "Du kan prøve forskellige faktorer af <code class=\"hint_blue\"><var>CON
 
 msgid "You can try out different factors of <code>\\blue{<var>SIMPLECONSTANT</var>}</code> to see if you can find two that satisfy both conditions. If you're stuck and can't think of any, you can also rewrite the conditions as a system of equations and try solving for <code>\\pink{a}</code> and <code>\\pink{b}</code>:"
 msgstr "Du kan prøve forskellige faktorer af <code>\\blue{<var>SIMPLECONSTANT</var>}</code> for at se om du kan finde to, der opfylder begge betingelser. Hvis du sidder fast og ikke kan komme i tanker om nogle, kan du også omskrive betingelserne til et ligningssystem og prøv at løse for <code>\\pink{a}</code> og  <code>\\pink{b}</code>:"
+
+msgid ""
+"You can use any computer, tablet, or mobile device to\n"
+"              access Khan Academy and participate in LearnStorm.  All\n"
+"              you need is an internet connection!\n"
+"            "
+msgstr ""
+"Du kan bruge enhver computer, tablet eller mobiltelefon til\n"
+" at tilgå Khan Academy og deltage i LearnStorm. Alt\n"
+" du har brug for er en forbindelse til internettet!\n"
+"            "
 
 msgid "You can use email to sign up for a new account by going to www.khanacademy.org in Safari. We'll have this working within our app soon!"
 msgstr "Du kan bruge e-mail til at registrere en ny konto ved at gå til www.khanacademy.org i Safari. Vi arbejder på at dette kan gøres via vores app!"
@@ -17684,6 +18942,18 @@ msgid ""
 "                  accordingly."
 msgstr "Du får adgang til dybdegående feedback og/n rapporter, så du på alle tidspunkter ved præcis hvordan hver enkelte elev og din/n klasse som helhed klarer sig gennem skoleåret. Du kan se udspecificeret hvordan hver elev klarer sig i hvert emne og helt ned i hvert enkelte regnestykke og kan derefter tilpasse din undervisning differentieret/n så den passer alle elever."
 
+msgid ""
+"You will be redirected to your new teacher account\n"
+"                  on Khan Academy\n"
+"                  "
+msgstr ""
+"Du vil blive omdirigeret til din nye lærerkonto\n"
+" på Khan Academy\n"
+"                  "
+
+msgid "You will be removed from the leaderboards"
+msgstr "Du vil blive fjernet fra ranglisterne"
+
 msgid "You will be unlinked from your parent's account and be able to log into your account using your Khan Academy password or any Google or Facebook account connected to that email address."
 msgstr "Du vil blive fjernet fra din forældres konto og være i stand til at logge ind på din konto med din adgangskode til Khan Academy eller en Google- eller Facebook-konto, som er forbundet til denne e-mail-adresse."
 
@@ -17722,6 +18992,9 @@ msgstr "Du skal <a href='%(loginUrl)s'>logge ind eller tilmelde dig</a> for at a
 
 msgid "You're a mad data scientist."
 msgstr "Du er en gal data-videnskabsmand."
+
+msgid "You're all set!"
+msgstr "Så er du klar!"
 
 msgid "You're almost there!"
 msgstr "Du er der næsten!"
@@ -18140,6 +19413,9 @@ msgstr "Dit studiekortsnummer er {{identifier}}"
 msgid "Your students"
 msgstr "Dine elever"
 
+msgid "Your students may be eligible for LearnStorm: Bay Area 2015!"
+msgstr "Dine elever er måske berettiget til at deltage i LearnStorm: Bay Area 2015!"
+
 msgid "Your students will be notified when you choose a new class mission"
 msgstr "Dine elever vil blive underrettet, når du vælger en ny klassemission"
 
@@ -18195,6 +19471,12 @@ msgid "You’ve mastered 1 new skill"
 msgid_plural "You’ve mastered %(num)s new skills"
 msgstr[0] "Du har mestret 1 ny færdighed"
 msgstr[1] "Du har mestret %(num)s nye færdigheder"
+
+msgid "ZIP code"
+msgstr "Postnummer"
+
+msgid "Zip code"
+msgstr "Postnummer"
 
 msgid "['{a}'] is better written in dot notation."
 msgstr "Det er bedre at skrive ['{a}'] med prik-notation."
@@ -18437,6 +19719,19 @@ msgstr "og %(numMore)s mere..."
 
 msgid "and also in"
 msgstr "og også i"
+
+msgid ""
+"and follow the steps in Option 3 to create a Khan Academy\n"
+"              class.  You can then provide your students with your\n"
+"              ‘class code’ and they can add you as their coach under\n"
+"              the ‘coaches tab’ in their account.\n"
+"              "
+msgstr ""
+"og følge vejledningen i Valgmulighed 3 for at oprette en Khan Academy\n"
+" klasse.  Du kan derefter give dine elever \n"
+" klassekoden og de kan tilføje dig som deres lærer under\n"
+" fanen' lærere' på deres konto. \n"
+"              "
 
 msgid "and you're all set! Save your key and secret somewhere safe, because you'll need them when <a href=\"https://github.com/khan/khan-api/wiki/Khan-Academy-API-Authentication\">authenticating against the Khan Academy API</a>."
 msgstr "og du er nu færdig! Gem din registreringsnøgle og det hemmelige spørgsmål et sikkert sted, du får brug for dem når du <a href=\"https://github.com/khan/khan-api/wiki/Khan-Academy-API-Authentication\"> verificerer din Khan Academy app</a>."
@@ -18682,6 +19977,9 @@ msgstr "kolonne"
 
 msgid "comments"
 msgstr "kommentarer"
+
+msgid "communication resources page"
+msgstr "ressourcesiden for kommunikation"
 
 msgid "complete"
 msgstr "færdig"
@@ -18948,6 +20246,9 @@ msgid_plural "folders"
 msgstr[0] "mappe"
 msgstr[1] "mapper"
 
+msgid "followers on Twitter"
+msgstr "følgere på Twitter"
+
 msgid "font: A font returned by the createFont function"
 msgstr "font: En skrifttype der returneres af funktionen createFont"
 
@@ -18955,6 +20256,24 @@ msgid "foot"
 msgid_plural "feet"
 msgstr[0] "fod"
 msgstr[1] "fod"
+
+msgid ""
+"for a printable handout.\n"
+"              "
+msgstr ""
+"for en printbare uddelingskopier. \n"
+"              "
+
+msgid ""
+"for materials\n"
+"        to share LearnStorm with districts, Principals, teachers, parents,\n"
+"        and students.\n"
+"      "
+msgstr ""
+"for materialer\n"
+" der kan bruges til at præsentere LearnStorm for kommuner, rektorer, lærere, forældre, \n"
+" og elever. \n"
+"      "
 
 msgid "for the explanation."
 msgstr "for forklaringen."
@@ -18982,6 +20301,9 @@ msgstr "matematik for fjerde klasse"
 
 msgid "fps: A whole number, number of frames per second"
 msgstr "FPS: Et helt tal, antallet af billeder pr. sekund (frames per second)"
+
+msgid "friends on Facebook"
+msgstr "venner på Facebook"
 
 msgid "from %(recommender)s"
 msgstr "fra %(recommender)s"
@@ -19500,6 +20822,9 @@ msgstr[1] "ulige tal"
 msgid "on"
 msgstr "på"
 
+msgid "on Khan Academy and prepare for LearnStorm 2.0!"
+msgstr "på Khan Academy og forbered dig på LærStorm 2.0!"
+
 msgid "one"
 msgid_plural "ones"
 msgstr[0] "ener"
@@ -20015,6 +21340,9 @@ msgstr "textFont(skrifttype, størrelse*)"
 msgid "that need practice"
 msgstr "stadig brug for øvelse"
 
+msgid "the more points your team will earn!"
+msgstr "jo flere point får dit team!"
+
 msgid "the user"
 msgstr "brugeren"
 
@@ -20038,6 +21366,9 @@ msgstr "trettende"
 
 msgid "thirty"
 msgstr "tredive"
+
+msgid "this short video"
+msgstr "denne korte video"
 
 msgid "thousand"
 msgid_plural "thousands"

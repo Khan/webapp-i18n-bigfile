@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: khanacademy\n"
 "Report-Msgid-Bugs-To: translation-team@khanacademy.org\n"
 "POT-Creation-Date: 2015-05-29 05:05+0000\n"
-"PO-Revision-Date: 2015-06-14 12:07-0400\n"
+"PO-Revision-Date: 2015-06-14 20:32-0400\n"
 "Last-Translator: csilvers <translation@khanacademy.org>\n"
 "Language-Team: Spanish\n"
 "MIME-Version: 1.0\n"
@@ -3251,6 +3251,9 @@ msgstr "<span class=\"sol\" data-forms=\"integer\"><var>NUM -1</var></span> cort
 msgid "<span class=\"sol\" data-forms=\"integer\"><var>TIME_FINAL</var></span> minutes"
 msgstr "<span class=\"sol\" data-forms=\"integer\"><var>TIME_FINAL</var></span> minutos"
 
+msgid "<span class=\"sol\" data-forms=\"integer, decimal\"> <var>VALUES[INDEX]</var> </span> house points"
+msgstr "<span class=\"sol\" data-forms=\"integer, decimal\"> <var>VALUES[INDEX]</var> </span> puntos."
+
 msgid "<span class=\"sol\" data-forms=\"integer, decimal\"><var>rain_2 - rain_1</var></span> centimeters"
 msgstr "<span class=\"sol\" data-forms=\"integer, decimal\"><var>rain_2 - rain_1</var></span> centímetros"
 
@@ -3624,6 +3627,9 @@ msgstr "Hace <var>CardinalThrough20(B)</var> años, <var>P1</var> tenía <code><
 
 msgid "<var>F</var>(<var>A</var>x + <var>B</var>)(<var>A</var>x - <var>B</var>)"
 msgstr "<var>F</var>(<var>A</var>x + <var>B</var>)(<var>A</var>x - <var>B</var>)"
+
+msgid "<var>HOUSES[INDEX]</var> received <code><var>VALUES[INDEX]</var></code> house points."
+msgstr "<var>HOUSES[INDEX]</var> recibió <code><var>VALUES[INDEX]</var></code> puntos."
 
 msgid "<var>M</var> * x + <var>B</var>"
 msgstr "<var>M</var> * x + <var>B</var>"
@@ -4506,6 +4512,9 @@ msgstr "Agregar esta clase al desafío"
 
 msgid "Add to"
 msgstr "Agregar a"
+
+msgid "Add up the lengths of all <var>SHAPE.numSides</var> sides."
+msgstr "Suma las longitudes de los <var>SHAPE.numSides</var> lados."
 
 msgid "Add up the lengths of the sides:"
 msgstr "Suma las longitudes de los lados:"
@@ -5477,6 +5486,9 @@ msgstr "En el minuto 5:31, ¿cómo es que la Luna es lo suficientemente grande c
 
 msgid "At <code>x = <var>PRETTY_X1</var></code>, then <code>y - <var>PRETTY_Y1</var> = 0</code>."
 msgstr "At <code>x = <var>PRETTY_X1</var></code>, entonces <code>y - <var>PRETTY_Y1</var> = 0</code>."
+
+msgid "At Hogwarts, there are four houses: <var>toSentence(HOUSES)</var>. The bar chart below shows the number of house points that each house received today."
+msgstr "En Hogwarts, hay cuatro casas: <var>toSentence(HOUSES)</var>. El siguiente gráfico de barras muestra el número de puntos que recibió cada casa el día de hoy."
 
 msgid "At most 3 school creations is allowed per user"
 msgstr "Como mucho se permiten por usuario 3 creaciones de escuela"
@@ -7165,6 +7177,9 @@ msgstr "Preguntas de la comunidad"
 
 msgid "Company:"
 msgstr "Empresa:"
+
+msgid "Compare the height of the bar for <var>HOUSES[INDEX]</var> to the scale on the left."
+msgstr "Compara la altura de la barra para <var>HOUSES[INDEX]</var> en la escala de la izquierda."
 
 msgid "Compare."
 msgstr "Compara."
@@ -9768,6 +9783,9 @@ msgstr ""
 msgid "Find the adjugate:"
 msgstr "Encuentra la adjunta:"
 
+msgid "Find the bar for <var>HOUSES[INDEX]</var>."
+msgstr "Encuentra la barra para <var>HOUSES[INDEX]</var>."
+
 msgid "Find the contrapositive. In other words, find the statement that reverses and negates both the hypothesis and conclusion."
 msgstr "Encuentra la contrapositiva. En otras palabras, encuentra la proposición que invierta y niegue tanto la hipótesis como la conclusión."
 
@@ -10949,6 +10967,9 @@ msgstr "Ejercita tu cerebro"
 msgid "Grow your brain!"
 msgstr "¡Haz que tu cerebro crezca!"
 
+msgid "Gryffindor"
+msgstr "Gryffindor"
+
 msgid "Guardian"
 msgstr "Guardián"
 
@@ -11330,6 +11351,9 @@ msgstr "La Hora del código en tu salón de clases"
 msgid "Hours"
 msgstr "Horas"
 
+msgid "House"
+msgstr "Casa"
+
 msgid "How can we find <code>\\cos(\\angle <var>ANGLE</var>)</code>?"
 msgstr "¿Cómo podemos encontrar <code>\\cos(\\angle <var>ANGLE</var>)</code>?"
 
@@ -11465,6 +11489,9 @@ msgstr "¿Cuántos grupos diferentes de amigos puedes llevar contigo?"
 msgid "How many home team and away team fans attended the game?"
 msgstr "¿Cuántos aficionados al equipo de casa y al equipo visitante asistieron al juego?"
 
+msgid "How many house points did <var>HOUSES[INDEX]</var> receive?"
+msgstr "¿Cuántos puntos para la casa recibió <var>HOUSES[INDEX]</var>?"
+
 msgid "How many minutes does it take <code><var>PEOPLE_FINAL</var></code> people to paint <code><var>WALL_FINAL</var></code> walls?"
 msgstr "¿Cuántos minutos les tomará a <code><var>PEOPLE_FINAL</var></code> personas pintar <code><var>WALL_FINAL</var></code> paredes?"
 
@@ -11497,6 +11524,9 @@ msgstr "¿Cuántos renglones hay?"
 
 msgid "How many rows does the second matrix, <code><var>PRETTY_MAT_2_ID</var></code>, have?"
 msgstr "¿Cuántas filas tiene la primera matriz <code><var>PRETTY_MAT_2_ID</var></code>?"
+
+msgid "How many rows of <code>\\blue{<var>A</var>}</code> circles do we need to make <code>\\pink{<var>C</var>}</code> total circles?"
+msgstr "¿Cuántas filas de <code>\\blue{<var>A</var>}</code> círculos necesitamos para tener <code>\\pink{<var>C</var>}</code> círculos en total?"
 
 msgid "How many significant figures does <code><var>TOTAL</var></code> have?"
 msgstr "¿Cuántas cifras significativas tiene <code><var>TOTAL</var></code>?"
@@ -11596,6 +11626,9 @@ msgstr "Sin embargo, la segunda definición por partes aplica cuando <code>x = <
 
 msgid "However, we do not need to know all the values in order to determine whether two triangles are congruent."
 msgstr "Sin embargo, no necesitamos conocer todos los valores para determinar si dos triángulos son congruentes."
+
+msgid "Hufflepuff"
+msgstr "Hufflepuff"
 
 msgid "Human guesses"
 msgstr "Suposiciones humanas"
@@ -18101,6 +18134,9 @@ msgstr "Problemas de razón"
 msgid "Rationalize the denominator:"
 msgstr "Racionaliza el denominador:"
 
+msgid "Ravenclaw"
+msgstr "Ravenclaw"
+
 msgid "Re"
 msgstr "Re"
 
@@ -18130,6 +18166,9 @@ msgstr "De solo lectura."
 
 msgid "Read these stories from our past interns. They've solved difficult technical, UX, and social problems in ways we never would've thought of. We hand our interns the most important features Khan Academy's working on and rely on them to produce excellence in return. Unlike other internships, you won't be tossed a list of edge-case bugs that nobody else wants to solve. You'll be expected to maturely own a project that may affect millions of students."
 msgstr "Lee las historias de los becarios que han estado con nosotros. Han resuelto problemas técnicos, de usuario y sociales, de maneras que nunca antes habíamos pensado. Les proporcionamos los temas en los que estamos trabajando en Khan Academy y contamos con ellos para producir excelentes resultados. A diferencia que otras becas, no te daremos una lista de cosas que nadie quiere resolver. Se espera que te hagas responsable de un proyecto que puede impactar a millones de estudiantes."
+
+msgid "Reading bar charts 1"
+msgstr "Interpretando gráficas de barras 1"
 
 msgid "Reading stem and leaf plots"
 msgstr "Leyendo diagramas de tallo y hoja"
@@ -20035,6 +20074,9 @@ msgstr "Sáltate el resto."
 
 msgid "Slope intercept form"
 msgstr "Forma pendiente-ordenada al origen"
+
+msgid "Slytherin"
+msgstr "Slytherin"
 
 msgid "So <code>(x + \\color{<var>PINK</var>}{<var>-A</var>})^2 = 0</code>."
 msgstr "Entonces <code>(x + \\color{<var>PINK</var>}{<var>-A</var>})^2 = 0</code>."
@@ -22876,6 +22918,9 @@ msgstr "Por lo tanto, la expresión original puede escribirse como:"
 msgid "The original expression is defined at <code>x = <var>A</var></code> and <code>x = <var>B</var></code>, so there are no extraneous solutions."
 msgstr "La expresión original está definida en <code>x = <var>A</var></code> y <code>x = <var>B</var></code>, por lo tanto no existen soluciones extrañas."
 
+msgid "The perimeter is <code><var>SHAPE.perimeter</var></code> <var>plural_form(UNIT_TEXT, SHAPE.perimeter)</var>."
+msgstr "El perímetro es <code><var>SHAPE.perimeter</var></code> <var>plural_form(UNIT_TEXT, SHAPE.perimeter)</var>."
+
 msgid "The perimeter is the total length of all the sides of the shape added together."
 msgstr "El perímetro de una figura es igual a la suma de todos sus lados."
 
@@ -23595,6 +23640,9 @@ msgstr[1] "Hay <code>\\green{<var>B</var>}</code> puntos verdes."
 
 msgid "There is already a publish in progress for these changes."
 msgstr "Ya hay una publicación en progreso para estos cambios."
+
+msgid "There is no bar for <var>HOUSES[INDEX]</var>, which means <var>HOUSES[INDEX]</var> recieved <code>0</code> house points."
+msgstr "No hay ninguna barra para <var>HOUSES[INDEX]</var>, lo que significa que <var>HOUSES[INDEX]</var> recibió <code>0</code> puntos."
 
 msgid "There is no email address connected to this Khan Academy account. Since your child is %(age)s years old, your two accounts can be unlinked by adding an email address by going to this settings page from your child's account."
 msgstr "No hay ninguna dirección de correo electrónico vinculada a esta cuenta de Khan Academy. Como tu hijo tiene %(age)s años, sus cuentas se pueden desvincular agregando una dirección de correo electrónico en la página de configuración de la cuenta de tu hijo."
@@ -26331,6 +26379,9 @@ msgstr "Extrañamos a %(child_name)s esta semana. ¡Estamos listos para regresar
 msgid "We missed you this past week! Be sure to come back regularly and continue learning!"
 msgstr "¡Te extrañamos la semana pasada! ¡Asegúrate de volver regularmente y seguir aprendiendo!"
 
+msgid "We need <code>\\green{<var>B</var>}</code> rows of <code>\\blue{<var>A</var>}</code> circles to make <code>\\pink{<var>C</var>}</code> total circles."
+msgstr "Necesitamos <code>\\green{<var>B</var>}</code> filas de <code>\\blue{<var>A</var>}</code> círculos para tener <code>\\pink{<var>C</var>}</code> círculos en total."
+
 msgid "We need a password from you."
 msgstr "Necesitamos una contraseña definida por ti."
 
@@ -27010,6 +27061,15 @@ msgstr "¿Cuál es el numerador de la fracción <code>\\dfrac{<var>NUMERATOR</va
 
 msgid "What is the parallelogram's area?"
 msgstr "¿Cuál es el área del paralelogramo?"
+
+msgid "What is the perimeter of the rectangle?"
+msgstr "¿Cuál es el perímetro del rectángulo?"
+
+msgid "What is the perimeter of the shape? Each square in the grid is a <code>1 \\times 1</code> <var>UNIT_TEXT</var> square."
+msgstr "¿Cuál es el perímetro de la figura? Cada cuadrado en la cuadrícula es de <code>1 \\times 1</code> <var>UNIT_TEXT</var> cuadrados."
+
+msgid "What is the perimeter of the square?"
+msgstr "¿Cuál es el perímetro del cuadrado?"
 
 msgid "What is the perimeter of the triangle?"
 msgstr "¿Cuál es el perímetro del triángulo?"
