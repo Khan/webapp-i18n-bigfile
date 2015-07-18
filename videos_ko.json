@@ -1,248 +1,223 @@
 [
   {
     "description": "", 
-    "title": "\uc18c\uc2dd", 
+    "title": "\uae30\ud0c0", 
     "videos": [
       {
-        "description": "Khan Academy is on a mission to unlock the world's potential. Most people think their intelligence is fixed. The science says it\u2019s not. \n\nIt starts with knowing you can learn anything.  Join the movement at http://khanacademy.org/youcanlearnanything.", 
-        "title": "You Can Learn Anything", 
-        "youtube_id": "JC82Il2cjqA"
-      }
-    ]
-  }, 
-  {
-    "description": "", 
-    "title": "\uc218\ud559", 
-    "videos": [
-      {
-        "description": "Multiplying Whole Numbers and Applications 6", 
-        "title": "\ubb38\uc81c : \uacf1\uc148\uc5d0 \uad00\ud55c \ubb38\uc7a5\uc81c \ubb38\uc81c", 
-        "youtube_id": "Qj4_hSDc48w"
+        "description": "Adding Whole Numbers and Applications 1", 
+        "title": "\uc815\uc218\uc758 \ub367\uc148\uacfc \uc751\uc6a91", 
+        "youtube_id": "j47DFYNCiqo"
       }, 
       {
-        "description": "Multiplication word problem example 1", 
-        "title": "\uacf1\uc148 \ubb38\uc81c\uc758 \uc608 1", 
-        "youtube_id": "QZF1lQB3nqg"
+        "description": "Alternate mental subtraction method", 
+        "title": "\uc554\uc0b0\uc73c\ub85c \ud558\ub294 \ube84\uc148\uc758 \ub610 \ub2e4\ub978 \ubc29\ubc95", 
+        "youtube_id": "Z2hcqgb7X3k"
       }, 
       {
-        "description": "Division word problem example 1", 
-        "title": "\ub098\ub217\uc148 \ubb38\uc81c \uc608 1", 
-        "youtube_id": "TF1qc31DQNM"
+        "description": "Units of measurement word problem: volume (metric)", 
+        "title": "\uce21\ub7c9 \ub2e8\uc704 \uc751\uc6a9\ubb38\uc81c: \ubd80\ud53c (\ubbf8\ud130\ubc95)", 
+        "youtube_id": "OKUvsu7kSNM"
       }, 
       {
-        "description": "Multiplication and division word problems 2", 
-        "title": "\uacf1\ud558\uae30\uc640 \ub098\ub204\uae30 \uc751\uc6a9 : \uc608\uc81c 2", 
-        "youtube_id": "nrlBya_9G20"
+        "description": "\uc6d0\uc81c: Normal vector from plane equation\n\ucd94\uac00\ud559\uc2b5: https://www.khanacademy.org/math/linear-algebra/vectors_and_spaces/dot_cross_products/v/normal-vector-from-plane-equation\n\uc9c1\uad50 \ubca1\ud130 \ud3c9\uba74\uc2dd\uc5d0\uc11c \ub04c\uc5b4\ub0b4\uae30", 
+        "title": "\uc9c1\uad50 \ubca1\ud130 \ud3c9\uba74\uc2dd\uc5d0\uc11c \ub04c\uc5b4\ub0b4\uae30", 
+        "youtube_id": "kE0TtLYi4us"
       }, 
       {
-        "description": "Multiplying by multiples of 10", 
-        "title": "10\uc758 \ubc30\uc218 \uacf1\uc148", 
-        "youtube_id": "3GXjSVuKrAI"
+        "description": "\uc6d0\uc81c: Vector triple product expansion (very optional)\n\ucd94\uac00\ud559\uc2b5: https://www.khanacademy.org/math/linear-algebra/vectors_and_spaces/dot_cross_products/v/vector-triple-product-expansion--very-optional\n\uacbd\uc2dc\uc900\ube44\uc5d0 \uac00\ub054 \ud544\uc694\ud55c \uc138\uac1c\uc758 \ud06c\ub85c\uc2a4 \ud504\ub7ec\ub355\ud2b8 \uc2dd \uac04\ub2e8\ud788 \ub9cc\ub4e4\uae30", 
+        "title": "\uc138\uac1c\uc758 \ud06c\ub85c\uc2a4 \ud504\ub7ec\ub355\ud2b8 \uc804\uac1c", 
+        "youtube_id": "XlJ4hgWze94"
       }, 
       {
-        "description": "Numbers to 120", 
-        "title": "120\uae4c\uc9c0 \uc22b\uc790", 
-        "youtube_id": "jV8TAdk2svs"
+        "description": "\uc6d0\uc81c: Dot and cross product comparison/intuition\n\ucd94\uac00\ud559\uc2b5: https://www.khanacademy.org/math/linear-algebra/vectors_and_spaces/dot_cross_products/v/dot-and-cross-product-comparison-intuition\n\ub2f7\ud504\ub7ec\ub355\ud2b8 \uc640 \ud06c\ub85c\uc2a4 \ud504\ub7ec\ub355\ud2b8 \ube44\uad50/\uc9c1\uac10", 
+        "title": "\ub2f7\ud504\ub7ec\ub355\ud2b8 \uc640 \ud06c\ub85c\uc2a4 \ud504\ub7ec\ub355\ud2b8 \ube44\uad50/\uc9c1\uac10", 
+        "youtube_id": "mk564m25w_g"
       }, 
       {
-        "description": "Counting with small numbers", 
-        "title": "10\uc774\ud558\uc758 \uc22b\uc790 \uc138\uae30", 
-        "youtube_id": "dMouUIfsQi4"
+        "description": "\uc6d0\uc81c: Proof: Relationship between cross product and sin of angle\n\ucd94\uac00\ud559\uc2b5: https://www.khanacademy.org/math/linear-algebra/vectors_and_spaces/dot_cross_products/v/proof--relationship-between-cross-product-and-sin-of-angle\n\n\ud06c\ub85c\uc2a4\uacf1\uacfc \uc0ac\uc778\ud568\uc218\uc758 \uad00\uacc4\uc99d\uba85", 
+        "title": "\ud06c\ub85c\uc2a4\uacf1\uacfc \uc0ac\uc778\ud568\uc218\uc758 \uad00\uacc4\uc99d\uba85", 
+        "youtube_id": "EE52-0tMEck"
       }, 
       {
-        "description": "Counting in order", 
-        "title": "\uc21c\uc11c\ub300\ub85c \uc22b\uc790 \uc138\uae30", 
-        "youtube_id": "yC7iF0Juli4"
+        "description": "\uc6d0\uc81c: Defining the angle between vectors\n\ucd94\uac00\ud559\uc2b5: https://www.khanacademy.org/math/linear-algebra/vectors_and_spaces/dot_cross_products/v/defining-the-angle-between-vectors\n\ubca1\ud130\uc0ac\uc774\uc758 \uac01\ub3c4 \uc18c\uac1c", 
+        "title": "\ubca1\ud130 \uc0ac\uc774\uc758 \uac01\ub3c4 \uc815\uc758", 
+        "youtube_id": "byUOWMFY2E0"
       }, 
       {
-        "description": "Counting in scenes", 
-        "title": "\uadf8\ub9bc\uc5d0\uc11c \uc22b\uc790\uc138\uae30", 
-        "youtube_id": "UcHwX7I8VC0"
+        "description": "\uc6d0\uc81c: Vector triangle inequality\n\ucd94\uac00\ud559\uc2b5: https://www.khanacademy.org/math/linear-algebra/vectors_and_spaces/dot_cross_products/v/linear-algebra--vector-triangle-inequality\nn \ucc28\uc6d0 \uc5d0\uc11c \uc0bc\uac01\ubd80\ub4f1\uc2dd \uc99d\uba85", 
+        "title": "\uc0bc\uac01\ubd80\ub4f1\uc2dd", 
+        "youtube_id": "Fkz8j_Csok4"
       }, 
       {
-        "description": "How many objects 1", 
-        "title": "\uc5bc\ub9c8\ub098 \ub9ce\uc774 \uc788\uc744\uae4c 1", 
-        "youtube_id": "a_qATwh_Tcw"
+        "description": "Unit conversion: centimeters to meters", 
+        "title": "\ub2e8\uc704 \ubcc0\ud658: \uc13c\ud2f0\ubbf8\ud130\uc5d0\uc11c \ubbf8\ud130\ub85c", 
+        "youtube_id": "NZi9kPIEpa0"
       }, 
       {
-        "description": "Counting objects 2", 
-        "title": "\uac1d\uccb4 \uc22b\uc790\uc138\uae30 2", 
-        "youtube_id": "GSJMutLNr_Q"
+        "description": "Unit conversion: ordering metric distances", 
+        "title": "\ub2e8\uc704 \ubcc0\ud658: \ubbf8\ud130\ubc95 \uac70\ub9ac\ub4e4\uc758 \ud06c\uae30 \ube44\uad50\ud558\uae30", 
+        "youtube_id": "7dvjg6Tp8MQ"
       }, 
       {
-        "description": "Subtract tens exercise", 
-        "title": "\uc2ed\ub2e8\uc704 \ube7c\uae30 \uc5f0\uc2b5", 
-        "youtube_id": "jdsHFwJIf7Y"
+        "description": "Unit conversion: minutes to hours", 
+        "title": "\ub2e8\uc704 \ubcc0\ud658: \ubd84\uc5d0\uc11c \uc2dc\ub85c", 
+        "youtube_id": "2esOY9SR14o"
       }, 
       {
-        "description": "Skip counting by 5 example", 
-        "title": "5\uc529 \ub354\ud558\uae30 \uc5f0\uc2b5", 
-        "youtube_id": "uIduC4wUvno"
+        "description": "Metric system: units of volume", 
+        "title": "\ubbf8\ud130\ubc95: \ubd80\ud53c\uc758 \ub2e8\uc704", 
+        "youtube_id": "Ybta44JGYWE"
       }, 
       {
-        "description": "Introduction to addition", 
-        "title": "\ub367\uc148 \uc18c\uac1c", 
-        "youtube_id": "F9QK5gU08cY"
+        "description": "Converting metric units of distance: kilometers, meters, centimeters", 
+        "title": "km, m, cm \uac04\uc758 \ubcc0\ud658", 
+        "youtube_id": "3PI9dION0mY"
       }, 
       {
-        "description": "Introduction to subtraction", 
-        "title": "\ube84\uc148 \uc18c\uac1c", 
-        "youtube_id": "TDXJnOgJXj8"
+        "description": "Currency conversion word problem", 
+        "title": "\ud658\uc804 \uc751\uc6a9\ubb38\uc81c", 
+        "youtube_id": "782L3mAASOQ"
       }, 
       {
-        "description": "Getting to 10 by filling boxes", 
-        "title": "\ubc15\uc2a4\ub97c \ucc44\uc6cc\uc11c 10\ub9cc\ub4e4\uae30", 
-        "youtube_id": "ZTE1IRIOq-E"
-      }, 
-      {
-        "description": "Addition word problems within 10", 
-        "title": "10 \uc548\uc5d0\uc11c\uc758 \ub354\ud558\uae30 \ubb38\uc81c\ub4e4", 
-        "youtube_id": "pJTiFwp-NSI"
-      }, 
-      {
-        "description": "Addition and subtraction within 10", 
-        "title": "10 \uc548\uc5d0\uc11c\uc758 \ub367\uc148 \ube84\uc148", 
-        "youtube_id": "f2peEjrtTPU"
-      }, 
-      {
-        "description": "Adding within 20", 
-        "title": "20 \uc548\uc5d0\uc11c\uc758 \ub354\ud558\uae30", 
-        "youtube_id": "s3ogTe-qhwU"
-      }, 
-      {
-        "description": "Equal sign", 
-        "title": "\ub4f1\ud638 \uae30\ud638", 
-        "youtube_id": "Rbvqubo-8-k"
-      }, 
-      {
-        "description": "Sea monsters and superheroes", 
-        "title": "\ubc14\ub2e4 \uad34\ubb3c\uacfc \uc601\uc6c5", 
-        "youtube_id": "Q8Vlbr2-tHQ"
-      }, 
-      {
-        "description": "More comparison word problems", 
-        "title": "\ucd94\uac00 \uc11c\uc220\ud615 \ube44\uad50 \ubb38\uc81c\ub4e4", 
-        "youtube_id": "rbShJLHUfo4"
-      }, 
-      {
-        "description": "Measuring lengths with different units", 
-        "title": "\ub2e4\ub978 \uc694\uc18c\uc640\uc758 \uae38\uc774 \uce21\uc815", 
-        "youtube_id": "g_AOKmMSvsQ"
-      }, 
-      {
-        "description": "Measuring lengths 2", 
-        "title": "\uae38\uc774 \uce21\uc815 2", 
-        "youtube_id": "4BMTOzJaF9w"
-      }, 
-      {
-        "description": "Length word problems", 
-        "title": "\uae38\uc774 \ubb38\uc81c", 
-        "youtube_id": "jRIEK06-RXw"
-      }, 
-      {
-        "description": "Picture graphs", 
-        "title": "\uadf8\ub9bc \uadf8\ub798\ud504", 
-        "youtube_id": "CfR5X0yfL0g"
-      }, 
-      {
-        "description": "Introduction to line plots", 
-        "title": "\uc810\uc120 \uadf8\ub798\ud504", 
-        "youtube_id": "wqDQowkWpmM"
-      }, 
-      {
-        "description": "Making line plots", 
-        "title": "\uc810\uc120\uadf8\ub798\ud504 \ub9cc\ub4e4\uae30", 
-        "youtube_id": "ihWBKtcdHhg"
-      }, 
-      {
-        "description": "Counting dollars", 
-        "title": "\ub3c8 \uc138\uae30", 
-        "youtube_id": "A8s4lyEQnog"
+        "description": "Counting American coins", 
+        "title": "\ubbf8\uad6d \ub3d9\uc804 \uc148\ud558\uae30", 
+        "youtube_id": "nrDulnFpIeU"
       }, 
       {
         "description": "Counting American coins", 
         "title": "\ubbf8\uad6d \ub3d9\uc804 \uc138\uae30", 
         "youtube_id": "jjUk2w8t_rY"
+      }
+    ]
+  }, 
+  {
+    "description": "", 
+    "title": "\uc9111\uc218\ud559 \uc815\uc218\uc640 \uc720\ub9ac\uc218\uc758 \uac1c\ub150", 
+    "videos": [
+      {
+        "description": "Introduction to even and odd", 
+        "title": "\uc9dd\uc218\uc640 \ud640\uc218\uc758 \uac1c\ub150", 
+        "youtube_id": "LW-eLn3oAWg"
       }, 
       {
-        "description": "Recognizing shapes", 
-        "title": "\ub3c4\ud615\uc744 \uc54c\uc544\ubcf4\uc790", 
-        "youtube_id": "JRrhegcwDDU"
+        "description": "Reciprocal of a Mixed Number", 
+        "title": "\ub300\ubd84\uc218\uc758 \uc5ed\uc218", 
+        "youtube_id": "u-cAaiK-ZsA"
+      }
+    ]
+  }, 
+  {
+    "description": "", 
+    "title": "\uc9112\uc218\ud559 \uc9c0\uc218\ubc95\uce59", 
+    "videos": [
+      {
+        "description": "Powers of 10: patterns", 
+        "title": "10\uc758 \uac70\ub4ed\uc81c\uacf1: \ud328\ud134", 
+        "youtube_id": "OdjDnuIADvE"
+      }
+    ]
+  }, 
+  {
+    "description": "", 
+    "title": "\uc9111\uc218\ud559 \uc815\uc218\uc640 \uc720\ub9ac\uc218\uc758 \uc0ac\uce59\uacc4\uc0b0", 
+    "videos": [
+      {
+        "description": "Why a negative times a negative is a positive", 
+        "title": "\uc65c \uc74c\uc218\uc640 \uc74c\uc218\uc758 \uacf1\uc740 \uc591\uc218\uc778\uac00", 
+        "youtube_id": "nAPn205dvvc"
       }, 
       {
-        "description": "Halves and fourths", 
-        "title": "\ubc18\uacfc \uc0ac\ubd84", 
-        "youtube_id": "bEznXZm_zI8"
+        "description": "Why a negative times a negative makes intuitive sense", 
+        "title": "\uc65c \uc74c\uc218\uc640 \uc74c\uc218\uc758 \uacf1\uc740 \uc9c1\uad00\uc801\uc73c\ub85c \uc633\uc740\uac00", 
+        "youtube_id": "CzX0IE-6ya8"
       }, 
       {
-        "description": "Filling rectangles with squares", 
-        "title": "\uc0ac\uac01\ud615\uc5d0 \uc0ac\uac01\ud615 \uccb4\uc6b0\uae30", 
-        "youtube_id": "e4EEtEIDOKE"
+        "description": "Adding integers with different signs", 
+        "title": "\uc11c\ub85c \ub2e4\ub978 \ubd80\ud638\ub97c \uac00\uc9c4 \uc815\uc218\uc758 \ub367\uc148", 
+        "youtube_id": "iAUFKefsAW8"
+      }
+    ]
+  }, 
+  {
+    "description": "", 
+    "title": "\ucd086\uc218\ud5592\ud559\uae30", 
+    "videos": []
+  }, 
+  {
+    "description": "", 
+    "title": "\ucd086\uc218\ud5591\ud559\uae30", 
+    "videos": [
+      {
+        "description": "Dividing fractions example 2", 
+        "title": "\ubd84\uc218\uc758 \ub098\ub217\uc148 \ubb38\uc81c 2", 
+        "youtube_id": "0m3Xh6S-AvU"
       }, 
       {
-        "description": "Mental technique for subtraction without regrouping", 
-        "title": "\ubc1b\uc544\ub0b4\ub9bc \uc5c6\uc774 \uc554\uc0b0\uc73c\ub85c \ube84\uc148\ud558\ub294 \ubc29\ubc95", 
-        "youtube_id": "7nJ2iYlN9Vw"
+        "description": "Dividing Mixed Numbers and Fractions", 
+        "title": "\ub300\ubd84\uc218\uc640 \ubd84\uc218\uc758 \ub098\ub217\uc148", 
+        "youtube_id": "XA1mX-A8IrA"
+      }
+    ]
+  }, 
+  {
+    "description": "", 
+    "title": "\ucd085\uc218\ud5592\ud559\uae30", 
+    "videos": [
+      {
+        "description": "Dividing completely to get decimal answer", 
+        "title": "\ubaab\uc774 \ub098\ub204\uc5b4\ub5a8\uc5b4\uc9c0\ub294 (\uc790\uc5f0\uc218)\u00f7(\uc790\uc5f0\uc218) \uacc4\uc0b0", 
+        "youtube_id": "H0hPzbU_KTA"
       }, 
       {
-        "description": "Examples relating multiplication to division", 
-        "title": "\ub098\ub217\uc148\uc5d0\uc11c \uacf1\uc148\uc5d0 \uad00\ud55c \uc608", 
-        "youtube_id": "QOWYK1sbC-0"
+        "description": "Dividing a decimal by a power of 10: shortcut", 
+        "title": "10\uc758 \uac70\ub4ed\uc81c\uacf1\uc744 \uc774\uc6a9\ud55c \uc2ed\uc9c4\uc218\uc758 \ub098\ub217\uc148", 
+        "youtube_id": "aCs6ir1gsOw"
       }, 
       {
-        "description": "More solving problems with bar graphs", 
-        "title": "\ub9c9\ub300 \uadf8\ub798\ud504\uc758 \ub354 \ub9ce\uc740 \ubb38\uc81c \ud480\uc774", 
-        "youtube_id": "Jsj-Q8zumvA"
+        "description": "Multiplying a decimal by a power of 10", 
+        "title": "10\uc758 \uac70\ub4ed\uc81c\uacf1\uc744 \uc774\uc6a9\ud55c \uc2ed\uc9c4\uc218\uc758 \uacf1\uc148", 
+        "youtube_id": "O1Pu2MPbKR4"
+      }, 
+      {
+        "description": "Dividing whole numbers and fractions: studying", 
+        "title": "\uc815\uc218\uc640 \ubd84\uc218\uc758 \ub098\ub217\uc148", 
+        "youtube_id": "oJA2Cb-eXVo"
+      }, 
+      {
+        "description": "Fractions as division by power of 10", 
+        "title": "10\uc758 \uac70\ub4ed\uc81c\uacf1\uc758 \ub098\ub217\uc148\uc73c\ub85c \ubd84\uc218 \ud45c\ud604\ud558\uae30", 
+        "youtube_id": "oEuKc5x3OC4"
+      }, 
+      {
+        "description": "Fractions on a number line", 
+        "title": "\uc218\uc9c1\uc120 \uc0c1\uc5d0\uc11c\uc758 \ubd84\uc218", 
+        "youtube_id": "RPevAeZrxrk"
+      }, 
+      {
+        "description": "Rewriting a fraction as a decimal", 
+        "title": "\ubd84\uc218\ub97c \uc18c\uc218\ub85c \ubcc0\ud658\ud558\uae30", 
+        "youtube_id": "RYW5UmvpVo4"
+      }
+    ]
+  }, 
+  {
+    "description": "", 
+    "title": "\ucd085\uc218\ud5591\ud559\uae30", 
+    "videos": [
+      {
+        "description": "Equivalent fraction word problem example 2", 
+        "title": "\uac19\uc740 \ubd84\uc218 \uc751\uc6a9\ubb38\uc81c 2", 
+        "youtube_id": "WJP88ahLdLQ"
+      }, 
+      {
+        "description": "Subtracting fractions with like denominators", 
+        "title": "\ubd84\ubaa8\uac00 \uac19\uc740 \ubd84\uc218\uc758 \ube84\uc148", 
+        "youtube_id": "BQ6BK4V2XTA"
       }, 
       {
         "description": "Equivalent fraction models", 
         "title": "\uac19\uc740 \ubd84\uc218 \ubaa8\ub378", 
         "youtube_id": "mXRr9NKVTts"
-      }, 
-      {
-        "description": "Monkeys for a party", 
-        "title": "\ud30c\ud2f0\uc5d0 \ucc38\uac00\ud560 \uc6d0\uc22d\uc774\ub4e4", 
-        "youtube_id": "5SboqL903Xw"
-      }, 
-      {
-        "description": "Order by length", 
-        "title": "\uae34 \uc21c\uc11c\ub300\ub85c \uc815\ub82c\ud558\uae30", 
-        "youtube_id": "4_Qo6peTh_8"
-      }, 
-      {
-        "description": "Estimating lengths", 
-        "title": "\uae38\uc774 \uc5b4\ub9bc\ud558\uae30", 
-        "youtube_id": "4s3ISrufT1o"
-      }, 
-      {
-        "description": "Comparing lengths", 
-        "title": "\uae38\uc774 \ube44\uad50\ud558\uae30", 
-        "youtube_id": "jCCVQwgUq3w"
-      }, 
-      {
-        "description": "Count by category", 
-        "title": "\uc885\ub958 \ubcc4\ub85c \uc138\uae30", 
-        "youtube_id": "rhMzbJ1uqcc"
-      }, 
-      {
-        "description": "Reading bar graph examples", 
-        "title": "\ub9c9\ub300 \uadf8\ub798\ud504 \uc77d\uae30", 
-        "youtube_id": "IeUN_sVv_Qk"
-      }, 
-      {
-        "description": "Solving problems with bar graphs 2", 
-        "title": "\ub9c9\ub300 \uadf8\ub798\ud504\ub97c \ud65c\uc6a9\ud574 \ubb38\uc81c \ud574\uacb0\ud558\uae30", 
-        "youtube_id": "cJA-bG1kBX4"
-      }, 
-      {
-        "description": "Subtracting decimals: example 2", 
-        "title": "\uc18c\uc218\uc758 \ube84\uc148 \uc608\uc81c 2\ubc88\uc9f8", 
-        "youtube_id": "H9Wj3tStNks"
-      }, 
-      {
-        "description": "Dividing by two digits example 1", 
-        "title": "\ub450\uc790\ub9ac \uc218\ub85c \ub098\ub204\uae30 \uc608\uc81c 1\ubc88\uc9f8", 
-        "youtube_id": "GyOzNHCw9V4"
       }, 
       {
         "description": "Multiplying fractions: visualizing", 
@@ -265,94 +240,14 @@
         "youtube_id": "DXR_OU4mlDk"
       }, 
       {
-        "description": "Using fractions as division to create mixed numbers", 
-        "title": "\ubd84\uc218\ub97c \ub098\ub217\uc148\uc73c\ub85c \uc0ac\uc6a9\ud574 \ub300\ubd84\uc218 \ub9cc\ub4e4\uae30", 
-        "youtube_id": "v8EyOU59j1U"
+        "description": "Equivalent fractions visually and on number line", 
+        "title": "\uac19\uc740 \ud06c\uae30\uc758 \uc5ec\ub7ec \ubd84\uc218\ub4e4\uc744 \uc218\uc9c1\uc120 \uc0c1\uc5d0\uc11c \ub098\ud0c0\ub0b4\uae30", 
+        "youtube_id": "jVqmqwsIUtk"
       }, 
       {
-        "description": "Powers of 10: patterns", 
-        "title": "10\uc758 \uac70\ub4ed\uc81c\uacf1: \ud328\ud134", 
-        "youtube_id": "OdjDnuIADvE"
-      }, 
-      {
-        "description": "Fractions as division by power of 10", 
-        "title": "10\uc758 \uac70\ub4ed\uc81c\uacf1\uc758 \ub098\ub217\uc148\uc73c\ub85c \ubd84\uc218 \ud45c\ud604\ud558\uae30", 
-        "youtube_id": "oEuKc5x3OC4"
-      }, 
-      {
-        "description": "Unit conversion: minutes to hours", 
-        "title": "\ub2e8\uc704 \ubcc0\ud658: \ubd84\uc5d0\uc11c \uc2dc\ub85c", 
-        "youtube_id": "2esOY9SR14o"
-      }, 
-      {
-        "description": "Unit conversion: ordering metric distances", 
-        "title": "\ub2e8\uc704 \ubcc0\ud658: \ubbf8\ud130\ubc95 \uac70\ub9ac\ub4e4\uc758 \ud06c\uae30 \ube44\uad50\ud558\uae30", 
-        "youtube_id": "7dvjg6Tp8MQ"
-      }, 
-      {
-        "description": "Unit conversion: centimeters to meters", 
-        "title": "\ub2e8\uc704 \ubcc0\ud658: \uc13c\ud2f0\ubbf8\ud130\uc5d0\uc11c \ubbf8\ud130\ub85c", 
-        "youtube_id": "NZi9kPIEpa0"
-      }, 
-      {
-        "description": "Units of measurement word problem: time", 
-        "title": "\uce21\ub7c9 \ub2e8\uc704 \uc751\uc6a9\ubb38\uc81c: \uc2dc\uac04", 
-        "youtube_id": "TBrKHP1Azrg"
-      }, 
-      {
-        "description": "Units of measurement word problem: volume (metric)", 
-        "title": "\uce21\ub7c9 \ub2e8\uc704 \uc751\uc6a9\ubb38\uc81c: \ubd80\ud53c (\ubbf8\ud130\ubc95)", 
-        "youtube_id": "OKUvsu7kSNM"
-      }, 
-      {
-        "description": "Multiplying: 2 digits times 1 digit", 
-        "title": "\uacf1\uc148: \ub450\uc790\ub9ac \uc218 \uacf1\ud558\uae30 \ud55c\uc790\ub9ac \uc218", 
-        "youtube_id": "syWsNmrfWi4"
-      }, 
-      {
-        "description": "Multiplying: 3 digits times 1 digit", 
-        "title": "\uacf1\uc148: \uc138\uc790\ub9ac \uc218 \uacf1\ud558\uae30 \ud55c\uc790\ub9ac \uc218", 
-        "youtube_id": "SOQsEzgYG4k"
-      }, 
-      {
-        "description": "Multiplying: 2 digits times 1 digit (with carrying)", 
-        "title": "\uacf1\uc148: (\uc790\ub9bf\uc218 \uc62c\ub9bc\uc774 \uc788\ub294) \ub450\uc790\ub9ac\uc218 \uacf1\ud558\uae30 \ud55c\uc790\ub9ac \uc218", 
-        "youtube_id": "61UVhCoQt60"
-      }, 
-      {
-        "description": "Multiplying: 2 digit numbers", 
-        "title": "\ub450\uc790\ub9ac \uc218\ub07c\ub9ac\uc758 \uacf1\uc148", 
-        "youtube_id": "uPhA4Ry8o98"
-      }, 
-      {
-        "description": "Multiplying: 4 digits times 1 digit (using grid)", 
-        "title": "\ub124\uc790\ub9ac \uc218\uc640 \ud55c\uc790\ub9ac \uc218\uc758 \uacf1\uc148", 
-        "youtube_id": "-UxMWf6Vnho"
-      }, 
-      {
-        "description": "Multiplying: 2 digits numbers (using distributive property)", 
-        "title": "\ubd84\ubc30\ubc95\uce59\uc744 \uc774\uc6a9\ud55c \ub450\uc790\ub9ac \uc218\ub07c\ub9ac\uc758 \uacf1\uc148", 
-        "youtube_id": "LaQABXHPMts"
-      }, 
-      {
-        "description": "Comparing with multiplication: ages and heights", 
-        "title": "\uacf1\uc148\uc744 \ud1b5\ud55c \ube44\uad50 (\ub098\uc774\uc640 \ud0a4)", 
-        "youtube_id": "9eUsueOFb7o"
-      }, 
-      {
-        "description": "Comparing with multiplication: money and distance", 
-        "title": "\uacf1\uc148\uc744 \ud1b5\ud55c \ube44\uad50 (\ub3c8\uacfc \uac70\ub9ac)", 
-        "youtube_id": "jvFB3RjNDd4"
-      }, 
-      {
-        "description": "Dividing numbers: intro to long division", 
-        "title": "\uae34 \ub098\ub217\uc148 \uc785\ubb38", 
-        "youtube_id": "MytXHZdoPXM"
-      }, 
-      {
-        "description": "Dividing numbers: long division example", 
-        "title": "\uae34 \ub098\ub217\uc148 \uc608\uc81c", 
-        "youtube_id": "xzXcE_K3IuA"
+        "description": "Comparing fractions visually and on number line", 
+        "title": "\uc5ec\ub7ec \ubd84\uc218\ub4e4\uc744 \uc218\uc9c1\uc120 \uc0c1\uc5d0\uc11c \ube44\uad50\ud558\uae30", 
+        "youtube_id": "Vpt1qwKJpmQ"
       }, 
       {
         "description": "Intro to equivalent fractions", 
@@ -370,49 +265,40 @@
         "youtube_id": "atps3K8dDyA"
       }, 
       {
-        "description": "Rewriting a fraction as a decimal", 
-        "title": "\ubd84\uc218\ub97c \uc18c\uc218\ub85c \ubcc0\ud658\ud558\uae30", 
-        "youtube_id": "RYW5UmvpVo4"
+        "description": "Generating equivalent fractions", 
+        "title": "\uac19\uc740 \ud06c\uae30\uc758 \ubd84\uc218 \ub9cc\ub4e4\uae30", 
+        "youtube_id": "4I5XpYuQYHY"
       }, 
       {
-        "description": "Metric system: units of distance", 
-        "title": "\ubbf8\ud130\ubc95: \uac70\ub9ac\uc758 \ub2e8\uc704", 
-        "youtube_id": "E61cSIIW6aQ"
+        "description": "Equivalent fraction models", 
+        "title": "\ud06c\uae30\uac00 \uac19\uc740 \ubd84\uc218\uc758 \uc608", 
+        "youtube_id": "ATgDQFCrGNQ"
       }, 
       {
-        "description": "Metric system: units of volume", 
-        "title": "\ubbf8\ud130\ubc95: \ubd80\ud53c\uc758 \ub2e8\uc704", 
-        "youtube_id": "Ybta44JGYWE"
+        "description": "Equivalent fractions with visuals", 
+        "title": "\ubd84\uc218\uc758 \uc2dc\uac01\ud654", 
+        "youtube_id": "BplisDTaESE"
       }, 
       {
-        "description": "Metric system: units of weight", 
-        "title": "\ubbf8\ud130\ubc95: \ubb34\uac8c\uc758 \ub2e8\uc704", 
-        "youtube_id": "I4_wu3x-mB8"
+        "description": "Equivalent fraction word problem example 3", 
+        "title": "\uac19\uc740 \ubd84\uc218 \uc751\uc6a9\ubb38\uc81c 3", 
+        "youtube_id": "GKBtypSNBnI"
       }, 
       {
-        "description": "Finding reasonable unit of measurement example", 
-        "title": "\uc54c\ub9de\uc740 \uce21\ub7c9 \ub2e8\uc704 \ucc3e\uae30", 
-        "youtube_id": "e5HYVjO_PkM"
-      }, 
+        "description": "Multiplying fractions word problem: banana oat muffin recipe", 
+        "title": "\ubd84\uc218\uc758 \uacf1\uc148 \uc751\uc6a9\ubb38\uc81c : \ubc14\ub098\ub098 \uc624\ud2b8 \uba38\ud540 \ub808\uc2dc\ud53c", 
+        "youtube_id": "g1dXR-1TWco"
+      }
+    ]
+  }, 
+  {
+    "description": "", 
+    "title": "\ucd084\uc218\ud5592\ud559\uae30", 
+    "videos": [
       {
-        "description": "Converting metric units of distance: kilometers, meters, centimeters", 
-        "title": "km, m, cm \uac04\uc758 \ubcc0\ud658", 
-        "youtube_id": "3PI9dION0mY"
-      }, 
-      {
-        "description": "Units of measurement word problem: time to leave for home", 
-        "title": "\uce21\ub7c9 \ub2e8\uc704 \uc751\uc6a9\ubb38\uc81c: \uc9d1\uc5d0 \uac00\ub824\uba74 \uc5b8\uc81c \ucd9c\ubc1c\ud574\uc57c \ud560\uae4c", 
-        "youtube_id": "YFZiw2tzp5E"
-      }, 
-      {
-        "description": "Currency conversion word problem", 
-        "title": "\ud658\uc804 \uc751\uc6a9\ubb38\uc81c", 
-        "youtube_id": "782L3mAASOQ"
-      }, 
-      {
-        "description": "Units of measurement word problem: distance", 
-        "title": "\uce21\ub7c9 \ub2e8\uc704 \uc751\uc6a9\ubb38\uc81c: \uac70\ub9ac", 
-        "youtube_id": "C5Erro1T_hw"
+        "description": "Subtracting decimals: example 2", 
+        "title": "\uc18c\uc218\uc758 \ube84\uc148 \uc608\uc81c 2\ubc88\uc9f8", 
+        "youtube_id": "H9Wj3tStNks"
       }, 
       {
         "description": "Area and perimeter word problem: width of a dog pen", 
@@ -420,49 +306,81 @@
         "youtube_id": "Kq5w37YDDfg"
       }, 
       {
-        "description": "Generating equivalent fractions", 
-        "title": "\uac19\uc740 \ud06c\uae30\uc758 \ubd84\uc218 \ub9cc\ub4e4\uae30", 
-        "youtube_id": "4I5XpYuQYHY"
-      }, 
-      {
-        "description": "Comparing fractions of different wholes", 
-        "title": "\ubd84\ubaa8\uac00 \uc11c\ub85c \ub2e4\ub978 \ubd84\uc218\uc758 \ud06c\uae30 \ube44\uad50\ud558\uae30", 
-        "youtube_id": "eQzdQLAMgw8"
-      }, 
-      {
-        "description": "How many truffle eating guests attended a party", 
-        "title": "\ud30c\ud2f0\uc5d0 \ucc38\uc5ec\ud574 \ucd08\ucf5c\ub9bf\uc744 \uba39\uc740 \uc190\ub2d8\uc740 \uba87 \uba85\uc77c\uae4c?", 
-        "youtube_id": "epBCWQ6Bf14"
-      }, 
-      {
-        "description": "Total seats in a theater", 
-        "title": "\uadf9\uc7a5\uc758 \ucd1d \uc88c\uc11d \uc218", 
-        "youtube_id": "7GeV9B2tLQo"
-      }, 
-      {
         "description": "Marbles for friends", 
         "title": "\uce5c\uad6c\ub4e4\uc5d0\uac8c \uad6c\uc2ac \ub098\ub220\uc8fc\uae30", 
         "youtube_id": "oTOvPqIL_8U"
       }, 
       {
-        "description": "Running distance in a week", 
-        "title": "\ud55c \uc8fc \ub3d9\uc548 \ub2ec\ub9b0 \uac70\ub9ac", 
-        "youtube_id": "pL6PdBowNPc"
+        "description": "Examples rounding to the nearest 10 and 100", 
+        "title": "\uc2ed\uc758 \uc790\ub9ac, \ubc31\uc758 \uc790\ub9ac \ubc18\uc62c\ub9bc \uc5f0\uc2b5\ubb38\uc81c", 
+        "youtube_id": "bvREHafhQJ0"
       }, 
       {
-        "description": "Fraction basics", 
-        "title": "\ubd84\uc218\uc758 \uae30\ucd08", 
-        "youtube_id": "6rfvPvd5lTA"
+        "description": "Practice finding patterns in numbers", 
+        "title": "\uc22b\uc790\ub4e4\uac04\uc758 \uaddc\uce59\uc131 \ucc3e\uae30 \uc5f0\uc2b5", 
+        "youtube_id": "6nOHhF-YPQ0"
       }, 
       {
-        "description": "More than one equal section", 
-        "title": "\uc5ec\ub7ec \uac1c \uac19\uc740 \ud06c\uae30\uc758 \uc870\uac01", 
-        "youtube_id": "AQhiIwuq1hM"
+        "description": "Rounding to the nearest 10", 
+        "title": "\uc2ed\uc758 \uc790\ub9ac \uc218 \ubc18\uc62c\ub9bc\ud558\uae30", 
+        "youtube_id": "aNf-CW8VEiM"
       }, 
       {
-        "description": "Fractions on a number line", 
-        "title": "\uc218\uc9c1\uc120 \uc0c1\uc5d0\uc11c\uc758 \ubd84\uc218", 
-        "youtube_id": "RPevAeZrxrk"
+        "description": "Rounding to the nearest 100", 
+        "title": "\ubc31\uc758 \uc790\ub9ac \uc218 \ubc18\uc62c\ub9bc\ud558\uae30", 
+        "youtube_id": "zNttbBGFeCQ"
+      }
+    ]
+  }, 
+  {
+    "description": "", 
+    "title": "\ucd084\uc218\ud5591\ud559\uae30", 
+    "videos": [
+      {
+        "description": "Comparing whole numbers", 
+        "title": "\uc815\uc218 \ube44\uad50\ud558\uae30", 
+        "youtube_id": "cwojUaReGV0"
+      }, 
+      {
+        "description": "More solving problems with bar graphs", 
+        "title": "\ub9c9\ub300 \uadf8\ub798\ud504\uc758 \ub354 \ub9ce\uc740 \ubb38\uc81c \ud480\uc774", 
+        "youtube_id": "Jsj-Q8zumvA"
+      }, 
+      {
+        "description": "Reading bar graph examples", 
+        "title": "\ub9c9\ub300 \uadf8\ub798\ud504 \uc77d\uae30", 
+        "youtube_id": "IeUN_sVv_Qk"
+      }, 
+      {
+        "description": "Solving problems with bar graphs 2", 
+        "title": "\ub9c9\ub300 \uadf8\ub798\ud504\ub97c \ud65c\uc6a9\ud574 \ubb38\uc81c \ud574\uacb0\ud558\uae30", 
+        "youtube_id": "cJA-bG1kBX4"
+      }, 
+      {
+        "description": "Dividing by two digits example 1", 
+        "title": "\ub450\uc790\ub9ac \uc218\ub85c \ub098\ub204\uae30 \uc608\uc81c 1\ubc88\uc9f8", 
+        "youtube_id": "GyOzNHCw9V4"
+      }
+    ]
+  }, 
+  {
+    "description": "", 
+    "title": "\ucd083\uc218\ud5592\ud559\uae30", 
+    "videos": [
+      {
+        "description": "Mixed numbers on a number line", 
+        "title": "\uc218\uc9c1\uc120 \uc704\uc758 \ub300\ubd84\uc218", 
+        "youtube_id": "Z3h0c5NlVlY"
+      }, 
+      {
+        "description": "Examples relating multiplication to division", 
+        "title": "\ub098\ub217\uc148\uc5d0\uc11c \uacf1\uc148\uc5d0 \uad00\ud55c \uc608", 
+        "youtube_id": "QOWYK1sbC-0"
+      }, 
+      {
+        "description": "Using fractions as division to create mixed numbers", 
+        "title": "\ubd84\uc218\ub97c \ub098\ub217\uc148\uc73c\ub85c \uc0ac\uc6a9\ud574 \ub300\ubd84\uc218 \ub9cc\ub4e4\uae30", 
+        "youtube_id": "v8EyOU59j1U"
       }, 
       {
         "description": "Different ways to represent 1 as a fraction", 
@@ -475,19 +393,175 @@
         "youtube_id": "izYj7ln2O0o"
       }, 
       {
-        "description": "Equivalent fractions visually and on number line", 
-        "title": "\uac19\uc740 \ud06c\uae30\uc758 \uc5ec\ub7ec \ubd84\uc218\ub4e4\uc744 \uc218\uc9c1\uc120 \uc0c1\uc5d0\uc11c \ub098\ud0c0\ub0b4\uae30", 
-        "youtube_id": "jVqmqwsIUtk"
+        "description": "Multiplying: 2 digit numbers", 
+        "title": "\ub450\uc790\ub9ac \uc218\ub07c\ub9ac\uc758 \uacf1\uc148", 
+        "youtube_id": "uPhA4Ry8o98"
       }, 
       {
-        "description": "Comparing fractions visually and on number line", 
-        "title": "\uc5ec\ub7ec \ubd84\uc218\ub4e4\uc744 \uc218\uc9c1\uc120 \uc0c1\uc5d0\uc11c \ube44\uad50\ud558\uae30", 
-        "youtube_id": "Vpt1qwKJpmQ"
+        "description": "Multiplying: 4 digits times 1 digit (using grid)", 
+        "title": "\ub124\uc790\ub9ac \uc218\uc640 \ud55c\uc790\ub9ac \uc218\uc758 \uacf1\uc148", 
+        "youtube_id": "-UxMWf6Vnho"
       }, 
       {
-        "description": "Spots on a die", 
-        "title": "\uc8fc\uc0ac\uc704\uc5d0 \uc788\ub294 \uc810\ub4e4\uc758 \uac1c\uc218", 
-        "youtube_id": "4Egicq70GeE"
+        "description": "Multiplying: 2 digits numbers (using distributive property)", 
+        "title": "\ubd84\ubc30\ubc95\uce59\uc744 \uc774\uc6a9\ud55c \ub450\uc790\ub9ac \uc218\ub07c\ub9ac\uc758 \uacf1\uc148", 
+        "youtube_id": "LaQABXHPMts"
+      }, 
+      {
+        "description": "Dividing numbers: intro to long division", 
+        "title": "\uae34 \ub098\ub217\uc148 \uc785\ubb38", 
+        "youtube_id": "MytXHZdoPXM"
+      }, 
+      {
+        "description": "Dividing numbers: long division example", 
+        "title": "\uae34 \ub098\ub217\uc148 \uc608\uc81c", 
+        "youtube_id": "xzXcE_K3IuA"
+      }, 
+      {
+        "description": "Metric system: units of weight", 
+        "title": "\ubbf8\ud130\ubc95: \ubb34\uac8c\uc758 \ub2e8\uc704", 
+        "youtube_id": "I4_wu3x-mB8"
+      }, 
+      {
+        "description": "Arithmetic word problems with volume", 
+        "title": "\ubd80\ud53c\uc5d0 \ub300\ud55c \uc0b0\uc220 \uc751\uc6a9 \ubb38\uc81c", 
+        "youtube_id": "-PKLGcVTK6E"
+      }, 
+      {
+        "description": "Multiplication 5 : 2 digit times a 2 digit number", 
+        "title": "\uacf1\uc148 5: 2 \uc790\ub9ac\uc218 \uacf1\ud558\uae30 2 \uc790\ub9ac\uc218", 
+        "youtube_id": "UEHfiFvIEnI"
+      }
+    ]
+  }, 
+  {
+    "description": "", 
+    "title": "\ucd083\uc218\ud5591\ud559\uae30", 
+    "videos": [
+      {
+        "description": "Multiplication, division word problems: how many pieces of pizzas?", 
+        "title": "\uacf1\ud558\uae30\uc640 \ub098\ub204\uae30 \uc751\uc6a9\ubb38\uc81c : \ud53c\uc790\uc870\uac01\ub4e4\uc774 \uba87 \uac1c \uc788\uc744\uae4c?", 
+        "youtube_id": "qj-_v7HD2J4"
+      }, 
+      {
+        "description": "Equal parts of circles and rectangles", 
+        "title": "\uc6d0\uacfc \uc9c1\uc0ac\uac01\ud615 \ub4f1\ubd84\ud558\uae30", 
+        "youtube_id": "Y1UTscebVvA"
+      }, 
+      {
+        "description": "Filling rectangles with squares", 
+        "title": "\uc815\uc0ac\uac01\ud615\uc73c\ub85c \uc9c1\uc0ac\uac01\ud615 \ucc44\uc6b0\uae30", 
+        "youtube_id": "wmktOvU5TrU"
+      }, 
+      {
+        "description": "Halves and fourths", 
+        "title": "2\ub4f1\ubd84\uacfc 4\ub4f1\ubd84", 
+        "youtube_id": "Q4l-_7d9MNc"
+      }, 
+      {
+        "description": "Skip counting by 5 example", 
+        "title": "5\uc529 \ub354\ud558\uae30 \uc5f0\uc2b5", 
+        "youtube_id": "uIduC4wUvno"
+      }, 
+      {
+        "description": "Filling rectangles with squares", 
+        "title": "\uc0ac\uac01\ud615\uc5d0 \uc0ac\uac01\ud615 \uccb4\uc6b0\uae30", 
+        "youtube_id": "e4EEtEIDOKE"
+      }, 
+      {
+        "description": "Mental technique for subtraction without regrouping", 
+        "title": "\ubc1b\uc544\ub0b4\ub9bc \uc5c6\uc774 \uc554\uc0b0\uc73c\ub85c \ube84\uc148\ud558\ub294 \ubc29\ubc95", 
+        "youtube_id": "7nJ2iYlN9Vw"
+      }, 
+      {
+        "description": "Units of measurement word problem: time", 
+        "title": "\uce21\ub7c9 \ub2e8\uc704 \uc751\uc6a9\ubb38\uc81c: \uc2dc\uac04", 
+        "youtube_id": "TBrKHP1Azrg"
+      }, 
+      {
+        "description": "Multiplying: 2 digits times 1 digit", 
+        "title": "\uacf1\uc148: \ub450\uc790\ub9ac \uc218 \uacf1\ud558\uae30 \ud55c\uc790\ub9ac \uc218", 
+        "youtube_id": "syWsNmrfWi4"
+      }, 
+      {
+        "description": "Multiplying: 3 digits times 1 digit", 
+        "title": "\uacf1\uc148: \uc138\uc790\ub9ac \uc218 \uacf1\ud558\uae30 \ud55c\uc790\ub9ac \uc218", 
+        "youtube_id": "SOQsEzgYG4k"
+      }, 
+      {
+        "description": "Multiplying: 2 digits times 1 digit (with carrying)", 
+        "title": "\uacf1\uc148: (\uc790\ub9bf\uc218 \uc62c\ub9bc\uc774 \uc788\ub294) \ub450\uc790\ub9ac\uc218 \uacf1\ud558\uae30 \ud55c\uc790\ub9ac \uc218", 
+        "youtube_id": "61UVhCoQt60"
+      }, 
+      {
+        "description": "Multiplication word problem example 1", 
+        "title": "\uacf1\uc148 \ubb38\uc81c\uc758 \uc608 1", 
+        "youtube_id": "QZF1lQB3nqg"
+      }, 
+      {
+        "description": "Division word problem example 1", 
+        "title": "\ub098\ub217\uc148 \ubb38\uc81c \uc608 1", 
+        "youtube_id": "TF1qc31DQNM"
+      }, 
+      {
+        "description": "Multiplication and division word problems 2", 
+        "title": "\uacf1\ud558\uae30\uc640 \ub098\ub204\uae30 \uc751\uc6a9 : \uc608\uc81c 2", 
+        "youtube_id": "nrlBya_9G20"
+      }, 
+      {
+        "description": "Multiplying by multiples of 10", 
+        "title": "10\uc758 \ubc30\uc218 \uacf1\uc148", 
+        "youtube_id": "3GXjSVuKrAI"
+      }, 
+      {
+        "description": "Multiplying Whole Numbers and Applications 6", 
+        "title": "\ubb38\uc81c : \uacf1\uc148\uc5d0 \uad00\ud55c \ubb38\uc7a5\uc81c \ubb38\uc81c", 
+        "youtube_id": "Qj4_hSDc48w"
+      }, 
+      {
+        "description": "Fraction basics", 
+        "title": "\ubd84\uc218\uc758 \uae30\ucd08", 
+        "youtube_id": "6rfvPvd5lTA"
+      }, 
+      {
+        "description": "More than one equal section", 
+        "title": "\uc5ec\ub7ec \uac1c \uac19\uc740 \ud06c\uae30\uc758 \uc870\uac01", 
+        "youtube_id": "AQhiIwuq1hM"
+      }, 
+      {
+        "description": "Metric system: units of distance", 
+        "title": "\ubbf8\ud130\ubc95: \uac70\ub9ac\uc758 \ub2e8\uc704", 
+        "youtube_id": "E61cSIIW6aQ"
+      }, 
+      {
+        "description": "Finding reasonable unit of measurement example", 
+        "title": "\uc54c\ub9de\uc740 \uce21\ub7c9 \ub2e8\uc704 \ucc3e\uae30", 
+        "youtube_id": "e5HYVjO_PkM"
+      }, 
+      {
+        "description": "Units of measurement word problem: distance", 
+        "title": "\uce21\ub7c9 \ub2e8\uc704 \uc751\uc6a9\ubb38\uc81c: \uac70\ub9ac", 
+        "youtube_id": "C5Erro1T_hw"
+      }, 
+      {
+        "description": "Comparing fractions of different wholes", 
+        "title": "\ubd84\ubaa8\uac00 \uc11c\ub85c \ub2e4\ub978 \ubd84\uc218\uc758 \ud06c\uae30 \ube44\uad50\ud558\uae30", 
+        "youtube_id": "eQzdQLAMgw8"
+      }, 
+      {
+        "description": "Subtracting 3 digits", 
+        "title": "\uc138\uc790\ub9ac \uc218\uc758 \ube84\uc148", 
+        "youtube_id": "VEyxc6n4-ZE"
+      }, 
+      {
+        "description": "Blueberries for friends", 
+        "title": "\uce5c\uad6c\ub4e4\uc5d0\uac8c \ub098\ub220 \uc904 \ube14\ub8e8\ubca0\ub9ac", 
+        "youtube_id": "hZmqyfIpZcw"
+      }, 
+      {
+        "description": "Average height of a building's floor", 
+        "title": "\uac74\ubb3c \ud55c \uce35\ub2f9 \ud3c9\uade0 \ub192\uc774", 
+        "youtube_id": "iPsb9ePv1rQ"
       }, 
       {
         "description": "Unknowns with multiplication and division", 
@@ -495,9 +569,206 @@
         "youtube_id": "vlsHB_lw-0c"
       }, 
       {
-        "description": "Liters of soda for the party", 
-        "title": "\ud30c\ud2f0\ub97c \uc704\ud574 \ucd1d \uba87 \ub9ac\ud130\uc758 \uc18c\ub2e4\ub97c \uc900\ube44\ud588\uc744\uae4c?", 
-        "youtube_id": "R0cpTSOf0Pk"
+        "description": "How many truffle eating guests attended a party", 
+        "title": "\ud30c\ud2f0\uc5d0 \ucc38\uc5ec\ud574 \ucd08\ucf5c\ub9bf\uc744 \uba39\uc740 \uc190\ub2d8\uc740 \uba87 \uba85\uc77c\uae4c?", 
+        "youtube_id": "epBCWQ6Bf14"
+      }, 
+      {
+        "description": "Comparing fractions of different wholes", 
+        "title": "\uc804\uccb4 \ud06c\uae30\uac00 \ub2e4\ub978 \ubd84\uc218\uc758 \ube44\uad50", 
+        "youtube_id": "LZBTqAyK-zI"
+      }, 
+      {
+        "description": "Mental technique for subtraction without regrouping", 
+        "title": "Mental technique for subtraction without regrouping", 
+        "youtube_id": "Vg4k0ZYkbcs"
+      }
+    ]
+  }, 
+  {
+    "description": "", 
+    "title": "\ucd082\uc218\ud5592\ud559\uae30", 
+    "videos": [
+      {
+        "description": "More on the concept of multiplication", 
+        "title": "\uacf1\uc148\uc758 \ucd94\uac00 \uac1c\ub150\ub4e4", 
+        "youtube_id": "JvGHsoSVMQE"
+      }, 
+      {
+        "description": "Picture graphs", 
+        "title": "\uadf8\ub9bc\uc73c\ub85c \uad6c\uc131\ub41c \uadf8\ub798\ud504", 
+        "youtube_id": "TNKtRCXGfy4"
+      }, 
+      {
+        "description": "Making line plots", 
+        "title": "\uc810\ub3c4\ud45c \ub9cc\ub4e4\uae30", 
+        "youtube_id": "CYinhIiJbRM"
+      }, 
+      {
+        "description": "Introduction to line plots", 
+        "title": "\uc810\ub3c4\ud45c \uc18c\uac1c", 
+        "youtube_id": "fhoqYTIdlLE"
+      }, 
+      {
+        "description": "Length word problems", 
+        "title": "\uae38\uc774 \ubb38\uc81c", 
+        "youtube_id": "jRIEK06-RXw"
+      }, 
+      {
+        "description": "Picture graphs", 
+        "title": "\uadf8\ub9bc \uadf8\ub798\ud504", 
+        "youtube_id": "CfR5X0yfL0g"
+      }, 
+      {
+        "description": "Introduction to line plots", 
+        "title": "\uc810\uc120 \uadf8\ub798\ud504", 
+        "youtube_id": "wqDQowkWpmM"
+      }, 
+      {
+        "description": "Making line plots", 
+        "title": "\uc810\uc120\uadf8\ub798\ud504 \ub9cc\ub4e4\uae30", 
+        "youtube_id": "ihWBKtcdHhg"
+      }, 
+      {
+        "description": "Halves and fourths", 
+        "title": "\ubc18\uacfc \uc0ac\ubd84", 
+        "youtube_id": "bEznXZm_zI8"
+      }, 
+      {
+        "description": "Comparing lengths", 
+        "title": "\uae38\uc774 \ube44\uad50\ud558\uae30", 
+        "youtube_id": "jCCVQwgUq3w"
+      }, 
+      {
+        "description": "Units of measurement word problem: time to leave for home", 
+        "title": "\uce21\ub7c9 \ub2e8\uc704 \uc751\uc6a9\ubb38\uc81c: \uc9d1\uc5d0 \uac00\ub824\uba74 \uc5b8\uc81c \ucd9c\ubc1c\ud574\uc57c \ud560\uae4c", 
+        "youtube_id": "YFZiw2tzp5E"
+      }, 
+      {
+        "description": "Total seats in a theater", 
+        "title": "\uadf9\uc7a5\uc758 \ucd1d \uc88c\uc11d \uc218", 
+        "youtube_id": "7GeV9B2tLQo"
+      }, 
+      {
+        "description": "Running distance in a week", 
+        "title": "\ud55c \uc8fc \ub3d9\uc548 \ub2ec\ub9b0 \uac70\ub9ac", 
+        "youtube_id": "pL6PdBowNPc"
+      }, 
+      {
+        "description": "Telling time exercise example 1", 
+        "title": "\uc2dc\uacc4 \uc77d\uae30 \ubb38\uc81c1", 
+        "youtube_id": "Ry1inzY5t-E"
+      }
+    ]
+  }, 
+  {
+    "description": "", 
+    "title": "\ucd082\uc218\ud5591\ud559\uae30", 
+    "videos": [
+      {
+        "description": "Skip counting by 100 example", 
+        "title": "100\uc529 \uac74\ub108\ub6f0\uba70 \uc148\ud558\uae30 \uc5f0\uc2b5", 
+        "youtube_id": "5gSpNGJJ9n0"
+      }, 
+      {
+        "description": "Recognizing shapes", 
+        "title": "\ub3c4\ud615 \uc54c\uc544\ubcf4\uae30", 
+        "youtube_id": "ypJ6Te7pHRM"
+      }, 
+      {
+        "description": "Compose shapes", 
+        "title": "\ub3c4\ud615 \ub9cc\ub4e4\uae30", 
+        "youtube_id": "Pk5EVjmfhcw"
+      }, 
+      {
+        "description": "Measuring lengths with different units", 
+        "title": "\ub2e4\ub978 \uc694\uc18c\uc640\uc758 \uae38\uc774 \uce21\uc815", 
+        "youtube_id": "g_AOKmMSvsQ"
+      }, 
+      {
+        "description": "Measuring lengths 2", 
+        "title": "\uae38\uc774 \uce21\uc815 2", 
+        "youtube_id": "4BMTOzJaF9w"
+      }, 
+      {
+        "description": "Recognizing shapes", 
+        "title": "\ub3c4\ud615\uc744 \uc54c\uc544\ubcf4\uc790", 
+        "youtube_id": "JRrhegcwDDU"
+      }, 
+      {
+        "description": "Order by length", 
+        "title": "\uae34 \uc21c\uc11c\ub300\ub85c \uc815\ub82c\ud558\uae30", 
+        "youtube_id": "4_Qo6peTh_8"
+      }, 
+      {
+        "description": "Estimating lengths", 
+        "title": "\uae38\uc774 \uc5b4\ub9bc\ud558\uae30", 
+        "youtube_id": "4s3ISrufT1o"
+      }, 
+      {
+        "description": "Numbers to 120", 
+        "title": "120\uae4c\uc9c0 \uc22b\uc790", 
+        "youtube_id": "jV8TAdk2svs"
+      }, 
+      {
+        "description": "Comparing with multiplication: ages and heights", 
+        "title": "\uacf1\uc148\uc744 \ud1b5\ud55c \ube44\uad50 (\ub098\uc774\uc640 \ud0a4)", 
+        "youtube_id": "9eUsueOFb7o"
+      }, 
+      {
+        "description": "Comparing with multiplication: money and distance", 
+        "title": "\uacf1\uc148\uc744 \ud1b5\ud55c \ube44\uad50 (\ub3c8\uacfc \uac70\ub9ac)", 
+        "youtube_id": "jvFB3RjNDd4"
+      }, 
+      {
+        "description": "Visual understanding of regrouping", 
+        "title": "\uc2dc\uac01\uc801\uc73c\ub85c \uc7ac\uadf8\ub8f9\ud654 \uc774\ud574\ud558\uae30", 
+        "youtube_id": "vjwXYVk1_MU"
+      }, 
+      {
+        "description": "Adding and subtracting on number line word problems", 
+        "title": "\uc218\uc9c1\uc120 \uc0c1\uc5d0\uc11c\uc758 \ub367\uc148\uacfc \ube84\uc148 \uc751\uc6a9\ubb38\uc81c", 
+        "youtube_id": "kw5pkcVnA-k"
+      }, 
+      {
+        "description": "Losing tennis balls", 
+        "title": "\uc783\uc5b4\ubc84\ub9b0 \ud14c\ub2c8\uc2a4 \uacf5\ub4e4", 
+        "youtube_id": "MEIicqQBhP8"
+      }, 
+      {
+        "description": "Fence posts for horses", 
+        "title": "\ub9d0\uc744 \uc704\ud55c \ub9d0\ub69d", 
+        "youtube_id": "kMYpsZJNB7A"
+      }, 
+      {
+        "description": "Snow on Friday", 
+        "title": "\uae08\uc694\uc77c\uc5d0 \ub0b4\ub9b0 \ub208", 
+        "youtube_id": "EyqBHZPzVgA"
+      }, 
+      {
+        "description": "Using crayons", 
+        "title": "\ub2e4 \uc4f4 \ud06c\ub808\ud30c\uc2a4", 
+        "youtube_id": "7X6AyslE1Dk"
+      }, 
+      {
+        "description": "Fewer word problems", 
+        "title": "\ube84\uc148 \uc751\uc6a9\ubb38\uc81c", 
+        "youtube_id": "cc0O4foLk_I"
+      }, 
+      {
+        "description": "More word problems", 
+        "title": "\ub367\uc148 \uc751\uc6a9\ubb38\uc81c", 
+        "youtube_id": "aOYW07nk37U"
+      }, 
+      {
+        "description": "Starfish rulers", 
+        "title": "\ubd88\uac00\uc0ac\ub9ac \uc655\uad6d", 
+        "youtube_id": "y54ornZTDZM"
+      }, 
+      {
+        "description": "Spots on a die", 
+        "title": "\uc8fc\uc0ac\uc704\uc5d0 \uc788\ub294 \uc810\ub4e4\uc758 \uac1c\uc218", 
+        "youtube_id": "4Egicq70GeE"
       }, 
       {
         "description": "Adding ten or one hundred", 
@@ -505,9 +776,9 @@
         "youtube_id": "q4LmybR-YKk"
       }, 
       {
-        "description": "Blueberries for friends", 
-        "title": "\uce5c\uad6c\ub4e4\uc5d0\uac8c \ub098\ub220 \uc904 \ube14\ub8e8\ubca0\ub9ac", 
-        "youtube_id": "hZmqyfIpZcw"
+        "description": "Subtracting hundreds and tens", 
+        "title": "10 \ube7c\uae30, 100 \ube7c\uae30", 
+        "youtube_id": "qyV5hm29mog"
       }, 
       {
         "description": "Adding hundreds, tens, and ones", 
@@ -520,44 +791,75 @@
         "youtube_id": "JvXpiPChytQ"
       }, 
       {
-        "description": "Starfish rulers", 
-        "title": "\ubd88\uac00\uc0ac\ub9ac \uc655\uad6d", 
-        "youtube_id": "y54ornZTDZM"
+        "description": "Liters of soda for the party", 
+        "title": "\ud30c\ud2f0\ub97c \uc704\ud574 \ucd1d \uba87 \ub9ac\ud130\uc758 \uc18c\ub2e4\ub97c \uc900\ube44\ud588\uc744\uae4c?", 
+        "youtube_id": "R0cpTSOf0Pk"
       }, 
       {
-        "description": "Subtracting hundreds and tens", 
-        "title": "10 \ube7c\uae30, 100 \ube7c\uae30", 
-        "youtube_id": "qyV5hm29mog"
+        "description": "Intro to multiplication", 
+        "title": "\uacf1\uc148\uc758 \uae30\ubcf8", 
+        "youtube_id": "PpNbd_366hw"
+      }
+    ]
+  }, 
+  {
+    "description": "", 
+    "title": "\ucd081\uc218\ud5592\ud559\uae30", 
+    "videos": [
+      {
+        "description": "Counting dollars", 
+        "title": "\ub2ec\ub7ec \uc148\ud558\uae30", 
+        "youtube_id": "LSmt9aXtFRo"
       }, 
       {
-        "description": "Average height of a building's floor", 
-        "title": "\uac74\ubb3c \ud55c \uce35\ub2f9 \ud3c9\uade0 \ub192\uc774", 
-        "youtube_id": "iPsb9ePv1rQ"
+        "description": "Understanding place value when subtracting tens", 
+        "title": "\uc2ed\uc758 \uc790\ub9ac \ube84\uc148\uc5d0\uc11c \uc790\ub9bf\uac12 \uc774\ud574\ud558\uae30", 
+        "youtube_id": "lh3qUrlmaRM"
       }, 
       {
-        "description": "Subtracting 3 digits", 
-        "title": "\uc138\uc790\ub9ac \uc218\uc758 \ube84\uc148", 
-        "youtube_id": "VEyxc6n4-ZE"
+        "description": "Place value example with 42", 
+        "title": "42\ub85c \ud574\ubcf4\ub294 \uc790\ub9bf\uac12 \uc54c\uc544\ubcf4\uae30", 
+        "youtube_id": "_-X6ljVZWks"
       }, 
       {
-        "description": "Visual understanding of regrouping", 
-        "title": "\uc2dc\uac01\uc801\uc73c\ub85c \uc7ac\uadf8\ub8f9\ud654 \uc774\ud574\ud558\uae30", 
-        "youtube_id": "vjwXYVk1_MU"
+        "description": "Place value example with 25", 
+        "title": "25\ub85c \ud574\ubcf4\ub294 \uc790\ub9ac\uac12 \uc54c\uc544\ubcf4\uae30", 
+        "youtube_id": "24IIypB8TnM"
       }, 
       {
-        "description": "Adding by getting to group of 10 first", 
-        "title": "10\uc73c\ub85c \ubb36\ub294 \ub367\uc148 \uccab\ubc88\uc9f8", 
-        "youtube_id": "bQ4Co62YY44"
+        "description": "Counting by tens examples", 
+        "title": "\uc2ed\uc758 \uc790\ub9ac \uacc4\uc0b0 \uc5f0\uc2b5", 
+        "youtube_id": "md-clWTxk_c"
       }, 
       {
-        "description": "Understanding place value while subtracting ones", 
-        "title": "1\uc758 \uc790\ub9bf\uc218 \ube90\uc744 \ub54c\uc758 \uc790\ub9bf\uac12 \uc774\ud574\ud558\uae30", 
-        "youtube_id": "udC_SijfcFM"
+        "description": "Subtract tens exercise", 
+        "title": "\uc2ed\ub2e8\uc704 \ube7c\uae30 \uc5f0\uc2b5", 
+        "youtube_id": "jdsHFwJIf7Y"
       }, 
       {
-        "description": "Fewer word problems", 
-        "title": "\ube84\uc148 \uc751\uc6a9\ubb38\uc81c", 
-        "youtube_id": "cc0O4foLk_I"
+        "description": "Getting to 10 by filling boxes", 
+        "title": "\ubc15\uc2a4\ub97c \ucc44\uc6cc\uc11c 10\ub9cc\ub4e4\uae30", 
+        "youtube_id": "ZTE1IRIOq-E"
+      }, 
+      {
+        "description": "Adding within 20", 
+        "title": "20 \uc548\uc5d0\uc11c\uc758 \ub354\ud558\uae30", 
+        "youtube_id": "s3ogTe-qhwU"
+      }, 
+      {
+        "description": "Sea monsters and superheroes", 
+        "title": "\ubc14\ub2e4 \uad34\ubb3c\uacfc \uc601\uc6c5", 
+        "youtube_id": "Q8Vlbr2-tHQ"
+      }, 
+      {
+        "description": "More comparison word problems", 
+        "title": "\ucd94\uac00 \uc11c\uc220\ud615 \ube44\uad50 \ubb38\uc81c\ub4e4", 
+        "youtube_id": "rbShJLHUfo4"
+      }, 
+      {
+        "description": "Counting dollars", 
+        "title": "\ub3c8 \uc138\uae30", 
+        "youtube_id": "A8s4lyEQnog"
       }, 
       {
         "description": "Understanding place value while adding tens", 
@@ -575,49 +877,19 @@
         "youtube_id": "zR08UqyGoTA"
       }, 
       {
-        "description": "Adding and subtracting on number line word problems", 
-        "title": "\uc218\uc9c1\uc120 \uc0c1\uc5d0\uc11c\uc758 \ub367\uc148\uacfc \ube84\uc148 \uc751\uc6a9\ubb38\uc81c", 
-        "youtube_id": "kw5pkcVnA-k"
-      }, 
-      {
-        "description": "Losing tennis balls", 
-        "title": "\uc783\uc5b4\ubc84\ub9b0 \ud14c\ub2c8\uc2a4 \uacf5\ub4e4", 
-        "youtube_id": "MEIicqQBhP8"
-      }, 
-      {
-        "description": "Using crayons", 
-        "title": "\ub2e4 \uc4f4 \ud06c\ub808\ud30c\uc2a4", 
-        "youtube_id": "7X6AyslE1Dk"
-      }, 
-      {
-        "description": "Snow on Friday", 
-        "title": "\uae08\uc694\uc77c\uc5d0 \ub0b4\ub9b0 \ub208", 
-        "youtube_id": "EyqBHZPzVgA"
-      }, 
-      {
-        "description": "Fence posts for horses", 
-        "title": "\ub9d0\uc744 \uc704\ud55c \ub9d0\ub69d", 
-        "youtube_id": "kMYpsZJNB7A"
-      }, 
-      {
-        "description": "More word problems", 
-        "title": "\ub367\uc148 \uc751\uc6a9\ubb38\uc81c", 
-        "youtube_id": "aOYW07nk37U"
-      }, 
-      {
         "description": "Addition using groups of 10 intro", 
         "title": "10\uc73c\ub85c \ubb36\ub294 \ub367\uc148 \uc785\ubb38", 
         "youtube_id": "NeIwu6wAxAs"
       }, 
       {
-        "description": "Comparison word problems", 
-        "title": "\ube44\uad50 \uc751\uc6a9\ubb38\uc81c", 
-        "youtube_id": "BYMRCx2dJRo"
+        "description": "Adding by getting to group of 10 first", 
+        "title": "10\uc73c\ub85c \ubb36\ub294 \ub367\uc148 \uccab\ubc88\uc9f8", 
+        "youtube_id": "bQ4Co62YY44"
       }, 
       {
-        "description": "Understanding place value when adding ones", 
-        "title": "1\uc758 \uc790\ub9bf\uc218 \ub354\ud588\uc744 \ub54c\uc758 \uc790\ub9bf\uac12 \uc774\ud574\ud558\uae30", 
-        "youtube_id": "J9bq9dE7YYU"
+        "description": "Understanding place value while subtracting ones", 
+        "title": "1\uc758 \uc790\ub9bf\uc218 \ube90\uc744 \ub54c\uc758 \uc790\ub9bf\uac12 \uc774\ud574\ud558\uae30", 
+        "youtube_id": "udC_SijfcFM"
       }, 
       {
         "description": "Adding to 10", 
@@ -625,14 +897,14 @@
         "youtube_id": "GFSnLP1xDIk"
       }, 
       {
-        "description": "Teens as sums with 10", 
-        "title": "10~19\ub97c 10\uacfc\uc758 \ud569\uc73c\ub85c \ud45c\ud604\ud558\uae30", 
-        "youtube_id": "7x6KqjP6vdY"
-      }, 
-      {
         "description": "Example adding within 20", 
         "title": "20 \uc774\ub0b4\uc758 \ub367\uc148", 
         "youtube_id": "cAYLYxCbmBY"
+      }, 
+      {
+        "description": "Adding 3 numbers", 
+        "title": "3\uac00\uc9c0 \uc218\uc758 \ub367\uc148", 
+        "youtube_id": "AXHsb1eCr4Y"
       }, 
       {
         "description": "Exercising gorillas", 
@@ -640,14 +912,95 @@
         "youtube_id": "ZG9X5xvBsQs"
       }, 
       {
-        "description": "Pieces of fruit", 
-        "title": "\uba87 \uac1c\uc758 \uacfc\uc77c", 
-        "youtube_id": "MjE62Vx4PbQ"
+        "description": "Comparison word problems", 
+        "title": "\ube44\uad50 \uc751\uc6a9\ubb38\uc81c", 
+        "youtube_id": "BYMRCx2dJRo"
       }, 
       {
-        "description": "Adding 3 numbers", 
-        "title": "3\uac00\uc9c0 \uc218\uc758 \ub367\uc148", 
-        "youtube_id": "AXHsb1eCr4Y"
+        "description": "number grid", 
+        "title": "\uc22b\uc790\ud45c \ub9cc\ub4e4\uae30", 
+        "youtube_id": "296xXlW0luc"
+      }
+    ]
+  }, 
+  {
+    "description": "", 
+    "title": "\ucd081\uc218\ud5591\ud559\uae30", 
+    "videos": [
+      {
+        "description": "Relating addition and subtraction", 
+        "title": "\ub367\uc148\uacfc \ube84\uc148 \uc5f0\uad00\uc9d3\uae30", 
+        "youtube_id": "7lpB5wnloVA"
+      }, 
+      {
+        "description": "Repeated addition example", 
+        "title": "\ubc18\ubcf5\ub418\ub294 \ub367\uc148 \uc5f0\uc2b5\ubb38\uc81c", 
+        "youtube_id": "yAFVtxzWHno"
+      }, 
+      {
+        "description": "Counting in order", 
+        "title": "\uc21c\uc11c\ub300\ub85c \uc22b\uc790 \uc138\uae30", 
+        "youtube_id": "yC7iF0Juli4"
+      }, 
+      {
+        "description": "Counting in scenes", 
+        "title": "\uadf8\ub9bc\uc5d0\uc11c \uc22b\uc790\uc138\uae30", 
+        "youtube_id": "UcHwX7I8VC0"
+      }, 
+      {
+        "description": "How many objects 1", 
+        "title": "\uc5bc\ub9c8\ub098 \ub9ce\uc774 \uc788\uc744\uae4c 1", 
+        "youtube_id": "a_qATwh_Tcw"
+      }, 
+      {
+        "description": "Counting objects 2", 
+        "title": "\uac1d\uccb4 \uc22b\uc790\uc138\uae30 2", 
+        "youtube_id": "GSJMutLNr_Q"
+      }, 
+      {
+        "description": "Introduction to addition", 
+        "title": "\ub367\uc148 \uc18c\uac1c", 
+        "youtube_id": "F9QK5gU08cY"
+      }, 
+      {
+        "description": "Introduction to subtraction", 
+        "title": "\ube84\uc148 \uc18c\uac1c", 
+        "youtube_id": "TDXJnOgJXj8"
+      }, 
+      {
+        "description": "Addition word problems within 10", 
+        "title": "10 \uc548\uc5d0\uc11c\uc758 \ub354\ud558\uae30 \ubb38\uc81c\ub4e4", 
+        "youtube_id": "pJTiFwp-NSI"
+      }, 
+      {
+        "description": "Addition and subtraction within 10", 
+        "title": "10 \uc548\uc5d0\uc11c\uc758 \ub367\uc148 \ube84\uc148", 
+        "youtube_id": "f2peEjrtTPU"
+      }, 
+      {
+        "description": "Equal sign", 
+        "title": "\ub4f1\ud638 \uae30\ud638", 
+        "youtube_id": "Rbvqubo-8-k"
+      }, 
+      {
+        "description": "Count by category", 
+        "title": "\uc885\ub958 \ubcc4\ub85c \uc138\uae30", 
+        "youtube_id": "rhMzbJ1uqcc"
+      }, 
+      {
+        "description": "Counting with small numbers", 
+        "title": "10\uc774\ud558\uc758 \uc22b\uc790 \uc138\uae30", 
+        "youtube_id": "dMouUIfsQi4"
+      }, 
+      {
+        "description": "Monkeys for a party", 
+        "title": "\ud30c\ud2f0\uc5d0 \ucc38\uac00\ud560 \uc6d0\uc22d\uc774\ub4e4", 
+        "youtube_id": "5SboqL903Xw"
+      }, 
+      {
+        "description": "Understanding place value when adding ones", 
+        "title": "1\uc758 \uc790\ub9bf\uc218 \ub354\ud588\uc744 \ub54c\uc758 \uc790\ub9bf\uac12 \uc774\ud574\ud558\uae30", 
+        "youtube_id": "J9bq9dE7YYU"
       }, 
       {
         "description": "Comparing numbers through 10 example", 
@@ -660,19 +1013,35 @@
         "youtube_id": "zRQg37sO_18"
       }, 
       {
+        "description": "Teens as sums with 10", 
+        "title": "10~19\ub97c 10\uacfc\uc758 \ud569\uc73c\ub85c \ud45c\ud604\ud558\uae30", 
+        "youtube_id": "7x6KqjP6vdY"
+      }, 
+      {
+        "description": "Pieces of fruit", 
+        "title": "\uba87 \uac1c\uc758 \uacfc\uc77c", 
+        "youtube_id": "MjE62Vx4PbQ"
+      }, 
+      {
         "description": "Making 5", 
         "title": "5 \ub9cc\ub4e4\uae30", 
         "youtube_id": "lIvB8icqYVk"
       }, 
       {
-        "description": "Comparing groups under 10 example", 
+        "description": "Comparing groups through 10 example", 
         "title": "10\uac1c \uc774\ud558\uc758 \uadf8\ub8f9 \ube44\uad50\ud558\uae30", 
         "youtube_id": "Aa6iQa6ajOE"
-      }, 
+      }
+    ]
+  }, 
+  {
+    "description": "", 
+    "title": "\uc18c\uc2dd", 
+    "videos": [
       {
-        "description": "Creating a number grid", 
-        "title": "\uc22b\uc790\ud45c \ub9cc\ub4e4\uae30", 
-        "youtube_id": "296xXlW0luc"
+        "description": "Khan Academy is on a mission to unlock the world's potential. Most people think their intelligence is fixed. The science says it\u2019s not. \n\nIt starts with knowing you can learn anything.  Join the movement at http://khanacademy.org/youcanlearnanything.", 
+        "title": "You Can Learn Anything", 
+        "youtube_id": "JC82Il2cjqA"
       }
     ]
   }
