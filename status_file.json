@@ -27,6 +27,7 @@
     }, 
     "el": {
         "approved": 0, 
+        "pending_since_timestamp": 1442395028.419847, 
         "translated": 6212
     }, 
     "es": {
@@ -71,8 +72,7 @@
     }, 
     "ko": {
         "approved": 81369, 
-        "pending_since_timestamp": 1442384518.119947, 
-        "translated": 88770
+        "translated": 88829
     }, 
     "mn": {
         "approved": 0, 
