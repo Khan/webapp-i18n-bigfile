@@ -1,7 +1,7 @@
 {
     "ar": {
         "approved": 0, 
-        "translated": 3768
+        "translated": 3765
     }, 
     "bg": {
         "approved": 66751, 
@@ -17,16 +17,16 @@
         "translated": 3028
     }, 
     "da": {
-        "approved": 21310, 
+        "approved": 21229, 
         "translated": 67851
     }, 
     "de": {
-        "approved": 91803, 
+        "approved": 91801, 
         "translated": 99661
     }, 
     "el": {
         "approved": 0, 
-        "translated": 6226
+        "translated": 6224
     }, 
     "es": {
         "approved": 178627, 
@@ -47,10 +47,10 @@
     }, 
     "he": {
         "approved": 8743, 
-        "translated": 9093
+        "translated": 9091
     }, 
     "hi": {
-        "approved": 37334, 
+        "approved": 37259, 
         "pending_since_timestamp": 1442458367.469791, 
         "translated": 57894
     }, 
@@ -67,7 +67,7 @@
         "translated": 41878
     }, 
     "ja": {
-        "approved": 15869, 
+        "approved": 15867, 
         "pending_since_timestamp": 1442440043.726981, 
         "translated": 49566
     }, 
@@ -94,11 +94,11 @@
         "translated": 37604
     }, 
     "pl": {
-        "approved": 107480, 
-        "translated": 123106
+        "approved": 107479, 
+        "translated": 123105
     }, 
     "pt": {
-        "approved": 141207, 
+        "approved": 141199, 
         "pending_since_timestamp": 1442459370.043837, 
         "translated": 275022
     }, 
@@ -109,7 +109,7 @@
     }, 
     "ru": {
         "approved": 0, 
-        "translated": 10893
+        "translated": 10889
     }, 
     "sr": {
         "approved": 32847, 
@@ -118,7 +118,7 @@
     "sw": {
         "approved": 0, 
         "pending_since_timestamp": 1442440043.726981, 
-        "translated": 8767
+        "translated": 8766
     }, 
     "te": {
         "approved": 0, 
@@ -127,7 +127,7 @@
     "th": {
         "approved": 0, 
         "pending_since_timestamp": 1442440043.726981, 
-        "translated": 101233
+        "translated": 101232
     }, 
     "tr": {
         "approved": 175398, 
