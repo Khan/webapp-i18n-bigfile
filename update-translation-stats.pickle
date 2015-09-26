@@ -4,7 +4,7 @@ p2
 cdatetime
 datetime
 p3
-(S'\x07\xdf\t\x1a\x0b\x110\t\r\x1d'
+(S"\x07\xdf\t\x1a\x0b \x12\x05'\xe0"
 cpytz
 _UTC
 p4
