@@ -46,6 +46,7 @@
     }, 
     "fr": {
         "approved": 102147, 
+        "pending_since_timestamp": 1443436413.84825, 
         "translated": 105512
     }, 
     "he": {
@@ -96,10 +97,12 @@
     }, 
     "pl": {
         "approved": 109770, 
+        "pending_since_timestamp": 1443436413.84825, 
         "translated": 124781
     }, 
     "pt": {
         "approved": 145884, 
+        "pending_since_timestamp": 1443436413.84825, 
         "translated": 278507
     }, 
     "pt-pt": {
@@ -112,6 +115,7 @@
     }, 
     "sr": {
         "approved": 33257, 
+        "pending_since_timestamp": 1443436413.84825, 
         "translated": 277259
     }, 
     "sw": {
@@ -129,8 +133,7 @@
     }, 
     "tr": {
         "approved": 176432, 
-        "pending_since_timestamp": 1443433440.430706, 
-        "translated": 197490
+        "translated": 197499
     }, 
     "uk": {
         "approved": 0, 
