@@ -51,6 +51,7 @@
     }, 
     "hi": {
         "approved": 40329, 
+        "pending_since_timestamp": 1443848470.576569, 
         "translated": 61843
     }, 
     "hy": {
@@ -73,9 +74,8 @@
         "translated": 51316
     }, 
     "ko": {
-        "approved": 80494, 
-        "pending_since_timestamp": 1443833842.167119, 
-        "translated": 90016
+        "approved": 80489, 
+        "translated": 90184
     }, 
     "mn": {
         "approved": 0, 
