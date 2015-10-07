@@ -99,9 +99,8 @@
         "translated": 86611
     }, 
     "nl": {
-        "approved": 27947, 
-        "pending_since_timestamp": 1443861140.062379, 
-        "translated": 42020
+        "approved": 28003, 
+        "translated": 42848
     }, 
     "pl": {
         "approved": 110511, 
@@ -166,6 +165,7 @@
     }, 
     "zu": {
         "approved": 0, 
+        "pending_since_timestamp": 1444177003.883777, 
         "translated": 27
     }
 }
