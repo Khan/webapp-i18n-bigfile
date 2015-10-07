@@ -13,10 +13,10 @@ _UTC
 p6
 (tRp7
 tRp8
-sS'sw'
+sS'ko'
 p9
 g5
-(S'\x07\xdf\n\x07\x13\x04#\r\x19A'
+(S'\x07\xdf\n\x07\x01\t\r\x0eF!'
 g7
 tRp10
 sS'accents'
@@ -46,7 +46,7 @@ tRp18
 sS'ru'
 p19
 g5
-(S'\x07\xdf\n\x03\x05\x15#\x02a\x16'
+(S'\x07\xdf\n\x07\x13\x13&\x00\xbd\xe3'
 g7
 tRp20
 sS'nl'
@@ -163,10 +163,10 @@ g5
 (S'\x07\xdf\n\x07\x01\x183\x05\xa7\xfa'
 g7
 tRp58
-sS'ko'
+sS'sw'
 p59
 g5
-(S'\x07\xdf\n\x07\x01\t\r\x0eF!'
+(S'\x07\xdf\n\x07\x13\x04#\r\x19A'
 g7
 tRp60
 sS'en-pt'
