@@ -42,9 +42,8 @@
         "translated": 0
     }, 
     "fr": {
-        "approved": 103489, 
-        "pending_since_timestamp": 1444725040.063672, 
-        "translated": 107361
+        "approved": 103496, 
+        "translated": 107376
     }, 
     "he": {
         "approved": 8750, 
@@ -52,6 +51,7 @@
     }, 
     "hi": {
         "approved": 40582, 
+        "pending_since_timestamp": 1444727851.966745, 
         "translated": 62637
     }, 
     "hy": {
@@ -144,6 +144,7 @@
     }, 
     "zh-hans": {
         "approved": 0, 
+        "pending_since_timestamp": 1444727851.966745, 
         "translated": 4622
     }, 
     "zu": {
