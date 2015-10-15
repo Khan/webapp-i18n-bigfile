@@ -5,6 +5,7 @@
     }, 
     "bg": {
         "approved": 86475, 
+        "pending_since_timestamp": 1444867532.038497, 
         "translated": 145503
     }, 
     "bn": {
@@ -152,7 +153,6 @@
     }, 
     "zu": {
         "approved": 0, 
-        "pending_since_timestamp": 1444772562.338999, 
-        "translated": 26
+        "translated": 29
     }
 }
