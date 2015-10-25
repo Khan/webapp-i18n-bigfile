@@ -72,12 +72,12 @@
     }, 
     "ja": {
         "approved": 16377, 
+        "pending_since_timestamp": 1445801522.803817, 
         "translated": 51781
     }, 
     "ko": {
         "approved": 79181, 
-        "pending_since_timestamp": 1445778264.098555, 
-        "translated": 89736
+        "translated": 89749
     }, 
     "lol": {
         "approved": 708, 
@@ -132,6 +132,7 @@
     }, 
     "th": {
         "approved": 0, 
+        "pending_since_timestamp": 1445801522.803817, 
         "translated": 122256
     }, 
     "tr": {
