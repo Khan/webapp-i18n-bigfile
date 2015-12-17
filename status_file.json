@@ -11,6 +11,7 @@
     }, 
     "bn": {
         "approved": 39657, 
+        "pending_since_timestamp": 1450369976.895664, 
         "translated": 74264
     }, 
     "cs": {
@@ -54,8 +55,7 @@
     }, 
     "hi": {
         "approved": 71425, 
-        "pending_since_timestamp": 1450365209.132783, 
-        "translated": 73271
+        "translated": 73399
     }, 
     "hy": {
         "approved": 0, 
@@ -107,6 +107,7 @@
     }, 
     "pt": {
         "approved": 161019, 
+        "pending_since_timestamp": 1450369976.895664, 
         "translated": 301498
     }, 
     "pt-pt": {
