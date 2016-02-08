@@ -50,7 +50,7 @@
     }, 
     "hi": {
         "approved": 64287, 
-        "translated": 79450
+        "translated": 79457
     }, 
     "hy": {
         "approved": 0, 
@@ -90,10 +90,12 @@
     }, 
     "nl": {
         "approved": 48093, 
+        "pending_since_timestamp": 1454905588.044548, 
         "translated": 82105
     }, 
     "pl": {
         "approved": 133127, 
+        "pending_since_timestamp": 1454905588.044548, 
         "translated": 136638
     }, 
     "pt": {
