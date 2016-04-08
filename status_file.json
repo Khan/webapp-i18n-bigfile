@@ -19,6 +19,7 @@
     }, 
     "da": {
         "approved": 40973, 
+        "pending_since_timestamp": 1460157392.238719, 
         "translated": 88749
     }, 
     "de": {
@@ -32,6 +33,7 @@
     }, 
     "es": {
         "approved": 241069, 
+        "pending_since_timestamp": 1460157392.238719, 
         "translated": 366464
     }, 
     "fa": {
@@ -53,6 +55,7 @@
     }, 
     "hi": {
         "approved": 68367, 
+        "pending_since_timestamp": 1460157392.238719, 
         "translated": 82433
     }, 
     "hy": {
@@ -106,9 +109,8 @@
         "translated": 184995
     }, 
     "pt": {
-        "approved": 179219, 
-        "pending_since_timestamp": 1460125556.191146, 
-        "translated": 363622
+        "approved": 180509, 
+        "translated": 363611
     }, 
     "pt-pt": {
         "approved": 16981, 
@@ -121,6 +123,7 @@
     }, 
     "sr": {
         "approved": 48470, 
+        "pending_since_timestamp": 1460157392.238719, 
         "translated": 362478
     }, 
     "sw": {
