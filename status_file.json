@@ -21,6 +21,7 @@
     }, 
     "de": {
         "approved": 148956, 
+        "pending_since_timestamp": 1464325165.540697, 
         "translated": 149719
     }, 
     "el": {
@@ -42,6 +43,7 @@
     }, 
     "fr": {
         "approved": 158289, 
+        "pending_since_timestamp": 1464325165.540697, 
         "translated": 165659
     }, 
     "he": {
@@ -62,6 +64,7 @@
     }, 
     "it": {
         "approved": 0, 
+        "pending_since_timestamp": 1464325165.540697, 
         "translated": 94560
     }, 
     "ja": {
@@ -70,6 +73,7 @@
     }, 
     "ka": {
         "approved": 126640, 
+        "pending_since_timestamp": 1464325165.540697, 
         "translated": 130023
     }, 
     "ko": {
@@ -83,6 +87,7 @@
     }, 
     "mn": {
         "approved": 74478, 
+        "pending_since_timestamp": 1464325165.540697, 
         "translated": 82385
     }, 
     "ms": {
@@ -91,6 +96,7 @@
     }, 
     "nb": {
         "approved": 98850, 
+        "pending_since_timestamp": 1464325165.540697, 
         "translated": 101730
     }, 
     "nl": {
@@ -99,10 +105,12 @@
     }, 
     "pl": {
         "approved": 194327, 
+        "pending_since_timestamp": 1464325165.540697, 
         "translated": 195356
     }, 
     "pt": {
         "approved": 194498, 
+        "pending_since_timestamp": 1464325165.540697, 
         "translated": 370459
     }, 
     "pt-pt": {
@@ -111,10 +119,12 @@
     }, 
     "ru": {
         "approved": 1167, 
+        "pending_since_timestamp": 1464325165.540697, 
         "translated": 19830
     }, 
     "sr": {
         "approved": 44736, 
+        "pending_since_timestamp": 1464325165.540697, 
         "translated": 369093
     }, 
     "sw": {
@@ -127,12 +137,12 @@
     }, 
     "th": {
         "approved": 0, 
+        "pending_since_timestamp": 1464325165.540697, 
         "translated": 121458
     }, 
     "tr": {
         "approved": 183368, 
-        "pending_since_timestamp": 1464320525.915952, 
-        "translated": 276277
+        "translated": 276298
     }, 
     "uk": {
         "approved": 0, 
