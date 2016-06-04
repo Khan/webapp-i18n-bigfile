@@ -87,6 +87,7 @@
     }, 
     "mn": {
         "approved": 74505, 
+        "pending_since_timestamp": 1465047720.993897, 
         "translated": 82639
     }, 
     "ms": {
@@ -158,8 +159,7 @@
     }, 
     "zh-hans": {
         "approved": 0, 
-        "pending_since_timestamp": 1465016546.422866, 
-        "translated": 5157
+        "translated": 5165
     }, 
     "zu": {
         "approved": 0, 
