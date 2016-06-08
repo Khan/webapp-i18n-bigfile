@@ -1,6 +1,7 @@
 {
     "ar": {
         "approved": 0, 
+        "pending_since_timestamp": 1465344703.479618, 
         "translated": 4349
     }, 
     "bg": {
@@ -10,14 +11,17 @@
     }, 
     "bn": {
         "approved": 91121, 
+        "pending_since_timestamp": 1465344703.479618, 
         "translated": 122592
     }, 
     "cs": {
         "approved": 12269, 
+        "pending_since_timestamp": 1465344703.479618, 
         "translated": 30704
     }, 
     "da": {
         "approved": 75671, 
+        "pending_since_timestamp": 1465344703.479618, 
         "translated": 84342
     }, 
     "de": {
@@ -27,6 +31,7 @@
     }, 
     "el": {
         "approved": 325, 
+        "pending_since_timestamp": 1465344703.479618, 
         "translated": 7391
     }, 
     "es": {
@@ -44,26 +49,32 @@
     }, 
     "fr": {
         "approved": 161198, 
+        "pending_since_timestamp": 1465344703.479618, 
         "translated": 168510
     }, 
     "he": {
         "approved": 8600, 
+        "pending_since_timestamp": 1465344703.479618, 
         "translated": 8612
     }, 
     "hi": {
         "approved": 70016, 
+        "pending_since_timestamp": 1465344703.479618, 
         "translated": 102321
     }, 
     "hy": {
         "approved": 0, 
+        "pending_since_timestamp": 1465344703.479618, 
         "translated": 3014
     }, 
     "id": {
         "approved": 0, 
+        "pending_since_timestamp": 1465344703.479618, 
         "translated": 7326
     }, 
     "it": {
         "approved": 0, 
+        "pending_since_timestamp": 1465344703.479618, 
         "translated": 94892
     }, 
     "ja": {
@@ -78,6 +89,7 @@
     }, 
     "ko": {
         "approved": 124000, 
+        "pending_since_timestamp": 1465344703.479618, 
         "translated": 141100
     }, 
     "lol": {
@@ -86,63 +98,76 @@
     }, 
     "mn": {
         "approved": 74535, 
+        "pending_since_timestamp": 1465344703.479618, 
         "translated": 82706
     }, 
     "ms": {
         "approved": 0, 
+        "pending_since_timestamp": 1465344703.479618, 
         "translated": 735
     }, 
     "nb": {
         "approved": 98601, 
+        "pending_since_timestamp": 1465344703.479618, 
         "translated": 101479
     }, 
     "nl": {
         "approved": 77440, 
+        "pending_since_timestamp": 1465344703.479618, 
         "translated": 112721
     }, 
     "pl": {
         "approved": 197309, 
+        "pending_since_timestamp": 1465344703.479618, 
         "translated": 197947
     }, 
     "pt": {
         "approved": 197223, 
+        "pending_since_timestamp": 1465344703.479618, 
         "translated": 372155
     }, 
     "pt-pt": {
         "approved": 18891, 
+        "pending_since_timestamp": 1465344703.479618, 
         "translated": 114508
     }, 
     "ru": {
         "approved": 1165, 
+        "pending_since_timestamp": 1465344703.479618, 
         "translated": 19764
     }, 
     "sr": {
-        "approved": 44690, 
-        "pending_since_timestamp": 1465330575.879952, 
-        "translated": 370862
+        "approved": 44728, 
+        "translated": 371307
     }, 
     "sw": {
         "approved": 11734, 
+        "pending_since_timestamp": 1465344703.479618, 
         "translated": 33613
     }, 
     "te": {
         "approved": 0, 
+        "pending_since_timestamp": 1465344703.479618, 
         "translated": 215
     }, 
     "th": {
         "approved": 0, 
+        "pending_since_timestamp": 1465344703.479618, 
         "translated": 120861
     }, 
     "tr": {
         "approved": 182291, 
+        "pending_since_timestamp": 1465344703.479618, 
         "translated": 277247
     }, 
     "uk": {
         "approved": 0, 
+        "pending_since_timestamp": 1465344703.479618, 
         "translated": 2563
     }, 
     "ur": {
         "approved": 0, 
+        "pending_since_timestamp": 1465344703.479618, 
         "translated": 1469
     }, 
     "xh": {
@@ -151,6 +176,7 @@
     }, 
     "zh-hans": {
         "approved": 0, 
+        "pending_since_timestamp": 1465344703.479618, 
         "translated": 5165
     }, 
     "zu": {
