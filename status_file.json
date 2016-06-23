@@ -52,6 +52,7 @@
     }, 
     "hi": {
         "approved": 69670, 
+        "pending_since_timestamp": 1466686798.263196, 
         "translated": 106688
     }, 
     "hy": {
@@ -102,8 +103,7 @@
     }, 
     "pl": {
         "approved": 199929, 
-        "pending_since_timestamp": 1466682160.907494, 
-        "translated": 200643
+        "translated": 200663
     }, 
     "pt": {
         "approved": 200952, 
