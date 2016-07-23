@@ -1,1 +1,154 @@
-{"el": {"translated": 7801, "approved": 373}, "xh": {"translated": 1, "approved": 0}, "sw": {"translated": 33705, "approved": 11695}, "it": {"translated": 107184, "approved": 15230}, "hy": {"translated": 3018, "approved": 0}, "cs": {"translated": 30645, "approved": 12231}, "zu": {"translated": 22, "approved": 0}, "id": {"translated": 7628, "approved": 0}, "es": {"translated": 391432, "approved": 294223}, "ru": {"translated": 19697, "approved": 1197}, "nl": {"translated": 118476, "approved": 80617}, "pt": {"translated": 378945, "approved": 206876}, "nb": {"translated": 101772, "approved": 98560}, "tr": {"translated": 289775, "approved": 212269}, "lol": {"translated": 8847, "approved": 603}, "fa-af": {"translated": 72, "approved": 0}, "th": {"translated": 120460, "approved": 0}, "te": {"translated": 210, "approved": 0}, "pl": {"translated": 206349, "approved": 205997}, "fr": {"translated": 175548, "approved": 167997}, "bg": {"translated": 228712, "approved": 206081}, "uk": {"translated": 2540, "approved": 0}, "bn": {"translated": 129677, "approved": 105686}, "de": {"translated": 155904, "approved": 155694}, "da": {"translated": 85547, "approved": 76739}, "fa": {"translated": 106, "approved": 0}, "hi": {"translated": 111887, "approved": 68246}, "ja": {"translated": 81280, "approved": 34146}, "he": {"translated": 8731, "approved": 8492}, "ka": {"translated": 144377, "approved": 143158}, "pt-pt": {"translated": 91128, "approved": 30678}, "sr": {"translated": 376159, "approved": 45766}, "mn": {"translated": 83237, "approved": 75582}, "ko": {"translated": 153079, "approved": 127136}, "ur": {"translated": 1633, "approved": 0}, "zh-hans": {"translated": 5206, "approved": 0}, "ar": {"translated": 4662, "approved": 0}, "ms": {"translated": 734, "approved": 0}}
+{
+    "ar": {
+        "approved": 0, 
+        "translated": 4662
+    }, 
+    "bg": {
+        "approved": 206081, 
+        "translated": 228712
+    }, 
+    "bn": {
+        "approved": 105688, 
+        "translated": 129677
+    }, 
+    "cs": {
+        "approved": 12231, 
+        "translated": 30645
+    }, 
+    "da": {
+        "approved": 76739, 
+        "translated": 85547
+    }, 
+    "de": {
+        "approved": 155694, 
+        "translated": 155904
+    }, 
+    "el": {
+        "approved": 373, 
+        "translated": 7801
+    }, 
+    "es": {
+        "approved": 294223, 
+        "translated": 391432
+    }, 
+    "fa": {
+        "approved": 0, 
+        "translated": 106
+    }, 
+    "fa-af": {
+        "approved": 0, 
+        "translated": 72
+    }, 
+    "fr": {
+        "approved": 167997, 
+        "translated": 175548
+    }, 
+    "he": {
+        "approved": 8492, 
+        "translated": 8731
+    }, 
+    "hi": {
+        "approved": 68246, 
+        "translated": 111887
+    }, 
+    "hy": {
+        "approved": 0, 
+        "translated": 3018
+    }, 
+    "id": {
+        "approved": 0, 
+        "translated": 7628
+    }, 
+    "it": {
+        "approved": 15230, 
+        "translated": 107184
+    }, 
+    "ja": {
+        "approved": 34146, 
+        "translated": 81280
+    }, 
+    "ka": {
+        "approved": 143158, 
+        "translated": 144377
+    }, 
+    "ko": {
+        "approved": 127136, 
+        "translated": 153079
+    }, 
+    "lol": {
+        "approved": 603, 
+        "translated": 8847
+    }, 
+    "mn": {
+        "approved": 75582, 
+        "translated": 83237
+    }, 
+    "ms": {
+        "approved": 0, 
+        "translated": 734
+    }, 
+    "nb": {
+        "approved": 98560, 
+        "translated": 101772
+    }, 
+    "nl": {
+        "approved": 80617, 
+        "translated": 118476
+    }, 
+    "pl": {
+        "approved": 205997, 
+        "translated": 206349
+    }, 
+    "pt": {
+        "approved": 206876, 
+        "translated": 378945
+    }, 
+    "pt-pt": {
+        "approved": 30678, 
+        "translated": 91128
+    }, 
+    "ru": {
+        "approved": 1197, 
+        "translated": 19697
+    }, 
+    "sr": {
+        "approved": 45766, 
+        "translated": 376159
+    }, 
+    "sw": {
+        "approved": 11695, 
+        "translated": 33705
+    }, 
+    "te": {
+        "approved": 0, 
+        "translated": 210
+    }, 
+    "th": {
+        "approved": 0, 
+        "translated": 120460
+    }, 
+    "tr": {
+        "approved": 212269, 
+        "translated": 289775
+    }, 
+    "uk": {
+        "approved": 0, 
+        "translated": 2540
+    }, 
+    "ur": {
+        "approved": 0, 
+        "translated": 1633
+    }, 
+    "xh": {
+        "approved": 0, 
+        "translated": 1
+    }, 
+    "zh-hans": {
+        "approved": 0, 
+        "translated": 5206
+    }, 
+    "zu": {
+        "approved": 0, 
+        "translated": 22
+    }
+}
