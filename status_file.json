@@ -106,10 +106,12 @@
     }, 
     "pl": {
         "approved": 203684, 
+        "pending_since_timestamp": 1469906578.194601, 
         "translated": 204079
     }, 
     "pt": {
         "approved": 204638, 
+        "pending_since_timestamp": 1469906578.194601, 
         "translated": 380794
     }, 
     "pt-pt": {
@@ -158,8 +160,7 @@
     }, 
     "zh-hans": {
         "approved": 0, 
-        "pending_since_timestamp": 1469843184.452872, 
-        "translated": 5074
+        "translated": 5140
     }, 
     "zu": {
         "approved": 0, 
