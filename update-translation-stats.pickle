@@ -13,10 +13,10 @@ _UTC
 p6
 (tRp7
 tRp8
-sS'ko'
+sS'sw'
 p9
 g5
-(S'\x07\xe0\n\x02\x035 \x02\xf9A'
+(S'\x07\xe0\n\x03\x00\x0e.\n=\x06'
 g7
 tRp10
 sS'accents'
@@ -106,7 +106,7 @@ tRp38
 sS'th'
 p39
 g5
-(S"\x07\xe0\t\x1c\x02'\x02\x00)~"
+(S"\x07\xe0\n\x03\x00)'\x0b\xc1\xb7"
 g7
 tRp40
 sS'te'
@@ -133,10 +133,10 @@ g5
 (S'\x07\xe0\n\x02\x02\x11\x06\x04\xe4\x00'
 g7
 tRp48
-sS'uk'
+sS'ms'
 p49
 g5
-(S'\x07\xe0\t\x16\n\x02\x1d\tr\xdb'
+(S'\x07\xe0\t\x16\x171\r\x0e\x99D'
 g7
 tRp50
 sS'bn'
@@ -217,10 +217,10 @@ g5
 (S'\x07\xe0\n\x02\x04(\x1f\x06\xac\xde'
 g7
 tRp76
-sS'sw'
+sS'ko'
 p77
 g5
-(S'\x07\xe0\n\x03\x00\x0e.\n=\x06'
+(S'\x07\xe0\n\x02\x035 \x02\xf9A'
 g7
 tRp78
 sS'ur'
@@ -235,10 +235,10 @@ g5
 (S'\x07\xe0\t\x1c\x04\x1f,\x07\xb8\x9d'
 g7
 tRp82
-sS'ms'
+sS'uk'
 p83
 g5
-(S'\x07\xe0\t\x16\x171\r\x0e\x99D'
+(S'\x07\xe0\t\x16\n\x02\x1d\tr\xdb'
 g7
 tRp84
 sS'en-pt'
