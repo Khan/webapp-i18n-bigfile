@@ -1,6 +1,494 @@
 [
   {
     "description": "", 
+    "title": "Organiza\u00e7\u00e3o e tratamento de dados", 
+    "videos": [
+      {
+        "description": "V\u00eddeo original: Coordinate plane: graphing points\n(https://www.khanacademy.org/math/basic-geo/basic-geo-coordinate-plane/copy-of-cc-6th-coordinate-plane/v/graphing-points-exercise)\n\nA Khan Academy Portugal disponibiliza explica\u00e7\u00f5es online de Matem\u00e1tica gratuitas desde o 1\u00ba at\u00e9 ao 12\u00ba ano de escolaridade.\nEste v\u00eddeo foi produzido pela Khan Academy e traduzido para portugu\u00eas pela Funda\u00e7\u00e3o Portugal Telecom (ver todos os v\u00eddeos dispon\u00edveis em http://fundacao.telecom.pt/khanacademy).", 
+        "title": "Gr\u00e1fico cartesiano: marcar pontos - Khan Academy em portugu\u00eas (5\u00ba ano)", 
+        "youtube_id": "RahG_6Nv8Qg"
+      }, 
+      {
+        "description": "V\u00eddeo original: Points and quadrants example\n(https://www.khanacademy.org/math/basic-geo/basic-geo-coordinate-plane/copy-of-cc-6th-coordinate-plane/v/graphing-points-and-naming-quadrants-exercise)\n\nA Khan Academy Portugal disponibiliza explica\u00e7\u00f5es online de Matem\u00e1tica gratuitas desde o 1\u00ba at\u00e9 ao 12\u00ba ano de escolaridade.\nEste v\u00eddeo foi produzido pela Khan Academy e traduzido para portugu\u00eas pela Funda\u00e7\u00e3o Portugal Telecom (ver todos os v\u00eddeos dispon\u00edveis em http://fundacao.telecom.pt/khanacademy).", 
+        "title": "Gr\u00e1ficos cartesianos: marcar pontos e nomear quadrantes - Khan Academy em portugu\u00eas (5\u00ba ano)", 
+        "youtube_id": "wBuIpcBbZvw"
+      }, 
+      {
+        "description": "V\u00eddeo original: Finding the point not graphed\n(https://www.khanacademy.org/math/basic-geo/basic-geo-coordinate-plane/copy-of-cc-6th-coordinate-plane/v/points-on-the-coordinate-plane)\n\nA Khan Academy Portugal disponibiliza explica\u00e7\u00f5es online de Matem\u00e1tica gratuitas desde o 1\u00ba at\u00e9 ao 12\u00ba ano de escolaridade.\nEste v\u00eddeo foi produzido pela Khan Academy e traduzido para portugu\u00eas pela Funda\u00e7\u00e3o Portugal Telecom (ver todos os v\u00eddeos dispon\u00edveis em http://fundacao.telecom.pt/khanacademy).", 
+        "title": "Gr\u00e1fico cartesiano: os pontos est\u00e3o todos marcados? - Khan Academy em portugu\u00eas (5\u00ba ano)", 
+        "youtube_id": "rlf6KsfunHM"
+      }, 
+      {
+        "description": "V\u00eddeo original: Coordinate plane word problem examples\n(https://www.khanacademy.org/math/basic-geo/basic-geo-coordinate-plane/copy-of-cc-6th-coordinate-plane/v/coordinate-plane-word-problems-exercise)\n\nA Khan Academy Portugal disponibiliza explica\u00e7\u00f5es online de Matem\u00e1tica gratuitas desde o 1\u00ba at\u00e9 ao 12\u00ba ano de escolaridade.\nEste v\u00eddeo foi produzido pela Khan Academy e traduzido para portugu\u00eas pela Funda\u00e7\u00e3o Portugal Telecom (ver todos os v\u00eddeos dispon\u00edveis em http://fundacao.telecom.pt/khanacademy).", 
+        "title": "Gr\u00e1fico cartesiano: problema - Khan Academy em portugu\u00eas (5\u00ba ano)", 
+        "youtube_id": "uurdswapZ3A"
+      }, 
+      {
+        "description": "V\u00eddeo original: Drawing a quadrilateral on the coordinate plane example\n(https://www.khanacademy.org/math/basic-geo/basic-geo-coordinate-plane/basic-geo-shapes-on-a-plane/v/constructing-polygon-on-coordinate-plane-example)\n\nA Khan Academy Portugal disponibiliza explica\u00e7\u00f5es online de Matem\u00e1tica gratuitas desde o 1\u00ba at\u00e9 ao 12\u00ba ano de escolaridade.\nEste v\u00eddeo foi produzido pela Khan Academy e traduzido para portugu\u00eas pela Funda\u00e7\u00e3o Portugal Telecom (ver todos os v\u00eddeos dispon\u00edveis em http://fundacao.telecom.pt/khanacademy).", 
+        "title": "Desenhar um quadril\u00e1tero no gr\u00e1fico cartesiano - Khan Academy em portugu\u00eas (5\u00ba ano)", 
+        "youtube_id": "iaHLyM4Tn70"
+      }, 
+      {
+        "description": "V\u00eddeo original: Reflecting points in the coordinate plane\n(https://www.khanacademy.org/math/basic-geo/basic-geo-coordinate-plane/copy-of-cc-6th-coordinate-plane/v/reflecting-points-exercise)\n\nA Khan Academy Portugal disponibiliza explica\u00e7\u00f5es online de Matem\u00e1tica gratuitas desde o 1\u00ba at\u00e9 ao 12\u00ba ano de escolaridade.\nEste v\u00eddeo foi produzido pela Khan Academy e traduzido para portugu\u00eas pela Funda\u00e7\u00e3o Portugal Telecom (ver todos os v\u00eddeos dispon\u00edveis em http://fundacao.telecom.pt/khanacademy).", 
+        "title": "Refletir pontos em gr\u00e1ficos cartesianos - Khan Academy em portugu\u00eas (5\u00ba ano)", 
+        "youtube_id": "jltZjto2fbY"
+      }, 
+      {
+        "description": "V\u00eddeo original: Coordinate plane graphing word problem\n(https://www.khanacademy.org/math/basic-geo/basic-geo-coordinate-plane/copy-of-cc-6th-coordinate-plane/v/coordinate-plane-word-problem-example)\n\nA Khan Academy Portugal disponibiliza explica\u00e7\u00f5es online de Matem\u00e1tica gratuitas desde o 1\u00ba at\u00e9 ao 12\u00ba ano de escolaridade.\nEste v\u00eddeo foi produzido pela Khan Academy e traduzido para portugu\u00eas pela Funda\u00e7\u00e3o Portugal Telecom (ver todos os v\u00eddeos dispon\u00edveis em http://fundacao.telecom.pt/khanacademy).", 
+        "title": "Representar um problema num referencial cartesiano - Khan Academy em portugu\u00eas (5\u00ba ano)", 
+        "youtube_id": "kVhlJoXfwPM"
+      }
+    ]
+  }, 
+  {
+    "description": "", 
+    "title": "Geometria e medida", 
+    "videos": [
+      {
+        "description": "V\u00eddeo original: Area of a quadrilateral on a grid\n(https://www.khanacademy.org/math/basic-geo/basic-geo-area-perimeter/basic-geo-area-perimeter-polygon/v/area-of-strange-quadrilateral)\n\nA Khan Academy Portugal disponibiliza explica\u00e7\u00f5es online de Matem\u00e1tica gratuitas desde o 1\u00ba at\u00e9 ao 12\u00ba ano de escolaridade.\nEste v\u00eddeo foi produzido pela Khan Academy e traduzido para portugu\u00eas pela Funda\u00e7\u00e3o Portugal Telecom (ver todos os v\u00eddeos dispon\u00edveis em http://fundacao.telecom.pt/khanacademy).", 
+        "title": "Encontrar a \u00e1rea de um quadril\u00e1tero estranho, numa grelha - Khan Academy em portugu\u00eas (7\u00ba ano)", 
+        "youtube_id": "tX2sDD1Yq6Y"
+      }, 
+      {
+        "description": "V\u00eddeo original: Area of trapezoids\n(https://www.khanacademy.org/math/basic-geo/basic-geo-area-perimeter/basic-geo-area-perimeter-polygon/v/area-of-a-trapezoid-1)\n\nA Khan Academy Portugal disponibiliza explica\u00e7\u00f5es online de Matem\u00e1tica gratuitas desde o 1\u00ba at\u00e9 ao 12\u00ba ano de escolaridade.\nEste v\u00eddeo foi produzido pela Khan Academy e traduzido para portugu\u00eas pela Funda\u00e7\u00e3o Portugal Telecom (ver todos os v\u00eddeos dispon\u00edveis em http://fundacao.telecom.pt/khanacademy).", 
+        "title": "\u00c1rea de um trap\u00e9zio - Khan Academy em portugu\u00eas (7\u00ba ano)", 
+        "youtube_id": "X53EhHPHni8"
+      }, 
+      {
+        "description": "V\u00eddeo original: Area of a circle\n(https://www.khanacademy.org/math/basic-geo/basic-geo-area-perimeter/basic-geo-area-circumference/v/area-of-a-circle)\n\nA Khan Academy Portugal disponibiliza explica\u00e7\u00f5es online de Matem\u00e1tica gratuitas desde o 1\u00ba at\u00e9 ao 12\u00ba ano de escolaridade.\nEste v\u00eddeo foi produzido pela Khan Academy e traduzido para portugu\u00eas pela Funda\u00e7\u00e3o Portugal Telecom (ver todos os v\u00eddeos dispon\u00edveis em http://fundacao.telecom.pt/khanacademy).", 
+        "title": "\u00c1rea de um c\u00edrculo - Khan Academy em portugu\u00eas (6\u00ba ano)", 
+        "youtube_id": "GE429C8SDKw"
+      }, 
+      {
+        "description": "V\u00eddeo original: Impact of increasing the radius\n(https://www.khanacademy.org/math/basic-geo/basic-geo-area-perimeter/basic-geo-area-circumference/v/radius-change-impact)\n\nA Khan Academy Portugal disponibiliza explica\u00e7\u00f5es online de Matem\u00e1tica gratuitas desde o 1\u00ba at\u00e9 ao 12\u00ba ano de escolaridade.\nEste v\u00eddeo foi produzido pela Khan Academy e traduzido para portugu\u00eas pela Funda\u00e7\u00e3o Portugal Telecom (ver todos os v\u00eddeos dispon\u00edveis em http://fundacao.telecom.pt/khanacademy).", 
+        "title": "Impacto da altera\u00e7\u00e3o do raio na \u00e1rea de um c\u00edrculo - Khan Academy em portugu\u00eas (6\u00ba ano)", 
+        "youtube_id": "2QvX8cLKTDU"
+      }, 
+      {
+        "description": "V\u00eddeo original: Finding area by rearranging parts\n(https://www.khanacademy.org/math/basic-geo/basic-geo-area-perimeter/basic-geo-area-perimeter-polygon/v/area-comparisons)\n\nA Khan Academy Portugal disponibiliza explica\u00e7\u00f5es online de Matem\u00e1tica gratuitas desde o 1\u00ba at\u00e9 ao 12\u00ba ano de escolaridade.\nEste v\u00eddeo foi produzido pela Khan Academy e traduzido para portugu\u00eas pela Funda\u00e7\u00e3o Portugal Telecom (ver todos os v\u00eddeos dispon\u00edveis em http://fundacao.telecom.pt/khanacademy).", 
+        "title": "Encontrar \u00e1reas por rearranjo de partes - Khan Academy em portugu\u00eas (7\u00ba ano)", 
+        "youtube_id": "XXJlOo_sQU0"
+      }, 
+      {
+        "description": "V\u00eddeo original: Area of a shaded region\n(https://www.khanacademy.org/math/basic-geo/basic-geo-area-perimeter/basic-geo-area-circumference/v/area-of-shaded-region)\n\nA Khan Academy Portugal disponibiliza explica\u00e7\u00f5es online de Matem\u00e1tica gratuitas desde o 1\u00ba at\u00e9 ao 12\u00ba ano de escolaridade.\nEste v\u00eddeo foi produzido pela Khan Academy e traduzido para portugu\u00eas pela Funda\u00e7\u00e3o Portugal Telecom (ver todos os v\u00eddeos dispon\u00edveis em http://fundacao.telecom.pt/khanacademy).", 
+        "title": "\u00c1rea de uma regi\u00e3o sombreada - Khan Academy em portugu\u00eas (6\u00ba ano)", 
+        "youtube_id": "73HgnDrosXs"
+      }, 
+      {
+        "description": "V\u00eddeo original: Area of kites\n(https://www.khanacademy.org/math/basic-geo/basic-geo-area-perimeter/basic-geo-area-perimeter-polygon/v/area-of-a-kite)\n\nA Khan Academy Portugal disponibiliza explica\u00e7\u00f5es online de Matem\u00e1tica gratuitas desde o 1\u00ba at\u00e9 ao 12\u00ba ano de escolaridade.\nEste v\u00eddeo foi produzido pela Khan Academy e traduzido para portugu\u00eas pela Funda\u00e7\u00e3o Portugal Telecom (ver todos os v\u00eddeos dispon\u00edveis em http://fundacao.telecom.pt/khanacademy).", 
+        "title": "\u00c1rea de um papagaio - Khan Academy em portugu\u00eas (7\u00ba ano)", 
+        "youtube_id": "X8RwN-jnmp8"
+      }, 
+      {
+        "description": "V\u00eddeo original: Area of triangle proof\n(https://www.khanacademy.org/math/basic-geo/basic-geo-area-perimeter/basic-geo-area-perimeter-polygon/v/triangle-area-proofs)\n\nA Khan Academy Portugal disponibiliza explica\u00e7\u00f5es online de Matem\u00e1tica gratuitas desde o 1\u00ba at\u00e9 ao 12\u00ba ano de escolaridade.\nEste v\u00eddeo foi produzido pela Khan Academy e traduzido para portugu\u00eas pela Funda\u00e7\u00e3o Portugal Telecom (ver todos os v\u00eddeos dispon\u00edveis em http://fundacao.telecom.pt/khanacademy).", 
+        "title": "\u00c1rea de tri\u00e2ngulos - prova - Khan Academy em portugu\u00eas (5\u00ba ano)", 
+        "youtube_id": "HmObLdIjBGY"
+      }, 
+      {
+        "description": "V\u00eddeo original: Circumference of a circle\n(https://www.khanacademy.org/math/basic-geo/basic-geo-area-perimeter/basic-geo-area-circumference/v/circumference-from-area)\n\nA Khan Academy Portugal disponibiliza explica\u00e7\u00f5es online de Matem\u00e1tica gratuitas desde o 1\u00ba at\u00e9 ao 12\u00ba ano de escolaridade.\nEste v\u00eddeo foi produzido pela Khan Academy e traduzido para portugu\u00eas pela Funda\u00e7\u00e3o Portugal Telecom (ver todos os v\u00eddeos dispon\u00edveis em http://fundacao.telecom.pt/khanacademy).", 
+        "title": "Per\u00edmetro de um c\u00edrculo - Khan Academy em portugu\u00eas (6\u00ba ano)", 
+        "youtube_id": "T1W2W1uTgoE"
+      }, 
+      {
+        "description": "V\u00eddeo original: Radius, diameter, circumference & Pi\n(https://www.khanacademy.org/math/basic-geo/basic-geo-area-perimeter/basic-geo-area-circumference/v/circles-radius-diameter-and-circumference)\n\nA Khan Academy Portugal disponibiliza explica\u00e7\u00f5es online de Matem\u00e1tica gratuitas desde o 1\u00ba at\u00e9 ao 12\u00ba ano de escolaridade.\nEste v\u00eddeo foi produzido pela Khan Academy e traduzido para portugu\u00eas pela Funda\u00e7\u00e3o Portugal Telecom (ver todos os v\u00eddeos dispon\u00edveis em http://fundacao.telecom.pt/khanacademy).", 
+        "title": "C\u00edrculos: raio, di\u00e2metro, circunfer\u00eancia e pi- Khan Academy em portugu\u00eas (6\u00ba ano)", 
+        "youtube_id": "r1YAR9xI-KE"
+      }, 
+      {
+        "description": "V\u00eddeo original: Area of composite shapes\n(https://www.khanacademy.org/math/basic-geo/basic-geo-area-perimeter/basic-geo-area-perimeter-polygon/v/area-breaking-up-shape)\n\nA Khan Academy Portugal disponibiliza explica\u00e7\u00f5es online de Matem\u00e1tica gratuitas desde o 1\u00ba at\u00e9 ao 12\u00ba ano de escolaridade.\nEste v\u00eddeo foi produzido pela Khan Academy e traduzido para portugu\u00eas pela Funda\u00e7\u00e3o Portugal Telecom (ver todos os v\u00eddeos dispon\u00edveis em http://fundacao.telecom.pt/khanacademy).", 
+        "title": "Descobrir a \u00e1rea por desconstru\u00e7\u00e3o de uma forma - Khan Academy em portugu\u00eas (6\u00ba ano)", 
+        "youtube_id": "Pn-_UIA4UFk"
+      }, 
+      {
+        "description": "V\u00eddeo original: Intro to perimeter & area\n(https://www.khanacademy.org/math/basic-geo/basic-geo-area-perimeter/basic-geo-area-perimeter-polygon/v/perimeter-and-area-basics)\n\nA Khan Academy Portugal disponibiliza explica\u00e7\u00f5es online de Matem\u00e1tica gratuitas desde o 1\u00ba at\u00e9 ao 12\u00ba ano de escolaridade.\nEste v\u00eddeo foi produzido pela Khan Academy e traduzido para portugu\u00eas pela Funda\u00e7\u00e3o Portugal Telecom (ver todos os v\u00eddeos dispon\u00edveis em http://fundacao.telecom.pt/khanacademy).", 
+        "title": "Per\u00edmetro e \u00e1rea: o b\u00e1sico - Khan Academy em portugu\u00eas (6\u00ba ano)", 
+        "youtube_id": "2TSIthklqYA"
+      }, 
+      {
+        "description": "V\u00eddeo original: Decomposing an angle\n(https://www.khanacademy.org/math/basic-geo/basic-geo-angles/basic-geo-interpreting-angles/v/decomposing-angles)\n\nA Khan Academy Portugal disponibiliza explica\u00e7\u00f5es online de Matem\u00e1tica gratuitas desde o 1\u00ba at\u00e9 ao 12\u00ba ano de escolaridade.\nEste v\u00eddeo foi produzido pela Khan Academy e traduzido para portugu\u00eas pela Funda\u00e7\u00e3o Portugal Telecom (ver todos os v\u00eddeos dispon\u00edveis em http://fundacao.telecom.pt/khanacademy).", 
+        "title": "Decompor um \u00e2ngulo - Khan Academy em portugu\u00eas (5\u00ba ano)", 
+        "youtube_id": "mNL_zmzVung"
+      }, 
+      {
+        "description": "V\u00eddeo original: Triangle angle challenge problem 2\n(https://www.khanacademy.org/math/basic-geo/basic-geo-shapes/basic-geo-finding-angles/v/finding-more-angles)\n\nA Khan Academy Portugal disponibiliza explica\u00e7\u00f5es online de Matem\u00e1tica gratuitas desde o 1\u00ba at\u00e9 ao 12\u00ba ano de escolaridade.\nEste v\u00eddeo foi produzido pela Khan Academy e traduzido para portugu\u00eas pela Funda\u00e7\u00e3o Portugal Telecom (ver todos os v\u00eddeos dispon\u00edveis em http://fundacao.telecom.pt/khanacademy).", 
+        "title": "Descobrir \u00e2ngulos - Khan Academy em portugu\u00eas (5\u00ba ano)", 
+        "youtube_id": "QRs3ntKxqI8"
+      }, 
+      {
+        "description": "V\u00eddeo original: Side lengths after dilation\n(https://www.khanacademy.org/math/basic-geo/transformations-congruence-similarity-geo/basic-geo-congruence-similarity/v/comparing-side-lengths-after-dilation)\n\nA Khan Academy Portugal disponibiliza explica\u00e7\u00f5es online de Matem\u00e1tica gratuitas desde o 1\u00ba at\u00e9 ao 12\u00ba ano de escolaridade.\nEste v\u00eddeo foi produzido pela Khan Academy e traduzido para portugu\u00eas pela Funda\u00e7\u00e3o Portugal Telecom (ver todos os v\u00eddeos dispon\u00edveis em http://fundacao.telecom.pt/khanacademy).", 
+        "title": "Comparar comprimento de lados ap\u00f3s homotetia - Khan Academy em portugu\u00eas (7\u00ba ano)", 
+        "youtube_id": "M8OT-33Tq9I"
+      }, 
+      {
+        "description": "V\u00eddeo original: Rotating segment about origin example\n(https://www.khanacademy.org/math/basic-geo/transformations-congruence-similarity-geo/transformations-basics/v/rotating-segment-about-orgin-example)\n\nA Khan Academy Portugal disponibiliza explica\u00e7\u00f5es online de Matem\u00e1tica gratuitas desde o 1\u00ba at\u00e9 ao 12\u00ba ano de escolaridade.\nEste v\u00eddeo foi produzido pela Khan Academy e traduzido para portugu\u00eas pela Funda\u00e7\u00e3o Portugal Telecom (ver todos os v\u00eddeos dispon\u00edveis em http://fundacao.telecom.pt/khanacademy).", 
+        "title": "Rota\u00e7\u00e3o de segmento de reta \u00e0 volta da origem - Khan Academy em portugu\u00eas (6\u00ba ano)", 
+        "youtube_id": "yMpEj0TcpdY"
+      }, 
+      {
+        "description": "V\u00eddeo original: Classifying quadrilaterals\n(https://www.khanacademy.org/math/basic-geo/basic-geo-shapes/basic-geo-classifying-shapes/v/classifying-shapes)\n\nA Khan Academy Portugal disponibiliza explica\u00e7\u00f5es online de Matem\u00e1tica gratuitas desde o 1\u00ba at\u00e9 ao 12\u00ba ano de escolaridade.\nEste v\u00eddeo foi produzido pela Khan Academy e traduzido para portugu\u00eas pela Funda\u00e7\u00e3o Portugal Telecom (ver todos os v\u00eddeos dispon\u00edveis em http://fundacao.telecom.pt/khanacademy).", 
+        "title": "Classifica\u00e7\u00e3o de quadril\u00e1teros - Khan Academy em portugu\u00eas (5\u00ba ano)", 
+        "youtube_id": "zCP8mq-qMw8"
+      }, 
+      {
+        "description": "V\u00eddeo original: Volume of a rectangular prism: word problem\n(https://www.khanacademy.org/math/basic-geo/basic-geo-volume-surface-area/basic-geo-volume/v/marbles-in-tank-volume)\n\nA Khan Academy Portugal disponibiliza explica\u00e7\u00f5es online de Matem\u00e1tica gratuitas desde o 1\u00ba at\u00e9 ao 12\u00ba ano de escolaridade.\nEste v\u00eddeo foi produzido pela Khan Academy e traduzido para portugu\u00eas pela Funda\u00e7\u00e3o Portugal Telecom (ver todos os v\u00eddeos dispon\u00edveis em http://fundacao.telecom.pt/khanacademy).", 
+        "title": "Volume de um prisma retor: problema - Khan Academy em portugu\u00eas (6\u00ba ano)", 
+        "youtube_id": "L8TBPR3JTe0"
+      }, 
+      {
+        "description": "V\u00eddeo original: Identifying an angle\n(https://www.khanacademy.org/math/basic-geo/basic-geo-angles/basic-geo-interpreting-angles/v/angle-sense-example)\n\nA Khan Academy Portugal disponibiliza explica\u00e7\u00f5es online de Matem\u00e1tica gratuitas desde o 1\u00ba at\u00e9 ao 12\u00ba ano de escolaridade.\nEste v\u00eddeo foi produzido pela Khan Academy e traduzido para portugu\u00eas pela Funda\u00e7\u00e3o Portugal Telecom (ver todos os v\u00eddeos dispon\u00edveis em http://fundacao.telecom.pt/khanacademy).", 
+        "title": "Identifica\u00e7\u00e3o de \u00e2ngulos - Khan Academy em portugu\u00eas (4\u00ba ano)", 
+        "youtube_id": "YZyH8FfXH8E"
+      }, 
+      {
+        "description": "V\u00eddeo original: Drawing acute, right and obtuse angles\n(https://www.khanacademy.org/math/basic-geo/basic-geo-angles/basic-geo-interpreting-angles/v/drawing-acute-right-and-obtuse-angles)\n\nA Khan Academy Portugal disponibiliza explica\u00e7\u00f5es online de Matem\u00e1tica gratuitas desde o 1\u00ba at\u00e9 ao 12\u00ba ano de escolaridade.\nEste v\u00eddeo foi produzido pela Khan Academy e traduzido para portugu\u00eas pela Funda\u00e7\u00e3o Portugal Telecom (ver todos os v\u00eddeos dispon\u00edveis em http://fundacao.telecom.pt/khanacademy).", 
+        "title": "Desenhar \u00e2ngulos agudos, obtusos e retos - Khan Academy em portugu\u00eas (4\u00ba ano)", 
+        "youtube_id": "Q_A-Q4AstOs"
+      }, 
+      {
+        "description": "V\u00eddeo original: Classifying triangles by angles\n(https://www.khanacademy.org/math/basic-geo/basic-geo-shapes/basic-geo-classifying-shapes/v/scalene-isosceles-equilateral-from-angle)\n\nA Khan Academy Portugal disponibiliza explica\u00e7\u00f5es online de Matem\u00e1tica gratuitas desde o 1\u00ba at\u00e9 ao 12\u00ba ano de escolaridade.\nEste v\u00eddeo foi produzido pela Khan Academy e traduzido para portugu\u00eas pela Funda\u00e7\u00e3o Portugal Telecom (ver todos os v\u00eddeos dispon\u00edveis em http://fundacao.telecom.pt/khanacademy).", 
+        "title": "Tri\u00e2ngulos: classifica\u00e7\u00e3o atrav\u00e9s dos \u00e2ngulos - Khan Academy em portugu\u00eas (5\u00ba ano)", 
+        "youtube_id": "YLxolc1TsUA"
+      }, 
+      {
+        "description": "V\u00eddeo original: Triangle angle example 3\n(https://www.khanacademy.org/math/basic-geo/basic-geo-shapes/basic-geo-finding-angles/v/triangle-angle-example-3)\n\nA Khan Academy Portugal disponibiliza explica\u00e7\u00f5es online de Matem\u00e1tica gratuitas desde o 1\u00ba at\u00e9 ao 12\u00ba ano de escolaridade.\nEste v\u00eddeo foi produzido pela Khan Academy e traduzido para portugu\u00eas pela Funda\u00e7\u00e3o Portugal Telecom (ver todos os v\u00eddeos dispon\u00edveis em http://fundacao.telecom.pt/khanacademy).", 
+        "title": "\u00c2ngulos de um tri\u00e2ngulo: exemplo 3 - Khan Academy em portugu\u00eas (5\u00ba ano)", 
+        "youtube_id": "ChJSBTGOU1Y"
+      }, 
+      {
+        "description": "V\u00eddeo original: Intro to parallel & perpendicular lines\n(https://www.khanacademy.org/math/basic-geo/basic-geo-angles/basic-geo-interpreting-angles/v/parallel-and-perpendicular-lines-intro)\n\nA Khan Academy Portugal disponibiliza explica\u00e7\u00f5es online de Matem\u00e1tica gratuitas desde o 1\u00ba at\u00e9 ao 12\u00ba ano de escolaridade.\nEste v\u00eddeo foi produzido pela Khan Academy e traduzido para portugu\u00eas pela Funda\u00e7\u00e3o Portugal Telecom (ver todos os v\u00eddeos dispon\u00edveis em http://fundacao.telecom.pt/khanacademy).", 
+        "title": "Introdu\u00e7\u00e3o a retas paralelas e perpendiculares - Khan Academy em portugu\u00eas (4\u00ba ano)", 
+        "youtube_id": "GXc2ZzjFNCQ"
+      }, 
+      {
+        "description": "V\u00eddeo original: Kites as a geometric shape\n(https://www.khanacademy.org/math/basic-geo/basic-geo-shapes/basic-geo-classifying-shapes/v/kites-as-a-mathematical-shape)\n\nA Khan Academy Portugal disponibiliza explica\u00e7\u00f5es online de Matem\u00e1tica gratuitas desde o 1\u00ba at\u00e9 ao 12\u00ba ano de escolaridade.\nEste v\u00eddeo foi produzido pela Khan Academy e traduzido para portugu\u00eas pela Funda\u00e7\u00e3o Portugal Telecom (ver todos os v\u00eddeos dispon\u00edveis em http://fundacao.telecom.pt/khanacademy).", 
+        "title": "Papagaio: uma forma geom\u00e9trica - Khan Academy em portugu\u00eas (7\u00ba ano)", 
+        "youtube_id": "DBD7B1s9P5I"
+      }, 
+      {
+        "description": "V\u00eddeo original: Another Pythagorean theorem proof\n(https://www.khanacademy.org/math/basic-geo/basic-geo-pythagorean-topic/basic-geo-pythagorean-proofs/v/another-pythagorean-theorem-proof)\n\nA Khan Academy Portugal disponibiliza explica\u00e7\u00f5es online de Matem\u00e1tica gratuitas desde o 1\u00ba at\u00e9 ao 12\u00ba ano de escolaridade.\nEste v\u00eddeo foi produzido pela Khan Academy e traduzido para portugu\u00eas pela Funda\u00e7\u00e3o Portugal Telecom (ver todos os v\u00eddeos dispon\u00edveis em http://fundacao.telecom.pt/khanacademy).", 
+        "title": "Mais uma demonstra\u00e7\u00e3o do Teorema de Pit\u00e1goras - Khan Academy em portugu\u00eas (8\u00ba ano)", 
+        "youtube_id": "PBCM0g3sjB4"
+      }, 
+      {
+        "description": "V\u00eddeo original: Triangle angle example 2\n(https://www.khanacademy.org/math/basic-geo/basic-geo-shapes/basic-geo-finding-angles/v/triangle-angle-example-2)\n\nA Khan Academy Portugal disponibiliza explica\u00e7\u00f5es online de Matem\u00e1tica gratuitas desde o 1\u00ba at\u00e9 ao 12\u00ba ano de escolaridade.\nEste v\u00eddeo foi produzido pela Khan Academy e traduzido para portugu\u00eas pela Funda\u00e7\u00e3o Portugal Telecom (ver todos os v\u00eddeos dispon\u00edveis em http://fundacao.telecom.pt/khanacademy).", 
+        "title": "\u00c2ngulos de um tri\u00e2ngulo: exemplo 2 - Khan Academy em portugu\u00eas (5\u00ba ano)", 
+        "youtube_id": "zgr2770mULE"
+      }, 
+      {
+        "description": "V\u00eddeo original: Nets of polyhedra\n(https://www.khanacademy.org/math/basic-geo/basic-geo-volume-surface-area/basic-geo-surface-area/v/surface-area-from-net)\n\nA Khan Academy Portugal disponibiliza explica\u00e7\u00f5es online de Matem\u00e1tica gratuitas desde o 1\u00ba at\u00e9 ao 12\u00ba ano de escolaridade.\nEste v\u00eddeo foi produzido pela Khan Academy e traduzido para portugu\u00eas pela Funda\u00e7\u00e3o Portugal Telecom (ver todos os v\u00eddeos dispon\u00edveis em http://fundacao.telecom.pt/khanacademy).", 
+        "title": "\u00c1rea total de um poliedro - Khan Academy em portugu\u00eas (9\u00ba ano)", 
+        "youtube_id": "T3YmIBKuJ7g"
+      }, 
+      {
+        "description": "V\u00eddeo original: Intro to reflective symmetry\n(https://www.khanacademy.org/math/basic-geo/basic-geo-shapes/basic-geo-classifying-shapes/v/axis-of-symmetry)\n\nA Khan Academy Portugal disponibiliza explica\u00e7\u00f5es online de Matem\u00e1tica gratuitas desde o 1\u00ba at\u00e9 ao 12\u00ba ano de escolaridade.\nEste v\u00eddeo foi produzido pela Khan Academy e traduzido para portugu\u00eas pela Funda\u00e7\u00e3o Portugal Telecom (ver todos os v\u00eddeos dispon\u00edveis em http://fundacao.telecom.pt/khanacademy).", 
+        "title": "Eixos de simetria - Khan Academy em portugu\u00eas (3\u00ba ano)", 
+        "youtube_id": "jS4B2GdtNME"
+      }, 
+      {
+        "description": "V\u00eddeo original: Volume of a rectangular prism: fractional dimensions\n(https://www.khanacademy.org/math/basic-geo/basic-geo-volume-surface-area/basic-geo-volume/v/volume-of-a-rectangular-prism-with-fractional-dimensions)\n\nA Khan Academy Portugal disponibiliza explica\u00e7\u00f5es online de Matem\u00e1tica gratuitas desde o 1\u00ba at\u00e9 ao 12\u00ba ano de escolaridade.\nEste v\u00eddeo foi produzido pela Khan Academy e traduzido para portugu\u00eas pela Funda\u00e7\u00e3o Portugal Telecom (ver todos os v\u00eddeos dispon\u00edveis em http://fundacao.telecom.pt/khanacademy).", 
+        "title": "Volume de um prisma reto: dimens\u00f5es fracion\u00e1rias - Khan Academy em portugu\u00eas (6\u00ba ano)", 
+        "youtube_id": "NKO8jydV6Gc"
+      }, 
+      {
+        "description": "V\u00eddeo original: Recognizing angles\n(https://www.khanacademy.org/math/basic-geo/basic-geo-angles/basic-geo-interpreting-angles/v/recognizing-angles-examples)\n\nA Khan Academy Portugal disponibiliza explica\u00e7\u00f5es online de Matem\u00e1tica gratuitas desde o 1\u00ba at\u00e9 ao 12\u00ba ano de escolaridade.\nEste v\u00eddeo foi produzido pela Khan Academy e traduzido para portugu\u00eas pela Funda\u00e7\u00e3o Portugal Telecom (ver todos os v\u00eddeos dispon\u00edveis em http://fundacao.telecom.pt/khanacademy).", 
+        "title": "Reconhecer \u00e2ngulos - Khan Academy em portugu\u00eas (4\u00ba ano)", 
+        "youtube_id": "9uKaCQkvi3M"
+      }, 
+      {
+        "description": "V\u00eddeo original: Garfield's proof of the Pythagorean theorem\n(https://www.khanacademy.org/math/basic-geo/basic-geo-pythagorean-topic/basic-geo-pythagorean-proofs/v/garfield-s-proof-of-the-pythagorean-theorem)\n\nA Khan Academy Portugal disponibiliza explica\u00e7\u00f5es online de Matem\u00e1tica gratuitas desde o 1\u00ba at\u00e9 ao 12\u00ba ano de escolaridade.\nEste v\u00eddeo foi produzido pela Khan Academy e traduzido para portugu\u00eas pela Funda\u00e7\u00e3o Portugal Telecom (ver todos os v\u00eddeos dispon\u00edveis em http://fundacao.telecom.pt/khanacademy).", 
+        "title": "Demonstra\u00e7\u00e3o de Garfield do Teorema de Pit\u00e1goras - Khan Academy em portugu\u00eas (8\u00ba ano)", 
+        "youtube_id": "wKbz0Hzxa6o"
+      }, 
+      {
+        "description": "V\u00eddeo original: Intro to the Pythagorean theorem 1\n(https://www.khanacademy.org/math/in-seventh-grade-math/triangle-pror/right-angles-pythagoras/v/the-pythagorean-theorem)\n\nA Khan Academy Portugal disponibiliza explica\u00e7\u00f5es online de Matem\u00e1tica gratuitas desde o 1\u00ba at\u00e9 ao 12\u00ba ano de escolaridade.\nEste v\u00eddeo foi produzido pela Khan Academy e traduzido para portugu\u00eas pela Funda\u00e7\u00e3o Portugal Telecom (ver todos os v\u00eddeos dispon\u00edveis em http://fundacao.telecom.pt/khanacademy).", 
+        "title": "Introdu\u00e7\u00e3o ao Teorema de Pit\u00e1goras - Khan Academy em portugu\u00eas (8\u00ba ano)", 
+        "youtube_id": "V6tqsCzMs2k"
+      }, 
+      {
+        "description": "V\u00eddeo original: Measuring angles in degrees\n(https://www.khanacademy.org/math/basic-geo/basic-geo-angles/basic-geo-interpreting-angles/v/measuring-angles-in-degrees)\n\nA Khan Academy Portugal disponibiliza explica\u00e7\u00f5es online de Matem\u00e1tica gratuitas desde o 1\u00ba at\u00e9 ao 12\u00ba ano de escolaridade.\nEste v\u00eddeo foi produzido pela Khan Academy e traduzido para portugu\u00eas pela Funda\u00e7\u00e3o Portugal Telecom (ver todos os v\u00eddeos dispon\u00edveis em http://fundacao.telecom.pt/khanacademy).", 
+        "title": "Medir \u00e2ngulos em graus - Khan Academy em portugu\u00eas (5\u00ba ano)", 
+        "youtube_id": "6uXAL3ODdF4"
+      }, 
+      {
+        "description": "V\u00eddeo original: Similar shapes & transformations\n(https://www.khanacademy.org/math/basic-geo/transformations-congruence-similarity-geo/basic-geo-congruence-similarity/v/testing-similarity-through-transformations)\n\nA Khan Academy Portugal disponibiliza explica\u00e7\u00f5es online de Matem\u00e1tica gratuitas desde o 1\u00ba at\u00e9 ao 12\u00ba ano de escolaridade.\nEste v\u00eddeo foi produzido pela Khan Academy e traduzido para portugu\u00eas pela Funda\u00e7\u00e3o Portugal Telecom (ver todos os v\u00eddeos dispon\u00edveis em http://fundacao.telecom.pt/khanacademy).", 
+        "title": "Figuras semelhantes e homotetias - Khan Academy em portugu\u00eas (7\u00ba ano)", 
+        "youtube_id": "O22QTwJh5fI"
+      }, 
+      {
+        "description": "V\u00eddeo original: Reflection and mapping points example\n(https://www.khanacademy.org/math/basic-geo/transformations-congruence-similarity-geo/transformations-basics/v/reflection-and-mapping-points-example)\n\nA Khan Academy Portugal disponibiliza explica\u00e7\u00f5es online de Matem\u00e1tica gratuitas desde o 1\u00ba at\u00e9 ao 12\u00ba ano de escolaridade.\nEste v\u00eddeo foi produzido pela Khan Academy e traduzido para portugu\u00eas pela Funda\u00e7\u00e3o Portugal Telecom (ver todos os v\u00eddeos dispon\u00edveis em http://fundacao.telecom.pt/khanacademy).", 
+        "title": "Reflex\u00f5es e localiza\u00e7\u00e3o de pontos - Khan Academy em portugu\u00eas (8\u00ba ano)", 
+        "youtube_id": "mZe72O8yr_w"
+      }, 
+      {
+        "description": "V\u00eddeo original: 45-45-90 triangle side ratios\n(https://www.khanacademy.org/math/basic-geo/basic-geo-pythagorean-topic/basic-geo-special-right-triangle/v/45-45-90-triangle-side-ratios)\n\nA Khan Academy Portugal disponibiliza explica\u00e7\u00f5es online de Matem\u00e1tica gratuitas desde o 1\u00ba at\u00e9 ao 12\u00ba ano de escolaridade.\nEste v\u00eddeo foi produzido pela Khan Academy e traduzido para portugu\u00eas pela Funda\u00e7\u00e3o Portugal Telecom (ver todos os v\u00eddeos dispon\u00edveis em http://fundacao.telecom.pt/khanacademy).", 
+        "title": "Proporcionalidade dos lados de um tri\u00e2ngulo 45-45-90 - Khan Academy em portugu\u00eas (8\u00ba ano)", 
+        "youtube_id": "2dVuKAyT0nc"
+      }, 
+      {
+        "description": "V\u00eddeo original: 45-45-90 triangle side ratios\nThiago asks: How much time does a goalkeeper have to react to a penalty kick?\n(https://www.khanacademy.org/math/basic-geo/basic-geo-pythagorean-topic/basic-geo-pythagorean-theorem/v/soccer-thiago)\n\nA Khan Academy Portugal disponibiliza explica\u00e7\u00f5es online de Matem\u00e1tica gratuitas desde o 1\u00ba at\u00e9 ao 12\u00ba ano de escolaridade.\nEste v\u00eddeo foi produzido pela Khan Academy e traduzido para portugu\u00eas pela Funda\u00e7\u00e3o Portugal Telecom (ver todos os v\u00eddeos dispon\u00edveis em http://fundacao.telecom.pt/khanacademy).", 
+        "title": "O Thiago pergunta: quanto tempo leva um guarda-redes a reagir num pen\u00e1lti? (8\u00ba ano)", 
+        "youtube_id": "xAjtyvRvTIc"
+      }, 
+      {
+        "description": "V\u00eddeo original: Determining a translation for a shape\n(https://www.khanacademy.org/math/basic-geo/transformations-congruence-similarity-geo/transformations-basics/v/determining-a-translation-for-a-shape)\n\nA Khan Academy Portugal disponibiliza explica\u00e7\u00f5es online de Matem\u00e1tica gratuitas desde o 1\u00ba at\u00e9 ao 12\u00ba ano de escolaridade.\nEste v\u00eddeo foi produzido pela Khan Academy e traduzido para portugu\u00eas pela Funda\u00e7\u00e3o Portugal Telecom (ver todos os v\u00eddeos dispon\u00edveis em http://fundacao.telecom.pt/khanacademy).", 
+        "title": "Determinar a transla\u00e7\u00e3o de uma figura - Khan Academy em portugu\u00eas (8\u00ba ano)", 
+        "youtube_id": "CTCOuJykfSw"
+      }, 
+      {
+        "description": "V\u00eddeo original: Measuring angles using a protractor\n(https://www.khanacademy.org/math/basic-geo/basic-geo-angles/basic-geo-angle-basics/v/using-a-protractor)\n\nA Khan Academy Portugal disponibiliza explica\u00e7\u00f5es online de Matem\u00e1tica gratuitas desde o 1\u00ba at\u00e9 ao 12\u00ba ano de escolaridade.\nEste v\u00eddeo foi produzido pela Khan Academy e traduzido para portugu\u00eas pela Funda\u00e7\u00e3o Portugal Telecom (ver todos os v\u00eddeos dispon\u00edveis em http://fundacao.telecom.pt/khanacademy).", 
+        "title": "Medi\u00e7\u00e3o de \u00e2ngulos usando um transferidor - Khan Academy em portugu\u00eas (5\u00ba ano)", 
+        "youtube_id": "p9cu2urtjy0"
+      }, 
+      {
+        "description": "V\u00eddeo original: Classifying triangles 1\n(https://www.khanacademy.org/math/basic-geo/basic-geo-shapes/basic-geo-classifying-shapes/v/scalene-isosceles-equilateral-acute-right-obtuse)\n\nA Khan Academy Portugal disponibiliza explica\u00e7\u00f5es online de Matem\u00e1tica gratuitas desde o 1\u00ba at\u00e9 ao 12\u00ba ano de escolaridade.\nEste v\u00eddeo foi produzido pela Khan Academy e traduzido para portugu\u00eas pela Funda\u00e7\u00e3o Portugal Telecom (ver todos os v\u00eddeos dispon\u00edveis em http://fundacao.telecom.pt/khanacademy).", 
+        "title": "Classifica\u00e7\u00e3o de tri\u00e2ngulos 1 - Khan Academy em portugu\u00eas (5\u00ba ano)", 
+        "youtube_id": "Yr4RWs-vZL0"
+      }, 
+      {
+        "description": "V\u00eddeo original: Constructing angles\n(https://www.khanacademy.org/math/basic-geo/basic-geo-angles/basic-geo-angle-basics/v/constructing-angles)\n\nA Khan Academy Portugal disponibiliza explica\u00e7\u00f5es online de Matem\u00e1tica gratuitas desde o 1\u00ba at\u00e9 ao 12\u00ba ano de escolaridade.\nEste v\u00eddeo foi produzido pela Khan Academy e traduzido para portugu\u00eas pela Funda\u00e7\u00e3o Portugal Telecom (ver todos os v\u00eddeos dispon\u00edveis em http://fundacao.telecom.pt/khanacademy).", 
+        "title": "Construir \u00e2ngulos - Khan Academy em portugu\u00eas (5\u00ba ano)", 
+        "youtube_id": "3E_kxoZ3LUg"
+      }, 
+      {
+        "description": "V\u00eddeo original: Naming angles\n(https://www.khanacademy.org/math/basic-geo/basic-geo-angles/basic-geo-angle-basics/v/naming-angles)\n\nA Khan Academy Portugal disponibiliza explica\u00e7\u00f5es online de Matem\u00e1tica gratuitas desde o 1\u00ba at\u00e9 ao 12\u00ba ano de escolaridade.\nEste v\u00eddeo foi produzido pela Khan Academy e traduzido para portugu\u00eas pela Funda\u00e7\u00e3o Portugal Telecom (ver todos os v\u00eddeos dispon\u00edveis em http://fundacao.telecom.pt/khanacademy).", 
+        "title": "Identificar \u00e2ngulos - Khan Academy em portugu\u00eas (4\u00ba ano)", 
+        "youtube_id": "xlM-MAYybkU"
+      }, 
+      {
+        "description": "V\u00eddeo original: Finding width from perimeter and length\n(https://www.khanacademy.org/math/pre-algebra/measurement/rectangle-area-perimeter-word-pr/v/find-width-from-perimeter)\n\nA Khan Academy Portugal disponibiliza explica\u00e7\u00f5es online de Matem\u00e1tica gratuitas desde o 1\u00ba at\u00e9 ao 12\u00ba ano de escolaridade.\nEste v\u00eddeo foi produzido pela Khan Academy e traduzido para portugu\u00eas pela Funda\u00e7\u00e3o Portugal Telecom (ver todos os v\u00eddeos dispon\u00edveis em http://fundacao.telecom.pt/khanacademy).", 
+        "title": "Calcular a largura, a partir do per\u00edmetro e do comprimento - Khan Academy em portugu\u00eas (2\u00ba ano)", 
+        "youtube_id": "LlcktbaVLiE"
+      }, 
+      {
+        "description": "V\u00eddeo original: Counting unit squares to find area formula\n(https://www.khanacademy.org/math/pre-algebra/measurement/area-basics/v/rectangle-area-as-product-of-dimensions-same-as-counting-unit-squares)\n\nA Khan Academy Portugal disponibiliza explica\u00e7\u00f5es online de Matem\u00e1tica gratuitas desde o 1\u00ba at\u00e9 ao 12\u00ba ano de escolaridade.\nEste v\u00eddeo foi produzido pela Khan Academy e traduzido para portugu\u00eas pela Funda\u00e7\u00e3o Portugal Telecom (ver todos os v\u00eddeos dispon\u00edveis em http://fundacao.telecom.pt/khanacademy).", 
+        "title": "Contar unidades quadradas para descobrir a f\u00f3rmula da \u00e1rea - Khan Academy em portugu\u00eas (3\u00ba ano)", 
+        "youtube_id": "eZiATifyKbY"
+      }, 
+      {
+        "description": "V\u00eddeo original: Quadrilateral types\n(https://www.khanacademy.org/math/basic-geo/basic-geo-shapes/basic-geo-classifying-shapes/v/quadrilateral-types-exercise)\n\nA Khan Academy Portugal disponibiliza explica\u00e7\u00f5es online de Matem\u00e1tica gratuitas desde o 1\u00ba at\u00e9 ao 12\u00ba ano de escolaridade.\nEste v\u00eddeo foi produzido pela Khan Academy e traduzido para portugu\u00eas pela Funda\u00e7\u00e3o Portugal Telecom (ver todos os v\u00eddeos dispon\u00edveis em http://fundacao.telecom.pt/khanacademy).", 
+        "title": "Exerc\u00edcio de quadril\u00e1teros: descobrir o tipo de quadril\u00e1tero - Khan Academy em portugu\u00eas (5\u00ba ano)", 
+        "youtube_id": "Fh5NMcmb9RA"
+      }, 
+      {
+        "description": "V\u00eddeo original: Volume with fractional cubes\n(https://www.khanacademy.org/math/basic-geo/basic-geo-volume-surface-area/basic-geo-volume/v/volume-of-a-rectangular-prism-with-fractional-cubes)\n\nA Khan Academy Portugal disponibiliza explica\u00e7\u00f5es online de Matem\u00e1tica gratuitas desde o 1\u00ba at\u00e9 ao 12\u00ba ano de escolaridade.\nEste v\u00eddeo foi produzido pela Khan Academy e traduzido para portugu\u00eas pela Funda\u00e7\u00e3o Portugal Telecom (ver todos os v\u00eddeos dispon\u00edveis em http://fundacao.telecom.pt/khanacademy).", 
+        "title": "Volume de um prisma reto - Khan Academy em portugu\u00eas (6\u00ba ano)", 
+        "youtube_id": "V7Vh1sx-PYE"
+      }, 
+      {
+        "description": "V\u00eddeo original: Rotation of polygons example\n(https://www.khanacademy.org/math/basic-geo/transformations-congruence-similarity-geo/transformations-basics/v/rotation-of-polygons-example)\n\nA Khan Academy Portugal disponibiliza explica\u00e7\u00f5es online de Matem\u00e1tica gratuitas desde o 1\u00ba at\u00e9 ao 12\u00ba ano de escolaridade.\nEste v\u00eddeo foi produzido pela Khan Academy e traduzido para portugu\u00eas pela Funda\u00e7\u00e3o Portugal Telecom (ver todos os v\u00eddeos dispon\u00edveis em http://fundacao.telecom.pt/khanacademy).", 
+        "title": "Exemplo de rota\u00e7\u00e3o de pol\u00edgonos - Khan Academy em portugu\u00eas (8\u00ba ano)", 
+        "youtube_id": "3lkCaNrygII"
+      }, 
+      {
+        "description": "V\u00eddeo original: Dilating shapes: shrinking\n(https://www.khanacademy.org/math/basic-geo/transformations-congruence-similarity-geo/basic-geo-congruence-similarity/v/scaling-down-a-triangle-by-half)\n\nA Khan Academy Portugal disponibiliza explica\u00e7\u00f5es online de Matem\u00e1tica gratuitas desde o 1\u00ba at\u00e9 ao 12\u00ba ano de escolaridade.\nEste v\u00eddeo foi produzido pela Khan Academy e traduzido para portugu\u00eas pela Funda\u00e7\u00e3o Portugal Telecom (ver todos os v\u00eddeos dispon\u00edveis em http://fundacao.telecom.pt/khanacademy).", 
+        "title": "Reduzir um tri\u00e2ngulo a metade  - Khan Academy em portugu\u00eas (7\u00ba ano)", 
+        "youtube_id": "ehfuJai9HWw"
+      }, 
+      {
+        "description": "V\u00eddeo original: Reflecting line across another line example\n(https://www.khanacademy.org/math/basic-geo/transformations-congruence-similarity-geo/transformations-basics/v/reflecting-line-across-another-line-example)\n\nA Khan Academy Portugal disponibiliza explica\u00e7\u00f5es online de Matem\u00e1tica gratuitas desde o 1\u00ba at\u00e9 ao 12\u00ba ano de escolaridade.\nEste v\u00eddeo foi produzido pela Khan Academy e traduzido para portugu\u00eas pela Funda\u00e7\u00e3o Portugal Telecom (ver todos os v\u00eddeos dispon\u00edveis em http://fundacao.telecom.pt/khanacademy).", 
+        "title": "Refletir reta num eixo - Khan Academy em portugu\u00eas (6\u00ba ano)", 
+        "youtube_id": "GS3syGBqieA"
+      }
+    ]
+  }, 
+  {
+    "description": "", 
+    "title": "N\u00fameros e opera\u00e7\u00f5es", 
+    "videos": [
+      {
+        "description": "V\u00eddeo original: Identifying percent amount and base\n(https://www.khanacademy.org/math/arithmetic/decimals/percent-tutorial/v/identifying-percent-amount-and-base)\n\nA Khan Academy Portugal disponibiliza explica\u00e7\u00f5es online de Matem\u00e1tica gratuitas desde o 1\u00ba at\u00e9 ao 12\u00ba ano de escolaridade.\nEste v\u00eddeo foi produzido pela Khan Academy e traduzido para portugu\u00eas pela Funda\u00e7\u00e3o Portugal Telecom (ver todos os v\u00eddeos dispon\u00edveis em http://fundacao.telecom.pt/khanacademy).", 
+        "title": "Identificar percentagem, quantidade e base - Khan Academy em portugu\u00eas (5\u00ba ano)", 
+        "youtube_id": "W14hXZfpa-0"
+      }, 
+      {
+        "description": "V\u00eddeo original: Dividing fractions by whole numbers: studying\n(https://www.khanacademy.org/math/arithmetic/fractions/dividing-fractions-tutorial/v/dividing-a-fraction-by-a-whole-number-word-problem)\n\nA Khan Academy Portugal disponibiliza explica\u00e7\u00f5es online de Matem\u00e1tica gratuitas desde o 1\u00ba at\u00e9 ao 12\u00ba ano de escolaridade.\nEste v\u00eddeo foi produzido pela Khan Academy e traduzido para portugu\u00eas pela Funda\u00e7\u00e3o Portugal Telecom (ver todos os v\u00eddeos dispon\u00edveis em http://fundacao.telecom.pt/khanacademy).", 
+        "title": "Dividir n\u00fameros inteiros e fra\u00e7\u00f5es - Khan Academy em portugu\u00eas (5\u00ba ano)", 
+        "youtube_id": "Ca1wvh7hZ7Y"
+      }, 
+      {
+        "description": "V\u00eddeo original: Multiplication as scaling with fractions\n(https://www.khanacademy.org/math/pre-algebra/fractions-pre-alg/multiplying-fractions-pre-alg/v/multiplication-as-scaling)\n\nA Khan Academy Portugal disponibiliza explica\u00e7\u00f5es online de Matem\u00e1tica gratuitas desde o 1\u00ba at\u00e9 ao 12\u00ba ano de escolaridade.\nEste v\u00eddeo foi produzido pela Khan Academy e traduzido para portugu\u00eas pela Funda\u00e7\u00e3o Portugal Telecom (ver todos os v\u00eddeos dispon\u00edveis em http://fundacao.telecom.pt/khanacademy).", 
+        "title": "Multiplica\u00e7\u00e3o e ordena\u00e7\u00e3o de fra\u00e7\u00f5es - Khan Academy em portugu\u00eas (5\u00ba ano)", 
+        "youtube_id": "0UoWp2YOTC4"
+      }, 
+      {
+        "description": "V\u00eddeo original: Multiplying fractions word problem: laundry\n(https://www.khanacademy.org/math/arithmetic/fractions/multiplying-fractions-word-probl/v/multiplying-fractions-word-problem-4\n)\n\nA Khan Academy Portugal disponibiliza explica\u00e7\u00f5es online de Matem\u00e1tica gratuitas desde o 1\u00ba at\u00e9 ao 12\u00ba ano de escolaridade.\nEste v\u00eddeo foi produzido pela Khan Academy e traduzido para portugu\u00eas pela Funda\u00e7\u00e3o Portugal Telecom (ver todos os v\u00eddeos dispon\u00edveis em http://fundacao.telecom.pt/khanacademy).", 
+        "title": "Problema com multiplica\u00e7\u00e3o de fra\u00e7\u00f5es - Khan Academy em portugu\u00eas (5\u00ba ano)", 
+        "youtube_id": "fca1WqodiVE"
+      }, 
+      {
+        "description": "V\u00eddeo original: Mixed numbers on a number line\n(https://www.khanacademy.org/math/arithmetic/fractions/dividing-fractions-tutorial/v/my-share-of-soap-as-a-mixed-number-on-a-number-line)\n\nA Khan Academy Portugal disponibiliza explica\u00e7\u00f5es online de Matem\u00e1tica gratuitas desde o 1\u00ba at\u00e9 ao 12\u00ba ano de escolaridade.\nEste v\u00eddeo foi produzido pela Khan Academy e traduzido para portugu\u00eas pela Funda\u00e7\u00e3o Portugal Telecom (ver todos os v\u00eddeos dispon\u00edveis em http://fundacao.telecom.pt/khanacademy).", 
+        "title": "Numerais mistos numa reta num\u00e9rica - Khan Academy em portugu\u00eas (5\u00ba ano)", 
+        "youtube_id": "t8J9fzqP8w8"
+      }, 
+      {
+        "description": "V\u00eddeo original: Multiplying positive and negative fractions\n(https://www.khanacademy.org/math/pre-algebra/fractions-pre-alg/multiplying-fractions-pre-alg/v/multiplying-negative-and-positive-fractions)\n\nA Khan Academy Portugal disponibiliza explica\u00e7\u00f5es online de Matem\u00e1tica gratuitas desde o 1\u00ba at\u00e9 ao 12\u00ba ano de escolaridade.\nEste v\u00eddeo foi produzido pela Khan Academy e traduzido para portugu\u00eas pela Funda\u00e7\u00e3o Portugal Telecom (ver todos os v\u00eddeos dispon\u00edveis em http://fundacao.telecom.pt/khanacademy).", 
+        "title": "Multiplica\u00e7\u00e3o de fra\u00e7\u00f5es positivas e negativas - Khan Academy em portugu\u00eas (7\u00ba ano)", 
+        "youtube_id": "HqnqJLqq3A4"
+      }, 
+      {
+        "description": "V\u00eddeo original: Multiplying fractions word problem: milk\n(https://www.khanacademy.org/math/arithmetic/fractions/multiplying-fractions-word-probl/v/multiplying-fractions-word-problem-3)\n\nA Khan Academy Portugal disponibiliza explica\u00e7\u00f5es online de Matem\u00e1tica gratuitas desde o 1\u00ba at\u00e9 ao 12\u00ba ano de escolaridade.\nEste v\u00eddeo foi produzido pela Khan Academy e traduzido para portugu\u00eas pela Funda\u00e7\u00e3o Portugal Telecom (ver todos os v\u00eddeos dispon\u00edveis em http://fundacao.telecom.pt/khanacademy).", 
+        "title": "Problema com multiplica\u00e7\u00e3o de fra\u00e7\u00f5es - Khan Academy em portugu\u00eas (5\u00ba ano)", 
+        "youtube_id": "0HO1sEc7qNA"
+      }, 
+      {
+        "description": "V\u00eddeo original: Multiplying fractions word problem: movies\n(https://www.khanacademy.org/math/arithmetic/fractions/multiplying-fractions-word-probl/v/multiplying-fractions-word-problem-2)\n\nA Khan Academy Portugal disponibiliza explica\u00e7\u00f5es online de Matem\u00e1tica gratuitas desde o 1\u00ba at\u00e9 ao 12\u00ba ano de escolaridade.\nEste v\u00eddeo foi produzido pela Khan Academy e traduzido para portugu\u00eas pela Funda\u00e7\u00e3o Portugal Telecom (ver todos os v\u00eddeos dispon\u00edveis em http://fundacao.telecom.pt/khanacademy).", 
+        "title": "Problema com multiplica\u00e7\u00e3o de fra\u00e7\u00f5es - Khan Academy em portugu\u00eas (5\u00ba ano)", 
+        "youtube_id": "5RtchdQFs00"
+      }, 
+      {
+        "description": "V\u00eddeo original: Multiplying fractions word problem: pigging out on pumpkin pie\n(https://www.khanacademy.org/math/arithmetic/fractions/multiplying-fractions-word-probl/v/multiplying-fractions-word-problem-1)\n\nA Khan Academy Portugal disponibiliza explica\u00e7\u00f5es online de Matem\u00e1tica gratuitas desde o 1\u00ba at\u00e9 ao 12\u00ba ano de escolaridade.\nEste v\u00eddeo foi produzido pela Khan Academy e traduzido para portugu\u00eas pela Funda\u00e7\u00e3o Portugal Telecom (ver todos os v\u00eddeos dispon\u00edveis em http://fundacao.telecom.pt/khanacademy).", 
+        "title": "Problema com multiplica\u00e7\u00e3o de fra\u00e7\u00f5es - Khan Academy em portugu\u00eas (5\u00ba ano)", 
+        "youtube_id": "51YIfYrpbhc"
+      }, 
+      {
+        "description": "V\u00eddeo original: Multiplying unit fractions and whole numbers\n(https://www.khanacademy.org/math/pre-algebra/fractions-pre-alg/multiplying-fractions-pre-alg/v/multiplying-fractions-and-whole-numbers)\n\nA Khan Academy Portugal disponibiliza explica\u00e7\u00f5es online de Matem\u00e1tica gratuitas desde o 1\u00ba at\u00e9 ao 12\u00ba ano de escolaridade.\nEste v\u00eddeo foi produzido pela Khan Academy e traduzido para portugu\u00eas pela Funda\u00e7\u00e3o Portugal Telecom (ver todos os v\u00eddeos dispon\u00edveis em http://fundacao.telecom.pt/khanacademy).", 
+        "title": "Multiplicar fra\u00e7\u00f5es e n\u00fameros inteiros - Khan Academy em portugu\u00eas (5\u00ba ano)", 
+        "youtube_id": "iC9REnFhEEc"
+      }, 
+      {
+        "description": "V\u00eddeo original: Intro to multiplying 2 fractions\n(https://www.khanacademy.org/math/pre-algebra/fractions-pre-alg/multiplying-fractions-pre-alg/v/multiplying-a-fraction-by-a-fraction)\n\nA Khan Academy Portugal disponibiliza explica\u00e7\u00f5es online de Matem\u00e1tica gratuitas desde o 1\u00ba at\u00e9 ao 12\u00ba ano de escolaridade.\nEste v\u00eddeo foi produzido pela Khan Academy e traduzido para portugu\u00eas pela Funda\u00e7\u00e3o Portugal Telecom (ver todos os v\u00eddeos dispon\u00edveis em http://fundacao.telecom.pt/khanacademy).", 
+        "title": "Multiplica\u00e7\u00e3o de duas fra\u00e7\u00f5es: explica\u00e7\u00e3o - Khan Academy em portugu\u00eas (5\u00ba ano)", 
+        "youtube_id": "WnvBr7tRUwU"
+      }, 
+      {
+        "description": "V\u00eddeo original: Dividing negative fractions\n(https://www.khanacademy.org/math/arithmetic/fractions/div-fractions-fractions/v/examples-of-dividing-negative-fractions)\n\nA Khan Academy Portugal disponibiliza explica\u00e7\u00f5es online de Matem\u00e1tica gratuitas desde o 1\u00ba at\u00e9 ao 12\u00ba ano de escolaridade.\nEste v\u00eddeo foi produzido pela Khan Academy e traduzido para portugu\u00eas pela Funda\u00e7\u00e3o Portugal Telecom (ver todos os v\u00eddeos dispon\u00edveis em http://fundacao.telecom.pt/khanacademy).", 
+        "title": "Divis\u00e3o de fra\u00e7\u00f5es negativas - Khan Academy em portugu\u00eas (7\u00ba ano)", 
+        "youtube_id": "cbDh9CyeTvQ"
+      }, 
+      {
+        "description": "V\u00eddeo original: Multiplying fractions word problem: bike\n(https://www.khanacademy.org/math/arithmetic/fractions/multiplying-fractions-word-probl/v/multiplying-fractions-word-problem-5)\n\nA Khan Academy Portugal disponibiliza explica\u00e7\u00f5es online de Matem\u00e1tica gratuitas desde o 1\u00ba at\u00e9 ao 12\u00ba ano de escolaridade.\nEste v\u00eddeo foi produzido pela Khan Academy e traduzido para portugu\u00eas pela Funda\u00e7\u00e3o Portugal Telecom (ver todos os v\u00eddeos dispon\u00edveis em http://fundacao.telecom.pt/khanacademy).", 
+        "title": "Multiplica\u00e7\u00e3o de fra\u00e7\u00f5es - Khan Academy em portugu\u00eas (5\u00ba ano)", 
+        "youtube_id": "H8800NORGYY"
+      }, 
+      {
+        "description": "V\u00eddeo original: Understanding division of fractions\n(https://www.khanacademy.org/math/arithmetic/fractions/div-fractions-fractions/v/conceptual-understanding-of-dividing-fractions-by-fractions)\n\nA Khan Academy Portugal disponibiliza explica\u00e7\u00f5es online de Matem\u00e1tica gratuitas desde o 1\u00ba at\u00e9 ao 12\u00ba ano de escolaridade.\nEste v\u00eddeo foi produzido pela Khan Academy e traduzido para portugu\u00eas pela Funda\u00e7\u00e3o Portugal Telecom (ver todos os v\u00eddeos dispon\u00edveis em http://fundacao.telecom.pt/khanacademy).", 
+        "title": "Compreender a divis\u00e3o de fra\u00e7\u00f5es - Khan Academy em portugu\u00eas (5\u00ba ano)", 
+        "youtube_id": "nvb966mY2N8"
+      }, 
+      {
+        "description": "V\u00eddeo original: Addition and subtraction within 10\n(https://www.khanacademy.org/math/early-math/cc-early-math-add-sub-basics/cc-early-math-add-subtract-10/v/addition-and-subtraction-within-10)\n\nA Khan Academy Portugal disponibiliza explica\u00e7\u00f5es online de Matem\u00e1tica gratuitas desde o 1\u00ba at\u00e9 ao 12\u00ba ano de escolaridade.\nEste v\u00eddeo foi produzido pela Khan Academy e traduzido para portugu\u00eas pela Funda\u00e7\u00e3o Portugal Telecom (ver todos os v\u00eddeos dispon\u00edveis em http://fundacao.telecom.pt/khanacademy).", 
+        "title": "Adi\u00e7\u00e3o e subtra\u00e7\u00e3o at\u00e9 10 - Khan Academy em portugu\u00eas (2\u00ba ano)", 
+        "youtube_id": "UrRp27dnUdc"
+      }, 
+      {
+        "description": "V\u00eddeo original: Strategies for adding 2-digit numbers\n(https://www.khanacademy.org/math/early-math/cc-early-math-add-sub-100/cc-early-math-strategies-for-adding-within-100/v/example-exercises-on-ways-to-add-two-digit-numbers)\n\nA Khan Academy Portugal disponibiliza explica\u00e7\u00f5es online de Matem\u00e1tica gratuitas desde o 1\u00ba at\u00e9 ao 12\u00ba ano de escolaridade.\nEste v\u00eddeo foi produzido pela Khan Academy e traduzido para portugu\u00eas pela Funda\u00e7\u00e3o Portugal Telecom (ver todos os v\u00eddeos dispon\u00edveis em http://fundacao.telecom.pt/khanacademy).", 
+        "title": "Estrat\u00e9gias para adicionar n\u00fameros com 2 algarismos - Khan Academy em portugu\u00eas (2\u00ba ano)", 
+        "youtube_id": "JXIoTdfuGxc"
+      }, 
+      {
+        "description": "V\u00eddeo original: Breaking apart 2-digit addition problems\n(https://www.khanacademy.org/math/early-math/cc-early-math-add-sub-100/cc-early-math-add-two-dig-intro/v/breaking-apart-two-digit-addition-problems)\n\nA Khan Academy Portugal disponibiliza explica\u00e7\u00f5es online de Matem\u00e1tica gratuitas desde o 1\u00ba at\u00e9 ao 12\u00ba ano de escolaridade.\nEste v\u00eddeo foi produzido pela Khan Academy e traduzido para portugu\u00eas pela Funda\u00e7\u00e3o Portugal Telecom (ver todos os v\u00eddeos dispon\u00edveis em http://fundacao.telecom.pt/khanacademy).", 
+        "title": "Decompor exerc\u00edcios de adi\u00e7\u00e3o com 2 algarismos - Khan Academy em portugu\u00eas (2\u00ba ano)", 
+        "youtube_id": "y01jkJnIaeQ"
+      }, 
+      {
+        "description": "V\u00eddeo original: Subtracting a 1-digit number with regrouping\n(https://www.khanacademy.org/math/early-math/cc-early-math-add-sub-100/cc-early-math-sub-two-dig-intro/v/regrouping-to-subtract-one-digit-number)\n\nA Khan Academy Portugal disponibiliza explica\u00e7\u00f5es online de Matem\u00e1tica gratuitas desde o 1\u00ba at\u00e9 ao 12\u00ba ano de escolaridade.\nEste v\u00eddeo foi produzido pela Khan Academy e traduzido para portugu\u00eas pela Funda\u00e7\u00e3o Portugal Telecom (ver todos os v\u00eddeos dispon\u00edveis em http://fundacao.telecom.pt/khanacademy).", 
+        "title": "Subtrair um n\u00famero com 1 algarismo, reagrupando - Khan Academy em portugu\u00eas (2\u00ba ano)", 
+        "youtube_id": "CxIS1d6KNOc"
+      }, 
+      {
+        "description": "V\u00eddeo original: Adding 1 vs. adding 10\n(https://www.khanacademy.org/math/early-math/cc-early-math-add-sub-100/cc-early-math-add-ones-tens/v/comparing-adding-1-and-10)\n\nA Khan Academy Portugal disponibiliza explica\u00e7\u00f5es online de Matem\u00e1tica gratuitas desde o 1\u00ba at\u00e9 ao 12\u00ba ano de escolaridade.\nEste v\u00eddeo foi produzido pela Khan Academy e traduzido para portugu\u00eas pela Funda\u00e7\u00e3o Portugal Telecom (ver todos os v\u00eddeos dispon\u00edveis em http://fundacao.telecom.pt/khanacademy).", 
+        "title": "Adicionar 1 vs. Adicionar 10 - Khan Academy em portugu\u00eas (2\u00ba ano)", 
+        "youtube_id": "EVljewO2YPY"
+      }, 
+      {
+        "description": "V\u00eddeo original: Subtracting 1 vs. subtracting 10\n(https://www.khanacademy.org/math/early-math/cc-early-math-add-sub-100/cc-early-math-sub-ones-tens/v/comparing-subtracting-1-and-10)\n\nA Khan Academy Portugal disponibiliza explica\u00e7\u00f5es online de Matem\u00e1tica gratuitas desde o 1\u00ba at\u00e9 ao 12\u00ba ano de escolaridade.\nEste v\u00eddeo foi produzido pela Khan Academy e traduzido para portugu\u00eas pela Funda\u00e7\u00e3o Portugal Telecom (ver todos os v\u00eddeos dispon\u00edveis em http://fundacao.telecom.pt/khanacademy).", 
+        "title": "Subtrair 1 vs. Subtrair 10 - Khan Academy em portugu\u00eas (2\u00ba ano)", 
+        "youtube_id": "yEOoF3fCzE4"
+      }, 
+      {
+        "description": "V\u00eddeo original: Regrouping to add 1-digit number\n(https://www.khanacademy.org/math/early-math/cc-early-math-add-sub-100/cc-early-math-add-two-dig-intro/v/regrouping-when-adding-two-digit-and-one-digit-number)\n\nA Khan Academy Portugal disponibiliza explica\u00e7\u00f5es online de Matem\u00e1tica gratuitas desde o 1\u00ba at\u00e9 ao 12\u00ba ano de escolaridade.\nEste v\u00eddeo foi produzido pela Khan Academy e traduzido para portugu\u00eas pela Funda\u00e7\u00e3o Portugal Telecom (ver todos os v\u00eddeos dispon\u00edveis em http://fundacao.telecom.pt/khanacademy).", 
+        "title": "Reagrupar para adicionar n\u00fameros com 1 algarismo - Khan Academy em portugu\u00eas (2\u00ba ano)", 
+        "youtube_id": "U454ELUvoqg"
+      }, 
+      {
+        "description": "V\u00eddeo original: Addition and subtraction with number lines\n(https://www.khanacademy.org/math/early-math/cc-early-math-add-sub-100/cc-early-math-strategies-for-adding-within-100/v/correct-number-lines-for-addition-and-subtraction)\n\nA Khan Academy Portugal disponibiliza explica\u00e7\u00f5es online de Matem\u00e1tica gratuitas desde o 1\u00ba at\u00e9 ao 12\u00ba ano de escolaridade.\nEste v\u00eddeo foi produzido pela Khan Academy e traduzido para portugu\u00eas pela Funda\u00e7\u00e3o Portugal Telecom (ver todos os v\u00eddeos dispon\u00edveis em http://fundacao.telecom.pt/khanacademy).", 
+        "title": "Adi\u00e7\u00e3o e subtra\u00e7\u00e3o com retas num\u00e9ricas - Khan Academy em portugu\u00eas (3\u00ba ano)", 
+        "youtube_id": "ldZMfEt1ADg"
+      }, 
+      {
+        "description": "V\u00eddeo original: Missing numbers in addition and subtraction\n(https://www.khanacademy.org/math/early-math/cc-early-math-add-sub-100/cc-early-math-add-sub-miss-value-prob/v/missing-numbers-in-addition-and-subtraction-within-100)\n\nA Khan Academy Portugal disponibiliza explica\u00e7\u00f5es online de Matem\u00e1tica gratuitas desde o 1\u00ba at\u00e9 ao 12\u00ba ano de escolaridade.\nEste v\u00eddeo foi produzido pela Khan Academy e traduzido para portugu\u00eas pela Funda\u00e7\u00e3o Portugal Telecom (ver todos os v\u00eddeos dispon\u00edveis em http://fundacao.telecom.pt/khanacademy).", 
+        "title": "N\u00fameros em falta na adi\u00e7\u00e3o e na subtra\u00e7\u00e3o - Khan Academy em portugu\u00eas (3\u00ba ano)", 
+        "youtube_id": "8naiQC9dI2c"
+      }, 
+      {
+        "description": "V\u00eddeo original: Subtracting two-digit numbers without regrouping (example 2)\n(https://www.khanacademy.org/math/early-math/cc-early-math-add-sub-100/cc-early-math-sub-two-dig-intro/v/subtracting-two-digit-numbers-without-regrouping)\n\nA Khan Academy Portugal disponibiliza explica\u00e7\u00f5es online de Matem\u00e1tica gratuitas desde o 1\u00ba at\u00e9 ao 12\u00ba ano de escolaridade.\nEste v\u00eddeo foi produzido pela Khan Academy e traduzido para portugu\u00eas pela Funda\u00e7\u00e3o Portugal Telecom (ver todos os v\u00eddeos dispon\u00edveis em http://fundacao.telecom.pt/khanacademy).", 
+        "title": "Subtrair n\u00fameros com dois algarismos sem reagrupar (exemplo 2) - Khan Academy em portugu\u00eas (3\u00ba ano)", 
+        "youtube_id": "m6dAIv14nD8"
+      }, 
+      {
+        "description": "V\u00eddeo original: Adding 2-digit numbers without regrouping 1\n(https://www.khanacademy.org/math/early-math/cc-early-math-add-sub-100/cc-early-math-add-two-dig-intro/v/adding-two-digit-numbers-no-regrouping)\n\nA Khan Academy Portugal disponibiliza explica\u00e7\u00f5es online de Matem\u00e1tica gratuitas desde o 1\u00ba at\u00e9 ao 12\u00ba ano de escolaridade.\nEste v\u00eddeo foi produzido pela Khan Academy e traduzido para portugu\u00eas pela Funda\u00e7\u00e3o Portugal Telecom (ver todos os v\u00eddeos dispon\u00edveis em http://fundacao.telecom.pt/khanacademy).", 
+        "title": "Adicionar n\u00fameros com dois algarismos sem reagrupar 1 - Khan Academy em portugu\u00eas (3\u00ba ano)", 
+        "youtube_id": "lWEMj6NNUHE"
+      }, 
+      {
+        "description": "V\u00eddeo original: Breaking apart 3-digit addition problems\n(https://www.khanacademy.org/math/early-math/cc-early-math-add-sub-1000/cc-early-math-strategies-for-adding-two-and-three-digit-numbers/v/breaking-apart-three-digit-addition-problems)\n\nA Khan Academy Portugal disponibiliza explica\u00e7\u00f5es online de Matem\u00e1tica gratuitas desde o 1\u00ba at\u00e9 ao 12\u00ba ano de escolaridade.\nEste v\u00eddeo foi produzido pela Khan Academy e traduzido para portugu\u00eas pela Funda\u00e7\u00e3o Portugal Telecom (ver todos os v\u00eddeos dispon\u00edveis em http://fundacao.telecom.pt/khanacademy).", 
+        "title": "Decompor exerc\u00edcios de adi\u00e7\u00e3o com 3 algarismos - Khan Academy em portugu\u00eas (3\u00ba ano)", 
+        "youtube_id": "9JoqelwjSKI"
+      }, 
+      {
+        "description": "V\u00eddeo original: Adding and subtracting on number line 2\n(https://www.khanacademy.org/math/early-math/cc-early-math-add-sub-1000/cc-early-math-strategies-for-adding-two-and-three-digit-numbers/v/exercise-for-numberline-addition-and-subtraction)\n\nA Khan Academy Portugal disponibiliza explica\u00e7\u00f5es online de Matem\u00e1tica gratuitas desde o 1\u00ba at\u00e9 ao 12\u00ba ano de escolaridade.\nEste v\u00eddeo foi produzido pela Khan Academy e traduzido para portugu\u00eas pela Funda\u00e7\u00e3o Portugal Telecom (ver todos os v\u00eddeos dispon\u00edveis em http://fundacao.telecom.pt/khanacademy).", 
+        "title": "Adicionar e subtrair numa reta num\u00e9rica 2 - Khan Academy em portugu\u00eas (3\u00ba ano)", 
+        "youtube_id": "7VphfkbP6eA"
+      }, 
+      {
+        "description": "V\u00eddeo original: Subtracting 3-digit numbers (no regrouping)\n(https://www.khanacademy.org/math/early-math/cc-early-math-add-sub-1000/cc-early-math-sub-ones-tens-hundreds/v/subtracting-three-digit-numbers-without-regrouping)\n\nA Khan Academy Portugal disponibiliza explica\u00e7\u00f5es online de Matem\u00e1tica gratuitas desde o 1\u00ba at\u00e9 ao 12\u00ba ano de escolaridade.\nEste v\u00eddeo foi produzido pela Khan Academy e traduzido para portugu\u00eas pela Funda\u00e7\u00e3o Portugal Telecom (ver todos os v\u00eddeos dispon\u00edveis em http://fundacao.telecom.pt/khanacademy).", 
+        "title": "Subtrair n\u00fameros com 3 algarismos (sem reagrupar) - Khan Academy em portugu\u00eas (3\u00ba ano)", 
+        "youtube_id": "IQJRAR5U660"
+      }, 
+      {
+        "description": "V\u00eddeo original: Adding 3-digit numbers (no regrouping)\n(https://www.khanacademy.org/math/early-math/cc-early-math-add-sub-1000/cc-early-math-add-ones-tens-hundreds/v/adding-three-digit-numbers-without-regrouping)\n\nA Khan Academy Portugal disponibiliza explica\u00e7\u00f5es online de Matem\u00e1tica gratuitas desde o 1\u00ba at\u00e9 ao 12\u00ba ano de escolaridade.\nEste v\u00eddeo foi produzido pela Khan Academy e traduzido para portugu\u00eas pela Funda\u00e7\u00e3o Portugal Telecom (ver todos os v\u00eddeos dispon\u00edveis em http://fundacao.telecom.pt/khanacademy).", 
+        "title": "Adicionar n\u00fameros com 3 algarismos (sem reagrupar) - Khan Academy em portugu\u00eas (3\u00ba ano)", 
+        "youtube_id": "3MmCo5AQie4"
+      }, 
+      {
+        "description": "V\u00eddeo original: Solving 3-digit addition in your head\n(https://www.khanacademy.org/math/early-math/cc-early-math-add-sub-1000/cc-early-math-strategies-for-adding-two-and-three-digit-numbers/v/rethinking-three-digit-addition-for-mental-calculation)\n\nA Khan Academy Portugal disponibiliza explica\u00e7\u00f5es online de Matem\u00e1tica gratuitas desde o 1\u00ba at\u00e9 ao 12\u00ba ano de escolaridade.\nEste v\u00eddeo foi produzido pela Khan Academy e traduzido para portugu\u00eas pela Funda\u00e7\u00e3o Portugal Telecom (ver todos os v\u00eddeos dispon\u00edveis em http://fundacao.telecom.pt/khanacademy).", 
+        "title": "Resolver uma adi\u00e7\u00e3o com 3 algarismos de cabe\u00e7a - Khan Academy em portugu\u00eas (3\u00ba ano)", 
+        "youtube_id": "9EmrIY2eccs"
+      }, 
+      {
+        "description": "V\u00eddeo original: Addition using groups of 10 and 100\n(https://www.khanacademy.org/math/early-math/cc-early-math-add-sub-1000/cc-early-math-strategies-for-adding-two-and-three-digit-numbers/v/addition-using-groups-of-10-and-100)\n\nA Khan Academy Portugal disponibiliza explica\u00e7\u00f5es online de Matem\u00e1tica gratuitas desde o 1\u00ba at\u00e9 ao 12\u00ba ano de escolaridade.\nEste v\u00eddeo foi produzido pela Khan Academy e traduzido para portugu\u00eas pela Funda\u00e7\u00e3o Portugal Telecom (ver todos os v\u00eddeos dispon\u00edveis em http://fundacao.telecom.pt/khanacademy).", 
+        "title": "Adi\u00e7\u00e3o usando conjuntos de 10 e 100 - Khan Academy em portugu\u00eas (3\u00ba ano)", 
+        "youtube_id": "LWhmPlKh9pA"
+      }, 
+      {
+        "description": "V\u00eddeo original: Comparing whole numbers\n(https://www.khanacademy.org/math/early-math/cc-early-math-place-value-topic/cc-early-math-three-digit-compare/v/comparing-whole-numbers)\n\nA Khan Academy Portugal disponibiliza explica\u00e7\u00f5es online de Matem\u00e1tica gratuitas desde o 1\u00ba at\u00e9 ao 12\u00ba ano de escolaridade.\nEste v\u00eddeo foi produzido pela Khan Academy e traduzido para portugu\u00eas pela Funda\u00e7\u00e3o Portugal Telecom (ver todos os v\u00eddeos dispon\u00edveis em http://fundacao.telecom.pt/khanacademy).", 
+        "title": "Valor posicional (dezenas e centenas) - Khan Academy em portugu\u00eas (2\u00ba ano)", 
+        "youtube_id": "eyGL9Nopfpc"
+      }, 
+      {
+        "description": "V\u00eddeo original: Regrouping whole numbers: 430\n(https://www.khanacademy.org/math/pre-algebra/order-of-operations/regrouping-whole-numbers/v/regrouping-whole-numbers-example-2)\n\nA Khan Academy Portugal disponibiliza explica\u00e7\u00f5es online de Matem\u00e1tica gratuitas desde o 1\u00ba at\u00e9 ao 12\u00ba ano de escolaridade.\nEste v\u00eddeo foi produzido pela Khan Academy e traduzido para portugu\u00eas pela Funda\u00e7\u00e3o Portugal Telecom (ver todos os v\u00eddeos dispon\u00edveis em http://fundacao.telecom.pt/khanacademy).", 
+        "title": "Reagrupar n\u00fameros inteiros - Khan Academy em portugu\u00eas (2\u00ba ano)", 
+        "youtube_id": "84KolGlk71Y"
+      }, 
+      {
+        "description": "V\u00eddeo original: Hexadecimal number system\n(https://www.khanacademy.org/math/pre-algebra/applying-math-reasoning-topic/alternate-number-bases/v/hexadecimal-number-system)\n\nA Khan Academy Portugal disponibiliza explica\u00e7\u00f5es online de Matem\u00e1tica gratuitas desde o 1\u00ba at\u00e9 ao 12\u00ba ano de escolaridade.\nEste v\u00eddeo foi produzido pela Khan Academy e traduzido para portugu\u00eas pela Funda\u00e7\u00e3o Portugal Telecom (ver todos os v\u00eddeos dispon\u00edveis em http://fundacao.telecom.pt/khanacademy).", 
+        "title": "Sistema de numera\u00e7\u00e3o hexadecimal - Khan Academy em portugu\u00eas (3\u00ba ano)", 
+        "youtube_id": "4gqr85t3InY"
+      }, 
+      {
+        "description": "V\u00eddeo original: Regrouping whole numbers: 675\n(https://www.khanacademy.org/math/pre-algebra/order-of-operations/regrouping-whole-numbers/v/regrouping-whole-numbers)\n\nA Khan Academy Portugal disponibiliza explica\u00e7\u00f5es online de Matem\u00e1tica gratuitas desde o 1\u00ba at\u00e9 ao 12\u00ba ano de escolaridade.\nEste v\u00eddeo foi produzido pela Khan Academy e traduzido para portugu\u00eas pela Funda\u00e7\u00e3o Portugal Telecom (ver todos os v\u00eddeos dispon\u00edveis em http://fundacao.telecom.pt/khanacademy).", 
+        "title": "Reagrupar n\u00fameros inteiros: 675 - Khan Academy em portugu\u00eas (2\u00ba ano)", 
+        "youtube_id": "xikg85c0poo"
+      }, 
+      {
+        "description": "V\u00eddeo original: Regrouping whole numbers: 72,830\n(https://www.khanacademy.org/math/pre-algebra/order-of-operations/regrouping-whole-numbers/v/regrouping-whole-numbers-example-1)\n\nA Khan Academy Portugal disponibiliza explica\u00e7\u00f5es online de Matem\u00e1tica gratuitas desde o 1\u00ba at\u00e9 ao 12\u00ba ano de escolaridade.\nEste v\u00eddeo foi produzido pela Khan Academy e traduzido para portugu\u00eas pela Funda\u00e7\u00e3o Portugal Telecom (ver todos os v\u00eddeos dispon\u00edveis em http://fundacao.telecom.pt/khanacademy).", 
+        "title": "Reagrupar n\u00fameros inteiros: exemplo 1- Khan Academy em portugu\u00eas (3\u00ba ano)", 
+        "youtube_id": "cWKhBXCH4Ic"
+      }, 
+      {
+        "description": "V\u00eddeo original: Creating the largest number\n(https://www.khanacademy.org/math/pre-algebra/order-of-operations/whole-number-representations-tut/v/largest-possible-number-from-4-digits-example)\n\nA Khan Academy Portugal disponibiliza explica\u00e7\u00f5es online de Matem\u00e1tica gratuitas desde o 1\u00ba at\u00e9 ao 12\u00ba ano de escolaridade.\nEste v\u00eddeo foi produzido pela Khan Academy e traduzido para portugu\u00eas pela Funda\u00e7\u00e3o Portugal Telecom (ver todos os v\u00eddeos dispon\u00edveis em http://fundacao.telecom.pt/khanacademy).", 
+        "title": "Criar o maior n\u00famero poss\u00edvel - Khan Academy em portugu\u00eas (3\u00ba ano)", 
+        "youtube_id": "y8v5rSnOJj0"
+      }, 
+      {
+        "description": "V\u00eddeo original: Converting larger number from decimal to binary\n(https://www.khanacademy.org/math/pre-algebra/applying-math-reasoning-topic/alternate-number-bases/v/large-number-decimal-to-binary)\n\nA Khan Academy Portugal disponibiliza explica\u00e7\u00f5es online de Matem\u00e1tica gratuitas desde o 1\u00ba at\u00e9 ao 12\u00ba ano de escolaridade.\nEste v\u00eddeo foi produzido pela Khan Academy e traduzido para portugu\u00eas pela Funda\u00e7\u00e3o Portugal Telecom (ver todos os v\u00eddeos dispon\u00edveis em http://fundacao.telecom.pt/khanacademy).", 
+        "title": "Converter n\u00famero maior de decimal em bin\u00e1rio - Khan Academy em portugu\u00eas (8\u00ba ano)", 
+        "youtube_id": "7BpuSUv9Cx8"
+      }
+    ]
+  }, 
+  {
+    "description": "", 
     "title": "Biologia", 
     "videos": [
       {
@@ -3779,6 +4267,36 @@
         "description": "V\u00eddeo original: Example: Complex roots for a quadratic (http://www.khanacademy.org/video/complex-roots-from-the-quadratic-formula)\n\nA Khan Academy Portugal disponibiliza explica\u00e7\u00f5es online de Matem\u00e1tica gratuitas desde o 1\u00ba at\u00e9 ao 12\u00ba ano de escolaridade.\nEste v\u00eddeo foi produzido pela Khan Academy e traduzido para portugu\u00eas pela Funda\u00e7\u00e3o Portugal Telecom (ver todos os v\u00eddeos dispon\u00edveis em http://fundacao.telecom.pt/khanacademy).", 
         "title": "Ra\u00edzes complexas de uma equa\u00e7\u00e3o do 2\u00ba grau - Khan Academy em portugu\u00eas (12\u00ba ano)", 
         "youtube_id": "AXwD4wzBqTg"
+      }, 
+      {
+        "description": "V\u00eddeo original: Dividing fractions: 2/5 \u00c3\u00b7 7/3\n(https://www.khanacademy.org/math/arithmetic/fractions/div-fractions-fractions/v/another-dividing-fractions-example)\n\nA Khan Academy Portugal disponibiliza explica\u00e7\u00f5es online de Matem\u00e1tica gratuitas desde o 1\u00ba at\u00e9 ao 12\u00ba ano de escolaridade.\nEste v\u00eddeo foi produzido pela Khan Academy e traduzido para portugu\u00eas pela Funda\u00e7\u00e3o Portugal Telecom (ver todos os v\u00eddeos dispon\u00edveis em http://fundacao.telecom.pt/khanacademy).", 
+        "title": "Divis\u00e3o de fra\u00e7\u00f5es: exemplos - Khan Academy em portugu\u00eas (5\u00ba ano)", 
+        "youtube_id": "yB5WIIzN_dE"
+      }, 
+      {
+        "description": "V\u00eddeo original: Creating a fraction through division\n(https://www.khanacademy.org/math/arithmetic/fractions/dividing-fractions-tutorial/v/creating-a-fraction-through-division-of-whole-numbers)\n\nA Khan Academy Portugal disponibiliza explica\u00e7\u00f5es online de Matem\u00e1tica gratuitas desde o 1\u00ba at\u00e9 ao 12\u00ba ano de escolaridade.\nEste v\u00eddeo foi produzido pela Khan Academy e traduzido para portugu\u00eas pela Funda\u00e7\u00e3o Portugal Telecom (ver todos os v\u00eddeos dispon\u00edveis em http://fundacao.telecom.pt/khanacademy).", 
+        "title": "Divis\u00e3o de n\u00fameros inteiros e fra\u00e7\u00f5es - Khan Academy em portugu\u00eas (5\u00ba ano)", 
+        "youtube_id": "JlMsJ1FUxsM"
+      }, 
+      {
+        "description": "V\u00eddeo original: Dividing whole numbers by fractions: potpourri\n(https://www.khanacademy.org/math/arithmetic/fractions/dividing-fractions-tutorial/v/dividing-a-whole-number-by-a-fraction-word-problem)\n\nA Khan Academy Portugal disponibiliza explica\u00e7\u00f5es online de Matem\u00e1tica gratuitas desde o 1\u00ba at\u00e9 ao 12\u00ba ano de escolaridade.\nEste v\u00eddeo foi produzido pela Khan Academy e traduzido para portugu\u00eas pela Funda\u00e7\u00e3o Portugal Telecom (ver todos os v\u00eddeos dispon\u00edveis em http://fundacao.telecom.pt/khanacademy).", 
+        "title": "Gerar fra\u00e7\u00f5es atrav\u00e9s da divis\u00e3o de n\u00fameros inteiros - Khan Academy em portugu\u00eas (5\u00ba ano)", 
+        "youtube_id": "sHbM7HhZoXU"
+      }, 
+      {
+        "description": "V\u00eddeo original: Making a scale drawing\n(https://www.khanacademy.org/math/basic-geo/basic-geo-area-perimeter/basic-geo-scale-drawings/v/constructing-scale-drawings)\n\nA Khan Academy Portugal disponibiliza explica\u00e7\u00f5es online de Matem\u00e1tica gratuitas desde o 1\u00ba at\u00e9 ao 12\u00ba ano de escolaridade.\nEste v\u00eddeo foi produzido pela Khan Academy e traduzido para portugu\u00eas pela Funda\u00e7\u00e3o Portugal Telecom (ver todos os v\u00eddeos dispon\u00edveis em http://fundacao.telecom.pt/khanacademy).", 
+        "title": "Fazer um desenho \u00e0 escala - Khan Academy em portugu\u00eas (6\u00ba ano)", 
+        "youtube_id": "u9vlllm3kyo"
+      }, 
+      {
+        "description": "V\u00eddeo original: Interpreting a scale drawing\n(https://www.khanacademy.org/math/basic-geo/basic-geo-area-perimeter/basic-geo-scale-drawings/v/scale-drawings-example)\n\nA Khan Academy Portugal disponibiliza explica\u00e7\u00f5es online de Matem\u00e1tica gratuitas desde o 1\u00ba at\u00e9 ao 12\u00ba ano de escolaridade.\nEste v\u00eddeo foi produzido pela Khan Academy e traduzido para portugu\u00eas pela Funda\u00e7\u00e3o Portugal Telecom (ver todos os v\u00eddeos dispon\u00edveis em http://fundacao.telecom.pt/khanacademy).", 
+        "title": "Interpretar um desenho \u00e0 escala - Khan Academy em portugu\u00eas (6\u00ba ano)", 
+        "youtube_id": "9vt1Lk8bjqA"
+      }, 
+      {
+        "description": "V\u00eddeo original: Solving a scale drawing word problem\n(https://www.khanacademy.org/math/basic-geo/basic-geo-area-perimeter/basic-geo-scale-drawings/v/scale-drawing-example-2)\n\nA Khan Academy Portugal disponibiliza explica\u00e7\u00f5es online de Matem\u00e1tica gratuitas desde o 1\u00ba at\u00e9 ao 12\u00ba ano de escolaridade.\nEste v\u00eddeo foi produzido pela Khan Academy e traduzido para portugu\u00eas pela Funda\u00e7\u00e3o Portugal Telecom (ver todos os v\u00eddeos dispon\u00edveis em http://fundacao.telecom.pt/khanacademy).", 
+        "title": "Resolu\u00e7\u00e3o de um problema com escala - Khan Academy em portugu\u00eas (6\u00ba ano)", 
+        "youtube_id": "wqan75SeF-M"
       }
     ]
   }, 
