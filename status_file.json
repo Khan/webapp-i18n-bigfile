@@ -149,6 +149,7 @@
     }, 
     "tr": {
         "approved": 263419, 
+        "pending_since_timestamp": 1479534473.601447, 
         "translated": 344365
     }, 
     "uk": {
@@ -160,9 +161,8 @@
         "translated": 1611
     }, 
     "xh": {
-        "approved": 0, 
-        "pending_since_timestamp": 1479409244.748203, 
-        "translated": 1
+        "approved": 40, 
+        "translated": 41
     }, 
     "zh-hans": {
         "approved": 744, 
