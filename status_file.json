@@ -26,6 +26,7 @@
     }, 
     "el": {
         "approved": 880, 
+        "pending_since_timestamp": 1482396024.081699, 
         "translated": 9835
     }, 
     "es": {
@@ -54,6 +55,7 @@
     }, 
     "hy": {
         "approved": 5264, 
+        "pending_since_timestamp": 1482396024.081699, 
         "translated": 10290
     }, 
     "id": {
@@ -74,8 +76,7 @@
     }, 
     "ko": {
         "approved": 142408, 
-        "pending_since_timestamp": 1482392487.362292, 
-        "translated": 156493
+        "translated": 156523
     }, 
     "lol": {
         "approved": 397, 
