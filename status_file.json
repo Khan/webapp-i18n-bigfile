@@ -21,6 +21,7 @@
     }, 
     "de": {
         "approved": 200808, 
+        "pending_since_timestamp": 1483685020.937382, 
         "translated": 200887
     }, 
     "el": {
@@ -73,9 +74,8 @@
         "translated": 193443
     }, 
     "ko": {
-        "approved": 146897, 
-        "pending_since_timestamp": 1483683667.582111, 
-        "translated": 160261
+        "approved": 147018, 
+        "translated": 160272
     }, 
     "lol": {
         "approved": 397, 
@@ -131,6 +131,7 @@
     }, 
     "tr": {
         "approved": 242708, 
+        "pending_since_timestamp": 1483685020.937382, 
         "translated": 323241
     }, 
     "uk": {
