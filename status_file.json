@@ -41,6 +41,7 @@
     }, 
     "fr": {
         "approved": 216061, 
+        "pending_since_timestamp": 1486106162.143764, 
         "translated": 225039
     }, 
     "he": {
@@ -73,6 +74,7 @@
     }, 
     "ko": {
         "approved": 151281, 
+        "pending_since_timestamp": 1486106162.143764, 
         "translated": 160893
     }, 
     "lol": {
@@ -145,8 +147,7 @@
     }, 
     "zh-hans": {
         "approved": 136, 
-        "pending_since_timestamp": 1486103735.240644, 
-        "translated": 5056
+        "translated": 5065
     }, 
     "zu": {
         "approved": 1, 
