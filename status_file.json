@@ -9,6 +9,7 @@
     }, 
     "bn": {
         "approved": 126518, 
+        "pending_since_timestamp": 1487149678.262915, 
         "translated": 139363
     }, 
     "cs": {
@@ -71,8 +72,7 @@
     }, 
     "ka": {
         "approved": 189386, 
-        "pending_since_timestamp": 1487141528.823413, 
-        "translated": 194529
+        "translated": 194610
     }, 
     "ko": {
         "approved": 152619, 
@@ -97,10 +97,12 @@
     }, 
     "nl": {
         "approved": 102692, 
+        "pending_since_timestamp": 1487149678.262915, 
         "translated": 126901
     }, 
     "pl": {
         "approved": 250841, 
+        "pending_since_timestamp": 1487149678.262915, 
         "translated": 251140
     }, 
     "pt": {
