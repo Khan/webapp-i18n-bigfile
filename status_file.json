@@ -80,12 +80,12 @@
     }, 
     "ka": {
         "approved": 191873, 
+        "pending_since_timestamp": 1489494422.092208, 
         "translated": 198991
     }, 
     "ko": {
-        "approved": 152536, 
-        "pending_since_timestamp": 1489455145.390142, 
-        "translated": 162972
+        "approved": 152553, 
+        "translated": 162974
     }, 
     "lol": {
         "approved": 392, 
@@ -148,6 +148,7 @@
     }, 
     "tr": {
         "approved": 247324, 
+        "pending_since_timestamp": 1489494422.092208, 
         "translated": 335532
     }, 
     "uk": {
