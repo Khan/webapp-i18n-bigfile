@@ -5,6 +5,7 @@
     }, 
     "bg": {
         "approved": 198738, 
+        "pending_since_timestamp": 1493273248.176978, 
         "translated": 229964
     }, 
     "bn": {
@@ -18,6 +19,7 @@
     }, 
     "da": {
         "approved": 72861, 
+        "pending_since_timestamp": 1493273248.176978, 
         "translated": 85875
     }, 
     "de": {
@@ -74,8 +76,7 @@
     }, 
     "ko": {
         "approved": 152960, 
-        "pending_since_timestamp": 1493256151.541339, 
-        "translated": 169685
+        "translated": 169716
     }, 
     "lol": {
         "approved": 382, 
