@@ -29,6 +29,7 @@
     }, 
     "es": {
         "approved": 347052, 
+        "pending_since_timestamp": 1493860074.252627, 
         "translated": 365641
     }, 
     "fa": {
@@ -101,9 +102,8 @@
         "translated": 268538
     }, 
     "pt": {
-        "approved": 282007, 
-        "pending_since_timestamp": 1493855531.860009, 
-        "translated": 317717
+        "approved": 282011, 
+        "translated": 317737
     }, 
     "pt-pt": {
         "approved": 84552, 
@@ -147,6 +147,7 @@
     }, 
     "zh-hans": {
         "approved": 3167, 
+        "pending_since_timestamp": 1493860074.252627, 
         "translated": 19761
     }, 
     "zu": {
