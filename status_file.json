@@ -40,8 +40,8 @@
         "translated": 104
     }, 
     "fr": {
-        "approved": 231947, 
-        "translated": 239776
+        "approved": 231948, 
+        "translated": 239780
     }, 
     "he": {
         "approved": 7274, 
@@ -73,6 +73,7 @@
     }, 
     "ko": {
         "approved": 153205, 
+        "pending_since_timestamp": 1494395105.0665, 
         "translated": 170228
     }, 
     "lol": {
@@ -117,6 +118,7 @@
     }, 
     "sw": {
         "approved": 40928, 
+        "pending_since_timestamp": 1494395105.0665, 
         "translated": 58279
     }, 
     "te": {
@@ -145,6 +147,7 @@
     }, 
     "zh-hans": {
         "approved": 5065, 
+        "pending_since_timestamp": 1494395105.0665, 
         "translated": 24454
     }, 
     "zu": {
