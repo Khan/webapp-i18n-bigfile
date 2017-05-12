@@ -5,6 +5,7 @@
     }, 
     "bg": {
         "approved": 196888, 
+        "pending_since_timestamp": 1494571286.676286, 
         "translated": 231030
     }, 
     "bn": {
@@ -106,9 +107,8 @@
         "translated": 266765
     }, 
     "pt": {
-        "approved": 281614, 
-        "pending_since_timestamp": 1494550020.726153, 
-        "translated": 317022
+        "approved": 281654, 
+        "translated": 317037
     }, 
     "pt-pt": {
         "approved": 85807, 
@@ -124,6 +124,7 @@
     }, 
     "sw": {
         "approved": 41969, 
+        "pending_since_timestamp": 1494571286.676286, 
         "translated": 58954
     }, 
     "te": {
