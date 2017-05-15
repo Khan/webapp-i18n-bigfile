@@ -134,6 +134,7 @@
     }, 
     "th": {
         "approved": 301, 
+        "pending_since_timestamp": 1494868495.794934, 
         "translated": 119393
     }, 
     "tr": {
@@ -154,9 +155,8 @@
         "translated": 40
     }, 
     "zh-hans": {
-        "approved": 5066, 
-        "pending_since_timestamp": 1494832605.959066, 
-        "translated": 27387
+        "approved": 5383, 
+        "translated": 27471
     }, 
     "zu": {
         "approved": 1, 
