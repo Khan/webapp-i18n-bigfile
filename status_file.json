@@ -55,6 +55,10 @@
         "approved": 98064, 
         "translated": 114055
     }, 
+    "hu": {
+        "approved": 43642, 
+        "translated": 51450
+    }, 
     "hy": {
         "approved": 7403, 
         "translated": 12230
@@ -121,6 +125,7 @@
     }, 
     "ro": {
         "approved": 52282, 
+        "pending_since_timestamp": 1498249457.861972, 
         "translated": 63234
     }, 
     "ru": {
