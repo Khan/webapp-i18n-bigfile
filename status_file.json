@@ -133,6 +133,7 @@
     }, 
     "ro": {
         "approved": 52282, 
+        "pending_since_timestamp": 1498257850.901361, 
         "translated": 63327
     }, 
     "ru": {
@@ -181,6 +182,10 @@
         "approved": 6654, 
         "pending_since_timestamp": 1498154629.827805, 
         "translated": 39036
+    }, 
+    "zh-hant": {
+        "approved": 7573, 
+        "translated": 65780
     }, 
     "zu": {
         "approved": 1, 
