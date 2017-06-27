@@ -30,11 +30,11 @@
     }, 
     "da": {
         "approved": 71682, 
-        "pending_since_timestamp": 1498560429.301713, 
-        "translated": 93575
+        "translated": 93632
     }, 
     "de": {
         "approved": 214120, 
+        "pending_since_timestamp": 1498600095.459152, 
         "translated": 216345
     }, 
     "el": {
@@ -43,6 +43,7 @@
     }, 
     "es": {
         "approved": 352333, 
+        "pending_since_timestamp": 1498600095.459152, 
         "translated": 368843
     }, 
     "et": {
@@ -252,6 +253,7 @@
     }, 
     "zh-hans": {
         "approved": 7946, 
+        "pending_since_timestamp": 1498600095.459152, 
         "translated": 39835
     }, 
     "zh-hant": {
