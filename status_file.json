@@ -80,6 +80,7 @@
     }, 
     "hi": {
         "approved": 98056, 
+        "pending_since_timestamp": 1499424197.415672, 
         "translated": 114062
     }, 
     "hr": {
@@ -177,8 +178,7 @@
     }, 
     "pt": {
         "approved": 293584, 
-        "pending_since_timestamp": 1499398220.215724, 
-        "translated": 331615
+        "translated": 331630
     }, 
     "pt-pt": {
         "approved": 93709, 
