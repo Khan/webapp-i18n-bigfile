@@ -151,6 +151,10 @@
         "approved": 81111, 
         "translated": 107957
     }, 
+    "mr": {
+        "approved": 0, 
+        "translated": 0
+    }, 
     "ms": {
         "approved": 29, 
         "translated": 757
@@ -227,6 +231,7 @@
     }, 
     "sv": {
         "approved": 38714, 
+        "pending_since_timestamp": 1500314992.890163, 
         "translated": 101172
     }, 
     "sw": {
