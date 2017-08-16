@@ -189,6 +189,7 @@
     }, 
     "pl": {
         "approved": 280107, 
+        "pending_since_timestamp": 1502873479.567249, 
         "translated": 281004
     }, 
     "pt": {
@@ -227,6 +228,7 @@
     }, 
     "sq": {
         "approved": 49292, 
+        "pending_since_timestamp": 1502873479.567249, 
         "translated": 55153
     }, 
     "sr": {
@@ -256,9 +258,8 @@
         "translated": 132190
     }, 
     "tr": {
-        "approved": 269410, 
-        "pending_since_timestamp": 1502858568.906977, 
-        "translated": 393670
+        "approved": 269763, 
+        "translated": 393897
     }, 
     "uk": {
         "approved": 98, 
