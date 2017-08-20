@@ -176,6 +176,7 @@
     }, 
     "pl": {
         "approved": 280964, 
+        "pending_since_timestamp": 1503218229.093734, 
         "translated": 281890
     }, 
     "pt": {
@@ -220,6 +221,7 @@
     }, 
     "sv": {
         "approved": 38536, 
+        "pending_since_timestamp": 1503218229.093734, 
         "translated": 101054
     }, 
     "sw": {
@@ -240,8 +242,7 @@
     }, 
     "tr": {
         "approved": 271298, 
-        "pending_since_timestamp": 1503215118.71931, 
-        "translated": 396609
+        "translated": 396626
     }, 
     "uk": {
         "approved": 98, 
@@ -265,6 +266,7 @@
     }, 
     "zh-hans": {
         "approved": 14807, 
+        "pending_since_timestamp": 1503218229.093734, 
         "translated": 75826
     }, 
     "zh-hant": {
