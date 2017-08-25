@@ -77,8 +77,7 @@
     }, 
     "gu": {
         "approved": 0, 
-        "pending_since_timestamp": 1503583861.448834, 
-        "translated": 2
+        "translated": 0
     }, 
     "he": {
         "approved": 7003, 
@@ -102,6 +101,7 @@
     }, 
     "hy": {
         "approved": 19888, 
+        "pending_since_timestamp": 1503643996.518338, 
         "translated": 40765
     }, 
     "id": {
