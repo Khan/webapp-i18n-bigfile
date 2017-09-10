@@ -173,6 +173,7 @@
     }, 
     "pl": {
         "approved": 287343, 
+        "pending_since_timestamp": 1505022265.052251, 
         "translated": 288172
     }, 
     "pt": {
@@ -266,8 +267,7 @@
     }, 
     "zh-hant": {
         "approved": 7526, 
-        "pending_since_timestamp": 1505019032.488064, 
-        "translated": 66040
+        "translated": 66065
     }, 
     "zu": {
         "approved": 1, 
