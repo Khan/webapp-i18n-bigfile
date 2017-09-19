@@ -39,6 +39,7 @@
     }, 
     "de": {
         "approved": 225966, 
+        "pending_since_timestamp": 1505833836.039584, 
         "translated": 229018
     }, 
     "el": {
@@ -72,6 +73,7 @@
     }, 
     "fr": {
         "approved": 251361, 
+        "pending_since_timestamp": 1505833836.039584, 
         "translated": 259374
     }, 
     "gu": {
@@ -181,8 +183,7 @@
     }, 
     "pl": {
         "approved": 289572, 
-        "pending_since_timestamp": 1505822396.826845, 
-        "translated": 290399
+        "translated": 290557
     }, 
     "pt": {
         "approved": 308904, 
