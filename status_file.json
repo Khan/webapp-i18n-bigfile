@@ -256,6 +256,7 @@
     }, 
     "ta": {
         "approved": 13349, 
+        "pending_since_timestamp": 1507216443.924365, 
         "translated": 48506
     }, 
     "te": {
@@ -299,9 +300,8 @@
         "translated": 87017
     }, 
     "zh-hant": {
-        "approved": 7493, 
-        "pending_since_timestamp": 1506990259.087778, 
-        "translated": 65949
+        "approved": 7498, 
+        "translated": 65974
     }, 
     "zu": {
         "approved": 1, 
