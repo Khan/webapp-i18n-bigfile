@@ -14,6 +14,7 @@
     }, 
     "az": {
         "approved": 36096, 
+        "pending_since_timestamp": 1508260809.477184, 
         "translated": 36982
     }, 
     "bg": {
@@ -127,6 +128,7 @@
     }, 
     "ka": {
         "approved": 215866, 
+        "pending_since_timestamp": 1508260809.477184, 
         "translated": 222702
     }, 
     "kn": {
@@ -155,9 +157,8 @@
         "translated": 45391
     }, 
     "mn": {
-        "approved": 86657, 
-        "pending_since_timestamp": 1508226801.359573, 
-        "translated": 114499
+        "approved": 86745, 
+        "translated": 114587
     }, 
     "mr": {
         "approved": 0, 
