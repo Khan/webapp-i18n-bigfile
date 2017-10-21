@@ -19,6 +19,7 @@
     }, 
     "bg": {
         "approved": 247607, 
+        "pending_since_timestamp": 1508597109.946841, 
         "translated": 261079
     }, 
     "bn": {
@@ -36,6 +37,7 @@
     }, 
     "da": {
         "approved": 76178, 
+        "pending_since_timestamp": 1508597109.946841, 
         "translated": 98517
     }, 
     "de": {
@@ -75,9 +77,8 @@
         "translated": 1
     }, 
     "fr": {
-        "approved": 256755, 
-        "pending_since_timestamp": 1508562863.287713, 
-        "translated": 262510
+        "approved": 256974, 
+        "translated": 262525
     }, 
     "gu": {
         "approved": 33880, 
@@ -90,6 +91,7 @@
     }, 
     "hi": {
         "approved": 97419, 
+        "pending_since_timestamp": 1508597109.946841, 
         "translated": 113448
     }, 
     "hr": {
@@ -108,6 +110,7 @@
     }, 
     "hy": {
         "approved": 74326, 
+        "pending_since_timestamp": 1508597109.946841, 
         "translated": 86029
     }, 
     "id": {
@@ -155,6 +158,7 @@
     }, 
     "mn": {
         "approved": 86785, 
+        "pending_since_timestamp": 1508597109.946841, 
         "translated": 114627
     }, 
     "mr": {
@@ -171,10 +175,12 @@
     }, 
     "nb": {
         "approved": 134031, 
+        "pending_since_timestamp": 1508597109.946841, 
         "translated": 140040
     }, 
     "nl": {
         "approved": 111351, 
+        "pending_since_timestamp": 1508597109.946841, 
         "translated": 132382
     }, 
     "nn": {
@@ -192,6 +198,7 @@
     }, 
     "pt": {
         "approved": 312632, 
+        "pending_since_timestamp": 1508597109.946841, 
         "translated": 360008
     }, 
     "pt-pt": {
@@ -230,6 +237,7 @@
     }, 
     "sr": {
         "approved": 53932, 
+        "pending_since_timestamp": 1508597109.946841, 
         "translated": 70937
     }, 
     "sv": {
@@ -284,6 +292,7 @@
     }, 
     "zh-hans": {
         "approved": 33684, 
+        "pending_since_timestamp": 1508597109.946841, 
         "translated": 91717
     }, 
     "zh-hant": {
