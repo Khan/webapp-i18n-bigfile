@@ -19,9 +19,8 @@
         "translated": 37115
     }, 
     "bg": {
-        "approved": 263904, 
-        "pending_since_timestamp": 1509662456.789969, 
-        "translated": 265967
+        "approved": 263902, 
+        "translated": 266043
     }, 
     "bn": {
         "approved": 146908, 
@@ -39,6 +38,7 @@
     }, 
     "da": {
         "approved": 76670, 
+        "pending_since_timestamp": 1509723289.646216, 
         "translated": 99197
     }, 
     "de": {
@@ -85,14 +85,17 @@
     }, 
     "gu": {
         "approved": 33853, 
+        "pending_since_timestamp": 1509723289.646216, 
         "translated": 36710
     }, 
     "he": {
         "approved": 6951, 
+        "pending_since_timestamp": 1509723289.646216, 
         "translated": 7530
     }, 
     "hi": {
         "approved": 97424, 
+        "pending_since_timestamp": 1509723289.646216, 
         "translated": 114136
     }, 
     "hr": {
@@ -111,6 +114,7 @@
     }, 
     "hy": {
         "approved": 74705, 
+        "pending_since_timestamp": 1509723289.646216, 
         "translated": 86100
     }, 
     "id": {
@@ -139,6 +143,7 @@
     }, 
     "ko": {
         "approved": 174111, 
+        "pending_since_timestamp": 1509723289.646216, 
         "translated": 184909
     }, 
     "ky": {
@@ -162,6 +167,7 @@
     }, 
     "mn": {
         "approved": 87004, 
+        "pending_since_timestamp": 1509723289.646216, 
         "translated": 116120
     }, 
     "mr": {
@@ -180,10 +186,12 @@
     }, 
     "nb": {
         "approved": 134028, 
+        "pending_since_timestamp": 1509723289.646216, 
         "translated": 140065
     }, 
     "nl": {
         "approved": 111456, 
+        "pending_since_timestamp": 1509723289.646216, 
         "translated": 132571
     }, 
     "nn": {
@@ -197,6 +205,7 @@
     }, 
     "pl": {
         "approved": 295367, 
+        "pending_since_timestamp": 1509723289.646216, 
         "translated": 295740
     }, 
     "pt": {
@@ -243,10 +252,12 @@
     }, 
     "sr": {
         "approved": 54460, 
+        "pending_since_timestamp": 1509723289.646216, 
         "translated": 71077
     }, 
     "sv": {
         "approved": 72566, 
+        "pending_since_timestamp": 1509723289.646216, 
         "translated": 134612
     }, 
     "sw": {
@@ -297,6 +308,7 @@
     }, 
     "zh-hans": {
         "approved": 40088, 
+        "pending_since_timestamp": 1509723289.646216, 
         "translated": 95540
     }, 
     "zh-hant": {
