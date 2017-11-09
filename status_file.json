@@ -243,6 +243,7 @@
     }, 
     "ta": {
         "approved": 32306, 
+        "pending_since_timestamp": 1510205638.908145, 
         "translated": 49789
     }, 
     "te": {
@@ -264,8 +265,7 @@
     }, 
     "ur": {
         "approved": 2401, 
-        "pending_since_timestamp": 1510109374.119873, 
-        "translated": 3909
+        "translated": 3934
     }, 
     "uz": {
         "approved": 154, 
