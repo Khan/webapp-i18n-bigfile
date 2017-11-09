@@ -89,6 +89,7 @@
     }, 
     "hi": {
         "approved": 149255, 
+        "pending_since_timestamp": 1510253198.428449, 
         "translated": 166174
     }, 
     "hr": {
@@ -262,9 +263,8 @@
         "translated": 131551
     }, 
     "tr": {
-        "approved": 275661, 
-        "pending_since_timestamp": 1510212462.919201, 
-        "translated": 390659
+        "approved": 275822, 
+        "translated": 390757
     }, 
     "uk": {
         "approved": 98, 
