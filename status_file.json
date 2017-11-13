@@ -227,6 +227,7 @@
     }, 
     "sq": {
         "approved": 49901, 
+        "pending_since_timestamp": 1510584295.782441, 
         "translated": 65430
     }, 
     "sr": {
@@ -242,9 +243,8 @@
         "translated": 0
     }, 
     "ta": {
-        "approved": 33375, 
-        "pending_since_timestamp": 1510559631.06728, 
-        "translated": 49961
+        "approved": 33377, 
+        "translated": 50036
     }, 
     "te": {
         "approved": 16, 
