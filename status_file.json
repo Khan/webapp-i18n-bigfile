@@ -10,6 +10,7 @@
     }, 
     "ar": {
         "approved": 374, 
+        "pending_since_timestamp": 1512642354.291746, 
         "translated": 11795
     }, 
     "az": {
@@ -119,6 +120,7 @@
     }, 
     "id": {
         "approved": 17629, 
+        "pending_since_timestamp": 1512642354.291746, 
         "translated": 25361
     }, 
     "it": {
@@ -301,9 +303,8 @@
         "translated": 40
     }, 
     "zh-hans": {
-        "approved": 54445, 
-        "pending_since_timestamp": 1512498950.05249, 
-        "translated": 97774
+        "approved": 54276, 
+        "translated": 97219
     }, 
     "zh-hant": {
         "approved": 8058, 
