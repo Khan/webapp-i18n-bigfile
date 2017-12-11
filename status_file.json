@@ -1,8 +1,7 @@
 {
     "af": {
-        "approved": 20, 
-        "pending_since_timestamp": 1512506317.116935, 
-        "translated": 1568
+        "approved": 19, 
+        "translated": 1526
     }, 
     "am": {
         "approved": 0, 
@@ -192,6 +191,7 @@
     }, 
     "pl": {
         "approved": 300405, 
+        "pending_since_timestamp": 1512986843.668678, 
         "translated": 300935
     }, 
     "pt": {
@@ -233,6 +233,7 @@
     }, 
     "sr": {
         "approved": 54473, 
+        "pending_since_timestamp": 1512986843.668678, 
         "translated": 70816
     }, 
     "sv": {
