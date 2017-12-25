@@ -36,6 +36,7 @@
     }, 
     "da": {
         "approved": 77759, 
+        "pending_since_timestamp": 1514220741.082211, 
         "translated": 104695
     }, 
     "de": {
@@ -203,9 +204,8 @@
         "translated": 68154
     }, 
     "ru": {
-        "approved": 1768, 
-        "pending_since_timestamp": 1513628603.939997, 
-        "translated": 21462
+        "approved": 1767, 
+        "translated": 21546
     }, 
     "rw": {
         "approved": 0, 
