@@ -80,7 +80,7 @@
         "translated": 7381
     }, 
     "hi": {
-        "approved": 150772, 
+        "approved": 150921, 
         "translated": 171092
     }, 
     "hr": {
@@ -173,6 +173,7 @@
     }, 
     "pl": {
         "approved": 304924, 
+        "pending_since_timestamp": 1514791443.492313, 
         "translated": 305309
     }, 
     "pt": {
@@ -261,6 +262,7 @@
     }, 
     "zh-hans": {
         "approved": 63629, 
+        "pending_since_timestamp": 1514791443.492313, 
         "translated": 98492
     }, 
     "zh-hant": {
