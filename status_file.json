@@ -87,6 +87,7 @@
     }, 
     "hi": {
         "approved": 158808, 
+        "pending_since_timestamp": 1517555292.428757, 
         "translated": 173804
     }, 
     "hr": {
@@ -104,6 +105,7 @@
     }, 
     "hy": {
         "approved": 82256, 
+        "pending_since_timestamp": 1517555292.428757, 
         "translated": 90304
     }, 
     "id": {
@@ -133,9 +135,8 @@
         "translated": 153
     }, 
     "ko": {
-        "approved": 178990, 
-        "pending_since_timestamp": 1517495420.37546, 
-        "translated": 190100
+        "approved": 178991, 
+        "translated": 190438
     }, 
     "ky": {
         "approved": 0, 
