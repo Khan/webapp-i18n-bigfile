@@ -10,7 +10,7 @@
     "ar": {
         "approved": 588, 
         "pending_since_timestamp": 1519017389.757287, 
-        "translated": 18539
+        "translated": 18538
     }, 
     "az": {
         "approved": 36018, 
@@ -20,12 +20,12 @@
     "bg": {
         "approved": 276460, 
         "pending_since_timestamp": 1519196702.586246, 
-        "translated": 277359
+        "translated": 277348
     }, 
     "bn": {
-        "approved": 149453, 
+        "approved": 149452, 
         "pending_since_timestamp": 1519173346.72708, 
-        "translated": 156804
+        "translated": 156803
     }, 
     "ca": {
         "approved": 3, 
@@ -38,21 +38,21 @@
     "da": {
         "approved": 77572, 
         "pending_since_timestamp": 1519173346.72708, 
-        "translated": 108262
+        "translated": 108261
     }, 
     "de": {
-        "approved": 265073, 
+        "approved": 265072, 
         "pending_since_timestamp": 1519173346.72708, 
-        "translated": 514052
+        "translated": 514049
     }, 
     "el": {
         "approved": 4502, 
         "pending_since_timestamp": 1518969491.646473, 
-        "translated": 22793
+        "translated": 22792
     }, 
     "es": {
         "approved": 384072, 
-        "translated": 403140
+        "translated": 403139
     }, 
     "et": {
         "approved": 45125, 
@@ -75,22 +75,22 @@
         "translated": 1
     }, 
     "fr": {
-        "approved": 271967, 
+        "approved": 271927, 
         "pending_since_timestamp": 1519199779.31404, 
-        "translated": 275408
+        "translated": 275368
     }, 
     "gu": {
-        "approved": 33640, 
-        "translated": 36381
+        "approved": 33639, 
+        "translated": 36380
     }, 
     "he": {
         "approved": 7341, 
         "translated": 7343
     }, 
     "hi": {
-        "approved": 160966, 
+        "approved": 160962, 
         "pending_since_timestamp": 1519181390.314679, 
-        "translated": 174766
+        "translated": 174765
     }, 
     "hr": {
         "approved": 11030, 
@@ -120,12 +120,12 @@
         "translated": 152512
     }, 
     "ja": {
-        "approved": 120047, 
+        "approved": 120046, 
         "pending_since_timestamp": 1519173346.72708, 
-        "translated": 139621
+        "translated": 139619
     }, 
     "ka": {
-        "approved": 246669, 
+        "approved": 246668, 
         "pending_since_timestamp": 1519173346.72708, 
         "translated": 251963
     }, 
@@ -138,8 +138,8 @@
         "translated": 153
     }, 
     "ko": {
-        "approved": 179175, 
-        "translated": 190245
+        "approved": 179174, 
+        "translated": 190244
     }, 
     "ky": {
         "approved": 0, 
@@ -191,17 +191,17 @@
         "translated": 58
     }, 
     "pl": {
-        "approved": 310032, 
+        "approved": 310031, 
         "pending_since_timestamp": 1519173346.72708, 
         "translated": 310670
     }, 
     "pt": {
-        "approved": 327059, 
+        "approved": 327058, 
         "pending_since_timestamp": 1519173346.72708, 
-        "translated": 379247
+        "translated": 379244
     }, 
     "pt-pt": {
-        "approved": 141227, 
+        "approved": 141223, 
         "pending_since_timestamp": 1519173346.72708, 
         "translated": 172139
     }, 
@@ -236,20 +236,20 @@
         "translated": 65978
     }, 
     "sr": {
-        "approved": 62204, 
-        "translated": 78744
+        "approved": 62200, 
+        "translated": 78740
     }, 
     "sv": {
         "approved": 145846, 
-        "translated": 544387
+        "translated": 544386
     }, 
     "sw": {
         "approved": 0, 
         "translated": 0
     }, 
     "ta": {
-        "approved": 39274, 
-        "translated": 53761
+        "approved": 39273, 
+        "translated": 53760
     }, 
     "te": {
         "approved": 16, 
@@ -285,12 +285,12 @@
         "translated": 40
     }, 
     "zh-hans": {
-        "approved": 72810, 
-        "translated": 98919
+        "approved": 72809, 
+        "translated": 98918
     }, 
     "zh-hant": {
         "approved": 9051, 
-        "translated": 67392
+        "translated": 67391
     }, 
     "zu": {
         "approved": 1, 
