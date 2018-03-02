@@ -104,10 +104,12 @@
     }, 
     "hy": {
         "approved": 83834, 
+        "pending_since_timestamp": 1519959752.722255, 
         "translated": 92110
     }, 
     "id": {
         "approved": 22581, 
+        "pending_since_timestamp": 1519959752.722255, 
         "translated": 33140
     }, 
     "it": {
@@ -115,9 +117,8 @@
         "translated": 152584
     }, 
     "ja": {
-        "approved": 120429, 
-        "pending_since_timestamp": 1519926187.967494, 
-        "translated": 139816
+        "approved": 120486, 
+        "translated": 139822
     }, 
     "ka": {
         "approved": 247924, 
