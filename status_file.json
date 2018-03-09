@@ -172,6 +172,7 @@
     }, 
     "nl": {
         "approved": 117525, 
+        "pending_since_timestamp": 1520582900.709441, 
         "translated": 135984
     }, 
     "nn": {
@@ -239,6 +240,7 @@
     }, 
     "ta": {
         "approved": 39911, 
+        "pending_since_timestamp": 1520582900.709441, 
         "translated": 54448
     }, 
     "te": {
@@ -279,9 +281,8 @@
         "translated": 98819
     }, 
     "zh-hant": {
-        "approved": 9141, 
-        "pending_since_timestamp": 1520486241.639615, 
-        "translated": 67541
+        "approved": 9173, 
+        "translated": 67560
     }, 
     "zu": {
         "approved": 1, 
