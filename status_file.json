@@ -9,6 +9,7 @@
     }, 
     "ar": {
         "approved": 580, 
+        "pending_since_timestamp": 1523164886.992379, 
         "translated": 23078
     }, 
     "az": {
@@ -80,9 +81,8 @@
         "translated": 7303
     }, 
     "hi": {
-        "approved": 167297, 
-        "pending_since_timestamp": 1523163808.615414, 
-        "translated": 179890
+        "approved": 167303, 
+        "translated": 179895
     }, 
     "hr": {
         "approved": 11030, 
