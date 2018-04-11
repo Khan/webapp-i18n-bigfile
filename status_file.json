@@ -118,6 +118,7 @@
     }, 
     "ka": {
         "approved": 254304, 
+        "pending_since_timestamp": 1523436060.251076, 
         "translated": 257333
     }, 
     "ki": {
@@ -237,9 +238,8 @@
         "translated": 0
     }, 
     "ta": {
-        "approved": 40007, 
-        "pending_since_timestamp": 1523432180.290805, 
-        "translated": 57576
+        "approved": 40008, 
+        "translated": 57626
     }, 
     "te": {
         "approved": 16, 
