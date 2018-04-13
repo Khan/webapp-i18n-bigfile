@@ -117,6 +117,7 @@
     }, 
     "ka": {
         "approved": 254601, 
+        "pending_since_timestamp": 1523611409.102249, 
         "translated": 257489
     }, 
     "ki": {
@@ -251,9 +252,8 @@
         "translated": 130412
     }, 
     "tr": {
-        "approved": 300692, 
-        "pending_since_timestamp": 1523601848.240144, 
-        "translated": 404184
+        "approved": 300888, 
+        "translated": 404660
     }, 
     "uk": {
         "approved": 98, 
