@@ -97,10 +97,12 @@
     }, 
     "hu": {
         "approved": 88558, 
+        "pending_since_timestamp": 1523809863.681792, 
         "translated": 106564
     }, 
     "hy": {
         "approved": 85274, 
+        "pending_since_timestamp": 1523809863.681792, 
         "translated": 94053
     }, 
     "id": {
@@ -118,8 +120,7 @@
     }, 
     "ka": {
         "approved": 254850, 
-        "pending_since_timestamp": 1523792642.204464, 
-        "translated": 257699
+        "translated": 257709
     }, 
     "ki": {
         "approved": 0, 
