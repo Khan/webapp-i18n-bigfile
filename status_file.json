@@ -30,6 +30,7 @@
     }, 
     "cs": {
         "approved": 81416, 
+        "pending_since_timestamp": 1524301127.153009, 
         "translated": 110095
     }, 
     "da": {
@@ -111,6 +112,7 @@
     }, 
     "ja": {
         "approved": 122668, 
+        "pending_since_timestamp": 1524301127.153009, 
         "translated": 140901
     }, 
     "ka": {
@@ -252,8 +254,7 @@
     }, 
     "tr": {
         "approved": 301618, 
-        "pending_since_timestamp": 1524296739.296871, 
-        "translated": 405294
+        "translated": 405301
     }, 
     "uk": {
         "approved": 98, 
