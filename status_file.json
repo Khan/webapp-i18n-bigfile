@@ -22,6 +22,7 @@
     }, 
     "bn": {
         "approved": 150325, 
+        "pending_since_timestamp": 1526099337.836985, 
         "translated": 158290
     }, 
     "ca": {
@@ -46,6 +47,7 @@
     }, 
     "es": {
         "approved": 389694, 
+        "pending_since_timestamp": 1526099337.836985, 
         "translated": 411756
     }, 
     "et": {
@@ -235,8 +237,7 @@
     }, 
     "sr": {
         "approved": 65625, 
-        "pending_since_timestamp": 1526070282.66185, 
-        "translated": 82602
+        "translated": 82619
     }, 
     "sv": {
         "approved": 149168, 
