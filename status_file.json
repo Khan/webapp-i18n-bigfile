@@ -216,6 +216,7 @@
     }, 
     "ro": {
         "approved": 63340, 
+        "pending_since_timestamp": 1527051625.603003, 
         "translated": 68060
     }, 
     "ru": {
@@ -256,6 +257,7 @@
     }, 
     "ta": {
         "approved": 42637, 
+        "pending_since_timestamp": 1527051625.603003, 
         "translated": 60299
     }, 
     "te": {
@@ -273,8 +275,7 @@
     }, 
     "uk": {
         "approved": 98, 
-        "pending_since_timestamp": 1526928005.574651, 
-        "translated": 2380
+        "translated": 2422
     }, 
     "ur": {
         "approved": 54705, 
