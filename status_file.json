@@ -76,6 +76,7 @@
     }, 
     "gu": {
         "approved": 33851, 
+        "pending_since_timestamp": 1527489876.550384, 
         "translated": 44548
     }, 
     "he": {
@@ -134,9 +135,8 @@
         "translated": 13803
     }, 
     "ko": {
-        "approved": 179268, 
-        "pending_since_timestamp": 1527471227.189342, 
-        "translated": 195331
+        "approved": 179273, 
+        "translated": 195393
     }, 
     "ky": {
         "approved": 0, 
@@ -265,6 +265,7 @@
     }, 
     "tr": {
         "approved": 303574, 
+        "pending_since_timestamp": 1527489876.550384, 
         "translated": 406687
     }, 
     "uk": {
