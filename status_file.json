@@ -156,6 +156,7 @@
     }, 
     "lv": {
         "approved": 54752, 
+        "pending_since_timestamp": 1528121106.404382, 
         "translated": 54879
     }, 
     "mn": {
@@ -270,6 +271,7 @@
     }, 
     "tr": {
         "approved": 304572, 
+        "pending_since_timestamp": 1528121106.404382, 
         "translated": 407004
     }, 
     "uk": {
@@ -294,8 +296,7 @@
     }, 
     "zh-hans": {
         "approved": 73895, 
-        "pending_since_timestamp": 1528091160.305323, 
-        "translated": 111973
+        "translated": 112398
     }, 
     "zh-hant": {
         "approved": 9599, 
