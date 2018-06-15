@@ -70,6 +70,7 @@
     }, 
     "fr": {
         "approved": 279393, 
+        "pending_since_timestamp": 1529045008.67754, 
         "translated": 282783
     }, 
     "gu": {
@@ -99,6 +100,7 @@
     }, 
     "hy": {
         "approved": 89741, 
+        "pending_since_timestamp": 1529045008.67754, 
         "translated": 97546
     }, 
     "id": {
@@ -148,8 +150,7 @@
     }, 
     "lv": {
         "approved": 54728, 
-        "pending_since_timestamp": 1528900637.158688, 
-        "translated": 55056
+        "translated": 55097
     }, 
     "mn": {
         "approved": 87390, 
