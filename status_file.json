@@ -66,6 +66,7 @@
     }, 
     "fi": {
         "approved": 82554, 
+        "pending_since_timestamp": 1529472433.382866, 
         "translated": 84679
     }, 
     "fil": {
@@ -291,9 +292,8 @@
         "translated": 40
     }, 
     "zh-hans": {
-        "approved": 75646, 
-        "pending_since_timestamp": 1529437650.637179, 
-        "translated": 124770
+        "approved": 75674, 
+        "translated": 125201
     }, 
     "zh-hant": {
         "approved": 9595, 
