@@ -136,6 +136,7 @@
     }, 
     "ko": {
         "approved": 180339, 
+        "pending_since_timestamp": 1529843394.199065, 
         "translated": 199659
     }, 
     "ky": {
@@ -262,6 +263,7 @@
     }, 
     "tr": {
         "approved": 305308, 
+        "pending_since_timestamp": 1529843394.199065, 
         "translated": 408440
     }, 
     "uk": {
@@ -285,9 +287,8 @@
         "translated": 40
     }, 
     "zh-hans": {
-        "approved": 80738, 
-        "pending_since_timestamp": 1529832503.453312, 
-        "translated": 128982
+        "approved": 80813, 
+        "translated": 129238
     }, 
     "zh-hant": {
         "approved": 9595, 
