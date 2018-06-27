@@ -9,6 +9,7 @@
     }, 
     "ar": {
         "approved": 578, 
+        "pending_since_timestamp": 1530125019.869422, 
         "translated": 27950
     }, 
     "az": {
@@ -31,6 +32,7 @@
     }, 
     "cs": {
         "approved": 88318, 
+        "pending_since_timestamp": 1530125019.869422, 
         "translated": 116937
     }, 
     "da": {
@@ -40,6 +42,7 @@
     }, 
     "de": {
         "approved": 289440, 
+        "pending_since_timestamp": 1530125019.869422, 
         "translated": 533719
     }, 
     "el": {
@@ -48,6 +51,7 @@
     }, 
     "es": {
         "approved": 403571, 
+        "pending_since_timestamp": 1530125019.869422, 
         "translated": 424284
     }, 
     "et": {
@@ -97,6 +101,7 @@
     }, 
     "hu": {
         "approved": 89051, 
+        "pending_since_timestamp": 1530125019.869422, 
         "translated": 107207
     }, 
     "hy": {
@@ -115,10 +120,12 @@
     }, 
     "ja": {
         "approved": 128154, 
+        "pending_since_timestamp": 1530125019.869422, 
         "translated": 145174
     }, 
     "ka": {
         "approved": 263305, 
+        "pending_since_timestamp": 1530125019.869422, 
         "translated": 265533
     }, 
     "ki": {
@@ -136,6 +143,7 @@
     }, 
     "ko": {
         "approved": 180527, 
+        "pending_since_timestamp": 1530125019.869422, 
         "translated": 200130
     }, 
     "ky": {
@@ -192,6 +200,7 @@
     }, 
     "pl": {
         "approved": 321421, 
+        "pending_since_timestamp": 1530125019.869422, 
         "translated": 322209
     }, 
     "ps": {
@@ -204,6 +213,7 @@
     }, 
     "pt-pt": {
         "approved": 143204, 
+        "pending_since_timestamp": 1530125019.869422, 
         "translated": 175673
     }, 
     "ro": {
@@ -243,6 +253,7 @@
     }, 
     "sv": {
         "approved": 155046, 
+        "pending_since_timestamp": 1530125019.869422, 
         "translated": 548084
     }, 
     "sw": {
@@ -264,9 +275,8 @@
         "translated": 136095
     }, 
     "tr": {
-        "approved": 305613, 
-        "pending_since_timestamp": 1530082049.758341, 
-        "translated": 408662
+        "approved": 305705, 
+        "translated": 408746
     }, 
     "uk": {
         "approved": 98, 
