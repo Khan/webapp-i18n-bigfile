@@ -107,6 +107,7 @@
     }, 
     "id": {
         "approved": 48031, 
+        "pending_since_timestamp": 1531285474.280995, 
         "translated": 71053
     }, 
     "it": {
@@ -253,8 +254,7 @@
     }, 
     "ta": {
         "approved": 46122, 
-        "pending_since_timestamp": 1531249339.087837, 
-        "translated": 63045
+        "translated": 63044
     }, 
     "te": {
         "approved": 16, 
