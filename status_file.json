@@ -183,9 +183,8 @@
         "translated": 1
     }, 
     "nl": {
-        "approved": 119070, 
-        "pending_since_timestamp": 1531294116.165033, 
-        "translated": 139062
+        "approved": 119130, 
+        "translated": 139121
     }, 
     "nn": {
         "approved": 0, 
@@ -269,6 +268,7 @@
     }, 
     "tr": {
         "approved": 307334, 
+        "pending_since_timestamp": 1531325491.554021, 
         "translated": 410080
     }, 
     "uk": {
@@ -293,6 +293,7 @@
     }, 
     "zh-hans": {
         "approved": 125259, 
+        "pending_since_timestamp": 1531325491.554021, 
         "translated": 180716
     }, 
     "zh-hant": {
