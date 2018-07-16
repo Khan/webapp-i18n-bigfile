@@ -22,6 +22,7 @@
     }, 
     "bn": {
         "approved": 146667, 
+        "pending_since_timestamp": 1531747665.656828, 
         "translated": 157133
     }, 
     "ca": {
@@ -294,9 +295,8 @@
         "translated": 40
     }, 
     "zh-hans": {
-        "approved": 121575, 
-        "pending_since_timestamp": 1531725703.547607, 
-        "translated": 179614
+        "approved": 121592, 
+        "translated": 179860
     }, 
     "zh-hant": {
         "approved": 9588, 
