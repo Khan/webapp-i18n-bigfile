@@ -78,6 +78,7 @@
     }, 
     "gu": {
         "approved": 34220, 
+        "pending_since_timestamp": 1531892776.756759, 
         "translated": 111497
     }, 
     "he": {
@@ -183,8 +184,7 @@
     }, 
     "nl": {
         "approved": 116231, 
-        "pending_since_timestamp": 1531852661.901149, 
-        "translated": 135856
+        "translated": 135877
     }, 
     "nn": {
         "approved": 0, 
@@ -269,6 +269,7 @@
     }, 
     "tr": {
         "approved": 303909, 
+        "pending_since_timestamp": 1531892776.756759, 
         "translated": 406781
     }, 
     "uk": {
