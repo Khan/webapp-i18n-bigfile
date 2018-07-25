@@ -280,6 +280,7 @@
     }, 
     "uk": {
         "approved": 98, 
+        "pending_since_timestamp": 1532528914.779117, 
         "translated": 5132
     }, 
     "ur": {
@@ -301,8 +302,7 @@
     }, 
     "zh-hans": {
         "approved": 123539, 
-        "pending_since_timestamp": 1532484221.272351, 
-        "translated": 183963
+        "translated": 184190
     }, 
     "zh-hant": {
         "approved": 9587, 
