@@ -216,8 +216,7 @@
     }, 
     "ro": {
         "approved": 64048, 
-        "pending_since_timestamp": 1532437420.768914, 
-        "translated": 68173
+        "translated": 68200
     }, 
     "ru": {
         "approved": 100650, 
@@ -298,6 +297,7 @@
     }, 
     "zh-hans": {
         "approved": 124636, 
+        "pending_since_timestamp": 1532912575.641526, 
         "translated": 187920
     }, 
     "zh-hant": {
