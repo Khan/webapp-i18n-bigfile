@@ -31,6 +31,7 @@
     }, 
     "cs": {
         "approved": 101154, 
+        "pending_since_timestamp": 1533332740.907586, 
         "translated": 118660
     }, 
     "da": {
@@ -40,6 +41,7 @@
     }, 
     "de": {
         "approved": 288003, 
+        "pending_since_timestamp": 1533332740.907586, 
         "translated": 529881
     }, 
     "el": {
@@ -48,6 +50,7 @@
     }, 
     "es": {
         "approved": 408615, 
+        "pending_since_timestamp": 1533332740.907586, 
         "translated": 430530
     }, 
     "et": {
@@ -107,9 +110,8 @@
         "translated": 104707
     }, 
     "id": {
-        "approved": 53930, 
-        "pending_since_timestamp": 1533270548.75561, 
-        "translated": 75346
+        "approved": 55046, 
+        "translated": 75452
     }, 
     "it": {
         "approved": 155987, 
@@ -117,6 +119,7 @@
     }, 
     "ja": {
         "approved": 124011, 
+        "pending_since_timestamp": 1533332740.907586, 
         "translated": 141685
     }, 
     "ka": {
@@ -134,6 +137,7 @@
     }, 
     "kn": {
         "approved": 1661, 
+        "pending_since_timestamp": 1533332740.907586, 
         "translated": 19648
     }, 
     "ko": {
@@ -195,6 +199,7 @@
     }, 
     "pl": {
         "approved": 324205, 
+        "pending_since_timestamp": 1533332740.907586, 
         "translated": 325000
     }, 
     "ps": {
@@ -203,6 +208,7 @@
     }, 
     "pt": {
         "approved": 358162, 
+        "pending_since_timestamp": 1533332740.907586, 
         "translated": 398335
     }, 
     "pt-pt": {
@@ -253,6 +259,7 @@
     }, 
     "ta": {
         "approved": 41355, 
+        "pending_since_timestamp": 1533332740.907586, 
         "translated": 58339
     }, 
     "te": {
@@ -293,10 +300,12 @@
     }, 
     "zh-hans": {
         "approved": 125171, 
+        "pending_since_timestamp": 1533332740.907586, 
         "translated": 190536
     }, 
     "zh-hant": {
         "approved": 9583, 
+        "pending_since_timestamp": 1533332740.907586, 
         "translated": 66025
     }, 
     "zu": {
