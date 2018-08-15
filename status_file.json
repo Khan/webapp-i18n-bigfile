@@ -36,10 +36,12 @@
     }, 
     "da": {
         "approved": 156746, 
+        "pending_since_timestamp": 1534322705.505004, 
         "translated": 178016
     }, 
     "de": {
         "approved": 289558, 
+        "pending_since_timestamp": 1534322705.505004, 
         "translated": 531381
     }, 
     "el": {
@@ -48,9 +50,8 @@
         "translated": 92381
     }, 
     "es": {
-        "approved": 411104, 
-        "pending_since_timestamp": 1534273540.316769, 
-        "translated": 433894
+        "approved": 411106, 
+        "translated": 433939
     }, 
     "et": {
         "approved": 45022, 
