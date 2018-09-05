@@ -23,6 +23,7 @@
     }, 
     "bn": {
         "approved": 146299, 
+        "pending_since_timestamp": 1536171072.720784, 
         "translated": 157423
     }, 
     "ca": {
@@ -86,10 +87,12 @@
     }, 
     "he": {
         "approved": 8661, 
+        "pending_since_timestamp": 1536171072.720784, 
         "translated": 8694
     }, 
     "hi": {
         "approved": 167748, 
+        "pending_since_timestamp": 1536171072.720784, 
         "translated": 180120
     }, 
     "hr": {
@@ -112,18 +115,22 @@
     }, 
     "id": {
         "approved": 61518, 
+        "pending_since_timestamp": 1536171072.720784, 
         "translated": 77373
     }, 
     "it": {
         "approved": 155864, 
+        "pending_since_timestamp": 1536171072.720784, 
         "translated": 170903
     }, 
     "ja": {
         "approved": 124586, 
+        "pending_since_timestamp": 1536171072.720784, 
         "translated": 143445
     }, 
     "ka": {
         "approved": 269123, 
+        "pending_since_timestamp": 1536171072.720784, 
         "translated": 272811
     }, 
     "ki": {
@@ -154,6 +161,7 @@
     }, 
     "lt": {
         "approved": 74006, 
+        "pending_since_timestamp": 1536171072.720784, 
         "translated": 75855
     }, 
     "lv": {
@@ -198,9 +206,8 @@
         "translated": 52
     }, 
     "pl": {
-        "approved": 332451, 
-        "pending_since_timestamp": 1535951333.942963, 
-        "translated": 332932
+        "approved": 332778, 
+        "translated": 333332
     }, 
     "ps": {
         "approved": 0, 
@@ -218,6 +225,7 @@
     }, 
     "ro": {
         "approved": 63966, 
+        "pending_since_timestamp": 1536171072.720784, 
         "translated": 68252
     }, 
     "ru": {
@@ -252,6 +260,7 @@
     }, 
     "sv": {
         "approved": 158841, 
+        "pending_since_timestamp": 1536171072.720784, 
         "translated": 545621
     }, 
     "sw": {
@@ -305,6 +314,7 @@
     }, 
     "zh-hant": {
         "approved": 9589, 
+        "pending_since_timestamp": 1536171072.720784, 
         "translated": 69126
     }, 
     "zu": {
