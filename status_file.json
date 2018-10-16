@@ -18,6 +18,7 @@
     }, 
     "bg": {
         "approved": 318371, 
+        "pending_since_timestamp": 1539679905.845014, 
         "translated": 329071
     }, 
     "bn": {
@@ -27,8 +28,7 @@
     }, 
     "ca": {
         "approved": 3, 
-        "pending_since_timestamp": 1538768072.289061, 
-        "translated": 2019
+        "translated": 2018
     }, 
     "cs": {
         "approved": 124806, 
@@ -82,6 +82,7 @@
     }, 
     "gu": {
         "approved": 94864, 
+        "pending_since_timestamp": 1539679905.845014, 
         "translated": 138236
     }, 
     "he": {
