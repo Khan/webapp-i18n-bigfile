@@ -50,9 +50,8 @@
         "translated": 92955
     }, 
     "es": {
-        "approved": 421509, 
-        "pending_since_timestamp": 1539740964.732247, 
-        "translated": 446291
+        "approved": 421877, 
+        "translated": 446405
     }, 
     "et": {
         "approved": 44998, 
@@ -150,6 +149,7 @@
     }, 
     "ko": {
         "approved": 181205, 
+        "pending_since_timestamp": 1539827603.579032, 
         "translated": 212911
     }, 
     "ky": {
@@ -304,6 +304,7 @@
     }, 
     "zh-hans": {
         "approved": 162192, 
+        "pending_since_timestamp": 1539827603.579032, 
         "translated": 228170
     }, 
     "zh-hant": {
