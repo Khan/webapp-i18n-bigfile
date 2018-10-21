@@ -23,6 +23,7 @@
     }, 
     "bn": {
         "approved": 147873, 
+        "pending_since_timestamp": 1540144815.903039, 
         "translated": 161051
     }, 
     "ca": {
@@ -41,6 +42,7 @@
     }, 
     "de": {
         "approved": 299377, 
+        "pending_since_timestamp": 1540144815.903039, 
         "translated": 535107
     }, 
     "el": {
@@ -49,9 +51,8 @@
         "translated": 92815
     }, 
     "es": {
-        "approved": 420394, 
-        "pending_since_timestamp": 1540088865.843227, 
-        "translated": 444333
+        "approved": 420377, 
+        "translated": 444384
     }, 
     "et": {
         "approved": 44986, 
@@ -81,6 +82,7 @@
     }, 
     "gu": {
         "approved": 95262, 
+        "pending_since_timestamp": 1540144815.903039, 
         "translated": 138417
     }, 
     "he": {
@@ -89,6 +91,7 @@
     }, 
     "hi": {
         "approved": 167371, 
+        "pending_since_timestamp": 1540144815.903039, 
         "translated": 179740
     }, 
     "hr": {
@@ -116,6 +119,7 @@
     }, 
     "it": {
         "approved": 155725, 
+        "pending_since_timestamp": 1540144815.903039, 
         "translated": 171154
     }, 
     "ja": {
@@ -147,6 +151,7 @@
     }, 
     "ko": {
         "approved": 181650, 
+        "pending_since_timestamp": 1540144815.903039, 
         "translated": 212955
     }, 
     "ky": {
@@ -184,6 +189,7 @@
     }, 
     "nb": {
         "approved": 132061, 
+        "pending_since_timestamp": 1540144815.903039, 
         "translated": 139790
     }, 
     "ne": {
@@ -219,6 +225,7 @@
     }, 
     "pt-pt": {
         "approved": 146911, 
+        "pending_since_timestamp": 1540144815.903039, 
         "translated": 176988
     }, 
     "ro": {
@@ -252,6 +259,7 @@
     }, 
     "sr": {
         "approved": 63079, 
+        "pending_since_timestamp": 1540144815.903039, 
         "translated": 81615
     }, 
     "sv": {
@@ -277,6 +285,7 @@
     }, 
     "tr": {
         "approved": 310005, 
+        "pending_since_timestamp": 1540144815.903039, 
         "translated": 417135
     }, 
     "uk": {
