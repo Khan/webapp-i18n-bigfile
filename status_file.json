@@ -45,10 +45,12 @@
     }, 
     "el": {
         "approved": 77636, 
+        "pending_since_timestamp": 1543460034.912988, 
         "translated": 93252
     }, 
     "es": {
         "approved": 426434, 
+        "pending_since_timestamp": 1543460034.912988, 
         "translated": 447431
     }, 
     "et": {
@@ -203,9 +205,8 @@
         "translated": 52
     }, 
     "pl": {
-        "approved": 340214, 
-        "pending_since_timestamp": 1543401161.426881, 
-        "translated": 340696
+        "approved": 340335, 
+        "translated": 340719
     }, 
     "ps": {
         "approved": 19, 
