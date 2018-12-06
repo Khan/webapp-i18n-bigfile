@@ -79,6 +79,7 @@
     }, 
     "fr": {
         "approved": 285143, 
+        "pending_since_timestamp": 1544087279.58917, 
         "translated": 288588
     }, 
     "fv": {
@@ -120,6 +121,7 @@
     }, 
     "id": {
         "approved": 72727, 
+        "pending_since_timestamp": 1544087279.58917, 
         "translated": 91255
     }, 
     "it": {
@@ -314,9 +316,8 @@
         "translated": 40
     }, 
     "zh-hans": {
-        "approved": 176649, 
-        "pending_since_timestamp": 1543941860.3671, 
-        "translated": 245517
+        "approved": 177219, 
+        "translated": 246541
     }, 
     "zh-hant": {
         "approved": 10017, 
