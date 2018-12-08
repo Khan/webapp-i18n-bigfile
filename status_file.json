@@ -69,6 +69,7 @@
     }, 
     "fi": {
         "approved": 82291, 
+        "pending_since_timestamp": 1544275890.309219, 
         "translated": 84148
     }, 
     "fil": {
@@ -81,9 +82,8 @@
         "translated": 288837
     }, 
     "fv": {
-        "approved": 564, 
-        "pending_since_timestamp": 1543565036.333137, 
-        "translated": 5533
+        "approved": 570, 
+        "translated": 7302
     }, 
     "gu": {
         "approved": 96509, 
@@ -262,6 +262,7 @@
     }, 
     "sv": {
         "approved": 165732, 
+        "pending_since_timestamp": 1544275890.309219, 
         "translated": 540549
     }, 
     "sw": {
