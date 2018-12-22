@@ -218,6 +218,7 @@
     }, 
     "pl": {
         "approved": 342283, 
+        "pending_since_timestamp": 1545493220.118454, 
         "translated": 342680
     }, 
     "ps": {
@@ -238,9 +239,8 @@
         "translated": 67980
     }, 
     "ru": {
-        "approved": 100582, 
-        "pending_since_timestamp": 1545420491.294458, 
-        "translated": 122001
+        "approved": 100581, 
+        "translated": 121901
     }, 
     "rw": {
         "approved": 0, 
