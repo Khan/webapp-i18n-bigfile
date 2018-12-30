@@ -108,6 +108,7 @@
     }, 
     "hy": {
         "approved": 129219, 
+        "pending_since_timestamp": 1546165066.410234, 
         "translated": 151916
     }, 
     "id": {
@@ -125,6 +126,7 @@
     }, 
     "ka": {
         "approved": 279246, 
+        "pending_since_timestamp": 1546165066.410234, 
         "translated": 283572
     }, 
     "ki": {
@@ -283,8 +285,7 @@
     }, 
     "uz": {
         "approved": 76754, 
-        "pending_since_timestamp": 1545978407.670044, 
-        "translated": 92042
+        "translated": 92554
     }, 
     "vi": {
         "approved": 2, 
