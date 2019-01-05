@@ -82,6 +82,7 @@
     }, 
     "fv": {
         "approved": 85759, 
+        "pending_since_timestamp": 1546705702.634188, 
         "translated": 85759
     }, 
     "gu": {
@@ -131,8 +132,7 @@
     }, 
     "ka": {
         "approved": 279207, 
-        "pending_since_timestamp": 1546563233.587388, 
-        "translated": 283806
+        "translated": 284016
     }, 
     "ki": {
         "approved": 0, 
@@ -148,6 +148,7 @@
     }, 
     "kn": {
         "approved": 34471, 
+        "pending_since_timestamp": 1546705702.634188, 
         "translated": 40448
     }, 
     "ko": {
