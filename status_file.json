@@ -24,6 +24,7 @@
     }, 
     "bn": {
         "approved": 147640, 
+        "pending_since_timestamp": 1546830341.358973, 
         "translated": 162340
     }, 
     "ca": {
@@ -32,12 +33,12 @@
     }, 
     "cs": {
         "approved": 133653, 
+        "pending_since_timestamp": 1546830341.358973, 
         "translated": 150282
     }, 
     "da": {
-        "approved": 175397, 
-        "pending_since_timestamp": 1546674188.697025, 
-        "translated": 196462
+        "approved": 175404, 
+        "translated": 196718
     }, 
     "de": {
         "approved": 302454, 
@@ -95,6 +96,7 @@
     }, 
     "hi": {
         "approved": 167084, 
+        "pending_since_timestamp": 1546830341.358973, 
         "translated": 179452
     }, 
     "hr": {
@@ -118,18 +120,22 @@
     }, 
     "id": {
         "approved": 74807, 
+        "pending_since_timestamp": 1546830341.358973, 
         "translated": 91033
     }, 
     "it": {
         "approved": 155470, 
+        "pending_since_timestamp": 1546830341.358973, 
         "translated": 173343
     }, 
     "ja": {
         "approved": 125714, 
+        "pending_since_timestamp": 1546830341.358973, 
         "translated": 146359
     }, 
     "ka": {
         "approved": 279207, 
+        "pending_since_timestamp": 1546830341.358973, 
         "translated": 284016
     }, 
     "ki": {
@@ -210,6 +216,7 @@
     }, 
     "pl": {
         "approved": 343229, 
+        "pending_since_timestamp": 1546830341.358973, 
         "translated": 343525
     }, 
     "ps": {
@@ -232,6 +239,7 @@
     }, 
     "ru": {
         "approved": 100573, 
+        "pending_since_timestamp": 1546830341.358973, 
         "translated": 122148
     }, 
     "rw": {
@@ -270,6 +278,7 @@
     }, 
     "ta": {
         "approved": 54369, 
+        "pending_since_timestamp": 1546830341.358973, 
         "translated": 77587
     }, 
     "te": {
@@ -278,6 +287,7 @@
     }, 
     "th": {
         "approved": 299, 
+        "pending_since_timestamp": 1546830341.358973, 
         "translated": 134538
     }, 
     "tr": {
