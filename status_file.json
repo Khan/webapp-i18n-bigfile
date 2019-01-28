@@ -37,6 +37,7 @@
     }, 
     "da": {
         "approved": 175522, 
+        "pending_since_timestamp": 1548655452.066128, 
         "translated": 197702
     }, 
     "de": {
@@ -125,9 +126,8 @@
         "translated": 146743
     }, 
     "ka": {
-        "approved": 282174, 
-        "pending_since_timestamp": 1548561265.329479, 
-        "translated": 285100
+        "approved": 282701, 
+        "translated": 285103
     }, 
     "ki": {
         "approved": 0, 
@@ -147,6 +147,7 @@
     }, 
     "ko": {
         "approved": 193428, 
+        "pending_since_timestamp": 1548655452.066128, 
         "translated": 218440
     }, 
     "ky": {
