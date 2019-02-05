@@ -271,9 +271,8 @@
         "translated": 102839
     }, 
     "sr": {
-        "approved": 62719, 
-        "pending_since_timestamp": 1549319024.521003, 
-        "translated": 81525
+        "approved": 62619, 
+        "translated": 81459
     }, 
     "sv": {
         "approved": 169651, 
@@ -327,6 +326,7 @@
     }, 
     "zh-hans": {
         "approved": 192408, 
+        "pending_since_timestamp": 1549405565.322253, 
         "translated": 270601
     }, 
     "zh-hant": {
