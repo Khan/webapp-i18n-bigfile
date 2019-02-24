@@ -137,8 +137,7 @@
     }, 
     "km": {
         "approved": 0, 
-        "pending_since_timestamp": 1550611931.156282, 
-        "translated": 52
+        "translated": 296
     }, 
     "kn": {
         "approved": 36469, 
@@ -147,6 +146,7 @@
     }, 
     "ko": {
         "approved": 194418, 
+        "pending_since_timestamp": 1551027472.800459, 
         "translated": 220591
     }, 
     "ky": {
@@ -278,6 +278,7 @@
     }, 
     "tr": {
         "approved": 309375, 
+        "pending_since_timestamp": 1551027472.800459, 
         "translated": 418001
     }, 
     "uk": {
