@@ -179,9 +179,8 @@
         "translated": 606
     }, 
     "my": {
-        "approved": 1, 
-        "pending_since_timestamp": 1550783139.308535, 
-        "translated": 125
+        "approved": 79159, 
+        "translated": 79277
     }, 
     "nb": {
         "approved": 135432, 
@@ -305,6 +304,7 @@
     }, 
     "zh-hans": {
         "approved": 202001, 
+        "pending_since_timestamp": 1551115779.217276, 
         "translated": 279535
     }, 
     "zh-hant": {
