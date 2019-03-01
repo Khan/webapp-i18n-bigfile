@@ -136,8 +136,7 @@
     }, 
     "km": {
         "approved": 0, 
-        "pending_since_timestamp": 1551109090.141574, 
-        "translated": 296
+        "translated": 824
     }, 
     "kn": {
         "approved": 36469, 
@@ -213,6 +212,7 @@
     }, 
     "pt": {
         "approved": 378737, 
+        "pending_since_timestamp": 1551459215.185994, 
         "translated": 421598
     }, 
     "pt-pt": {
@@ -300,6 +300,7 @@
     }, 
     "zh-hans": {
         "approved": 202414, 
+        "pending_since_timestamp": 1551459215.185994, 
         "translated": 280425
     }, 
     "zh-hant": {
