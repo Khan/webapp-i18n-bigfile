@@ -111,6 +111,7 @@
     }, 
     "id": {
         "approved": 88034, 
+        "pending_since_timestamp": 1552017543.996131, 
         "translated": 91915
     }, 
     "it": {
@@ -180,9 +181,8 @@
         "translated": 606
     }, 
     "my": {
-        "approved": 79160, 
-        "pending_since_timestamp": 1551585649.117154, 
-        "translated": 79278
+        "approved": 79333, 
+        "translated": 79461
     }, 
     "nb": {
         "approved": 135513, 
@@ -292,6 +292,7 @@
     }, 
     "uz": {
         "approved": 76904, 
+        "pending_since_timestamp": 1552017543.996131, 
         "translated": 126528
     }, 
     "vi": {
