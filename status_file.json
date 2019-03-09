@@ -9,6 +9,7 @@
     }, 
     "ar": {
         "approved": 104086, 
+        "pending_since_timestamp": 1552147685.10488, 
         "translated": 213561
     }, 
     "az": {
@@ -161,9 +162,8 @@
         "translated": 82019
     }, 
     "lt": {
-        "approved": 80829, 
-        "pending_since_timestamp": 1551600417.261372, 
-        "translated": 82769
+        "approved": 80830, 
+        "translated": 82786
     }, 
     "lv": {
         "approved": 54513, 
@@ -196,6 +196,7 @@
     }, 
     "nl": {
         "approved": 133597, 
+        "pending_since_timestamp": 1552147685.10488, 
         "translated": 156019
     }, 
     "nn": {
