@@ -82,6 +82,7 @@
     }, 
     "gu": {
         "approved": 106069, 
+        "pending_since_timestamp": 1552365061.131843, 
         "translated": 149244
     }, 
     "he": {
@@ -301,9 +302,8 @@
         "translated": 40
     }, 
     "zh-hans": {
-        "approved": 209414, 
-        "pending_since_timestamp": 1552322050.396754, 
-        "translated": 284483
+        "approved": 209803, 
+        "translated": 284992
     }, 
     "zh-hant": {
         "approved": 9913, 
