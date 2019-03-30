@@ -125,6 +125,7 @@
     }, 
     "ka": {
         "approved": 284495, 
+        "pending_since_timestamp": 1553978647.135408, 
         "translated": 287293
     }, 
     "ki": {
@@ -297,9 +298,8 @@
         "translated": 40
     }, 
     "zh-hans": {
-        "approved": 221385, 
-        "pending_since_timestamp": 1553954557.155078, 
-        "translated": 292877
+        "approved": 222148, 
+        "translated": 293148
     }, 
     "zh-hant": {
         "approved": 9913, 
