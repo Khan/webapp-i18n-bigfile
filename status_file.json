@@ -99,6 +99,7 @@
     }, 
     "hu": {
         "approved": 98674, 
+        "pending_since_timestamp": 1554537163.842131, 
         "translated": 117649
     }, 
     "hy": {
@@ -144,8 +145,7 @@
     }, 
     "ky": {
         "approved": 802, 
-        "pending_since_timestamp": 1554413730.220563, 
-        "translated": 1694
+        "translated": 1799
     }, 
     "lol": {
         "approved": 66837, 
@@ -290,6 +290,7 @@
     }, 
     "zh-hans": {
         "approved": 224663, 
+        "pending_since_timestamp": 1554537163.842131, 
         "translated": 297399
     }, 
     "zh-hant": {
