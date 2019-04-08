@@ -78,6 +78,7 @@
     }, 
     "gu": {
         "approved": 110219, 
+        "pending_since_timestamp": 1554694400.841819, 
         "translated": 152226
     }, 
     "he": {
@@ -215,8 +216,7 @@
     }, 
     "ru": {
         "approved": 104180, 
-        "pending_since_timestamp": 1554685152.972826, 
-        "translated": 124441
+        "translated": 124461
     }, 
     "rw": {
         "approved": 0, 
