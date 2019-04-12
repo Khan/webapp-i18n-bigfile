@@ -127,6 +127,7 @@
     }, 
     "ka": {
         "approved": 285250, 
+        "pending_since_timestamp": 1555103145.186836, 
         "translated": 287502
     }, 
     "ki": {
@@ -228,8 +229,7 @@
     }, 
     "ru": {
         "approved": 104180, 
-        "pending_since_timestamp": 1555050187.402083, 
-        "translated": 124975
+        "translated": 125578
     }, 
     "rw": {
         "approved": 0, 
