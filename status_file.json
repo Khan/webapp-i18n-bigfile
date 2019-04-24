@@ -118,6 +118,7 @@
     }, 
     "ja": {
         "approved": 126603, 
+        "pending_since_timestamp": 1556117187.003223, 
         "translated": 148976
     }, 
     "ka": {
@@ -224,8 +225,7 @@
     }, 
     "ru": {
         "approved": 105903, 
-        "pending_since_timestamp": 1556095701.499975, 
-        "translated": 126550
+        "translated": 126597
     }, 
     "rw": {
         "approved": 0, 
@@ -301,6 +301,7 @@
     }, 
     "zh-hans": {
         "approved": 230950, 
+        "pending_since_timestamp": 1556117187.003223, 
         "translated": 306704
     }, 
     "zh-hant": {
