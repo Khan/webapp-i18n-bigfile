@@ -38,6 +38,7 @@
     }, 
     "de": {
         "approved": 308744, 
+        "pending_since_timestamp": 1556219220.001938, 
         "translated": 538643
     }, 
     "el": {
@@ -300,9 +301,8 @@
         "translated": 40
     }, 
     "zh-hans": {
-        "approved": 230995, 
-        "pending_since_timestamp": 1556169662.529793, 
-        "translated": 306713
+        "approved": 231642, 
+        "translated": 306837
     }, 
     "zh-hant": {
         "approved": 9911, 
