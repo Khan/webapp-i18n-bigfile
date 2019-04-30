@@ -142,6 +142,7 @@
     }, 
     "km": {
         "approved": 1, 
+        "pending_since_timestamp": 1556604634.516719, 
         "translated": 3460
     }, 
     "kn": {
@@ -297,9 +298,8 @@
         "translated": 57339
     }, 
     "uz": {
-        "approved": 80540, 
-        "pending_since_timestamp": 1556038117.649105, 
-        "translated": 135061
+        "approved": 80542, 
+        "translated": 136588
     }, 
     "vi": {
         "approved": 2, 
