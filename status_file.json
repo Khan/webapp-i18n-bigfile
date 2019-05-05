@@ -17,6 +17,7 @@
     }, 
     "bg": {
         "approved": 340139, 
+        "pending_since_timestamp": 1557056091.177, 
         "translated": 344308
     }, 
     "bn": {
@@ -113,6 +114,7 @@
     }, 
     "it": {
         "approved": 155070, 
+        "pending_since_timestamp": 1557056091.177, 
         "translated": 184305
     }, 
     "ja": {
@@ -295,9 +297,8 @@
         "translated": 40
     }, 
     "zh-hans": {
-        "approved": 236551, 
-        "pending_since_timestamp": 1557002837.504611, 
-        "translated": 310365
+        "approved": 237024, 
+        "translated": 310956
     }, 
     "zh-hant": {
         "approved": 9909, 
